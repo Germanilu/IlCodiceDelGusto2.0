@@ -11,6 +11,9 @@ export default function LanguageSwitcher() {
        <div className='box' onClick={() => router.replace(pathname, { locale: "en" })}>
           <span className='language'>EN</span>
         </div>
+        <div className='box' onClick={() => router.replace(pathname, { locale: "it" })}>
+          <span className='language'>IT</span>
+        </div>
         <div className='box' onClick={() => router.replace(pathname, { locale: "es" })}>
           <span className='language'>ES</span>
         </div>

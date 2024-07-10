@@ -16,6 +16,12 @@
     "Contact-us":{
       "title":"Contact Us TITLE"
     },
+    "Reviews":{
+      "title":"What our customers say",
+      "review-1": "Excellent service! Attractive and SEO-optimized site. More visibility and better experience for customers. Fantastic team!",
+      "review-2": "Elegant and functional website. Online bookings and menu have increased traffic. Highly recommended!",
+      "review-3": "Modern and functional website. Online bookings and useful reviews section. Excellent communication with the team. Very satisfied!"
+    },
     "Contact-us-component":{
       "title":"Contact",
       "subtitle":"Subtitle",

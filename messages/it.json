@@ -1,0 +1,42 @@
+{
+    "Home": {
+        "title": "Titolo principale",
+        "first-section-title": "Titolo della prima sezione",
+        "second-section-title": "Titolo della seconda sezione"
+    },
+    "Navbar": {
+        "home": "Home",
+        "about-us": "Chi siamo",
+        "menu": "Menu",
+        "contact-us": "Contattaci"
+    },
+    "About": {
+        "title": "Titolo principale su di noi"
+    },
+    "Contact-us": {
+        "title": "Titolo Contattaci"
+    },
+    "Reviews": {
+        "title": "Cosa dicono i nostri clienti",
+        "review-1":"Ottimo servizio! Sito attraente e ottimizzato per i motori di ricerca. Più visibilità e migliore esperienza per i clienti. Team fantastico!",
+        "review-2":"Sito web elegante e funzionale. Prenotazioni e menu online hanno aumentato il traffico. Consigliatissimo!",
+        "review-3":"Web moderna e funzionale. Prenotazioni online e sezione recensioni utili. Comunicazione eccellente con il team. Molto soddisfatti!"
+    },
+    "Contact-us-component": {
+        "title": "Contatto",
+        "subtitle": "Sottotitolo",
+        "name-tag": "nome",
+        "name-placeholder": "nome",
+        "email-tag": "email",
+        "email-placeholder": "email",
+        "message-tag": "messaggio",
+        "message-placeholder": "messaggio",
+        "send": "Invia",
+        "loading": "Caricamento ...",
+        "success-alert": "Grazie. Ti ricontatteremo il prima possibile.",
+        "unsuccess-alert": "Ahh, qualcosa è andato storto. Per favore riprova."
+    },
+    "Footer": {
+        "title": "Piè di pagina"
+    }
+}

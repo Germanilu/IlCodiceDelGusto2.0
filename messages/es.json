@@ -13,6 +13,12 @@
   "About":{
     "title":"Titulo pagina sobre nosotros"
   },
+  "Reviews":{
+    "title":"Lo que dicen nuestros clientes",
+    "review-1": "¡Servicio excelente! Sitio atractivo y optimizado para los motores de búsqueda. Más visibilidad y mejor experiencia para los clientes. ¡Equipo fantástico!",
+    "review-2": "Sitio web elegante y funcional. Las reservas y el menú en línea han aumentado el tráfico. ¡Muy recomendado!",
+    "review-3": "Sitio web moderno y funcional. Reservas en línea y sección de reseñas útiles. Comunicación excelente con el equipo. ¡Muy satisfechos!"
+  },
   "Contact-us":{
     "title":"Contacta con nosotros Titulo"
   },
