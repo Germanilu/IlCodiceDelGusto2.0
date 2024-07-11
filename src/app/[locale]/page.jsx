@@ -5,8 +5,9 @@ import Testimonials   from './components/testimonials';
 import './page.scss';
 
 export const metadata = {
-  title:"Home title",
-  description:"home metadata description"
+  title: "IlCodiceDelGusto.com",
+  description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
+  keywords: "sito ristorante, sito web ristorante"
 }
 
 export default function Home() {

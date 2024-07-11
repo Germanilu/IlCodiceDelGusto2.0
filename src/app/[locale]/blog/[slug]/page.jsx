@@ -1,6 +1,7 @@
 
 import { notFound } from 'next/navigation';
 import { articles } from '@/static/articles';
+import {Link}       from '@/navigation';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
@@ -14,7 +15,6 @@ export function generateStaticParams() {
 /**
  * @method generateMetadata
  * generateMetadata generate metadata retrieving correct blog article
- * unstable_setRequestLocale allow to use dynamic routing on vercel
  * @param {Object} params shape: {locale:'es', slug:'marketing-nella-ristorazione'}
  * @returns Object metaData
  */
@@ -41,6 +41,7 @@ const BlogPost = ({ params }) => {
   return (
     <div className="post-container">
       <div dangerouslySetInnerHTML={{ __html: article.text }} />
+      <Link href="/blog">BACK</Link>
     </div>
   );
 };

@@ -1,5 +1,7 @@
-// import qrCode from '../../Media/img/qrcode.jpg';
-
+import qrCode from '../static/media/qrcode.jpg';
+import scanQrCode from '../static/media/scanqrcode.jpg';
+import marketingChef from '../static/media/marketingchef.jpg';
+import marketingCouple from '../static/media/marketingrestaurantcouple.jpg';
 export const articles = [
   { 
     id: 1,
@@ -24,6 +26,7 @@ export const articles = [
     <h2>Che cos'è un menu digitale con codice QR?</h2>
     <p>Un menu digitale con codice QR è una versione elettronica del tradizionale menu cartaceo, accessibile tramite la scansione di un codice QR con uno smartphone o un tablet. Quando i clienti scansionano il codice QR, vengono reindirizzati a una pagina web che mostra il menu del ristorante in formato digitale. Questo menu può essere visualizzato e navigato facilmente, offrendo informazioni dettagliate su ogni piatto, inclusi ingredienti, prezzi e immagini. La tecnologia dei QR code rende l'accesso al menu rapido e senza contatto, migliorando la sicurezza e l'igiene all'interno del ristorante.</p>
   </section>
+  <img class="img " src=${qrCode.src} alt="menu digitale"/>
   <section id="digital-menu-needs">
     <h2>Perché si ha bisogno di un menu digitale per il ristorante?</h2>
     <ul>
@@ -45,6 +48,7 @@ export const articles = [
   </section>
 
   <section id="qr-service"  class="margin-top-bottom-4 img-left">
+      <img class="img-reduce" src=${scanQrCode.src} alt="qr code"/>
     <div>
       <h2>Il nostro servizio di creazione di QR code</h2>
       <p>Offriamo un servizio di creazione di menu digitale con QR code per soli 20€. Questo servizio aggiuntivo è progettato per essere accessibile e conveniente, consentendo a tutti i ristoratori di adottare questa tecnologia innovativa senza un investimento significativo. Il nostro team si occupa della generazione del codice QR e della configurazione del menu digitale, garantendo una transizione fluida e senza problemi.</p>
@@ -99,6 +103,7 @@ export const articles = [
           <li><strong>Programmi di fedeltà:</strong> Implementare un programma di fedeltà può incoraggiare i clienti a tornare. Offri premi o sconti per chi visita il tuo ristorante con regolarità.</li>
         </ul>
       </section>
+       <img class="img " src=${marketingChef.src} alt="marketing digitale"/>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>Perché è importante la presenza online del ristorante</h2>
         <p>Una forte presenza online è essenziale per il successo di qualsiasi ristorante moderno. Ecco alcuni motivi:</p>
@@ -137,6 +142,7 @@ export const articles = [
           <li><strong>Marketing visivo nel ristorante:</strong> Utilizza il marketing visivo all'interno del ristorante, come menu digitali, display di piatti speciali e decorazioni stagionali. Questo può migliorare l'esperienza del cliente e aumentare le vendite.</li>
         </ul>
       </section>
+      <img class="img " src=${marketingCouple.src} alt="coppia marketing digitale"/>
       <section id="fidelizzazione" class="margin-top-bottom-4">
         <h2>Importanza della fidelizzazione dei clienti</h2>
         <p>Fidelizzare i clienti è cruciale per il successo a lungo termine del tuo ristorante. Ecco alcune strategie:</p>

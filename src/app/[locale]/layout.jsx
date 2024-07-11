@@ -10,8 +10,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Default title",
-  description: "Default description",
+  title: "IlCodiceDelGusto.com",
+  description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
+  keyword: "sito ristorante, sito web ristorante"
 };
 
 export default function RootLayout({ children, params }) {
