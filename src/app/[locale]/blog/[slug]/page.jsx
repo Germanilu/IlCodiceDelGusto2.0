@@ -1,3 +1,4 @@
+
 import { notFound } from 'next/navigation';
 import { articles } from '@/static/articles';
 import { unstable_setRequestLocale } from 'next-intl/server';
@@ -10,13 +11,6 @@ export function generateStaticParams() {
 }
 
 
-
-export const metadata = {
-  title:"Blog",
-  description:"Blog Description"
-}
-
-
 /**
  * @method generateMetadata
  * generateMetadata generate metadata retrieving correct blog article
@@ -24,19 +18,20 @@ export const metadata = {
  * @param {Object} params shape: {locale:'es', slug:'marketing-nella-ristorazione'}
  * @returns Object metaData
  */
-// export async function generateMetadata({ params }) {
-//   unstable_setRequestLocale(params.locale);
-
-//   const article = articles.find((article) => article.slug === params.slug);
-//   if (!article) {
-//     notFound();
-//   }
-//   return {
-//     title: article.title,
-//     description: article.metaDescription,
-//     keywords: article.metaKeywords,
-//   };
-// }
+export async function generateMetadata({ params }) {
+  unstable_setRequestLocale(params.locale);
+  console.log(params.locale)
+  console.log(unstable_setRequestLocale(params.locale))
+  const article = articles.find((article) => article.slug === params.slug);
+  if (!article) {
+    notFound();
+  }
+  return {
+    title: article.title,
+    description: article.metaDescription,
+    keywords: article.metaKeywords,
+  };
+}
 
 const BlogPost = ({ params }) => {
   const article = articles.find((article) => article.slug === params.slug);

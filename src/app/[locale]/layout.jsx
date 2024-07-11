@@ -6,13 +6,24 @@ import { Inter }                             from "next/font/google";
 import { useLocale }                         from "next-intl";
 import { notFound }                          from "next/navigation";
 import { Providers }                         from "../Redux/provider";
+import { unstable_setRequestLocale } from 'next-intl/server';
 import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Default title",
-  description: "Default description",
-};
+// export const metadata = {
+//   title: "Default title",
+//   description: "Default description",
+// };
+
+export async function generateMetadata({ params }) {
+  unstable_setRequestLocale(params.locale);
+  return {
+    title: "Default title",
+    description: "Default description",
+  };
+}
+
+
 
 export default function RootLayout({ children, params }) {
   const locale = useLocale();
