@@ -21,6 +21,7 @@
       align-items : center ;
       width : 100% ;
       height : 100% ;
+      color: black;
   }
   .button::before,
   .button::after,
@@ -207,8 +208,6 @@
       0%   { width : 0 ; }
       100% { width : 124px ; }
   }
-  
-  
 
   .container{
       width : max-content ;

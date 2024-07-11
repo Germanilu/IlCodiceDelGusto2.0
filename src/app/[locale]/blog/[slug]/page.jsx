@@ -1,8 +1,8 @@
 
 import { notFound } from 'next/navigation';
 import { articles } from '@/static/articles';
-import {Link}       from '@/navigation';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
+import  Button from '@/app/[locale]/components/button';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
@@ -43,7 +43,7 @@ const BlogPost = ({ params }) => {
     <div className="post-container">
       <ProgressBar/>
       <div dangerouslySetInnerHTML={{ __html: article.text }} />
-      <Link href="/blog">BACK</Link>
+      <Button href='/blog'/>
     </div>
   );
 };

@@ -36,6 +36,9 @@
       "success-alert":"Thank you. We will get back to you as soon as possible.",
       "unsuccess-alert":"Ahh, something went wrong. Please try again."
     },
+    "Button":{
+      "back":"Back"
+    },
     "Footer":{
       "title": "Footer"
     }

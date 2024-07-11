@@ -36,6 +36,9 @@
         "success-alert": "Grazie. Ti ricontatteremo il prima possibile.",
         "unsuccess-alert": "Ahh, qualcosa è andato storto. Per favore riprova."
     },
+    "Button":{
+        "back":"Indietro"
+      },
     "Footer": {
         "title": "Piè di pagina"
     }

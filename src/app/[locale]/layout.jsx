@@ -7,7 +7,7 @@ import { useLocale }                         from "next-intl";
 import { notFound }                          from "next/navigation";
 import { Providers }                         from "../Redux/provider";
 import Script from 'next/script'
-import "./globals.css";
+import "./globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
