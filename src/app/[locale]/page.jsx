@@ -3,6 +3,7 @@ import Map from "@/app/[locale]/components/google-map-location/index";
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import Testimonials   from './components/testimonials';
 import Button   from './components/button';
+import Script from 'next/script'
 import './page.scss';
 
 export const metadata = {
@@ -16,7 +17,7 @@ export default function Home() {
 
   return (
     <div className='home-design'>
-     
+     	<Script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ab72ddd7de4114db12264527/script.js"></Script>
       <Testimonials/>
       <Button/>
       <Map />
