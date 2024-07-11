@@ -16,8 +16,19 @@ export default function Home() {
 
   return (
     <div className='home-design'>
+      <div className="hero-section">
+        HERO
+      </div>
+      <div id="what-we-offer" className="what-we-offer-section">
+        WHAT DO WE OFFER
+      </div>
+      <div id="projects" className="project-section">
+        PROJECTS
+      </div>
+      <div id="digital-menu" className="digital-menu-section">
+        QR CODE
+      </div>
       <Testimonials/>
-      <Button/>
       <Map />
       <ScrollToTop />
     </div>

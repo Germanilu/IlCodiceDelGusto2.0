@@ -1,21 +1,21 @@
 @import "../../../utilities/variables.scss";
 
 .navbar{
-  width: 100%;
   background-color: $white;
   padding: 1rem 0rem;
-  border-bottom: 2px solid $black;
+  top: 0;
   .navbar-list{
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
     list-style-type: none;
   }
 }
 
 
-@media screen and (max-width: '767px') {
+@media screen and (max-width: '744px') {
   .navbar{
     padding: .5rem 0rem;
     border-bottom: none;

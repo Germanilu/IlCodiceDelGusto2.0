@@ -4,11 +4,14 @@
     "first-section-title": "TITULO PRIMERA SECCION",
     "second-section-title": "TITULO SEGUNDA SECCION"
   },
-  "Navbar":{
+  "Navbar": {
     "home": "Home",
-    "about-us":"Sobre nosotros",
+    "what-we-offer": "Qué Ofrecemos",
+    "our-works": "Nuestros Trabajos",
+    "digital-menu": "Menú Digital",
+    "testimonial": "Sobre nosotros",
     "blog": "Blog",
-    "contact-us":"Contacto"
+    "contact-us": "Contacto"
   },
   "About":{
     "title":"Titulo pagina sobre nosotros"

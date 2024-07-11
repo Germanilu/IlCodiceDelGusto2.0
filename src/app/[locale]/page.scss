@@ -5,21 +5,15 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        height: 50vh;
+        height: 100vh;
         border: 1px solid $black;
     }
-    .first-section{
+    .what-we-offer-section,.project-section,.digital-menu-section{
         display: flex;
         align-items: center;
         justify-content: center;
         height: 40vh;
         border: 1px solid $black;
     }
-    .second-section{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 40vh;
-        border: 1px solid $black;
-    }
+
 }

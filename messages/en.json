@@ -4,11 +4,14 @@
       "first-section-title": "First section title",
       "second-section-title": "Second section title"
     },
-    "Navbar":{
+    "Navbar": {
       "home": "Home",
-      "about-us":"About",
+      "what-we-offer": "What We Offer",
+      "our-works": "Our Works",
+      "digital-menu": "Digital Menu",
+      "testimonial": "About us",
       "blog": "Blog",
-      "contact-us":"Contact Us"
+      "contact-us": "Contact"
     },
     "About":{
       "title":"About main title"

@@ -6,9 +6,12 @@
     },
     "Navbar": {
         "home": "Home",
-        "about-us": "Chi siamo",
+        "what-we-offer": "Cosa offriamo",
+        "our-works": "I nostri lavori",
+        "digital-menu": "Menú digitale",
+        "testimonial": "Dicono di noi",
         "blog": "Blog",
-        "contact-us": "Contattaci"
+        "contact-us": "Contatto"
     },
     "About": {
         "title": "Titolo principale su di noi"

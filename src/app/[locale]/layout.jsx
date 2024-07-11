@@ -32,7 +32,7 @@ export default function RootLayout({ children, params }) {
             <ResponsiveLayout />
             <Script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ab72ddd7de4114db12264527/script.js"></Script>
             <Navbar />
-            {children}
+              {children}
             <Footer />
           </Providers>
         </NextIntlClientProvider>
