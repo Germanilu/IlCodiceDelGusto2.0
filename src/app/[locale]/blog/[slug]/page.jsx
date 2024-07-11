@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { articles } from '@/static/articles';
+import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
 export function generateStaticParams() {
@@ -8,13 +9,16 @@ export function generateStaticParams() {
   }));
 }
 
+
 /**
  * @method generateMetadata
  * generateMetadata generate metadata retrieving correct blog article
+ * unstable_setRequestLocale allow to use dynamic routing on vercel
  * @param {Object} params shape: {locale:'es', slug:'marketing-nella-ristorazione'}
  * @returns Object metaData
  */
 export async function generateMetadata({ params }) {
+  unstable_setRequestLocale(params.locale);
 
   const article = articles.find((article) => article.slug === params.slug);
   if (!article) {
@@ -26,7 +30,6 @@ export async function generateMetadata({ params }) {
     keywords: article.metaKeywords,
   };
 }
-
 
 const BlogPost = ({ params }) => {
   const article = articles.find((article) => article.slug === params.slug);
