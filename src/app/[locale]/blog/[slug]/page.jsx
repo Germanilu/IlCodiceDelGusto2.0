@@ -10,6 +10,7 @@ export function generateStaticParams() {
   }));
 }
 
+export const dynamic = "force-dynamic"
 
 /**
  * @method generateMetadata
