@@ -6,7 +6,7 @@ import { Inter }                             from "next/font/google";
 import { useLocale }                         from "next-intl";
 import { notFound }                          from "next/navigation";
 import { Providers }                         from "../Redux/provider";
-
+import Script from 'next/script'
 import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
@@ -30,6 +30,7 @@ export default function RootLayout({ children, params }) {
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Providers>
             <ResponsiveLayout />
+            <Script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ab72ddd7de4114db12264527/script.js"></Script>
             <Navbar />
             {children}
             <Footer />
