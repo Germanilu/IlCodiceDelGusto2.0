@@ -2,6 +2,9 @@
 
 const nextConfig = {
     output: 'standalone',
+    experimental: {
+        serverActions: true,
+      },
 }
 
 const withNextIntl = require('next-intl/plugin')(
