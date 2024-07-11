@@ -10,7 +10,6 @@ export function generateStaticParams() {
   }));
 }
 
-export const dynamic = "force-dynamic"
 
 /**
  * @method generateMetadata
@@ -20,9 +19,6 @@ export const dynamic = "force-dynamic"
  * @returns Object metaData
  */
 export async function generateMetadata({ params }) {
-  unstable_setRequestLocale(params.locale);
-  console.log(params.locale)
-  console.log(unstable_setRequestLocale(params.locale))
   const article = articles.find((article) => article.slug === params.slug);
   if (!article) {
     notFound();
@@ -35,6 +31,7 @@ export async function generateMetadata({ params }) {
 }
 
 const BlogPost = ({ params }) => {
+  unstable_setRequestLocale(params.locale);
   const article = articles.find((article) => article.slug === params.slug);
 
   if (!article) {
