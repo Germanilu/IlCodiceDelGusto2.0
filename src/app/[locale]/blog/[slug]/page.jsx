@@ -10,6 +10,13 @@ export function generateStaticParams() {
 }
 
 
+
+export const metadata = {
+  title:"Blog",
+  description:"Blog Description"
+}
+
+
 /**
  * @method generateMetadata
  * generateMetadata generate metadata retrieving correct blog article
@@ -17,19 +24,19 @@ export function generateStaticParams() {
  * @param {Object} params shape: {locale:'es', slug:'marketing-nella-ristorazione'}
  * @returns Object metaData
  */
-export async function generateMetadata({ params }) {
-  unstable_setRequestLocale(params.locale);
+// export async function generateMetadata({ params }) {
+//   unstable_setRequestLocale(params.locale);
 
-  const article = articles.find((article) => article.slug === params.slug);
-  if (!article) {
-    notFound();
-  }
-  return {
-    title: article.title,
-    description: article.metaDescription,
-    keywords: article.metaKeywords,
-  };
-}
+//   const article = articles.find((article) => article.slug === params.slug);
+//   if (!article) {
+//     notFound();
+//   }
+//   return {
+//     title: article.title,
+//     description: article.metaDescription,
+//     keywords: article.metaKeywords,
+//   };
+// }
 
 const BlogPost = ({ params }) => {
   const article = articles.find((article) => article.slug === params.slug);
