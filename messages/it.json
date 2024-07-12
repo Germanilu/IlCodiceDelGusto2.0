@@ -56,6 +56,9 @@
         "back":"Indietro"
       },
     "Footer": {
-        "title": "Piè di pagina"
+        "title": "Piè di pagina",
+        "privacy-policy": "Politica sulla Privacy",
+        "cookie-policy": "Politica sui Cookie",
+        "rights":"Tutti i diritti riservati."
     }
 }

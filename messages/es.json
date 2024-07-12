@@ -56,6 +56,9 @@
     "back":"Atrás"
   },
   "Footer":{
-    "title": "Footer"
+    "title": "Footer",
+    "privacy-policy": "Política de Privacidad",
+    "cookie-policy": "Política de Cookies",
+    "rights":"Todos los derechos reservados."
   }
 }

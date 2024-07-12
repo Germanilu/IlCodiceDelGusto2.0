@@ -10,12 +10,12 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  color: $old_lace;
   .card-title {
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
     width: 295px;
-    color: $old_lace;
     text-align: center;
   }
 
@@ -24,5 +24,6 @@
     font-weight: 400;
     width: 326px;
     text-align: center;
+    padding-bottom: 2rem;
   }
 }
