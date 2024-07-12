@@ -32,16 +32,16 @@ const Navbar = () => {
                     </Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="#what-we-offer" >{t('what-we-offer')}</Link>
+                    <Link className="item" href="/#what-we-offer" >{t('what-we-offer')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="#projects">{t('our-works')}</Link>
+                    <Link className="item" href="/#projects">{t('our-works')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="#digital-menu">{t('digital-menu')}</Link>
+                    <Link className="item" href="/#digital-menu">{t('digital-menu')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="#testimonials">{t('testimonial')}</Link>
+                    <Link className="item" href="/#testimonials">{t('testimonial')}</Link>
                   </li>
                   <li className="list-item">
                     <Link className="item" href="/blog">{t('blog')}</Link>
@@ -58,32 +58,30 @@ const Navbar = () => {
           </nav>
           :
           <nav className="navbar">
+            <div className="navbar-container">
+            <Link className="logo" href="/">
+              <Image className='icon' src={icon}/>
+            </Link>
             <ul className="navbar-list">
               <li className="list-item">
-                <Link className="item" href="/">
-                  <Image className='icon' src={icon}/>
-                </Link>
+                <Link className="item" href="/#what-we-offer" >{t('what-we-offer')}</Link>
               </li>
               <li className="list-item">
-                <Link className="item" href="#what-we-offer" >{t('what-we-offer')}</Link>
+                <Link className="item" href="/#projects">{t('our-works')}</Link>
               </li>
               <li className="list-item">
-                <Link className="item" href="#projects">{t('our-works')}</Link>
+                <Link className="item" href="/#digital-menu">{t('digital-menu')}</Link>
               </li>
               <li className="list-item">
-                <Link className="item" href="#digital-menu">{t('digital-menu')}</Link>
-              </li>
-              <li className="list-item">
-                <Link className="item" href="#testimonials">{t('testimonial')}</Link>
+                <Link className="item" href="/#testimonials">{t('testimonial')}</Link>
               </li>
               <li className="list-item">
                 <Link className="item" href="/blog">{t('blog')}</Link>
               </li>
-              <LanguageSwitcher />
-              <li className="list-item">
-                <Link className="item" href="/contact-us">{t('contact-us')}</Link>
-              </li>
             </ul>
+              <LanguageSwitcher />
+              <Link className="item" href="/contact-us">{t('contact-us')}</Link>
+              </div>
           </nav>
       }
     </>

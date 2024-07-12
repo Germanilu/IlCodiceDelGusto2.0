@@ -1,13 +1,25 @@
-@import "../../../utilities/variables.scss";
-
-.language-switcher-design{
-    width: max-content;
-    display: flex;
-    justify-content: center;
-    gap: .5rem;
-    .box{
-        padding: .1rem;
-        border: 1px solid $black;
-        cursor: pointer;
+.language-switcher-design {
+    position: relative;
+    display: inline-block;
+  
+    .current-language {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
     }
-}
+  
+    .dropdown-content {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      z-index: 100;
+      
+      .box {
+        display: flex;
+        align-items: center;
+        padding-top: 2px;
+        cursor: pointer;
+      }
+    }
+  }
+  

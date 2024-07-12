@@ -1,4 +1,4 @@
-
+@import "../../../utilities/variables.scss";
 .testimonial{
     width: 100%;
     display: flex;
@@ -22,13 +22,13 @@
             width: 30px;
             height: 30px;
             border-radius: 50%;
-            background-color: #71b85f;
+            background-color: #26666B;
           }
           .bubble2{
             width: 15px;
             height: 15px;
             border-radius: 50%;
-            background-color: #6ec458;
+            background-color: #26666B;
           }
           &.active{
             display: flex;
@@ -52,7 +52,7 @@
             z-index: -1;
             width: 100%;
             height: 100%;
-            border: 4px solid #dff9d9;
+            border: 4px solid $old_lace;
             border-radius: 50%;
             -webkit-transform: scale(.9);
             -ms-transform: scale(.9);
