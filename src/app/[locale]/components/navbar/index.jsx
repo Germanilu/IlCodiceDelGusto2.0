@@ -1,6 +1,6 @@
 'use client'
 
-import {Link}               from '../../../../navigation';
+import {Link}               from '@/navigation';
 import  LanguageSwitcher    from '../language-switcher';
 import { useTranslations }  from "next-intl";
 import Image                from 'next/image';
@@ -8,10 +8,11 @@ import { useSelector }      from 'react-redux';
 import { useState }         from 'react';
 import { IoMenu }           from "react-icons/io5";
 import { RxCross2 }         from "react-icons/rx";
-import icon from "@/static/media/svg/icon.svg"
+import icon                 from "../../../../static/media/svg/icon.svg";
+
 import './index.scss';
 
-export default function Navbar() {
+const Navbar = () => {
   const t                       = useTranslations("Navbar");
   const [openMenu, setOpenMenu] = useState(false);
   const isMobile = useSelector(state => state.responsive.isMobile);
@@ -31,13 +32,16 @@ export default function Navbar() {
                     </Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/about" >{t('our-works')}</Link>
+                    <Link className="item" href="#what-we-offer" >{t('what-we-offer')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/blog">{t('digital-menu')}</Link>
+                    <Link className="item" href="#projects">{t('our-works')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/blog">{t('testimonial')}</Link>
+                    <Link className="item" href="#digital-menu">{t('digital-menu')}</Link>
+                  </li>
+                  <li className="list-item">
+                    <Link className="item" href="#testimonials">{t('testimonial')}</Link>
                   </li>
                   <li className="list-item">
                     <Link className="item" href="/blog">{t('blog')}</Link>
@@ -46,7 +50,7 @@ export default function Navbar() {
                     <Link className="item" href="/contact-us">{t('contact-us')}</Link>
                   </li>
                   <li className="list-item">
-                  <LanguageSwitcher className="language-switcher" />
+                    <LanguageSwitcher className="language-switcher" />
                   </li>
                 </ul>
               }
@@ -75,13 +79,15 @@ export default function Navbar() {
               <li className="list-item">
                 <Link className="item" href="/blog">{t('blog')}</Link>
               </li>
+              <LanguageSwitcher />
               <li className="list-item">
                 <Link className="item" href="/contact-us">{t('contact-us')}</Link>
               </li>
-              <LanguageSwitcher />
             </ul>
           </nav>
       }
     </>
   )
 }
+
+export default Navbar

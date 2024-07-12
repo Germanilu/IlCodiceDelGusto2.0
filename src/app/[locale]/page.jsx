@@ -1,8 +1,6 @@
 import { useTranslations } from "next-intl";
-import Map from "@/app/[locale]/components/google-map-location/index";
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import Testimonials   from './components/testimonials';
-import Button   from './components/button';
 import './page.scss';
 
 export const metadata = {
@@ -29,7 +27,6 @@ export default function Home() {
         QR CODE
       </div>
       <Testimonials/>
-      <Map />
       <ScrollToTop />
     </div>
   )

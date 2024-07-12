@@ -1,7 +1,6 @@
 @import "../../../utilities/variables.scss";
 
 .navbar{
-  background-color: $white;
   padding: 1rem 0rem;
   top: 0;
   .navbar-list{
@@ -11,6 +10,12 @@
     justify-content: space-around;
     align-items: center;
     list-style-type: none;
+    .list-item{
+      .icon{
+        border: 1px solid yellow;
+        margin-right: 2rem;
+      }
+    }
   }
 }
 
