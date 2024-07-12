@@ -1,6 +1,6 @@
 @import "../../../utilities/variables.scss";
 
-.yokse{
+.footer-container{
   background-color: $neptune_variable;
   height: 450px;
   display: flex;
@@ -32,6 +32,7 @@
       display: flex;
       justify-content: space-around;
       gap: 1rem;
+
     }
   }
 
@@ -52,6 +53,9 @@
         font-size: 18px;
         font-weight: 600;
         text-align: center;
+        &:hover{
+          color: #8CB9BD;
+        }
       }
     }
   }
@@ -85,6 +89,9 @@
         font-size: 18px;
         font-weight: 600;
         text-align: center;
+        &:hover{
+          color: #8CB9BD;
+        }
       }
     }
   }

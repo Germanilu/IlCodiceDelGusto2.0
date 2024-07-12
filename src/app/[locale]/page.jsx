@@ -1,9 +1,9 @@
 import { useTranslations } from "next-intl";
-import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
+import Hero from './components/hero'
 import Cards from "@/app/[locale]/components/cards";
 import Testimonials from './components/testimonials';
+import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
-import Hero from './components/hero'
 
 export const metadata = {
   title: "IlCodiceDelGusto.com",

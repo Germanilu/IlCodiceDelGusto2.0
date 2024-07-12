@@ -5,6 +5,7 @@ import Image from 'next/image';
 import icon from "../../../../static/media/svg/icon.svg";
 import ig from "../../../../static/media/svg/ig.svg";
 import linkedin from "../../../../static/media/svg/linkedin.svg";
+
 import './index.scss';
 
 export default function Footer() {
@@ -13,12 +14,12 @@ export default function Footer() {
   const t1 = useTranslations(['Footer']);
 
   return (
-    <div className="yokse">
+    <div className="footer-container">
       <div className="footer-design">
         <div className="logo">
           <Image src={icon} />
           <div className="socials">
-            <div className="social"><Link target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image src={ig} /></Link></div>
+            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image className="social2" src={ig} /></Link></div>
             <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <Image src={linkedin} /></Link></div>
           </div>
         </div>
