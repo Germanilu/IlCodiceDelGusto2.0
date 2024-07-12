@@ -1,0 +1,48 @@
+@import '../../../../utilities/variables.scss';
+
+.button-design {
+  background-color: $old_lace;
+  border-radius: 10px;
+  color: $neptune ;
+  padding: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+  -webkit-mask-image: -webkit-radial-gradient(white, black);
+
+  .button-text {
+    position: relative;
+    z-index: 2;
+  }
+
+  .fill-container {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: $neptune_variable;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 1s cubic-bezier(0.25, 1, 0.5, 1);
+    z-index: 1;
+  }
+
+  &:hover {
+    color: $old_lace;
+    transform: translateY(-4px);
+
+    .fill-container {
+      transform: translate(-50%, -50%) scale(50);
+    }
+  }
+
+  &:not(:hover) {
+    .fill-container {
+      transform: translate(-50%, -50%) scale(0);
+    }
+  }
+}

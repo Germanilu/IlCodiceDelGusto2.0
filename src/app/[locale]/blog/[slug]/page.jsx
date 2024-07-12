@@ -2,7 +2,7 @@
 import { notFound } from 'next/navigation';
 import { articles } from '@/static/articles';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
-import  Button from '@/app/[locale]/components/button';
+import  Button from '@/app/[locale]/components/button/fancy-button';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
