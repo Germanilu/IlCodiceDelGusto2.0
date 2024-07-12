@@ -79,10 +79,9 @@ const Navbar = () => {
               <li className="list-item">
                 <Link className="item" href="/blog">{t('blog')}</Link>
               </li>
-            </ul>
               <LanguageSwitcher />
-              
-              <Link className="item" href="/contact-us"><ContactButton/></Link>
+            </ul>
+            <Link className="item" href="/contact-us"><ContactButton/></Link>
               </div>
           </nav>
       }

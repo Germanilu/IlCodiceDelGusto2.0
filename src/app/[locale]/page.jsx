@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import Testimonials   from './components/testimonials';
 import './page.scss';
+import Hero from './components/hero'
 
 export const metadata = {
   title: "IlCodiceDelGusto.com",
@@ -14,9 +15,7 @@ export default function Home() {
 
   return (
     <div className='home-design'>
-      <div className="hero-section">
-        HERO
-      </div>
+      <Hero/>
       <div id="what-we-offer" className="what-we-offer-section">
         WHAT DO WE OFFER
       </div>

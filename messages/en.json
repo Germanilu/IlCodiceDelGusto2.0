@@ -4,6 +4,11 @@
       "first-section-title": "First section title",
       "second-section-title": "Second section title"
     },
+   "Hero": {
+    "slogan": "Bring your restaurant into the future with custom web pages.",
+    "title": "We create innovative, dynamic, and personalized web pages for your restaurant.",
+    "website-name":"Il Codice del Gusto"
+    },
     "Navbar": {
       "home": "Home",
       "what-we-offer": "What We Offer",
