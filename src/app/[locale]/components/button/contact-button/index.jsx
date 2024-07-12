@@ -6,8 +6,8 @@ const Button = () => {
 
   return (
     <div className="button-design">
-      <span class="button-text"> {t('contact-us')}</span>
-      <div class="fill-container"></div>
+      <span className="button-text"> {t('contact-us')}</span>
+      <div className="fill-container"></div>
     </div>
   )
 }
