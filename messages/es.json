@@ -1,6 +1,6 @@
 {
   "Home": {
-    "title": "TITULO PRINCIPAL",
+    "what-we-offer": "Qué Ofrecemos",
     "first-section-title": "TITULO PRIMERA SECCION",
     "second-section-title": "TITULO SEGUNDA SECCION"
   },
@@ -8,6 +8,14 @@
     "slogan": "Lleva tu restaurante al futuro con páginas web a medida.",
     "title": "Creamos páginas web innovadoras, dinámicas y personalizadas para tu restaurante.",
     "website-name":"Il Codice del Gusto"
+  },
+  "Cards": {
+    "title-1": "Sitios web innovadores y a medida",
+    "text-1": "Diseñamos sitios web que son mucho más que simples páginas: son experiencias dinámicas, fáciles de usar y completamente personalizadas para cada restaurante. Utilizamos tecnologías de vanguardia para garantizar que tu sitio esté siempre actualizado y sea capaz de ofrecer una excelente experiencia de usuario.",
+    "title-2": "Servicio personalizado y competitivo",
+    "text-2": "Ofrecemos un servicio a medida que se destaca por su alta relación calidad-precio. No solo creamos tu sitio web, sino que también brindamos soporte continuo para asegurar que tu restaurante permanezca visible y actualizado. Nuestro servicio de marketing para restaurantes te ayudará a alcanzar nuevos clientes y fidelizar a los existentes.",
+    "title-3": "Soporte para visibilidad y diseño atractivo",
+    "text-3": "Nuestro equipo se especializa en crear páginas web y menús digitales que capturan la atención y reflejan la calidad de tu restaurante. Trabajamos para dar mayor visibilidad a tus platos, destacando lo que hace única tu oferta culinaria. Con nosotros, tu restaurante siempre estará en el centro de la escena."
   },
   "Navbar": {
     "home": "Home",

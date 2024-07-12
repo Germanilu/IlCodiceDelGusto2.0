@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
-import Testimonials   from './components/testimonials';
+import Cards from "@/app/[locale]/components/cards";
+import Testimonials from './components/testimonials';
 import './page.scss';
 import Hero from './components/hero'
 
@@ -15,17 +16,18 @@ export default function Home() {
 
   return (
     <div className='home-design'>
-      <Hero/>
+      <Hero />
       <div id="what-we-offer" className="what-we-offer-section">
-        WHAT DO WE OFFER
+        <span className="text">{t('what-we-offer')}</span>
+        <Cards />
       </div>
       <div id="projects" className="project-section">
-        PROJECTS
+     
       </div>
       <div id="digital-menu" className="digital-menu-section">
-        QR CODE
+     
       </div>
-      <Testimonials/>
+      <Testimonials />
       <ScrollToTop />
     </div>
   )

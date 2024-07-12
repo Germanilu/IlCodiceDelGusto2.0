@@ -1,6 +1,6 @@
 {
     "Home": {
-      "title": "Main title",
+      "what-we-offer": "Wath we offer",
       "first-section-title": "First section title",
       "second-section-title": "Second section title"
     },
@@ -8,6 +8,14 @@
     "slogan": "Bring your restaurant into the future with custom web pages.",
     "title": "We create innovative, dynamic, and personalized web pages for your restaurant.",
     "website-name":"Il Codice del Gusto"
+    },
+    "Cards": {
+      "title-1": "Innovative and Custom Websites",
+      "text-1": "We design websites that are much more than just simple pages: they are dynamic experiences, easy to use, and fully customized for each restaurant. We use cutting-edge technologies to ensure that your site is always up-to-date and capable of providing an excellent user experience.",
+      "title-2": "Personalized and Competitive Service",
+      "text-2": "We offer a customized service that stands out for its high quality-price ratio. Not only do we create your website, but we also provide ongoing support to ensure that your restaurant remains visible and up-to-date. Our restaurant marketing service will help you reach new customers and retain existing ones.",
+      "title-3": "Support for Visibility and Attractive Design",
+      "text-3": "Our team specializes in creating web pages and digital menus that capture attention and reflect the quality of your restaurant. We work to give greater visibility to your dishes, highlighting what makes your culinary offering unique. With us, your restaurant will always be in the spotlight."
     },
     "Navbar": {
       "home": "Home",

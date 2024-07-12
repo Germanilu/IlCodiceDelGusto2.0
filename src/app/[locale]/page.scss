@@ -1,19 +1,25 @@
 @import "../utilities/variables.scss";
 
-.home-design{
-    .hero-section{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        border: 1px solid $black;
+.home-design {
+  .hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 1px solid $black;
+  }
+
+  .what-we-offer-section {
+    margin:3rem 0rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    .text {
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 50px;
+      margin-bottom: 1.5rem;
     }
-    .what-we-offer-section,.project-section,.digital-menu-section{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 40vh;
-        border: 1px solid $black;
-    }
+  }
 
 }
