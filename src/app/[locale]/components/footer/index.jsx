@@ -18,8 +18,8 @@ export default function Footer() {
         <div className="logo">
           <Image src={icon} />
           <div className="socials">
-            <div className="social"><Image src={ig} /></div>
-            <div className="social"><Image src={linkedin} /></div>
+            <div className="social"><Link target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image src={ig} /></Link></div>
+            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <Image src={linkedin} /></Link></div>
           </div>
         </div>
         <div className="menu">
@@ -47,7 +47,7 @@ export default function Footer() {
         </div>
         <div className="policies">
           <li className="list-item">
-            <Link className="item" href="/#testimonials">{t1('privacy-policy')}</Link>
+            <Link className="item" href="/blog">{t1('privacy-policy')}</Link>
           </li>
           <li className="list-item">
             <Link className="item" href="/blog">{t1('cookie-policy')}</Link>
