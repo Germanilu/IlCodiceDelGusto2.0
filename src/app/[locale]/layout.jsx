@@ -11,7 +11,7 @@ import "./globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "IlCodiceDelGusto.com",
+  title: "Il Codice del Gusto",
   description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
   keyword: "sito ristorante, sito web ristorante"
 };
