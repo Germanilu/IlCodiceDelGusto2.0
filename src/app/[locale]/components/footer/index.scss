@@ -97,3 +97,37 @@
   }
 }
 }
+
+
+@media screen and (max-width: '744px') {
+	.footer-container{
+    height: max-content;
+    .reserved{
+    font-size: 10px;
+    }
+
+    .footer-design{
+      flex-direction: column;
+      margin-bottom: 2rem;
+      gap: 2rem;
+      width: 100%;
+      .menu,.policies,.info{
+        border: none;
+        width: 80%;
+        .list-item{
+          .item {
+            font-size: 14px;
+          }
+        }
+      }
+      .policies{
+        margin-bottom: 2rem;
+      }
+      .info{
+        .text{
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}
