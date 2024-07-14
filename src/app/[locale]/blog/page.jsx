@@ -1,10 +1,13 @@
-import { articles } from '@/static/articles';
+
+import { articlesIt } from '@/static/blog/it/articlesIt';
+import { articlesEs } from '@/static/blog/es/articlesEs';
+import { articlesEn } from '@/static/blog/en/articlesEn';
 import {Link}       from '@/navigation';
 import './page.scss';
 
 export const metadata = {
-  title:"Blog",
-  description:"Blog Description"
+  title:"Il Codice del Gusto Blog",
+  description:"Il Codice del Gusto Blog"
 }
 
 /**
@@ -12,7 +15,24 @@ export const metadata = {
  * 
  * @returns Map the articles and return each one with title, description and link 
  */
-const Blog = () => {
+const Blog = ({params}) => {
+
+  let articles;
+  switch (params.locale) {
+    case 'it':
+      articles = articlesIt;
+      break;
+    case 'es':
+      articles = articlesEs;
+      break;
+    case 'en':
+      articles = articlesEn;
+      break;
+    default:
+      articles = [];
+      break;
+  }
+
   return (
     <div className="blog">
       <h2>Blog</h2>

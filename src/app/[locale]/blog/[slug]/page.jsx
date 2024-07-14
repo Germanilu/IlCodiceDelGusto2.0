@@ -1,15 +1,35 @@
 
 import { notFound } from 'next/navigation';
-import { articles } from '@/static/articles';
+import { articlesIt } from '@/static/blog/it/articlesIt';
+import { articlesEs } from '@/static/blog/es/articlesEs';
+import { articlesEn } from '@/static/blog/en/articlesEn';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
 import  Button from '@/app/[locale]/components/button/fancy-button';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
-export function generateStaticParams() {
-  return articles.map((article) => ({
-    slug: article.slug,
-  }));
+
+/**
+ * @method getArticle
+ * Retrieve correct article depending on current language
+ * @param {Object} params shape: {locale:'es', slug:'marketing-nella-ristorazione'}
+ * @returns {Object} Article 
+ */
+const getArticle = (params) => {
+  let article;
+  if(params.locale == 'it'){
+    article = articlesIt.find((article) => article.slug === params.slug);
+   }
+ if(params.locale == 'es'){
+   article = articlesEs.find((article) => article.slug === params.slug);
+ }
+ if(params.locale == 'en'){
+   article = articlesEn.find((article) => article.slug === params.slug);
+ }
+ if (!article) {
+   notFound();
+ }
+ return article
 }
 
 
@@ -20,10 +40,8 @@ export function generateStaticParams() {
  * @returns Object metaData
  */
 export async function generateMetadata({ params }) {
-  const article = articles.find((article) => article.slug === params.slug);
-  if (!article) {
-    notFound();
-  }
+  
+  const article = getArticle(params);
   return {
     title: article.title,
     description: article.metaDescription,
@@ -32,12 +50,10 @@ export async function generateMetadata({ params }) {
 }
 
 const BlogPost = ({ params }) => {
-  unstable_setRequestLocale(params.locale);
-  const article = articles.find((article) => article.slug === params.slug);
 
-  if (!article) {
-    notFound();
-  }
+  unstable_setRequestLocale(params.locale);
+
+  const article = getArticle(params)
 
   return (
     <div className="post-container">

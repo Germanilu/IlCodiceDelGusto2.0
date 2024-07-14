@@ -1,10 +1,10 @@
-import qrCode from '../static/media/qrcode.jpg';
-import scanQrCode from '../static/media/scanqrcode.jpg';
-import marketingChef from '../static/media/marketingchef.jpg';
-import marketingCouple from '../static/media/marketingrestaurantcouple.jpg';
-import netPromoterScore from '../static/media/net-promoter-score.jpg';
+import qrCode from '../../media/qrcode.jpg';
+import scanQrCode from '../../media/scanqrcode.jpg';
+import marketingChef from '../../media/marketingchef.jpg';
+import marketingCouple from '../../media/marketingrestaurantcouple.jpg';
+import netPromoterScore from '../../media/net-promoter-score.jpg';
 
-export const articles = [
+export const articlesIt = [
   { 
     id: 1,
     slug:"menu-digitale",
