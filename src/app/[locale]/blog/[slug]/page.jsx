@@ -4,7 +4,7 @@ import { articlesIt } from '@/static/blog/it/articlesIt';
 import { articlesEs } from '@/static/blog/es/articlesEs';
 import { articlesEn } from '@/static/blog/en/articlesEn';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
-import  Button from '@/app/[locale]/components/button/fancy-button';
+import  Button from '@/app/[locale]/components/button';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import './page.scss';
 
@@ -40,7 +40,7 @@ const getArticle = (params) => {
  * @returns Object metaData
  */
 export async function generateMetadata({ params }) {
-  
+
   const article = getArticle(params);
   return {
     title: article.title,
@@ -59,7 +59,7 @@ const BlogPost = ({ params }) => {
     <div className="post-container">
       <ProgressBar/>
       <div dangerouslySetInnerHTML={{ __html: article.text }} />
-      <Button href='/blog'/>
+      <Button href='/blog' text='back'/>
     </div>
   );
 };

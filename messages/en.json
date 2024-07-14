@@ -24,7 +24,8 @@
       "digital-menu": "Digital Menu",
       "testimonial": "About us",
       "blog": "Blog",
-      "contact-us": "Contact"
+      "contact-us": "Contact",
+      "back":"Back"
     },
     "About":{
       "title":"About main title"

@@ -1,4 +1,4 @@
-@import '../../../../utilities/variables.scss';
+@import '../../../utilities/variables.scss';
 
 .button-design {
   background-color: $old_lace;
@@ -12,7 +12,9 @@
   cursor: pointer;
   transition: all 0.6s cubic-bezier(0.25, 1, 0.5, 1);
   -webkit-mask-image: -webkit-radial-gradient(white, black);
-
+  min-width: 100px;
+  text-align: center;
+  max-width: max-content;
   .button-text {
     position: relative;
     z-index: 2;

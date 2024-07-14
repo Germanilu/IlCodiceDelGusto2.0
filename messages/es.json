@@ -24,7 +24,8 @@
     "digital-menu": "Menú Digital",
     "testimonial": "Sobre nosotros",
     "blog": "Blog",
-    "contact-us": "Contacto"
+    "contact-us": "Contacto",
+    "back":"Atrás"
   },
   "About":{
     "title":"Titulo pagina sobre nosotros"

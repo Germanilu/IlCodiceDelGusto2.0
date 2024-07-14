@@ -2,7 +2,7 @@
 
 import {Link}               from '@/navigation';
 import  LanguageSwitcher    from '../language-switcher';
-import  ContactButton       from '../button/contact-button';
+import  Button       from '../button';
 import { useTranslations }  from "next-intl";
 import Image                from 'next/image';
 import { useSelector }      from 'react-redux';
@@ -81,8 +81,8 @@ const Navbar = () => {
               </li>
               <LanguageSwitcher />
             </ul>
-            <Link className="item" href="/contact-us"><ContactButton/></Link>
-              </div>
+              <Button text={'contact-us'} href={'/contact-us'}/>
+            </div>
           </nav>
       }
     </>
