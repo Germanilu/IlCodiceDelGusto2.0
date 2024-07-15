@@ -1,9 +1,6 @@
-import qrCode from '../../media/qrcode.jpg';
-import scanQrCode from '../../media/scanqrcode.jpg';
-import marketingChef from '../../media/marketingchef.jpg';
-import marketingCouple from '../../media/marketingrestaurantcouple.jpg';
-import netPromoterScore from '../../media/net-promoter-score.jpg';
-import customerLoyalty from '../../media/fidelizzazione-clienti-ristorazione.jpg';
+
+import settings from '@/settings/blog/images/index.js';
+
 export const articlesEn = [
   { 
     id: 1,
@@ -28,7 +25,7 @@ export const articlesEn = [
     <h2>What is a digital menu with a QR code?</h2>
     <p>A digital menu with a QR code is an electronic version of the traditional paper menu, accessible by scanning a QR code with a smartphone or tablet. When customers scan the QR code, they are redirected to a web page that displays the restaurant's menu in digital format. This menu can be easily viewed and navigated, offering detailed information about each dish, including ingredients, prices, and images. QR code technology makes accessing the menu quick and contactless, improving safety and hygiene within the restaurant.</p>
   </section>
-  <img class="img " src=${qrCode.src} alt="digital menu"/>
+  <img class="img " src=${settings.qrCode.src} alt="digital menu"/>
   <section id="digital-menu-needs">
     <h2>Why do you need a digital menu for the restaurant?</h2>
     <ul>
@@ -50,7 +47,7 @@ export const articlesEn = [
   </section>
 
   <section id="qr-service" class="margin-top-bottom-4 img-left">
-      <img class="img-reduce" src=${scanQrCode.src} alt="QR code"/>
+      <img class="img-reduce" src=${settings.scanQrCode.src} alt="QR code"/>
     <div>
       <h2>Our QR code creation service</h2>
       <p>We offer a digital menu creation service with a QR code for just €20. This additional service is designed to be accessible and convenient, allowing all restaurateurs to adopt this innovative technology without significant investment. Our team handles QR code generation and digital menu setup, ensuring a smooth and hassle-free transition.</p>
@@ -105,7 +102,7 @@ export const articlesEn = [
           <li><strong>Loyalty programs:</strong> Implementing a loyalty program can encourage customers to return. Offer rewards or discounts to those who visit your restaurant regularly.</li>
         </ul>
       </section>
-       <img class="img " src=${marketingChef.src} alt="digital marketing"/>
+       <img class="img " src=${settings.marketingChef.src} alt="digital marketing"/>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>Why is the restaurant's online presence important?</h2>
         <p>A strong online presence is essential for the success of any modern restaurant. Here are some reasons:</p>
@@ -144,7 +141,7 @@ export const articlesEn = [
           <li><strong>Visual marketing in the restaurant:</strong> Use visual marketing within the restaurant, such as digital menus, special dish displays, and seasonal decorations. This can enhance the customer experience and increase sales.</li>
         </ul>
       </section>
-      <img class="img " src=${marketingCouple.src} alt="digital marketing couple"/>
+      <img class="img " src=${settings.marketingCouple.src} alt="digital marketing couple"/>
       <section id="fidelizzazione" class="margin-top-bottom-4">
         <h2>Importance of customer loyalty</h2>
         <p>Retaining customers is crucial for the long-term success of your restaurant. Here are some strategies:</p>
@@ -186,7 +183,7 @@ export const articlesEn = [
             <li><a href="#conclusioni">Conclusions</a></li>
         </ul>
     </nav>
-    <img class="img " src=${netPromoterScore.src} alt="net promoter score in the restaurant industry"/>
+    <img class="img " src=${settings.netPromoterScore.src} alt="net promoter score in the restaurant industry"/>
     <section id="introduzione" class="margin-top-bottom-4">
         <h2>Introduction</h2>
         <p>In the competitive restaurant industry, understanding and improving customer satisfaction is crucial. An effective measure to evaluate customer loyalty and satisfaction is the Net Promoter Score (NPS). This article delves into the importance of NPS, how it can be implemented in the restaurant industry, and strategies to improve your score.</p>
@@ -320,7 +317,7 @@ export const articlesEn = [
     </section>
 
     <section id="experience" class="margin-top-bottom-4">
-    <img class="img " src=${customerLoyalty.src} alt="customer loyalty"/>
+    <img class="img " src=${settings.customerLoyalty.src} alt="customer loyalty"/>
         <h2>Creating an Exceptional Dining Experience</h2>
         <h3>The Importance of First Impressions</h3>
         <p>First impressions are crucial in the restaurant industry. From the moment customers enter your restaurant, they should feel welcomed and appreciated. A warm greeting, prompt seating, and a clean, inviting environment can set the tone for a positive dining experience.</p>
@@ -399,5 +396,115 @@ export const articlesEn = [
         <p>Building and maintaining customer loyalty in the restaurant industry requires a multifaceted approach. By creating an exceptional dining experience, implementing effective customer engagement strategies, and consistently collecting and utilizing customer feedback, you can build strong relationships with your clientele. Investing in your staff and using technology can further enhance these efforts, ensuring your restaurant remains a preferred destination for new and returning customers.</p>
     </footer>`
 },
+{
+  id: 5,
+  slug: "aumentare-clientela-ristorante",
+  metaDescription: "Discover how to increase your restaurant's clientele with effective customer loyalty strategies and online reputation management.",
+  metaKeywords: "customer loyalty, customer loyalty strategies, increase restaurant customers, how to increase restaurant customers, increase pizzeria customers, how to increase restaurant customers, how to increase restaurant clientele, positive restaurant reviews, online reputation",
+  title: "How to Increase Restaurant Customers: Loyalty Strategies and Online Reputation",
+  shortDescription: "Discover how to increase your restaurant's clientele with loyalty strategies, online reputation improvement, and the importance of positive reviews.",
+  text: `<header>
+    <h1>How to Increase Restaurant Customers: Loyalty Strategies and Online Reputation</h1>
+</header>
+<nav class="margin-top-bottom-4">
+    <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#customer-loyalty">Importance of Customer Loyalty</a></li>
+        <li><a href="#loyalty-strategies">Customer Loyalty Strategies</a></li>
+        <li><a href="#increase-customers">Increase Restaurant Customers</a></li>
+        <li><a href="#positive-reviews">Positive Restaurant Reviews</a></li>
+        <li><a href="#online-reputation">Online Reputation</a></li>
+        <li><a href="#excellent-service">Offer Excellent Service</a></li>
+        <li><a href="#pizzeria-customers">Increase Pizzeria Customers</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<img class="img" src=${settings.fullLocal.src} alt="full restaurant"/>
+<section id="introduction" class="margin-top-bottom-4">
+    <h2>Introduction</h2>
+    <p>In the competitive world of the restaurant industry, customer loyalty is essential for long-term success. Not only does it attract new customers, but it also encourages existing ones to return, creating a base of loyal and satisfied customers. In this article, we will explore how to increase your restaurant's clientele, focusing on loyalty strategies, online reputation improvement, and the importance of positive reviews.</p>
+</section>
+
+<section id="customer-loyalty" class="margin-top-bottom-4">
+    <h2>Importance of Customer Loyalty</h2>
+    <p>Customer loyalty is fundamental for any restaurant aiming to grow. Loyal customers tend to spend more, visit more frequently, and recommend the place to friends and family. Investing in loyalty not only increases revenue but also improves the restaurant's reputation.</p>
+</section>
+
+<section id="loyalty-strategies" class="margin-top-bottom-4">
+    <h2>Customer Loyalty Strategies</h2>
+    <h3>Loyalty Programs</h3>
+    <p>Implementing a loyalty program is one of the most effective ways to retain customers. Offering discounts, rewards, or points for each visit encourages customers to return. For example, a loyalty card that offers a free meal after a certain number of visits can be very attractive.</p>
+    <h3>Exclusive Offers and Promotions</h3>
+    <p>Exclusive offers reserved for regular customers, such as special discounts or dedicated menus, can make customers feel appreciated and valued. This type of attention can turn an occasional customer into a regular one.</p>
+    <h3>Special Events and Theme Nights</h3>
+    <p>Organizing special events or theme nights is a great way to attract new customers and keep existing ones. Tasting nights, dinners with special menus, or cultural events can create a unique experience that encourages customers to return.</p>
+</section>
+
+<section id="increase-customers" class="margin-top-bottom-4">
+    <h2>Increase Restaurant Customers</h2>
+    <h3>Collaborations with Influencers and Bloggers</h3>
+    <p>Collaborations with influencers and food bloggers can increase the restaurant's visibility. Inviting influencers to try your place and share their experience on social media can attract new interested customers.</p>
+    <h3>Social Media Marketing</h3>
+    <p>An effective presence on social media is crucial to attracting new customers. Regularly posting engaging content, promotions, and updates on social platforms can keep your followers interested and attract new ones.</p>
+    <h3>Email Marketing and Newsletters</h3>
+    <p>Email marketing is a powerful tool to keep customers informed about news, promotions, and special events. Sending periodic newsletters with relevant content and exclusive offers can increase visits to the restaurant.</p>
+</section>
+<section id="positive-reviews" class="margin-top-bottom-4 img-left">
+<img class="img-reduce" src=${settings.takeCommand.src} alt="qr code"/>
+<div>
+    <h2>Positive Restaurant Reviews</h2>
+    <h3>Importance of Reviews</h3>
+    <p>Online reviews play a fundamental role in a restaurant's success. Positive reviews attract new customers and increase trust in the place. Most people read reviews before choosing a restaurant, so having a good online reputation is crucial.</p>
+    <h3>How to Get Positive Reviews</h3>
+    <p>Encouraging satisfied customers to leave positive reviews can significantly improve the restaurant's reputation. Offering a small incentive, such as a discount on the next visit, can motivate customers to share their experience.</p>
+    <h3>Handling Negative Reviews</h3>
+    <p>Negative reviews are inevitable, but it is important to handle them carefully. Responding promptly and professionally to negative reviews can turn a negative experience into an opportunity to demonstrate the restaurant's commitment to customer satisfaction.</p>
+    <section id="online-reputation" class="margin-top-bottom-4">
+      <h2>Online Reputation</h2>
+      <h3>Monitoring Reputation</h3>
+      <p>Monitoring the restaurant's online reputation is essential. Using tools to monitor reviews and mentions on social media can help identify and quickly respond to negative feedback, improving the restaurant's perception.</p>
+      <h3>Responding to Customer Feedback</h3>
+      <p>Responding to feedback, both positive and negative, shows that the restaurant values customer opinions and is committed to continuous improvement. This attitude can increase customer trust and loyalty.</p>
+    </section>
+    </div>
+    </section>
+<section id="excellent-service" class="margin-top-bottom-4">
+    <h2>Offer Excellent Service</h2>
+    <p>Excellent customer service is key to attracting and retaining customers. Courteous, attentive, and professional staff can make a difference in the customer experience, encouraging positive word-of-mouth.</p>
+    <h3>Create a Welcoming Atmosphere</h3>
+    <p>The atmosphere of the restaurant plays an important role in attracting customers. A welcoming, clean, and well-decorated environment can make the dining experience more enjoyable, encouraging customers to return.</p>
+</section>
+
+<section id="pizzeria-customers" class="margin-top-bottom-4">
+    <h2>Increase Pizzeria Customers</h2>
+    <h3>Specific Strategies for Pizzerias</h3>
+    <p>Pizzerias can adopt specific strategies to increase clientele, such as special promotions during weekdays or combo menus for families. These initiatives can attract more customers, especially during low-traffic periods.</p>
+    <h3>Creative and Varied Menu</h3>
+    <p>Offering a varied and creative menu can set a pizzeria apart from the competition. Introducing new seasonal pizzas or unusual ingredients can keep customers interested and attract new enthusiasts.</p>
+</section>
+
+<section id="conclusion" class="margin-top-bottom-4">
+    <h2>Conclusion</h2>
+    <p>Increasing a restaurant's clientele requires a combination of loyalty strategies, effective marketing, and online reputation management. By offering an exceptional experience and actively promoting the restaurant, it is possible to create a base of loyal and satisfied customers.</p>
+</section>
+
+<section id="faq" class="margin-top-bottom-4">
+    <h2>FAQ</h2>
+    <h3>How can I retain my restaurant's customers?</h3>
+    <p>By implementing loyalty programs, exclusive offers, and organizing special events.</p>
+    <h3>What strategies can I use to increase my restaurant's customers?</h3>
+    <p>Collaborations with influencers, social media marketing, and email marketing.</p>
+    <h3>How important are online reviews for a restaurant?</h3>
+    <p>Very important; reviews influence the perception of the restaurant and attract new customers.</p>
+    <h3>How can I get more positive reviews?</h3>
+    <p>Encouraging satisfied customers to leave reviews and offering small incentives.</p>
+    <h3>How to handle negative reviews?</h3>
+    <p>Responding promptly and professionally, showing commitment to customer satisfaction.</p>
+    <h3>What are the best strategies to increase pizzeria customers?</h3>
+    <p>Special promotions, a creative and varied menu, and targeted marketing strategies.</p>
+</section>`
+}
 
 ];

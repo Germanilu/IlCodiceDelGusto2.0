@@ -1,16 +1,11 @@
-import qrCode from '../../media/qrcode.jpg';
-import scanQrCode from '../../media/scanqrcode.jpg';
-import marketingChef from '../../media/marketingchef.jpg';
-import marketingCouple from '../../media/marketingrestaurantcouple.jpg';
-import netPromoterScore from '../../media/net-promoter-score.jpg';
-import customerLoyalty from '../../media/fidelizzazione-clienti-ristorazione.jpg';
+import settings from '@/settings/blog/images/index.js';
 
 export const articlesIt = [
   { 
     id: 1,
     slug:"menu-digitale",
     metaDescription:"Menù digitale, che cos'è e perchè va utilizzato",
-    metaKeywords:"menu qr code,menu digitale ristorante,menu digitale",
+    metaKeywords:"menu digitale, menù digitale, menu digitale ristorante, menu digitale gratis, menu con qr code, menu digitale qr code, menu digitale qr code gratis, menu digitale gratuito, qr code menu ristorante gratis, menudigitale, qrcode menu ristorante, qr code menu ristorante gratis",
     title: "Menu Digitale per Ristoranti: L'Innovazione che Migliora l'Esperienza dei Clienti",
     shortDescription: "Menù digitale, perchè utilizzarlo e quali benefici può apportare al proprio ristorante",
     text:` <header>
@@ -29,7 +24,7 @@ export const articlesIt = [
     <h2>Che cos'è un menu digitale con codice QR?</h2>
     <p>Un menu digitale con codice QR è una versione elettronica del tradizionale menu cartaceo, accessibile tramite la scansione di un codice QR con uno smartphone o un tablet. Quando i clienti scansionano il codice QR, vengono reindirizzati a una pagina web che mostra il menu del ristorante in formato digitale. Questo menu può essere visualizzato e navigato facilmente, offrendo informazioni dettagliate su ogni piatto, inclusi ingredienti, prezzi e immagini. La tecnologia dei QR code rende l'accesso al menu rapido e senza contatto, migliorando la sicurezza e l'igiene all'interno del ristorante.</p>
   </section>
-  <img class="img " src=${qrCode.src} alt="menu digitale"/>
+  <img class="img " src=${settings.qrCode.src} alt="menu digitale"/>
   <section id="digital-menu-needs">
     <h2>Perché si ha bisogno di un menu digitale per il ristorante?</h2>
     <ul>
@@ -51,7 +46,7 @@ export const articlesIt = [
   </section>
 
   <section id="qr-service"  class="margin-top-bottom-4 img-left">
-      <img class="img-reduce" src=${scanQrCode.src} alt="qr code"/>
+      <img class="img-reduce" src=${settings.scanQrCode.src} alt="qr code"/>
     <div>
       <h2>Il nostro servizio di creazione di QR code</h2>
       <p>Offriamo un servizio di creazione di menu digitale con QR code per soli 20€. Questo servizio aggiuntivo è progettato per essere accessibile e conveniente, consentendo a tutti i ristoratori di adottare questa tecnologia innovativa senza un investimento significativo. Il nostro team si occupa della generazione del codice QR e della configurazione del menu digitale, garantendo una transizione fluida e senza problemi.</p>
@@ -73,7 +68,7 @@ export const articlesIt = [
     id: 2,
     slug:"marketing-nella-ristorazione",
     metaDescription: "Marketing nella Ristorazione",
-    metaKeywords: "marketing, marketing ristorante, ristorante",
+    metaKeywords: "marketing per ristoranti, marketing ristorazione, marketing ristoranti, marketing e ristorazione, ristorazione marketing, consulenza seo per ristoranti, web marketing per attività locali, strategie marketing ristorazione",
     title: "Il Marketing nella Ristorazione: Strategie e Consigli per il Successo del Tuo Ristorante",
     shortDescription: "Strategie e consigli per migliorare il marketing del tuo ristorante.",
     text: `
@@ -106,7 +101,7 @@ export const articlesIt = [
           <li><strong>Programmi di fedeltà:</strong> Implementare un programma di fedeltà può incoraggiare i clienti a tornare. Offri premi o sconti per chi visita il tuo ristorante con regolarità.</li>
         </ul>
       </section>
-       <img class="img " src=${marketingChef.src} alt="marketing digitale"/>
+       <img class="img " src=${settings.marketingChef.src} alt="marketing digitale"/>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>Perché è importante la presenza online del ristorante</h2>
         <p>Una forte presenza online è essenziale per il successo di qualsiasi ristorante moderno. Ecco alcuni motivi:</p>
@@ -145,7 +140,7 @@ export const articlesIt = [
           <li><strong>Marketing visivo nel ristorante:</strong> Utilizza il marketing visivo all'interno del ristorante, come menu digitali, display di piatti speciali e decorazioni stagionali. Questo può migliorare l'esperienza del cliente e aumentare le vendite.</li>
         </ul>
       </section>
-      <img class="img " src=${marketingCouple.src} alt="coppia marketing digitale"/>
+      <img class="img " src=${settings.marketingCouple.src} alt="coppia marketing digitale"/>
       <section id="fidelizzazione" class="margin-top-bottom-4">
         <h2>Importanza della fidelizzazione dei clienti</h2>
         <p>Fidelizzare i clienti è cruciale per il successo a lungo termine del tuo ristorante. Ecco alcune strategie:</p>
@@ -187,7 +182,7 @@ export const articlesIt = [
             <li><a href="#conclusioni">Conclusioni</a></li>
         </ul>
     </nav>
-    <img class="img " src=${netPromoterScore.src} alt="net promoter score nella ristorazione"/>
+    <img class="img " src=${settings.netPromoterScore.src} alt="net promoter score nella ristorazione"/>
     <section id="introduzione" class="margin-top-bottom-4">
         <h2>Introduzione</h2>
         <p>Nel competitivo settore della ristorazione, comprendere e migliorare la soddisfazione dei clienti è cruciale. Un efficace metro di misura per valutare la fedeltà e la soddisfazione dei clienti è il Net Promoter Score (NPS). Questo articolo approfondisce l'importanza dell'NPS, come può essere implementato nel settore della ristorazione e le strategie per migliorare il tuo punteggio.</p>
@@ -321,7 +316,7 @@ export const articlesIt = [
     </section>
 
     <section id="esperienza" class="margin-top-bottom-4">
-        <img class="img " src=${customerLoyalty.src} alt="fidelizzazione dei clienti nella ristorazione"/>
+        <img class="img " src=${settings.customerLoyalty.src} alt="fidelizzazione dei clienti nella ristorazione"/>
         <h2>Creare un'Esperienza di Ristorazione Eccezionale</h2>
         <h3>Importanza delle Prime Impressioni</h3>
         <p>Le prime impressioni sono cruciali nella ristorazione. Dal momento in cui i clienti entrano nel tuo ristorante, devono sentirsi accolti e apprezzati. Un saluto cordiale, una rapida sistemazione e un ambiente pulito e invitante possono impostare il tono per un'esperienza di ristorazione positiva.</p>
@@ -399,5 +394,116 @@ export const articlesIt = [
         <h2>Conclusione</h2>
         <p>Costruire e mantenere la fidelizzazione dei clienti nella ristorazione richiede un approccio multifacetico. Creando un'esperienza di ristorazione eccezionale, implementando strategie efficaci di coinvolgimento dei clienti e raccogliendo e utilizzando costantemente il feedback dei clienti, puoi creare relazioni solide con la tua clientela. Investire nel tuo staff e utilizzare la tecnologia può ulteriormente migliorare questi sforzi, assicurando che il tuo ristorante rimanga una destinazione preferita per i clienti nuovi e abituali.</p>
     </footer>`
+  },
+  { 
+
+    id: 5,
+    slug: "aumentare-clientela-ristorante",
+    metaDescription: "Scopri come aumentare la clientela del tuo ristorante con strategie efficaci di fidelizzazione clienti e gestione della reputazione online.",
+    metaKeywords: "customer loyalty, fidelizzazione clienti, aumentare clienti ristorante, come aumentare i clienti di un ristorante, aumentare clienti pizzeria, come aumentare clienti ristorante, come aumentare la clientela di un ristorante, recensioni positive ristorante, reputazione online",
+    title: "Come Aumentare la Clientela di un Ristorante: Strategie di Fidelizzazione e Reputazione Online",
+    shortDescription: "Scopri come aumentare la clientela del tuo ristorante con strategie di fidelizzazione, miglioramento della reputazione online e l'importanza delle recensioni positive.",
+    text:` <header>
+        <h1>Come Aumentare la Clientela di un Ristorante: Strategie di Fidelizzazione e Reputazione Online</h1>
+    </header>
+    <nav class="margin-top-bottom-4">
+        <ul>
+            <li><a href="#introduzione">Introduzione</a></li>
+            <li><a href="#fidelizzazione-clienti">Importanza della Fidelizzazione Clienti</a></li>
+            <li><a href="#strategie-fidelizzazione">Strategie di Fidelizzazione Clienti</a></li>
+            <li><a href="#aumentare-clienti">Aumentare Clienti Ristorante</a></li>
+            <li><a href="#recensioni-positive">Recensioni Positive Ristorante</a></li>
+            <li><a href="#reputazione-online">Reputazione Online</a></li>
+            <li><a href="#servizio-eccellente">Offrire un Servizio Eccellente</a></li>
+            <li><a href="#clienti-pizzeria">Aumentare Clienti Pizzeria</a></li>
+            <li><a href="#conclusione">Conclusione</a></li>
+            <li><a href="#faq">FAQ</a></li>
+        </ul>
+    </nav>
+
+    <img class="img " src=${settings.fullLocal.src} alt="locale pieno"/>
+    <section id="introduzione" class="margin-top-bottom-4">
+        <h2>Introduzione</h2>
+        <p>Nel competitivo mondo della ristorazione, la fidelizzazione dei clienti è essenziale per il successo a lungo termine. Non solo attira nuovi clienti, ma incoraggia anche quelli esistenti a tornare, creando una base di clienti fedeli e soddisfatti. In questo articolo, esploreremo come aumentare la clientela del tuo ristorante, concentrandoci su strategie di fidelizzazione, miglioramento della reputazione online e l'importanza delle recensioni positive.</p>
+    </section>
+
+    <section id="fidelizzazione-clienti" class="margin-top-bottom-4">
+        <h2>Importanza della Fidelizzazione Clienti</h2>
+        <p>Fidelizzare i clienti è fondamentale per qualsiasi ristorante che mira a crescere. Clienti fedeli tendono a spendere di più, frequentare più spesso e raccomandare il locale ad amici e parenti. Investire nella fidelizzazione non solo aumenta il fatturato ma migliora anche la reputazione del ristorante.</p>
+    </section>
+
+    <section id="strategie-fidelizzazione" class="margin-top-bottom-4">
+        <h2>Strategie di Fidelizzazione Clienti</h2>
+        <h3>Programmi Fedeltà</h3>
+        <p>Implementare un programma fedeltà è uno dei modi più efficaci per fidelizzare i clienti. Offrire sconti, premi o punti accumulabili per ogni visita incentiva i clienti a tornare. Ad esempio, una carta fedeltà che offre un pasto gratuito dopo un certo numero di visite può essere molto attraente.</p>
+        <h3>Offerte e Promozioni Esclusive</h3>
+        <p>Le offerte esclusive riservate ai clienti abituali, come sconti speciali o menù dedicati, possono far sentire i clienti apprezzati e valorizzati. Questo tipo di attenzione può trasformare un cliente occasionale in un cliente regolare.</p>
+        <h3>Eventi Speciali e Serate a Tema</h3>
+        <p>Organizzare eventi speciali o serate a tema è un ottimo modo per attrarre nuovi clienti e mantenere quelli esistenti. Serate di degustazione, cene con menù speciali o eventi culturali possono creare un'esperienza unica che incoraggia i clienti a ritornare.</p>
+    </section>
+
+    <section id="aumentare-clienti" class="margin-top-bottom-4">
+        <h2>Aumentare Clienti Ristorante</h2>
+        <h3>Collaborazioni con Influencer e Blogger</h3>
+        <p>Le collaborazioni con influencer e blogger del settore gastronomico possono aumentare la visibilità del ristorante. Invitare influencer a provare il tuo locale e a condividere la loro esperienza sui social media può attirare nuovi clienti interessati.</p>
+        <h3>Marketing sui Social Media</h3>
+        <p>Un'efficace presenza sui social media è cruciale per attirare nuovi clienti. Pubblicare regolarmente contenuti accattivanti, promozioni e aggiornamenti sulle piattaforme social può mantenere l'interesse dei tuoi follower e attrarne di nuovi.</p>
+        <h3>Email Marketing e Newsletter</h3>
+        <p>L'email marketing è uno strumento potente per mantenere i clienti informati sulle novità, promozioni e eventi speciali. Inviare newsletter periodiche con contenuti rilevanti e offerte esclusive può incrementare le visite al ristorante.</p>
+    </section>
+    <section id="recensioni-positive" class="margin-top-bottom-4 img-left">
+    <img class="img-reduce" src=${settings.takeCommand.src} alt="qr code"/>
+    <div>
+        <h2>Recensioni Positive Ristorante</h2>
+        <h3>Importanza delle Recensioni</h3>
+        <p>Le recensioni online giocano un ruolo fondamentale nel successo di un ristorante. Recensioni positive attraggono nuovi clienti e aumentano la fiducia nel locale. La maggior parte delle persone legge le recensioni prima di scegliere un ristorante, quindi avere una buona reputazione online è cruciale.</p>
+        <h3>Come Ottenere Recensioni Positive</h3>
+        <p>Incoraggiare i clienti soddisfatti a lasciare recensioni positive può migliorare significativamente la reputazione del ristorante. Offrire un piccolo incentivo, come uno sconto sulla prossima visita, può motivare i clienti a condividere la loro esperienza.</p>
+        <h3>Gestire le Recensioni Negative</h3>
+        <p>Le recensioni negative sono inevitabili, ma è importante gestirle con attenzione. Rispondere tempestivamente e in modo professionale alle recensioni negative può trasformare un'esperienza negativa in un'opportunità per dimostrare l'impegno del ristorante verso la soddisfazione del cliente.</p>
+        <section id="reputazione-online" class="margin-top-bottom-4">
+          <h2>Reputazione Online</h2>
+          <h3>Monitoraggio della Reputazione</h3>
+          <p>Monitorare la reputazione online del ristorante è essenziale. Utilizzare strumenti di monitoraggio delle recensioni e delle menzioni sui social media può aiutare a individuare e rispondere rapidamente a feedback negativi, migliorando la percezione del ristorante.</p>
+          <h3>Rispondere ai Feedback dei Clienti</h3>
+          <p>Rispondere ai feedback, sia positivi che negativi, dimostra che il ristorante apprezza l'opinione dei clienti e si impegna a migliorare continuamente. Questo atteggiamento può incrementare la fiducia e la fedeltà dei clienti.</p>
+        </section>
+        </div>
+        </section>
+    <section id="servizio-eccellente" class="margin-top-bottom-4">
+        <h2>Offrire un Servizio Eccellente</h2>
+        <p>Un servizio clienti eccellente è la chiave per attrarre e mantenere i clienti. Personale cortese, attento e professionale può fare la differenza nell'esperienza del cliente, incentivando il passaparola positivo.</p>
+        <h3>Creare un'Atmosfera Accogliente</h3>
+        <p>L'atmosfera del ristorante gioca un ruolo importante nell'attrarre clienti. Un ambiente accogliente, pulito e ben decorato può rendere l'esperienza culinaria più piacevole, incoraggiando i clienti a tornare.</p>
+    </section>
+
+    <section id="clienti-pizzeria" class="margin-top-bottom-4">
+        <h2>Aumentare Clienti Pizzeria</h2>
+        <h3>Strategie Specifiche per Pizzerie</h3>
+        <p>Le pizzerie possono adottare strategie specifiche per aumentare la clientela, come promozioni speciali durante i giorni feriali o menù combinati per famiglie. Queste iniziative possono attrarre più clienti, soprattutto durante i periodi di bassa affluenza.</p>
+        <h3>Menu Creativo e Variegato</h3>
+        <p>Offrire un menu variegato e creativo può distinguere una pizzeria dalla concorrenza. Introducendo nuove pizze stagionali o ingredienti insoliti, si può mantenere l'interesse dei clienti e attrarre nuovi appassionati.</p>
+    </section>
+
+    <section id="conclusione" class="margin-top-bottom-4">
+        <h2>Conclusione</h2>
+        <p>L'aumento della clientela di un ristorante richiede una combinazione di strategie di fidelizzazione, marketing efficace e gestione della reputazione online. Offrendo un'esperienza eccezionale e promuovendo attivamente il ristorante, è possibile creare una base di clienti fedeli e soddisfatti.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2>FAQ</h2>
+        <h3>Come posso fidelizzare i clienti del mio ristorante?</h3>
+        <p>Implementando programmi fedeltà, offerte esclusive e organizzando eventi speciali.</p>
+        <h3>Quali strategie posso usare per aumentare i clienti del mio ristorante?</h3>
+        <p>Collaborazioni con influencer, marketing sui social media e email marketing.</p>
+        <h3>Quanto sono importanti le recensioni online per un ristorante?</h3>
+        <p>Molto importanti; le recensioni influenzano la percezione del ristorante e attraggono nuovi clienti.</p>
+        <h3>Come posso ottenere più recensioni positive?</h3>
+        <p>Incoraggiando i clienti soddisfatti a lasciare recensioni e offrendo piccoli incentivi.</p>
+        <h3>Come gestire le recensioni negative?</h3>
+        <p>Rispondendo tempestivamente e professionalmente, mostrando impegno verso la soddisfazione del cliente.</p>
+        <h3>Quali sono le migliori strategie per aumentare i clienti di una pizzeria?</h3>
+        <p>Promozioni speciali, un menu creativo e variegato, e strategie di marketing mirate.</p>
+    </section>`
   },
   ];

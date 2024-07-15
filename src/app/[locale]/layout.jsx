@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Il Codice del Gusto",
   description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
-  keyword: "sito ristorante, sito web ristorante"
+  keyword: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web"
 };
 
 export default function RootLayout({ children, params }) {
