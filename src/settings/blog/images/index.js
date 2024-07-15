@@ -6,6 +6,8 @@ import netPromoterScore from '../../../static/media/net-promoter-score.jpg';
 import customerLoyalty from '../../../static/media/fidelizzazione-clienti-ristorazione.jpg';
 import fullLocal from '../../../static/media/full-local.jpg';
 import takeCommand from '../../../static/media/prendere-ordinazione.jpg';
+import seo from '../../../static/media/seo.jpg';
+import oldTextKeyboard from '../../../static/media/macchina-da-scrivere.jpg';
 
  const blogImages = {
     qrCode,
@@ -15,7 +17,9 @@ import takeCommand from '../../../static/media/prendere-ordinazione.jpg';
     netPromoterScore,
     customerLoyalty,
     fullLocal,
-    takeCommand
+    takeCommand,
+    oldTextKeyboard,
+    seo
 };
 
 export default blogImages;
