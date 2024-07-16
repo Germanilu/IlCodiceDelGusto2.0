@@ -659,5 +659,87 @@ export const articlesIt = [
           <h2>Conclusione</h2>
           <p>L'ottimizzazione SEO per i ristoranti è un processo continuo che richiede attenzione e strategia. Implementando le tecniche discusse in questo articolo, puoi migliorare la visibilità del tuo sito web e attrarre più clienti al tuo ristorante. Ricorda, il successo nella SEO richiede tempo, ma i risultati possono essere estremamente gratificanti.</p>
       </section>`
+  },
+  {
+    id: 7,
+    slug: "biglietti-da-visita-virtuali",
+    metaDescription: "Scopri come i biglietti da visita virtuali gratuiti possono rivoluzionare la tua attività di ristorazione, migliorando la visibilità e la comunicazione con i clienti.",
+    metaKeywords: "biglietti da visita virtuali,biglietto da visita virtuale gratis, biglietti da visita digitali, ristorazione, visibilità ristorante, comunicazione clienti, biglietti visita gratis, QR code ristorante, promozione ristorante",
+    title: "Biglietti da Visita Virtuali Gratuiti per la Ristorazione",
+    shortDescription: "Scopri come i biglietti da visita virtuali gratuiti possono migliorare la visibilità del tuo ristorante e facilitare la comunicazione con i clienti.",
+    text:`<header>
+    <h1>Biglietti da Visita Virtuali Gratuiti per la Ristorazione</h1>
+</header>
+<nav class="margin-top-bottom-4">
+    <ul>
+        <li><a href="#introduzione">Introduzione</a></li>
+        <li><a href="#cosa-sono">Cosa Sono i Biglietti da Visita Virtuali?</a></li>
+        <li><a href="#vantaggi">Vantaggi dei Biglietti da Visita Virtuali per i Ristoranti</a></li>
+        <li><a href="#come-creare">Come Creare Biglietti da Visita Virtuali Gratuiti per il Tuo Ristorante</a></li>
+        <li><a href="#esempi-utilizzo">Esempi di Utilizzo dei Biglietti da Visita Virtuali nella Ristorazione</a></li>
+        <li><a href="#importanza-prima-impressione">L'Importanza della Prima Impressione</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#conclusione">Conclusione</a></li>
+    </ul>
+</nav>
+<section id="introduzione" class="margin-top-bottom-4">
+    <h2>Introduzione</h2>
+    <p>Nell'era digitale, la ristorazione deve evolversi e adattarsi ai nuovi strumenti tecnologici per restare competitiva. Uno di questi strumenti è rappresentato dai biglietti da visita virtuali. Questi non solo riducono l'uso della carta, contribuendo a un approccio più sostenibile, ma offrono anche un modo dinamico e interattivo per presentare la tua attività ai clienti. Se stai cercando di migliorare la visibilità del tuo ristorante senza costi aggiuntivi, considera l'utilizzo dei biglietti da visita virtuali gratis.</p>
+</section>
+ <img class="img-reduce" src=${settings.businessCard.src} alt="biglietto da visita"/>
+<section id="cosa-sono" class="margin-top-bottom-4">
+    <h2>Cosa Sono i Biglietti da Visita Virtuali?</h2>
+    <p>I biglietti da visita virtuali sono versioni digitali dei tradizionali biglietti da visita in carta. Possono essere condivisi tramite email, social media, QR code, o persino via messaggi di testo. Questi biglietti contengono tutte le informazioni necessarie del tuo ristorante, come il nome, l'indirizzo, i contatti, e i link ai profili social e al sito web.</p>
+</section>
+<section id="vantaggi" class="margin-top-bottom-4">
+    <h2>Vantaggi dei Biglietti da Visita Virtuali per i Ristoranti</h2>
+    <ul>
+        <li><strong>Accessibilità e Condivisione Immediata:</strong> Puoi inviare il tuo biglietto da visita virtuale a chiunque in pochi secondi, facilitando la diffusione delle tue informazioni.</li>
+        <li><strong>Aggiornamenti Facili:</strong> Se cambi indirizzo, numero di telefono o orari di apertura, puoi aggiornare il biglietto virtuale senza dover ristampare nulla.</li>
+        <li><strong>Interattività:</strong> Aggiungi link interattivi al tuo sito web, menu online, recensioni su TripAdvisor e Google Maps, offrendo un'esperienza completa ai tuoi clienti.</li>
+    </ul>
+</section>
+<section id="come-creare" class="margin-top-bottom-4">
+    <h2>Come Creare Biglietti da Visita Virtuali Gratuiti per il Tuo Ristorante</h2>
+    <p>Ci sono diverse piattaforme online che ti permettono di creare biglietti da visita virtuali gratis. Ecco una guida passo-passo per iniziare:</p>
+    <ol>
+        <li><strong>Scegli una Piattaforma:</strong> Siti come Canva, Adobe Spark e Visme offrono template gratuiti e personalizzabili per creare i tuoi biglietti da visita virtuali.</li>
+        <li><strong>Personalizza il Design:</strong> Inserisci il logo del tuo ristorante, i colori aziendali e tutte le informazioni necessarie. Assicurati che il design sia accattivante e professionale.</li>
+        <li><strong>Aggiungi Link Utili:</strong> Includi link al tuo menu online, alle recensioni, e ai social media. Puoi anche inserire un QR code che porta direttamente al tuo sito web o alla pagina delle prenotazioni.</li>
+        <li><strong>Esporta e Condividi:</strong> Una volta completato, esporta il biglietto in formato digitale (PDF, PNG, o JPEG) e inizia a condividerlo con i tuoi clienti.</li>
+    </ol>
+</section>
+<section id="esempi-utilizzo" class="margin-top-bottom-4">
+    <h2>Esempi di Utilizzo dei Biglietti da Visita Virtuali nella Ristorazione</h2>
+    <ul>
+        <li><strong>Promozioni e Offerte Speciali:</strong> Invia i biglietti da visita virtuali con dettagli su offerte speciali, sconti e promozioni stagionali.</li>
+        <li><strong>Eventi e Catering:</strong> Usa i biglietti da visita virtuali per promuovere eventi speciali o i tuoi servizi di catering.</li>
+        <li><strong>Fidelizzazione dei Clienti:</strong> Offri ai tuoi clienti fedeli un biglietto da visita virtuale con un codice QR che dà accesso a sconti esclusivi o a un programma fedeltà.</li>
+    </ul>
+</section>
+<section id="importanza-prima-impressione" class="margin-top-bottom-4">
+    <h2>L'Importanza della Prima Impressione</h2>
+    <p>Nel settore della ristorazione, la prima impressione è fondamentale. Un biglietto da visita virtuale ben progettato può fare la differenza tra un cliente che ti sceglie e uno che passa oltre. La cura dei dettagli nel biglietto da visita virtuale riflette l'attenzione e la qualità che il cliente può aspettarsi nel tuo ristorante.</p>
+</section>
+<section id="faq" class="margin-top-bottom-4">
+    <h2>FAQ</h2>
+    <h3>Che cosa sono i biglietti da visita virtuali?</h3>
+    <p>I biglietti da visita virtuali sono versioni digitali dei tradizionali biglietti da visita cartacei, condivisibili tramite email, messaggi, QR code, e sui social media.</p>
+    <h3>Quali sono i vantaggi dei biglietti da visita virtuali rispetto a quelli cartacei?</h3>
+    <p>I biglietti da visita virtuali sono facilmente aggiornabili, condivisibili in tempo reale, e possono contenere link interattivi a risorse online, come il menu del ristorante o le recensioni dei clienti.</p>
+    <h3>Posso creare biglietti da visita virtuali gratuitamente?</h3>
+    <p>Sì, ci sono molte piattaforme online come Canva e Adobe Spark che offrono strumenti gratuiti per creare biglietti da visita virtuali.</p>
+    <h3>Come posso utilizzare i biglietti da visita virtuali per promuovere il mio ristorante?</h3>
+    <p>Puoi usare i biglietti da visita virtuali per inviare promozioni, condividere eventi speciali, o offrire sconti ai clienti fedeli tramite codici QR.</p>
+    <h3>Sono difficili da creare i biglietti da visita virtuali?</h3>
+    <p>No, le piattaforme online offrono template e strumenti intuitivi che rendono la creazione dei biglietti da visita virtuali semplice anche per chi ha poca esperienza con il design.</p>
+    <h3>Posso includere un QR code nel mio biglietto da visita virtuale?</h3>
+    <p>Assolutamente sì. Un QR code può indirizzare i clienti al tuo sito web, al menu online, o alla pagina delle prenotazioni, facilitando l'accesso alle informazioni del tuo ristorante.</p>
+</section>
+<section id="conclusione" class="margin-top-bottom-4">
+    <h2>Conclusione</h2>
+    <p>L'adozione dei biglietti da visita virtuali gratis rappresenta un passo avanti significativo per qualsiasi attività di ristorazione che desideri restare al passo con i tempi. Non solo offrono un modo ecologico e moderno per condividere le informazioni del tuo ristorante, ma migliorano anche la comunicazione con i clienti e la tua presenza online. Sfrutta queste risorse digitali per dare un tocco innovativo alla tua attività e attrarre una clientela sempre più connessa e digitale.</p>
+</section>`
   }
+
   ];

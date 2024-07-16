@@ -8,6 +8,7 @@ import fullLocal from '../../../static/media/full-local.jpg';
 import takeCommand from '../../../static/media/prendere-ordinazione.jpg';
 import seo from '../../../static/media/seo.jpg';
 import oldTextKeyboard from '../../../static/media/macchina-da-scrivere.jpg';
+import businessCard from '../../../static/media/biglietto-da-visita.jpg';
 
  const blogImages = {
     qrCode,
@@ -19,7 +20,8 @@ import oldTextKeyboard from '../../../static/media/macchina-da-scrivere.jpg';
     fullLocal,
     takeCommand,
     oldTextKeyboard,
-    seo
+    seo,
+    businessCard
 };
 
 export default blogImages;

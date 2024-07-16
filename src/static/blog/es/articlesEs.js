@@ -658,6 +658,87 @@ export const articlesEs = [
           <h2>Conclusión</h2>
           <p>La optimización SEO para restaurantes es un proceso continuo que requiere atención y estrategia. Implementando las técnicas discutidas en este artículo, puedes mejorar la visibilidad de tu sitio web y atraer más clientes a tu restaurante. Recuerda, el éxito en el SEO requiere tiempo, pero los resultados pueden ser extremadamente gratificantes.</p>
       </section>`
+},
+{
+  id: 7,
+  slug: "biglietti-da-visita-virtuali",
+  metaDescription: "Descubre cómo las tarjetas de visita virtuales gratuitas pueden revolucionar tu negocio de restauración, mejorando la visibilidad y la comunicación con los clientes.",
+  metaKeywords: "tarjetas de visita virtuales,tarjeta de visita virtual gratis, tarjetas de visita digitales, restauración, visibilidad restaurante, comunicación clientes, tarjetas visita gratis, código QR restaurante, promoción restaurante",
+  title: "Tarjetas de Visita Virtuales Gratuitas para la Restauración",
+  shortDescription: "Descubre cómo las tarjetas de visita virtuales gratuitas pueden mejorar la visibilidad de tu restaurante y facilitar la comunicación con los clientes.",
+  text: `<header>
+  <h1>Tarjetas de Visita Virtuales Gratuitas para la Restauración</h1>
+</header>
+<nav class="margin-top-bottom-4">
+  <ul>
+      <li><a href="#introduccion">Introducción</a></li>
+      <li><a href="#que-son">¿Qué Son las Tarjetas de Visita Virtuales?</a></li>
+      <li><a href="#ventajas">Ventajas de las Tarjetas de Visita Virtuales para los Restaurantes</a></li>
+      <li><a href="#como-crear">Cómo Crear Tarjetas de Visita Virtuales Gratuitas para tu Restaurante</a></li>
+      <li><a href="#ejemplos-uso">Ejemplos de Uso de las Tarjetas de Visita Virtuales en la Restauración</a></li>
+      <li><a href="#importancia-primera-impresion">La Importancia de la Primera Impresión</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#conclusion">Conclusión</a></li>
+  </ul>
+</nav>
+<section id="introduccion" class="margin-top-bottom-4">
+  <h2>Introducción</h2>
+  <p>En la era digital, la restauración debe evolucionar y adaptarse a las nuevas herramientas tecnológicas para seguir siendo competitiva. Una de estas herramientas son las tarjetas de visita virtuales. Estas no solo reducen el uso de papel, contribuyendo a un enfoque más sostenible, sino que también ofrecen una forma dinámica e interactiva de presentar tu negocio a los clientes. Si estás buscando mejorar la visibilidad de tu restaurante sin costes adicionales, considera el uso de tarjetas de visita virtuales gratuitas.</p>
+</section>
+ <img class="img-reduce" src=${settings.businessCard.src} alt="tarjeta de visita"/>
+<section id="que-son" class="margin-top-bottom-4">
+  <h2>¿Qué Son las Tarjetas de Visita Virtuales?</h2>
+  <p>Las tarjetas de visita virtuales son versiones digitales de las tradicionales tarjetas de visita en papel. Pueden compartirse a través de correo electrónico, redes sociales, códigos QR o incluso por mensajes de texto. Estas tarjetas contienen toda la información necesaria de tu restaurante, como el nombre, la dirección, los contactos y los enlaces a los perfiles sociales y al sitio web.</p>
+</section>
+<section id="ventajas" class="margin-top-bottom-4">
+  <h2>Ventajas de las Tarjetas de Visita Virtuales para los Restaurantes</h2>
+  <ul>
+      <li><strong>Accesibilidad y Compartición Inmediata:</strong> Puedes enviar tu tarjeta de visita virtual a cualquier persona en pocos segundos, facilitando la difusión de tu información.</li>
+      <li><strong>Actualizaciones Fáciles:</strong> Si cambias de dirección, número de teléfono u horarios de apertura, puedes actualizar la tarjeta virtual sin tener que reimprimir nada.</li>
+      <li><strong>Interactividad:</strong> Añade enlaces interactivos a tu sitio web, menú en línea, reseñas en TripAdvisor y Google Maps, ofreciendo una experiencia completa a tus clientes.</li>
+  </ul>
+</section>
+<section id="como-crear" class="margin-top-bottom-4">
+  <h2>Cómo Crear Tarjetas de Visita Virtuales Gratuitas para tu Restaurante</h2>
+  <p>Hay varias plataformas en línea que te permiten crear tarjetas de visita virtuales gratis. Aquí tienes una guía paso a paso para comenzar:</p>
+  <ol>
+      <li><strong>Elige una Plataforma:</strong> Sitios como Canva, Adobe Spark y Visme ofrecen plantillas gratuitas y personalizables para crear tus tarjetas de visita virtuales.</li>
+      <li><strong>Personaliza el Diseño:</strong> Introduce el logotipo de tu restaurante, los colores corporativos y toda la información necesaria. Asegúrate de que el diseño sea atractivo y profesional.</li>
+      <li><strong>Añade Enlaces Útiles:</strong> Incluye enlaces a tu menú en línea, reseñas y redes sociales. También puedes insertar un código QR que lleve directamente a tu sitio web o a la página de reservas.</li>
+      <li><strong>Exporta y Comparte:</strong> Una vez completado, exporta la tarjeta en formato digital (PDF, PNG o JPEG) y comienza a compartirla con tus clientes.</li>
+  </ol>
+</section>
+<section id="ejemplos-uso" class="margin-top-bottom-4">
+  <h2>Ejemplos de Uso de las Tarjetas de Visita Virtuales en la Restauración</h2>
+  <ul>
+      <li><strong>Promociones y Ofertas Especiales:</strong> Envía las tarjetas de visita virtuales con detalles sobre ofertas especiales, descuentos y promociones estacionales.</li>
+      <li><strong>Eventos y Catering:</strong> Usa las tarjetas de visita virtuales para promover eventos especiales o tus servicios de catering.</li>
+      <li><strong>Fidelización de Clientes:</strong> Ofrece a tus clientes fieles una tarjeta de visita virtual con un código QR que da acceso a descuentos exclusivos o a un programa de fidelización.</li>
+  </ul>
+</section>
+<section id="importancia-primera-impresion" class="margin-top-bottom-4">
+  <h2>La Importancia de la Primera Impresión</h2>
+  <p>En el sector de la restauración, la primera impresión es fundamental. Una tarjeta de visita virtual bien diseñada puede marcar la diferencia entre un cliente que te elige y otro que pasa de largo. El cuidado de los detalles en la tarjeta de visita virtual refleja la atención y la calidad que el cliente puede esperar en tu restaurante.</p>
+</section>
+<section id="faq" class="margin-top-bottom-4">
+  <h2>FAQ</h2>
+  <h3>¿Qué son las tarjetas de visita virtuales?</h3>
+  <p>Las tarjetas de visita virtuales son versiones digitales de las tradicionales tarjetas de visita en papel, compartibles a través de correo electrónico, mensajes, códigos QR y en las redes sociales.</p>
+  <h3>¿Cuáles son las ventajas de las tarjetas de visita virtuales frente a las de papel?</h3>
+  <p>Las tarjetas de visita virtuales son fácilmente actualizables, compartibles en tiempo real y pueden contener enlaces interactivos a recursos en línea, como el menú del restaurante o las reseñas de los clientes.</p>
+  <h3>¿Puedo crear tarjetas de visita virtuales gratuitamente?</h3>
+  <p>Sí, hay muchas plataformas en línea como Canva y Adobe Spark que ofrecen herramientas gratuitas para crear tarjetas de visita virtuales.</p>
+  <h3>¿Cómo puedo usar las tarjetas de visita virtuales para promocionar mi restaurante?</h3>
+  <p>Puedes usar las tarjetas de visita virtuales para enviar promociones, compartir eventos especiales o ofrecer descuentos a los clientes fieles mediante códigos QR.</p>
+  <h3>¿Son difíciles de crear las tarjetas de visita virtuales?</h3>
+  <p>No, las plataformas en línea ofrecen plantillas y herramientas intuitivas que hacen que la creación de tarjetas de visita virtuales sea sencilla incluso para quienes tienen poca experiencia en diseño.</p>
+  <h3>¿Puedo incluir un código QR en mi tarjeta de visita virtual?</h3>
+  <p>Absolutamente sí. Un código QR puede dirigir a los clientes a tu sitio web, al menú en línea o a la página de reservas, facilitando el acceso a la información de tu restaurante.</p>
+</section>
+<section id="conclusion" class="margin-top-bottom-4">
+  <h2>Conclusión</h2>
+  <p>La adopción de las tarjetas de visita virtuales gratuitas representa un paso adelante significativo para cualquier negocio de restauración que desee mantenerse al día. No solo ofrecen una forma ecológica y moderna de compartir la información de tu restaurante, sino que también mejoran la comunicación con los clientes y tu presencia en línea. Aprovecha estos recursos digitales para darle un toque innovador a tu negocio y atraer a una clientela cada vez más conectada y digital.</p>
+</section>`
 }
 
 ];

@@ -659,6 +659,87 @@ export const articlesEn = [
           <h2>Conclusion</h2>
           <p>SEO optimization for restaurants is an ongoing process that requires attention and strategy. By implementing the techniques discussed in this article, you can improve your website's visibility and attract more customers to your restaurant. Remember, SEO success takes time, but the results can be extremely rewarding.</p>
       </section>`
+},
+{
+  id: 7,
+  slug: "biglietti-da-visita-virtuali",
+  metaDescription: "Discover how free virtual business cards can revolutionize your restaurant business by improving visibility and communication with customers.",
+  metaKeywords: "virtual business cards, free virtual business card, digital business cards, restaurant, restaurant visibility, customer communication, free business cards, QR code restaurant, restaurant promotion",
+  title: "Free Virtual Business Cards for Restaurants",
+  shortDescription: "Discover how free virtual business cards can improve your restaurant's visibility and facilitate communication with customers.",
+  text: `<header>
+  <h1>Free Virtual Business Cards for Restaurants</h1>
+</header>
+<nav class="margin-top-bottom-4">
+  <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#what-are">What Are Virtual Business Cards?</a></li>
+      <li><a href="#benefits">Benefits of Virtual Business Cards for Restaurants</a></li>
+      <li><a href="#how-to-create">How to Create Free Virtual Business Cards for Your Restaurant</a></li>
+      <li><a href="#usage-examples">Examples of Using Virtual Business Cards in Restaurants</a></li>
+      <li><a href="#importance-first-impression">The Importance of the First Impression</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+<section id="introduction" class="margin-top-bottom-4">
+  <h2>Introduction</h2>
+  <p>In the digital age, the restaurant industry must evolve and adapt to new technological tools to remain competitive. One such tool is virtual business cards. These not only reduce paper usage, contributing to a more sustainable approach, but also offer a dynamic and interactive way to present your business to customers. If you are looking to improve your restaurant's visibility at no additional cost, consider using free virtual business cards.</p>
+</section>
+ <img class="img-reduce" src=${settings.businessCard.src} alt="business card"/>
+<section id="what-are" class="margin-top-bottom-4">
+  <h2>What Are Virtual Business Cards?</h2>
+  <p>Virtual business cards are digital versions of traditional paper business cards. They can be shared via email, social media, QR code, or even text messages. These cards contain all the necessary information about your restaurant, such as the name, address, contacts, and links to social profiles and the website.</p>
+</section>
+<section id="benefits" class="margin-top-bottom-4">
+  <h2>Benefits of Virtual Business Cards for Restaurants</h2>
+  <ul>
+      <li><strong>Accessibility and Immediate Sharing:</strong> You can send your virtual business card to anyone in seconds, facilitating the dissemination of your information.</li>
+      <li><strong>Easy Updates:</strong> If you change your address, phone number, or opening hours, you can update the virtual card without having to reprint anything.</li>
+      <li><strong>Interactivity:</strong> Add interactive links to your website, online menu, reviews on TripAdvisor and Google Maps, providing a complete experience to your customers.</li>
+  </ul>
+</section>
+<section id="how-to-create" class="margin-top-bottom-4">
+  <h2>How to Create Free Virtual Business Cards for Your Restaurant</h2>
+  <p>There are several online platforms that allow you to create free virtual business cards. Here is a step-by-step guide to get started:</p>
+  <ol>
+      <li><strong>Choose a Platform:</strong> Sites like Canva, Adobe Spark, and Visme offer free and customizable templates to create your virtual business cards.</li>
+      <li><strong>Customize the Design:</strong> Insert your restaurant's logo, corporate colors, and all necessary information. Ensure the design is attractive and professional.</li>
+      <li><strong>Add Useful Links:</strong> Include links to your online menu, reviews, and social media. You can also insert a QR code that leads directly to your website or reservations page.</li>
+      <li><strong>Export and Share:</strong> Once completed, export the card in digital format (PDF, PNG, or JPEG) and start sharing it with your customers.</li>
+  </ol>
+</section>
+<section id="usage-examples" class="margin-top-bottom-4">
+  <h2>Examples of Using Virtual Business Cards in Restaurants</h2>
+  <ul>
+      <li><strong>Promotions and Special Offers:</strong> Send virtual business cards with details about special offers, discounts, and seasonal promotions.</li>
+      <li><strong>Events and Catering:</strong> Use virtual business cards to promote special events or your catering services.</li>
+      <li><strong>Customer Loyalty:</strong> Offer your loyal customers a virtual business card with a QR code that gives access to exclusive discounts or a loyalty program.</li>
+  </ul>
+</section>
+<section id="importance-first-impression" class="margin-top-bottom-4">
+  <h2>The Importance of the First Impression</h2>
+  <p>In the restaurant industry, the first impression is crucial. A well-designed virtual business card can make the difference between a customer choosing you and one passing by. The attention to detail in the virtual business card reflects the care and quality the customer can expect in your restaurant.</p>
+</section>
+<section id="faq" class="margin-top-bottom-4">
+  <h2>FAQ</h2>
+  <h3>What are virtual business cards?</h3>
+  <p>Virtual business cards are digital versions of traditional paper business cards, shareable via email, messages, QR codes, and on social media.</p>
+  <h3>What are the advantages of virtual business cards over paper ones?</h3>
+  <p>Virtual business cards are easily updatable, shareable in real-time, and can contain interactive links to online resources, such as the restaurant menu or customer reviews.</p>
+  <h3>Can I create virtual business cards for free?</h3>
+  <p>Yes, there are many online platforms like Canva and Adobe Spark that offer free tools to create virtual business cards.</p>
+  <h3>How can I use virtual business cards to promote my restaurant?</h3>
+  <p>You can use virtual business cards to send promotions, share special events, or offer discounts to loyal customers through QR codes.</p>
+  <h3>Are virtual business cards difficult to create?</h3>
+  <p>No, online platforms offer intuitive templates and tools that make creating virtual business cards easy even for those with little design experience.</p>
+  <h3>Can I include a QR code in my virtual business card?</h3>
+  <p>Absolutely yes. A QR code can direct customers to your website, online menu, or reservations page, facilitating access to your restaurant's information.</p>
+</section>
+<section id="conclusion" class="margin-top-bottom-4">
+  <h2>Conclusion</h2>
+  <p>The adoption of free virtual business cards represents a significant step forward for any restaurant business that wants to stay up to date. They not only offer an ecological and modern way to share your restaurant's information but also improve communication with customers and your online presence. Take advantage of these digital resources to give your business an innovative touch and attract an increasingly connected and digital clientele.</p>
+</section>`
 }
 
 ];
