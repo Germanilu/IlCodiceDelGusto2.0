@@ -9,7 +9,7 @@ import './page.scss';
 export const metadata = {
   title: "IlCodiceDelGusto.com",
   description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
-  keywords: "sito ristorante, sito web ristorante"
+  keywords: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web",
 }
 
 export default function Home() {

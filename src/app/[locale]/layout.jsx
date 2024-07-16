@@ -6,6 +6,7 @@ import { Inter }                             from "next/font/google";
 import { useLocale }                         from "next-intl";
 import { notFound }                          from "next/navigation";
 import { Providers }                         from "../Redux/provider";
+import favicon from '../public/favicon.ico'
 import Script from 'next/script'
 import "./globals.scss";
 const inter = Inter({ subsets: ["latin"] });
@@ -13,7 +14,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Il Codice del Gusto",
   description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
-  keyword: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web"
+  keyword: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web",
+  icons: {
+    icon: favicon.src, 
+  }
 };
 
 export default function RootLayout({ children, params }) {
