@@ -26,9 +26,8 @@ export default function Home() {
      
       </div>
       <div id="digital-menu" className="digital-menu-section">
-     
+        <QrCode/>
       </div>
-      <QrCode />
       <Testimonials />
       <ScrollToTop />
     </div>
