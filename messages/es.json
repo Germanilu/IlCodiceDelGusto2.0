@@ -27,6 +27,11 @@
     "contact-us": "Contacto",
     "back":"Atrás"
   },
+  "Qr-code": {
+    "title": "Menú Digital",
+    "subtitle": "Menú Digital con código QR",
+    "text": "Lleva tu experiencia culinaria al siguiente nivel con nuestro servicio de creación de menús digitales. Ofrecemos soluciones innovadoras de menús con código QR que permiten a tus clientes acceder fácilmente a tu menú directamente desde sus smartphones. Esta tecnología no solo mejora la eficiencia del servicio, sino que también ofrece una forma moderna e higiénica de visualizar los platos de tu restaurante. Personalizamos los menús digitales para reflejar la identidad de tu restaurante, garantizando una presentación profesional y atractiva que tus clientes apreciarán."
+  },
   "About":{
     "title":"Titulo pagina sobre nosotros"
   },

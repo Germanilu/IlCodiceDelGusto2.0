@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import Hero from './components/hero'
 import Cards from "@/app/[locale]/components/cards";
 import Testimonials from './components/testimonials';
+import QrCode from './components/qr-code';
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
 
@@ -27,6 +28,7 @@ export default function Home() {
       <div id="digital-menu" className="digital-menu-section">
      
       </div>
+      <QrCode />
       <Testimonials />
       <ScrollToTop />
     </div>

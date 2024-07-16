@@ -1,0 +1,63 @@
+.qr-code-design{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 4rem 0rem;
+    .title{
+        margin-bottom: 4rem;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .favicon{
+        width: 50%;
+        .image{
+            width: 100%;
+        }
+    }
+    .qr-code-container{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        .text-container{
+            width: 50%;
+            .container-title{
+                font-size: 20px;
+                font-weight: 700;
+                line-height: 24px;
+            }
+            .text{
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+            }
+        }
+    }
+}
+
+@media (max-width:744px){
+    .qr-code-design{
+        .qr-code-container{
+            flex-direction: column-reverse;
+            .text-container{
+                width: 100%;
+            }
+        }
+    }
+}
+@media (max-width:390px){
+    .qr-code-design{
+        .qr-code-container{
+            .text-container{
+                .container-title{
+                    font-size: 16px;
+                }
+                .text{
+                    font-size: 12px;;
+                }
+            }
+        }
+    }
+}

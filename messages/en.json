@@ -27,6 +27,11 @@
       "contact-us": "Contact",
       "back":"Back"
     },
+    "Qr-code": {
+    "title": "Digital Menu",
+    "subtitle": "Digital Menu with QR code",
+    "text": "Take your dining experience to the next level with our digital menu creation service. We offer innovative QR code menu solutions that allow your customers to easily access your menu directly from their smartphones. This technology not only improves service efficiency but also offers a modern and hygienic way to view your restaurant's dishes. We customize digital menus to reflect your restaurant's identity, ensuring a professional and attractive presentation that your customers will appreciate."
+    },
     "About":{
       "title":"About main title"
     },
