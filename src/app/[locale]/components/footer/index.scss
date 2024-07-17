@@ -2,7 +2,7 @@
 
 .footer-container{
   background-color: $neptune_variable;
-  height: 450px;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -97,32 +97,50 @@
 @media screen and (max-width: '744px') {
 	.footer-container{
     height: max-content;
-    .reserved{
-    font-size: 10px;
-    }
-
-    .footer-design{
+    padding: 2rem 0rem;
+    .footer-design {
+      height: 100%;
       flex-direction: column;
-      margin-bottom: 2rem;
-      gap: 2rem;
+      justify-content: center;
+      gap: 1rem;
+  
+    .logo {
       width: 100%;
-      .menu,.policies,.info{
-        border: none;
-        width: 80%;
-        .list-item{
-          .item {
-            font-size: 14px;
-          }
-        }
-      }
-      .policies{
-        margin-bottom: 2rem;
-      }
-      .info{
-        .text{
-          font-size: 14px;
-        }
+      display: flex;
+      flex-direction: row;
+      padding: 0rem;
+      
+    }
+    
+    .socials {
+      flex-direction: row;
+      width: 100%;
+      padding-left: 0rem;
+    }
+    .menu {
+      width: 100%;
+      border-right: none;
+    }
+  
+    .info {
+      width: 100%;
+      padding-left: 0rem;
+  
+      .text {
+        font-size: 18px;
+        font-weight: 600;
+        text-align: left;
       }
     }
   }
+  .policies{
+    margin: 1rem 0rem;
+    width: 80%;
+    }
+    .reserved{
+      width: 80%;
+      font-size: 12px;
+      position: static;
+    }
+}
 }
