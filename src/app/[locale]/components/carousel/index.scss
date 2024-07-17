@@ -1,0 +1,83 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  gap: 100px;
+  .slick-list {  
+    height: 100%;
+    .slick-track {
+      margin-top: 1rem;
+      height: 100%;
+      .slick-slide {
+        width: 220px;
+        height: 100%;
+        transition: width 0.5s ease-in-out;
+        margin: 0 2px;
+        border-radius: .5rem;
+        &:hover {
+          width: 400px;
+          box-shadow: 1px 3px 15px #26666B;
+          transform: translatey(-30px);
+          border-radius: .5rem;
+        }
+        
+        >div {
+          height: 100%;
+          .x {
+            height: 100%;
+            border-radius: 0.5rem;
+            transition: 0.5s ease-in-out;
+            cursor: pointer;
+            box-shadow: 1px 5px 15px #26666B;
+            position: relative;
+            overflow: hidden;
+            
+            &.img-one {
+              background: url("../../../../static/media/tokio.jpg") no-repeat 50% / cover;
+            }
+            
+            &.img-two {
+              background: url("../../../../static/media/fondooriginal.jpg") no-repeat 50% / cover;
+            }
+            
+            &.img-three {
+              background: url("../../../../static/media/bgveggie.jpg") no-repeat 50% / cover;
+            }
+            &.img-four {
+              background: url("../../../../static/media/saporedinatura.jpg") no-repeat 50% / cover;
+            }
+            
+            
+            &:hover .content {
+              opacity: 1;
+              transform: translatey(0%);
+              visibility: visible;
+
+            }
+
+            .content {
+              font-size: 1.5rem;
+              color: #fff;
+              display: flex;
+              align-items: center;
+              padding: 15px;
+              opacity: 0;
+              flex-direction: column;
+              height: 100%;
+              justify-content: flex-end;
+              background: #26666B;
+              background: linear-gradient(0deg,
+                  #02022eac 0%,
+                  #26666B 100%);
+              transform: translatey(100%);
+              transition: opacity 0.5s ease-in-out, transform 0.5s 0.2s;
+              visibility: hidden;
+            }
+
+          }
+        }
+      }
+    }
+  }
+}

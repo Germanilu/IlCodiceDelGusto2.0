@@ -3,6 +3,7 @@ import Hero from './components/hero'
 import Cards from "@/app/[locale]/components/cards";
 import Testimonials from './components/testimonials';
 import QrCode from './components/qr-code';
+import Carousel from './components/carousel';
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
 
@@ -23,7 +24,7 @@ export default function Home() {
         <Cards />
       </div>
       <div id="projects" className="project-section">
-     
+      <Carousel/>
       </div>
       <div id="digital-menu" className="digital-menu-section">
         <QrCode/>
