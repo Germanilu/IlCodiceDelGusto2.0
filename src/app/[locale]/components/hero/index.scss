@@ -4,7 +4,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  margin-left: -160px;
+  background-image: url("../../../../static//media/hero-codice.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   .text {
     display: flex;
     flex-direction: column;
@@ -15,13 +22,11 @@
     .slogan {
       font-weight: 600;
       font-size: 16px;
-      color: $neptune_variable;
     }
 
     .title {
       font-weight: 700;
       font-size: 52px;
-      color: $black;
       text-align: center;
       line-height: 50px;
       margin-top: .5rem;
@@ -30,13 +35,19 @@
     .website-name {
       font-weight: 600;
       font-size: 18px;
-      color: $neptune_variable;
       margin-top: 1rem;
     }
   }
+}
 
-  .hero-img {
-    margin-top: 2.5rem;
-    width: 100vw;
+@media (max-width:744px){
+  .hero-design {
+    margin-left: -32px;
   }
 }
+@media (max-width:390px){
+  .hero-design {
+    margin-left: -16px;
+  }
+}
+

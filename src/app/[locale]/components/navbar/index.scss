@@ -10,8 +10,10 @@
   top: 0;
   left: 0;
   width: 100%; 
-  background-color: $neptune;
   z-index: 1;
+  background-color: transparent;
+  background-color: #0C0C0C;
+  
   .navbar-container{
     display: flex;
     align-items: center;

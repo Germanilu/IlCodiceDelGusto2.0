@@ -22,13 +22,13 @@
             width: 30px;
             height: 30px;
             border-radius: 50%;
-            background-color: #26666B;
+            background-color: $old_lace;
           }
           .bubble2{
             width: 15px;
             height: 15px;
             border-radius: 50%;
-            background-color: #26666B;
+            background-color: $old_lace;
           }
           &.active{
             display: flex;
@@ -88,7 +88,6 @@
       flex-direction: column;
       p{
         font-size: 20px;
-        color: #00000080;
         font-weight: 600;
       }
       h3{
@@ -103,7 +102,6 @@
           margin-top: 1rem;
           font-weight: bold;
           animation: fadeIn 2s forwards;
-          color: rgba(0, 0, 0, 1);
         }
       }
       .selectors{

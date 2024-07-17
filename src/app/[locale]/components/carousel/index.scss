@@ -1,3 +1,5 @@
+@import "../../../utilities/variables.scss";
+
 .container {
   width: 100%;
   display: flex;
@@ -7,17 +9,17 @@
   .slick-list {  
     height: 100%;
     .slick-track {
-      margin-top: 1rem;
       height: 100%;
       .slick-slide {
         width: 220px;
         height: 100%;
         transition: width 0.5s ease-in-out;
-        margin: 0 2px;
+        margin: 0 1px;
         border-radius: .5rem;
+        border: 1px solid $old_lace  ;
         &:hover {
           width: 400px;
-          box-shadow: 1px 3px 15px #26666B;
+          box-shadow: 1px 3px 15px #fef7f65b;
           transform: translatey(-30px);
           border-radius: .5rem;
         }
@@ -29,7 +31,7 @@
             border-radius: 0.5rem;
             transition: 0.5s ease-in-out;
             cursor: pointer;
-            box-shadow: 1px 5px 15px #26666B;
+            box-shadow: 1px 5px 15px #6e6e6e73;
             position: relative;
             overflow: hidden;
             
@@ -58,7 +60,7 @@
 
             .content {
               font-size: 1.5rem;
-              color: #fff;
+              color: $old_lace;
               display: flex;
               align-items: center;
               padding: 15px;
@@ -68,8 +70,8 @@
               justify-content: flex-end;
               background: #26666B;
               background: linear-gradient(0deg,
-                  #02022eac 0%,
-                  #26666B 100%);
+                  #0c0c0c9a 0%,
+                  $old_lace 100%);
               transform: translatey(100%);
               transition: opacity 0.5s ease-in-out, transform 0.5s 0.2s;
               visibility: hidden;

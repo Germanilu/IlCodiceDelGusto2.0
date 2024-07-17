@@ -1,3 +1,5 @@
+@import "../../../utilities/variables.scss";
+
 .progress-container {
     position: fixed;
     top: 0;
@@ -7,7 +9,7 @@
     z-index: 1; 
     .progress-bar {
       height: 100%;
-      background-color: black;
+      background-color: $old_lace;
       width: 0;
       transition: width 0.2s ease-in-out;
     }

@@ -1,7 +1,7 @@
 @import "../../../utilities/variables.scss";
 
 .footer-container{
-  background-color: $neptune_variable;
+  background-color: #0C0C0C;
   height: 450px;
   display: flex;
   flex-direction: column;
@@ -38,7 +38,7 @@
   }
 
   .menu {
-    border-right: 2px solid black;
+    border-right: 2px solid $old_lace;
     padding-right: 4rem;
     display: flex;
     flex-direction: column;
