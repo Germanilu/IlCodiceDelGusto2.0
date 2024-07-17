@@ -18,10 +18,6 @@ export default function Footer() {
       <div className="footer-design">
         <div className="logo">
           <Image src={icon} />
-          <div className="socials">
-            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image className="social2" src={ig} /></Link></div>
-            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <Image src={linkedin} /></Link></div>
-          </div>
         </div>
         <div className="menu">
           <li className="list-item">
@@ -46,15 +42,19 @@ export default function Footer() {
           <div className="text">+39 333 333 333</div>
           <div className="text">P.Iva 1234566789</div>
         </div>
+        <div className="socials">
+            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image className="social2" src={ig} /></Link></div>
+            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <Image src={linkedin} /></Link></div>
+          </div>
+      </div>
         <div className="policies">
-          <li className="list-item">
-            <Link className="item" href="/blog">{t1('privacy-policy')}</Link>
-          </li>
           <li className="list-item">
             <Link className="item" href="/blog">{t1('cookie-policy')}</Link>
           </li>
+          <li className="list-item">
+            <Link className="item" href="/blog">{t1('privacy-policy')}</Link>
+          </li>
         </div>
-      </div>
       <span className='reserved'><strong>© 2024.</strong> Il Codice del Gusto. <strong>{t1('rights')}</strong></span>
     </div>
   )
