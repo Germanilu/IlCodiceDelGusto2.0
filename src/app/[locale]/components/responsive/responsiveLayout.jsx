@@ -8,7 +8,7 @@ const ResponsiveLayout = ({ children }) => {
   const dispatch = useDispatch();
 
   const handleResize = () => {
-    const isResponsive = window.innerWidth < 768; // Adjust the breakpoint as needed
+    const isResponsive = window.innerWidth < 745; // Adjust the breakpoint as needed
     dispatch(setResponsive(isResponsive));
   };
 

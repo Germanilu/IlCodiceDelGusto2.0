@@ -2,28 +2,78 @@
 
 .card-design {
   width: 358px;
-  height: 442px;
+  height: 500px;
   border-radius: 20px;
   border: 2px solid $old_lace ;
-  background-color: $neptune_variable;
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
   align-items: center;
-  justify-content: space-around;
   color: $old_lace;
-  .card-title {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
-    width: 295px;
-    text-align: center;
+  position: relative;
+  overflow: hidden;
+  .background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; 
+    .img{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .gradient-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to left top, #0c0c0ca6, rgba(14, 13, 13, 0.596));
   }
+  }
+  .text-container{
+    width: 90%;
+    margin-bottom: 2rem;
+    height: 60%;
+    .card-title {
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 24px;
+      width: 295px;
+      text-align: left;
+      margin-bottom: 2rem;
+    }
+    
+    .card-text {
+      margin-bottom: 2rem;
+      font-size: 16px;
+      font-weight: 500;
+      width: 326px;
+      text-align: left;
+    }
+  }
+}
 
-  .card-text {
-    font-size: 14px;
-    font-weight: 400;
-    width: 326px;
-    text-align: center;
-    padding-bottom: 2rem;
+
+@media (max-width:744px){
+  .card-design {
+   width: 70%;
+   margin: 0 auto;
+   .text-container{
+    height: 70%;
+    .card-title {
+      width: 100%;
+    }
+   }
+  }
+}
+@media (max-width:390px){
+  .card-design {
+   width: 100%;
+   margin: 0 auto;
   }
 }
