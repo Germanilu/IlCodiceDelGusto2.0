@@ -24,6 +24,7 @@ export default function Home() {
         <Cards />
       </div>
       <div id="projects" className="project-section">
+      <span className="text">{t('our-works')}</span>
       <Carousel/>
       </div>
       <div id="digital-menu" className="digital-menu-section">

@@ -24,7 +24,7 @@ const Carousel = () => {
         {
           projects.map(project => {
             return (
-              <Link key={project.id} href={project.href}className={`x ${project.className}`} target="_blank">
+              <Link key={project.id} href={project.href}className={`card ${project.className}`} target="_blank">
                   <div className="content">
                     <h2>{project.title}</h2>
                   </div>
