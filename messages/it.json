@@ -1,7 +1,9 @@
 {
     "Home": {
         "what-we-offer": "Cosa offriamo",
-        "our-works":"I nostri lavori"
+        "our-works":"I nostri lavori",
+        "testimonials":"Opinini",
+        "contact": "Contattaci"
     },
     "Hero":{
         "slogan":"Porta il tuo ristorante nel futuro con pagine web su misura.",
@@ -55,7 +57,8 @@
         "send": "Invia",
         "loading": "Caricamento ...",
         "success-alert": "Grazie. Ti ricontatteremo il prima possibile.",
-        "unsuccess-alert": "Ahh, qualcosa è andato storto. Per favore riprova."
+        "unsuccess-alert": "Ahh, qualcosa è andato storto. Per favore riprova.",
+              "text":"Vuoi maggiori informazioni sui nostri servizi? Contattaci oggi stesso per richiedere un preventivo personalizzato! Saremo lieti di parlare con te e discutere in modo approfondito delle tue esigenze specifiche. Compila il modulo qui sotto e ti risponderemo al più presto"
     },
     "Button":{
         "back":"Indietro"

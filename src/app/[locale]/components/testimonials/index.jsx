@@ -22,7 +22,7 @@ const Testimonials = () => {
   }
 
   return(
-    <div id='testimonials' className="testimonial">
+    <div className="testimonial">
       <div className="images">
         {
           reviews.map((review) => {

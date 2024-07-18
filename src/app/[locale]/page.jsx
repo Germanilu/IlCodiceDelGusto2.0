@@ -4,6 +4,7 @@ import Cards from "@/app/[locale]/components/cards";
 import Testimonials from './components/testimonials';
 import QrCode from './components/qr-code';
 import Carousel from './components/carousel';
+import Contact from './components/contact';
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
 
@@ -30,7 +31,15 @@ export default function Home() {
       <div id="digital-menu" className="digital-menu-section">
         <QrCode/>
       </div>
+      <div id="testimonials" className="testimonials">
+        <span className="text">{t('testimonials')}</span>
       <Testimonials />
+      </div>
+      <div id="contact" className="contact">
+        <span className="text">{t('contact')}</span>
+        <Contact/>
+      </div>
+      
       <ScrollToTop />
     </div>
   )
