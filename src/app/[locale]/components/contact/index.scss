@@ -152,25 +152,33 @@
 }
 
 
-@media (max-width:1024px) {
-  .contact-us {
-    .contact-form {
-      width: 50%;
-    }
-  }
-}
-
-@media (max-width:425px) {
-  .contact-us {
-    .contact-form {
-      width: 90%;
-
-      .svg-contact-us {
-        right: -20px;
+@media (max-width:390px) {
+  .contact-design{
+    flex-direction: column;
+    .contact-left-container{
+      width: 100%;
+      .contact-text{
+        width: 100%;
+        text-align: center;
+      }
+      .img-container{
+        display: none;
       }
     }
+    .contact-form{
+      padding:0;
+      margin-top: 2rem;
+      .subtitle{
+        display: none;
+      }
+      .form{
+
+      }
+    }
+    
   }
 }
+
 
 
 
