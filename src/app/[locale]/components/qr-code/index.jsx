@@ -10,7 +10,7 @@ const QrCode = () => {
     <div className='qr-code-design'>
       <h2 className='title'>{t('title')}</h2>
       <div className="qr-code-container">
-        <div className="favicon">
+        <div className="image-container">
           <Image className='image' src={qrCode} alt={'qr-code'} />
         </div>
         <div className="text-container">

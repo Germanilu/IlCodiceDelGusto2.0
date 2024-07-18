@@ -12,7 +12,7 @@
         font-size: 32px;
         line-height: 50px;
     }
-    .favicon{
+    .image-container{
         width: 50%;
         .image{
             width: 100%;
@@ -41,9 +41,12 @@
 @media (max-width:744px){
     .qr-code-design{
         .qr-code-container{
-            flex-direction: column-reverse;
+            flex-direction: column;
             .text-container{
                 width: 100%;
+            }
+            .image-container{
+                display: none;
             }
         }
     }
