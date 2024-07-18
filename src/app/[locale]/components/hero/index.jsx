@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import Button from '@/app/[locale]/components/button'
 import './index.scss';
 
 const Hero = () => {
@@ -10,6 +11,9 @@ const Hero = () => {
         <span className="slogan">{t('slogan')}</span>
         <h1 className="title">{t('title')}</h1>
         <span className="website-name">{t('website-name')}</span>
+      </div>
+      <div className="hero-call-to-action">
+        <Button text={'contact-us'} href={'#contact'}/>
       </div>
     </div>
   );

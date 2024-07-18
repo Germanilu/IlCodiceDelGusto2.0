@@ -2,9 +2,10 @@
 import { Link } from '@/navigation';
 import { useTranslations } from "next-intl";
 import Image from 'next/image';
+import { FaLinkedin, FaInstagram } from "react-icons/fa";
+
 import icon from "../../../../static/media/svg/icon.svg";
-import ig from "../../../../static/media/svg/ig.svg";
-import linkedin from "../../../../static/media/svg/linkedin.svg";
+
 
 import './index.scss';
 
@@ -43,8 +44,8 @@ export default function Footer() {
           <div className="text">P.Iva 1234566789</div>
         </div>
         <div className="socials">
-            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <Image className="social2" src={ig} /></Link></div>
-            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <Image src={linkedin} /></Link></div>
+            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={40}/></Link></div>
+            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <FaInstagram size={40}/></Link></div>
           </div>
       </div>
         <div className="policies">
