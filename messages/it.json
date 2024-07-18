@@ -46,14 +46,13 @@
         "review-3":"Web moderna e funzionale. Prenotazioni online e sezione recensioni utili. Comunicazione eccellente con il team. Molto soddisfatti!"
     },
     "Contact-us-component": {
-        "title": "Contatto",
-        "subtitle": "Sottotitolo",
+        "subtitle": "Iniziamo un progetto?",
         "name-tag": "nome",
-        "name-placeholder": "nome",
+        "name-placeholder": "Clicca per iniziare a scrivere",
         "email-tag": "email",
-        "email-placeholder": "email",
+        "email-placeholder": "Clicca per iniziare a scrivere",
         "message-tag": "messaggio",
-        "message-placeholder": "messaggio",
+        "message-placeholder": "Scrivi la tua idea",
         "send": "Invia",
         "loading": "Caricamento ...",
         "success-alert": "Grazie. Ti ricontatteremo il prima possibile.",

@@ -3,7 +3,7 @@
     "what-we-offer": "Qué Ofrecemos",
     "our-works":"Nuestros Trabajos",
     "testimonials":"Opiniones",
-    "contact": "Contactanos"
+    "contact": "Contáctanos"
   },
   "Hero": {
     "slogan": "Lleva tu restaurante al futuro con páginas web a medida.",
@@ -46,14 +46,13 @@
     "title":"Contacta con nosotros Titulo"
   },
   "Contact-us-component":{
-    "title":"Contacto",
-    "subtitle":"Subtitulo",
+    "subtitle": "¿Empezamos un proyecto?",
     "name-tag":"name",
-    "name-placeholder":"name",
+    "name-placeholder":"Haz clic para empezar a escribir",
     "email-tag":"email",
-    "email-placeholder":"email",
+    "email-placeholder":"Haz clic para empezar a escribir",
     "message-tag":"mensaje",
-    "message-placeholder":"mensaje",
+    "message-placeholder":"Cuéntanos tu idea",
     "send": "Enviar",
     "loading":"Cargando",
     "success-alert":"Gracias. Nos pondremos en contacto contigo tan pronto como sea posible",

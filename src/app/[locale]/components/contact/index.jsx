@@ -8,6 +8,7 @@ import './index.scss';
 
 export default function Contact() {
   const formRef = useRef();
+  const textAreaRef = useRef(null);
   const t = useTranslations("Contact-us-component");
 
   //State
@@ -29,6 +30,19 @@ export default function Contact() {
       [name]: value,
     });
   };
+
+  /**
+   * @method handleInput
+   * Allow to resize height input when writing
+   * @param {event} e 
+   */
+  const handleInput = (e) => {
+    if (textAreaRef.current) {
+      textAreaRef.current.style.height = "auto";
+      textAreaRef.current.style.height = `${e.target.scrollHeight - 16}px`;
+    }
+  };
+
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -218,10 +232,8 @@ export default function Contact() {
         </div>
       </div>
 
-
-
+      
       <div className="contact-form">
-        <p className='text'>{t('title')}</p>
         <h3 className='subtitle'>{t('subtitle')}</h3>
         <form
           ref={formRef}
@@ -250,15 +262,17 @@ export default function Contact() {
               className='input'
             />
           </label>
-          <label className='form-label'>
+          <label className='form-label a'>
             <span className='message'>{t('message-tag')}</span>
             <textarea
-              rows={7}
+              rows={0}
               name='message'
               value={form.message}
               onChange={handleChange}
               placeholder={t('message-placeholder')}
               className='input textarea'
+              onInput={handleInput}
+              ref={textAreaRef}
             />
           </label>
 

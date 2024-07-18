@@ -3,7 +3,7 @@
       "what-we-offer": "Wath we offer",
       "our-works":"Ouw works",
       "testimonials":"Opinions",
-      "contact": "Contact-us"
+      "contact": "Contact us"
     },
    "Hero": {
     "slogan": "Bring your restaurant into the future with custom web pages.",
@@ -46,14 +46,13 @@
       "review-3": "Modern and functional website. Online bookings and useful reviews section. Excellent communication with the team. Very satisfied!"
     },
     "Contact-us-component":{
-      "title":"Contact",
-      "subtitle":"Subtitle",
+      "subtitle": "Shall we start a project?",
       "name-tag":"name",
-      "name-placeholder":"name",
+      "name-placeholder":"Click to start typing",
       "email-tag":"email",
-      "email-placeholder":"email",
+      "email-placeholder":"Click to start typing",
       "message-tag":"message",
-      "message-placeholder":"message",
+      "message-placeholder":"Write your idea",
       "send": "Send",
       "loading":"Loading ...",
       "success-alert":"Thank you. We will get back to you as soon as possible.",
