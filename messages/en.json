@@ -37,8 +37,19 @@
     "About":{
       "title":"About main title"
     },
-    "Contact-us":{
-      "title":"Who I am"
+   "Contact-us": {
+    "title": "Who I Am",
+    "name": "Luciano Germani",
+    "profession": "Full Stack Developer",
+    "desc": "Hello everyone! I'm Luciano, a passionate Full Stack Developer with a talent for creating innovative digital experiences. My journey in the world of programming has been an exciting adventure, and I am thrilled to share a glimpse of this experience with you.",
+    "h1": "Web Consulting",
+    "p1": "Web consulting | Social consulting",
+    "h2": "Web Development",
+    "p2": "Virtual business cards | Digital menus with QR code | Simple showcase websites | Single-page websites | Multi-page websites | Multilingual websites | Website redesign | Website improvement | Landing pages | Web applications | Web management systems | Web optimizations | SEO optimizations",
+    "h3": "Web Marketing",
+    "p3": "Web marketing | Email marketing | Social marketing",
+    "h4": "Web Design",
+    "p4": "Flyers and brochures | Business cards | Digital menus"
     },
     "Reviews":{
       "title":"What our customers say",

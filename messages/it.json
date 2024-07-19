@@ -38,7 +38,18 @@
         "title": "Titolo principale su di noi"
     },
     "Contact-us": {
-        "title": "Chi sono"
+        "title": "Chi sono",
+        "name":"Luciano Germani",
+        "profession":"Full Stack Developer",
+        "desc":"Ciao a tutti! Sono Luciano, un appassionato sviluppatore Full Stack con un talento per creare esperienze digitali innovative. Il mio viaggio nel mondo della programmazione è stato un'avventura emozionante, e sono entusiasta di condividere con te un assaggio di questa esperienza.",
+        "h1":"Consulenza Web",
+        "p1":"Consulenza web | Consulenza social",
+        "h2":"Sviluppo Web",
+        "p2":"Biglietti da visita virtuali | Menù digitali con qr code| Siti web vetrina semplici | Siti web a pagina singola | Siti web con più pagine | Siti web con più lingue | Rifacimento siti web | Miglioramento siti web | Landing page | Applicazioni web | Gestionali web | Ottimizzazioni web | Ottimizzazioni seo",
+        "h3":"Marketing Web",
+        "p3":"Marketing Web | Marketing Email | Marketing social",
+        "h4":"Web Design",
+        "p4":"Depliant e brochures | Biglietti da visita | Menú digitale"
     },
     "Reviews": {
         "title": "Cosa dicono i nostri clienti",

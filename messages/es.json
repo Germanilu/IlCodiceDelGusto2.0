@@ -43,8 +43,19 @@
     "review-2": "Sitio web elegante y funcional. Las reservas y el menú en línea han aumentado el tráfico. ¡Muy recomendado!",
     "review-3": "Sitio web moderno y funcional. Reservas en línea y sección de reseñas útiles. Comunicación excelente con el equipo. ¡Muy satisfechos!"
   },
-  "Contact-us":{
-    "title":"Quién soy"
+  "Contact-us": {
+    "title": "Quién Soy",
+    "name": "Luciano Germani",
+    "profession": "Desarrollador Full Stack",
+    "desc": "¡Hola a todos! Soy Luciano, un apasionado desarrollador Full Stack con talento para crear experiencias digitales innovadoras. Mi viaje en el mundo de la programación ha sido una aventura emocionante, y estoy encantado de compartir con ustedes una muestra de esta experiencia.",
+    "h1": "Consultoría Web",
+    "p1": "Consultoría web | Consultoría social",
+    "h2": "Desarrollo Web",
+    "p2": "Tarjetas de visita virtuales | Menús digitales con código QR | Sitios web de escaparate simples | Sitios web de una sola página | Sitios web de múltiples páginas | Sitios web multilingües | Rediseño de sitios web | Mejora de sitios web | Páginas de destino | Aplicaciones web | Sistemas de gestión web | Optimizaciones web | Optimizaciones SEO",
+    "h3": "Marketing Web",
+    "p3": "Marketing web | Marketing por correo electrónico | Marketing social",
+    "h4": "Diseño Web",
+    "p4": "Folletos y brochures | Tarjetas de visita | Menús digitales"
   },
   "Contact-us-component":{
     "subtitle": "¿Empezamos un proyecto?",
