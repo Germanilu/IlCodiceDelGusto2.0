@@ -1,97 +1,13 @@
-'use client';
 
-import React, { useRef, useState, useEffect } from "react";
-import emailjs from "@emailjs/browser";
 import { useTranslations } from "next-intl";
-
+import ContactForm from "./form";
 import './index.scss';
 
 export default function Contact() {
-  const formRef = useRef();
-  const textAreaRef = useRef(null);
   const t = useTranslations("Contact-us-component");
-
-  //State
-  const [form, setForm] = useState({
-    name: "",
-    email: "",
-    message: "",
-  });
-
-  const [enabled, setEnabled] = useState(false);
-  const [messageSent, setMessageSent] = useState(false);
-
-  //Functions
-  const handleChange = (e) => {
-    const { target } = e;
-    const { name, value } = target;
-
-    setForm({
-      ...form,
-      [name]: value,
-    });
-  };
-
-  /**
-   * @method handleInput
-   * Allow to resize height input when writing
-   * @param {event} e 
-   */
-  const handleInput = (e) => {
-    if (textAreaRef.current) {
-      textAreaRef.current.style.height = "auto";
-      textAreaRef.current.style.height = `${e.target.scrollHeight - 16}px`;
-    }
-  };
-
-
-  const handleSubmit = (e) => {
-
-    e.preventDefault();
-    
-    emailjs
-      .send(
-        "service_n5i7lyk",
-        "template_ou5goui",
-        {
-          from_name: form.name,
-          to_name: "Luciano",
-          from_email: form.email,
-          to_email: "ilcodicedelgusto@gmail.com",
-          message: form.message,
-        },
-        "5lzcGIcsd0YFFFG2J"
-      )
-      .then(
-        () => {
-          setMessageSent(true)
-          alert(t('success-alert'));
-
-          setForm({
-            name: "",
-            email: "",
-            message: "",
-          });
-        },
-        (error) => {
-          console.error(error);
-          alert(t('unsuccess-alert'));
-        }
-      );
-  };
-
-  useEffect(() => {
-    const allValuesHaveLength = Object.values(form).every(value => value.length > 0);
-    setEnabled(allValuesHaveLength)
-    if(messageSent){
-      setEnabled(true)
-    }
-  },[form])
-
 
   return (
     <div className='contact-design' >
-
       <div className="contact-left-container">
         <span className="contact-text">{t('text')}</span>
         <div className="img-container">
@@ -240,8 +156,9 @@ export default function Contact() {
         </div>
       </div>
 
+      <ContactForm/>
       
-      <div className="contact-form">
+      {/* <div className="contact-form">
         <h3 className='subtitle'>{t('subtitle')}</h3>
         <form
           ref={formRef}
@@ -291,7 +208,7 @@ export default function Contact() {
             { messageSent ? t('message-confirmation') : t('send')}
           </button>
         </form>
-      </div>
+      </div> */}
     </div>
   )
 }

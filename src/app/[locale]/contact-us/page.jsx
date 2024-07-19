@@ -1,6 +1,6 @@
 import { useTranslations }  from "next-intl";
-import Contact              from '../components/contact/index';
 import './page.scss'
+import ContactForm from "../components/contact/form";
 
 
 export const metadata = {
@@ -16,7 +16,7 @@ export default function ContactUs(){
       <h1 className="title">{t('title')}</h1>
       <div className="container-image">
         <div className="contact-container">
-
+          <ContactForm/>
         </div>
       </div>
       <div className="container-text">

@@ -24,11 +24,46 @@
         justify-content: center;
 
         .contact-container{
-          border: 1px solid red;
-          width: 550px;
-          height: 284px;
+          background-color: $cod_gray;
+          width: 548px;
           border-radius: 20px;
-          margin-top: 15rem;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top: 20rem;
+          .contact-form{
+            padding: 2rem 0rem;
+            width: 100%;
+            .subtitle{
+              margin-left: 6%;
+            }
+            .form{
+              width: 100%;
+              width: 100%;
+              align-items: flex-start;
+              flex-direction: row;
+              flex-wrap: wrap;
+              justify-content: center;
+              align-items: center;
+              .form-label{
+                width: max-content;
+                &.last{
+                  width: 100%;
+                  align-items: flex-start;
+                  width: 90%;
+                  .textarea{
+                    width: 100%;
+                    padding-left: 0rem;
+                    padding-right: 0rem;
+                    
+                  }
+                }
+                .input{
+                  width: 200px;
+                }
+              }
+            }
+          }
         }
     }
     .container-text{
