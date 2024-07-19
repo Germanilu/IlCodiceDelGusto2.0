@@ -28,7 +28,7 @@
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #0C0C0C;
+    background-color: $orange_variant;
     transform: translate(-50%, -50%) scale(0);
     transition: transform 1s cubic-bezier(0.25, 1, 0.5, 1);
     z-index: 1;
