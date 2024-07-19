@@ -54,7 +54,7 @@
       "message-tag":"message",
       "message-placeholder":"Write your idea",
       "send": "Send",
-      "loading":"Loading ...",
+      "message-confirmation": "Sent",
       "success-alert":"Thank you. We will get back to you as soon as possible.",
       "unsuccess-alert":"Ahh, something went wrong. Please try again.",
       "text":"Do you want more information about our services? Contact us today to request a personalized quote! We will be happy to talk with you and discuss your specific needs in depth. Fill out the form below, and we will get back to you as soon as possible."

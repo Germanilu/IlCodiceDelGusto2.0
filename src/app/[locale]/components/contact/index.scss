@@ -81,6 +81,7 @@
     .form {
       display: flex;
       flex-direction: column;
+      align-items: flex-end;
       gap: 1rem;
 
       .form-label {
@@ -144,9 +145,32 @@
       }
     }
 
-    .button {
-      width: 50%;
-      color: black;
+    .form-button {
+      all: unset;
+      display: none;
+      width: 25%;
+      border: 1px solid $old_lace ;
+      color: $old_lace;
+      padding: 8px 16px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: 600;
+      background-color: $cod_gray;
+      transition: color 1s ease;
+      &:hover{
+        background-color: $old_lace;
+        color: $cod_gray;
+        border: 1px solid #0c0c0c46;
+      }
+      &.confirmation-sent{
+        background-color: $neptune_variable ;
+        border: 1px solid $neptune_variable;
+      }
+      &.enabled{
+        transition: display 1s ease;
+        display: block;
+      }
     }
   }
 }
@@ -172,7 +196,7 @@
         display: none;
       }
       .form{
-
+        align-items: center;
       }
     }
     

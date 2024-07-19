@@ -54,7 +54,7 @@
     "message-tag":"mensaje",
     "message-placeholder":"Cuéntanos tu idea",
     "send": "Enviar",
-    "loading":"Cargando",
+    "message-confirmation": "Enviado",
     "success-alert":"Gracias. Nos pondremos en contacto contigo tan pronto como sea posible",
     "unsuccess-alert":"¡Ah, algo salió mal! Por favor, inténtalo de nuevo.",
     "text":"¿Quieres más información sobre nuestros servicios? ¡Contáctanos hoy mismo para solicitar un presupuesto personalizado! Estaremos encantados de hablar contigo y discutir tus necesidades específicas en profundidad. Rellena el formulario a continuación y te responderemos lo antes posible."
