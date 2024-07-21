@@ -16,3 +16,16 @@
 
 
 }
+
+@media (max-width:744px){
+  .home-design {
+    .what-we-offer-section, .project-section, .testimonials, .contact {
+      .text {
+        font-weight: 800;
+        font-size: 28px;
+      }
+    }
+  
+  
+  }
+}

@@ -40,13 +40,24 @@
 
 @media (max-width:744px){
     .qr-code-design{
+        .title{
+            font-size: 24px;
+            font-weight: 800;
+        }
         .qr-code-container{
             flex-direction: column;
             .text-container{
+                margin-top: 2rem;
                 width: 100%;
-            }
-            .image-container{
-                display: none;
+                text-align: center;
+                .container-title{
+                    font-size: 20px;
+                    font-weight: 700;
+                }
+                .text{
+                    font-size: 16px;
+                    font-weight: 400;
+                }
             }
         }
     }
