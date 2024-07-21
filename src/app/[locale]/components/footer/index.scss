@@ -96,7 +96,7 @@
 }
 
 
-@media screen and (max-width: '744px') {
+@media (max-width:744px){
 	.footer-container{
     height: max-content;
     padding: 2rem 0rem;
@@ -110,10 +110,8 @@
       width: 100%;
       display: flex;
       flex-direction: row;
-      padding: 0rem;
-      
-    }
-    
+      padding: 0rem;      
+    }    
     .socials {
       flex-direction: row;
       width: 100%;
@@ -122,6 +120,12 @@
     .menu {
       width: 100%;
       border-right: none;
+      .list-item{
+        .item{
+          font-size: 16px;
+          font-weight: 400;
+        }
+      }
     }
   
     .info {
@@ -129,15 +133,22 @@
       padding-left: 0rem;
   
       .text {
-        font-size: 18px;
-        font-weight: 600;
+        font-size: 16px;
+        font-weight: 400;
         text-align: left;
       }
     }
+
   }
   .policies{
     margin: 1rem 0rem;
     width: 80%;
+    .list-item{
+      .item{
+        font-size: 16px;
+        font-weight: 400;
+      }
+    }
     }
     .reserved{
       width: 80%;
