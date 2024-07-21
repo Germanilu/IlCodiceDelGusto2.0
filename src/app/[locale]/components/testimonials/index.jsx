@@ -42,7 +42,7 @@ const Testimonials = () => {
         }
       </div>
       <div className="reviews">
-        <p>{t('title')}</p>
+        <p className='our-client'>{t('title')}</p>
         <h3 className='title'>TESTIMONIALS</h3>
           {renderText()}
           <div className='selectors'>

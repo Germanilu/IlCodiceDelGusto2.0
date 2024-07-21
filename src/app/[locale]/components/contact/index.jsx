@@ -157,58 +157,6 @@ export default function Contact() {
       </div>
 
       <ContactForm/>
-      
-      {/* <div className="contact-form">
-        <h3 className='subtitle'>{t('subtitle')}</h3>
-        <form
-          ref={formRef}
-          onSubmit={handleSubmit}
-          className='form'
-        >
-          <label className='form-label'>
-            <span className='name'>{t('name-tag')}</span>
-            <input
-              type='text'
-              name='name'
-              value={form.name}
-              onChange={handleChange}
-              placeholder={t('name-placeholder')}
-              className='input'
-            />
-          </label>
-          <label className='form-label'>
-            <span className='email'>{t('email-tag')}</span>
-            <input
-              type='email'
-              name='email'
-              value={form.email}
-              onChange={handleChange}
-              placeholder={t('email-placeholder')}
-              className='input'
-            />
-          </label>
-          <label className='form-label a'>
-            <span className='message'>{t('message-tag')}</span>
-            <textarea
-              rows={0}
-              name='message'
-              value={form.message}
-              onChange={handleChange}
-              placeholder={t('message-placeholder')}
-              className='input textarea'
-              onInput={handleInput}
-              ref={textAreaRef}
-            />
-          </label>
-
-          <button
-            type='submit'
-            className={`form-button ${enabled ? 'enabled': ""} ${messageSent ? 'confirmation-sent' : ""}`}
-          >
-            { messageSent ? t('message-confirmation') : t('send')}
-          </button>
-        </form>
-      </div> */}
     </div>
   )
 }

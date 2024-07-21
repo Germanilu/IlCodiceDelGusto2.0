@@ -117,12 +117,22 @@
   
   @media (max-width:744px){
     .testimonial {
+      width: 100%;
+      .text{
+        margin-bottom: 0rem;
+      }
       .images {
         display: none;
       }
       .reviews{
-        min-width: 80%;
-        max-width: 80%;
+        max-width: 100%;
+        text-align: center;
+        .title, .our-client{
+          display: none;
+        }
+        .selectors{
+          justify-content: center;
+        }
       }
     }
   }
