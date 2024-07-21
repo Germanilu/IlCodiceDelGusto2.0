@@ -15,9 +15,6 @@
   &.scrolled{
     background-color: #0C0C0C;
   }
-  &.mobile{
-    background-color: #0C0C0C;
-  }
   
   .navbar-container{
     display: flex;
@@ -54,6 +51,9 @@
   .navbar{
     padding: .5rem 0rem;
     border-bottom: none;
+    &.open{
+      background-color: #0C0C0C;
+    }
     .menu-action{
       margin-right: 1rem;
       width: 100%;

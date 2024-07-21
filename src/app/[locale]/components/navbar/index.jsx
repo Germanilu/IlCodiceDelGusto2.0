@@ -39,7 +39,7 @@ const Navbar = () => {
     <>
       {
         isMobile ?
-        <nav className='navbar mobile'>
+        <nav className={`navbar mobile ${openMenu ? "open":""}`}>
             <div className='menu-action' onClick={() => setOpenMenu(!openMenu)}>
               {openMenu ? <RxCross2 className='burger-menu-icon' /> : <IoMenu className='burger-menu-icon' />}
               {openMenu &&

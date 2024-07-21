@@ -51,6 +51,21 @@
 @media (max-width:390px){
   .hero-design {
     margin-left: -16px;
+    .text{
+      width: 90%;
+      .slogan{
+        font-size: 12px ;
+        font-weight: 500;
+      }
+      .title{
+        font-weight: 700;
+        font-size: 32px;
+      }
+      .website-name{
+        font-weight: 500;
+        font-size: 12px;
+      }
+    }
   }
 }
 
