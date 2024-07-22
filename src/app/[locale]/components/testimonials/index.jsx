@@ -16,7 +16,7 @@ const Testimonials = () => {
     return(
       <div className="review">
         <span key={selected.id} className='review-text' >{t(selected.text)}</span>
-        <p>{`${selected.author}`}</p>
+        <p className='author-name'>{`${selected.author}`}</p>
       </div>
     )
   }

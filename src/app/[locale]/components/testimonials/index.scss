@@ -133,6 +133,11 @@
         .selectors{
           justify-content: center;
         }
+        .review{
+          .author-name{
+            display: none;
+          }
+        }
       }
     }
   }
