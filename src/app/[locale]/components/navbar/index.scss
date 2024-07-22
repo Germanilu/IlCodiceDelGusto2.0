@@ -36,10 +36,50 @@
         display: flex;
         align-items: center;
         cursor: pointer;
+        .services{
+          display: flex;
+          align-items: center;
+        }
         .item{
           font-weight: 500;
           font-size: 16px;
           line-height: 24px;
+        }
+        .services-container{
+          width: 625px;
+          background-color: #0C0C0C;
+          position: absolute;
+          top: 65%;
+          right: 35%;
+          display: none;
+          justify-content: space-between;
+          padding: 0rem 2rem 2rem 2rem;
+          border-radius: 0px 0px 20px 20px;
+          border-top: 1px solid $old_lace;
+          cursor: default;
+          &.open{
+            display: flex;
+          }
+          .row{
+            .list-container{
+              .title{
+                font-size: 18px;
+                font-weight: 600;
+                margin: 1rem 0rem;
+                margin-top: 2rem ;
+              }
+              .list-item{
+                .item{
+                  font-size: 16px;
+                  font-weight: 300;
+                  color: $old_lace;
+                  &:hover{
+                    color: #fefbf686;
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }

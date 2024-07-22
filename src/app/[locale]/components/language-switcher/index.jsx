@@ -2,7 +2,7 @@ import { useRouter,usePathname } from '@/navigation';
 import { useLocale } from 'next-intl';
 import { useState } from 'react';
 import Image from 'next/image';
-import { IoMdArrowDropdown } from 'react-icons/io';
+import { IoMdArrowDropdown, IoMdArrowDropup } from 'react-icons/io';
 import en from '@/static/media/svg/en.svg';
 import it from '@/static/media/svg/it.svg';
 import es from '@/static/media/svg/es.svg';
@@ -37,7 +37,12 @@ export default function LanguageSwitcher() {
     <div className="language-switcher-design">
       <div className="current-language" onClick={() => setIsOpen(!isOpen)}>
         <Image src={flags[locale]} alt={languages[locale]} />
-        <IoMdArrowDropdown size={30} color='#FEFBF6' />
+        {
+          isOpen ? 
+          <IoMdArrowDropup size={30} color='#FEFBF6' />
+          :
+          <IoMdArrowDropdown size={30} color='#FEFBF6' />
+        }
       </div>
       {isOpen && (
         <div className="dropdown-content">

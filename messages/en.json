@@ -7,7 +7,7 @@
     },
    "Hero": {
     "slogan": "Bring your restaurant into the future with custom web pages.",
-    "title": "We create innovative, dynamic, and personalized web pages for your restaurant.",
+    "title": "We create innovative, dynamic, and personalized Websites for your restaurant.",
     "website-name":"Il Codice del Gusto"
     },
     "Cards": {
@@ -28,6 +28,33 @@
       "services":"Services",
       "contact-us": "Contact",
       "back":"Back"
+    },
+    "Services": {
+      "title1": "Web Development",
+      "title2": "Web Design",
+      "title3": "Web Consulting",
+      "title4": "Web Marketing",
+      "service1": "Virtual Business Cards",
+      "service2": "Digital Menus with QR Code",
+      "service3": "Simple Showcase Websites",
+      "service4": "Single Page Applications",
+      "service5": "Multi-page Websites",
+      "service6": "Multi-language Websites",
+      "service7": "Website Redesign",
+      "service8": "Website Improvement",
+      "service9": "Landing Page",
+      "service10": "Web Applications",
+      "service11": "Web Management Systems",
+      "service12": "Web Optimizations",
+      "service13": "SEO Optimizations",
+      "service14": "Flyers and Brochures",
+      "service15": "Business Cards",
+      "service16": "Digital Menu",
+      "service17": "Web Consulting",
+      "service18": "Social Consulting",
+      "service19": "Web Marketing",
+      "service20": "Email Marketing",
+      "service21": "Social Marketing"
     },
     "Qr-code": {
     "title": "Digital Menu",
