@@ -13,13 +13,18 @@ const QrCode = () => {
 
   return (
     <div className='qr-code-design'>
-      <h2 className='title'>{t('title')}</h2>
+      {
+        isMobile && <h2 className='title'>{t('title')}</h2>
+      }
       <div className="qr-code-container">
         <div className="image-container">
           <Image className='image' src={isMobile ? qrCodeMobile : qrCode} alt={'qr-code'} />
         </div>
         <div className="text-container">
-          <h2 className='container-title'>{t('subtitle')}</h2>
+          {
+            !isMobile && <h2 className='title'>{t('title')}</h2>
+          }
+          <p className='container-title'>{t('subtitle')}</p>
           <span className='text'>{t('text')}</span>
         </div>
       </div>
