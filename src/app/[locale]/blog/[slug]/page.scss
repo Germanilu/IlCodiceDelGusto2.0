@@ -4,7 +4,7 @@ p{
 .post-container {
 	width: 85%;
 	margin: 2rem auto;
-
+    margin-top: 10rem;
 	.margin-top-bottom-4 {
 		margin: 4rem 0rem;
 	}
@@ -26,8 +26,9 @@ p{
 	}
 }
 
-@media screen and (max-width: '767px') {
+@media (max-width:744px){
 	.post-container {
+		margin-top: 5rem;
 		.img-reduce {
 			width: 100%;
 		}

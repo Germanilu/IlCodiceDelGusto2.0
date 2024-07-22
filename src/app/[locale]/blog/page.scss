@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin-top: 10rem;
     .articles-container{
         width: 90%;
         display: flex;
@@ -21,3 +22,8 @@
     }
 }
 
+@media (max-width:390px){
+    .blog{
+        margin-top: 5rem;
+    }
+}

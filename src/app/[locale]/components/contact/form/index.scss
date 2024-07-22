@@ -119,6 +119,11 @@
         }
         .form{
           align-items: center;
+          .form-label{
+            .input{
+              width: 280px;
+            }
+          }
         }
       }
   }
