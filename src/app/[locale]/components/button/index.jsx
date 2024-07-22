@@ -10,7 +10,7 @@ import './index.scss';
  * @param {String} href 
  */
 const Button = ({text, href}) => {
-  const t     = useTranslations("Navbar");
+  const t     = useTranslations("Button");
 
   return (
     <Link href={href}>

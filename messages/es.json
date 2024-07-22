@@ -26,7 +26,6 @@
     "testimonial": "Sobre nosotros",
     "blog": "Blog",
     "services":"Servicios",
-    "contact-us": "Contacto",
     "back":"Atrás"
   },
   "Services": {
@@ -99,7 +98,9 @@
     "text":"¿Quieres más información sobre nuestros servicios? ¡Contáctanos hoy mismo para solicitar un presupuesto personalizado! Estaremos encantados de hablar contigo y discutir tus necesidades específicas en profundidad. Rellena el formulario a continuación y te responderemos lo antes posible."
   },
   "Button":{
-    "back":"Atrás"
+    "back":"Atrás",
+    "next":"Siguiente Artículo",
+    "contact-us": "Contacto"
   },
   "Footer":{
     "title": "Footer",

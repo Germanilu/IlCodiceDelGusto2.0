@@ -26,7 +26,6 @@
         "testimonial": "Dicono di noi",
         "blog": "Blog",
         "services":"Servizi",
-        "contact-us": "Contatto",
         "back":"Indietro"
     },
     "Services":{
@@ -99,7 +98,9 @@
               "text":"Vuoi maggiori informazioni sui nostri servizi? Contattaci oggi stesso per richiedere un preventivo personalizzato! Saremo lieti di parlare con te e discutere in modo approfondito delle tue esigenze specifiche. Compila il modulo qui sotto e ti risponderemo al più presto"
     },
     "Button":{
-        "back":"Indietro"
+        "back":"Indietro",
+        "next":"Prossimo articolo",
+        "contact-us": "Contatto"
       },
     "Footer": {
         "title": "Piè di pagina",

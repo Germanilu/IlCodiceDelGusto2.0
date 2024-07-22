@@ -32,6 +32,23 @@ const getArticle = (params) => {
  return article
 }
 
+const getArticleById = (params) => {
+  let article;
+  if(params.locale == 'it'){
+    article = articlesIt.find((article) => article.id === params.id);
+   }
+ if(params.locale == 'es'){
+   article = articlesEs.find((article) => article.id === params.id);
+ }
+ if(params.locale == 'en'){
+   article = articlesEn.find((article) => article.id === params.id);
+ }
+ if (!article) {
+   notFound();
+ }
+ return article
+}
+
 
 /**
  * @method generateMetadata
@@ -49,17 +66,60 @@ export async function generateMetadata({ params }) {
   };
 }
 
+/**
+ * @method generateRandomId
+ * Generate a random id that is equal or inferior to the length of the italian articles (taken as reference)
+ * 
+ * @returns Number
+ */
+const generateRandomId = (currentPostId) => {
+  const generate = () => Math.floor(Math.random() * articlesIt.length) + 1;
+
+  let randomId = generate();
+
+  while (randomId === currentPostId) {
+    randomId = generate();
+  }
+
+  return randomId;
+}
+
+/**
+ * @method generateRandomeArticle
+ * This function will generate a random id, different from the current article id, and will return the href of it.
+ * 
+ * @param {Object} params  shape: { locale: 'it', slug: 'net-promoter-score' }
+ * @returns String href
+ */
+const generateRandomArticle = (params) => {
+  console.log(params)
+  const locale            = params.locale;
+
+  const currentPostId     = getArticle(params).id;
+  const randomId          = generateRandomId(currentPostId);
+
+  const newArticleParams  = { locale: locale, id:randomId }
+  const randomArticle     = getArticleById(newArticleParams)
+
+  return randomArticle.slug
+}
+
 const BlogPost = ({ params }) => {
+
 
   unstable_setRequestLocale(params.locale);
 
   const article = getArticle(params)
+  const articleHref = generateRandomArticle(params)
 
   return (
     <div className="post-container">
       <ProgressBar/>
       <div dangerouslySetInnerHTML={{ __html: article.text }} />
-      <Button href='/blog' text='back'/>
+      <div className='buttons'>
+        <Button href='/blog' text='back'/>
+        <Button href={articleHref} text='next'/>
+      </div>
     </div>
   );
 };

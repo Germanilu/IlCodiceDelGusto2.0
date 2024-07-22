@@ -24,6 +24,11 @@ p{
 		justify-content: center;
 		gap: 4rem;
 	}
+	.buttons{
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+	}
 }
 
 @media (max-width:744px){
