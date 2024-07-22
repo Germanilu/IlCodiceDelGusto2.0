@@ -19,6 +19,7 @@ export default function Footer() {
       <div className="footer-design">
         <div className="logo">
           <Image src={icon} />
+          <span className='website-name'>il codice del gusto</span>
         </div>
         <div className="menu">
           <li className="list-item">
@@ -44,8 +45,8 @@ export default function Footer() {
           <div className="text">P.Iva 1234566789</div>
         </div>
         <div className="socials">
-            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={40}/></Link></div>
-            <div className="social"><Link className="social1" target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <FaInstagram size={40}/></Link></div>
+            <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={30}/></Link></div>
+            <div className="social"><Link target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <FaInstagram size={30}/></Link></div>
           </div>
       </div>
         <div className="policies">
