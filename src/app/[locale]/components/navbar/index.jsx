@@ -32,6 +32,10 @@ const Navbar = () => {
   }
 
 
+  /**
+   * @method renderService 
+   * @returns Html with services
+   */
   const renderService = () => {
     return (
       <div className={`${openServices ? "open" : ""} services-container`}>
@@ -167,7 +171,7 @@ const Navbar = () => {
                     <IoMdArrowDropdown size={30} color='#FEFBF6' />
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/contact-us">{t('contact-us')}</Link>
+                    <Link className="item" href="/contact-us"  onClick={closeMenu}>{t('contact-us')}</Link>
                   </li>
                   <li className="list-item">
                     <LanguageSwitcher className="language-switcher" />
