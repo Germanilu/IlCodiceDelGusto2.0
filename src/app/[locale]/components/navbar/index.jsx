@@ -20,6 +20,12 @@ const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const isMobile = useSelector(state => state.responsive.isMobile);
 
+
+  const closeMenu = () => {
+    setOpenMenu(!openMenu)
+  }
+
+
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 900) {
@@ -39,30 +45,28 @@ const Navbar = () => {
     <>
       {
         isMobile ?
-        <nav className={`navbar mobile ${openMenu ? "open":""}`}>
-            <div className='menu-action' onClick={() => setOpenMenu(!openMenu)}>
-              {openMenu ? <RxCross2 className='burger-menu-icon' /> : <IoMenu className='burger-menu-icon' />}
+        <nav className={`navbar mobile ${openMenu ? "open":""} ${scrolled ? 'scrolled' : ''}`}>
+           <Link className="item" href="/">
+              <Image className='logo' src={icon} height={100}/>
+            </Link>
+            <div className='menu-action' >
+              {openMenu ? <RxCross2 className='burger-menu-icon' size={25} onClick={closeMenu} /> : <IoMenu className='burger-menu-icon' size={25} onClick={closeMenu} />}
               {openMenu &&
                 <ul className='mobile-navbar-box'>
                   <li className="list-item">
-                    <Link className="item" href="/">
-                      <Image src={icon}/>
-                    </Link>
+                    <Link className="item" href="/#what-we-offer" onClick={closeMenu} >{t('what-we-offer')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/#what-we-offer" >{t('what-we-offer')}</Link>
+                    <Link className="item" href="/#projects" onClick={closeMenu}>{t('our-works')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/#projects">{t('our-works')}</Link>
+                    <Link className="item" href="/#digital-menu" onClick={closeMenu}>{t('digital-menu')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/#digital-menu">{t('digital-menu')}</Link>
+                    <Link className="item" href="/#testimonials" onClick={closeMenu}>{t('testimonial')}</Link>
                   </li>
                   <li className="list-item">
-                    <Link className="item" href="/#testimonials">{t('testimonial')}</Link>
-                  </li>
-                  <li className="list-item">
-                    <Link className="item" href="/blog">{t('blog')}</Link>
+                    <Link className="item" href="/blog" onClick={closeMenu}>{t('blog')}</Link>
                   </li>
                   <li className="list-item">
                     <span className='item'>{t('services')}</span>

@@ -47,16 +47,25 @@
 }
 
 
-@media screen and (max-width: '744px') {
+@media (max-width:744px){
   .navbar{
-    padding: .5rem 0rem;
+    padding: 1.5rem 2rem;
+    padding-top: 0rem;
     border-bottom: none;
+    display: flex;
+    justify-content: space-between;
     &.open{
       background-color: #0C0C0C;
+      height: 100vh;
+      display: block;
+      padding-top: 2.5rem;
+      .item{
+        .logo{
+          display: none;
+        }
+      }
     }
     .menu-action{
-      margin-right: 1rem;
-      width: 100%;
       display: flex; 
       flex-direction: column;
       align-items: flex-end;
@@ -75,8 +84,12 @@
           justify-content: right;
           padding: .5rem 0rem;
           margin-right: 2rem;
+          z-index: 200;
           .item{
             border-bottom: 1px solid $black;
+          }
+          .language-switcher-design{
+            z-index: 200;
           }
         }
       }
