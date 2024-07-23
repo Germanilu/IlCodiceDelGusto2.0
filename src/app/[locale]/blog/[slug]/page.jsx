@@ -93,7 +93,6 @@ const generateRandomId = (currentPostId) => {
  * @returns String href
  */
 const generateRandomArticle = (params) => {
-  console.log(params)
   const locale            = params.locale;
 
   const currentPostId     = getArticle(params).id;

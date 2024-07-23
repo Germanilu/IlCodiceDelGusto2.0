@@ -13,7 +13,7 @@ const getCookieByLang = (lang) => {
     return cookieLang
 }
 
-const cookiePolicy = () => {
+const CookiePolicy = () => {
     const locale = useLocale();
     const html = getCookieByLang(locale)
 
@@ -24,4 +24,4 @@ const cookiePolicy = () => {
     )
 }
 
-export default cookiePolicy
+export default CookiePolicy

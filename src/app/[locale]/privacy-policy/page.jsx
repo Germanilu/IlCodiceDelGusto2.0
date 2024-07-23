@@ -12,7 +12,7 @@ const getPolicieByLang = (lang) => {
     }
     return policyLang
 }
-const privacypolicy = () => {
+const Privacypolicy = () => {
     const locale = useLocale();
     const html = getPolicieByLang(locale)
 
@@ -23,4 +23,4 @@ const privacypolicy = () => {
     )
 }
 
-export default privacypolicy
+export default Privacypolicy
