@@ -51,7 +51,7 @@ export const articlesEs = [
     <div>
       <h2>Nuestro servicio de creación de códigos QR</h2>
       <p>Ofrecemos un servicio de creación de menú digital con código QR por solo 20€. Este servicio adicional está diseñado para ser accesible y conveniente, permitiendo a todos los restauradores adoptar esta tecnología innovadora sin una inversión significativa. Nuestro equipo se encarga de la generación del código QR y de la configuración del menú digital, garantizando una transición fluida y sin problemas.</p>
-      <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Pide mas informaciones <strong class="text"> aquí </strong> </div></a>
+      <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Pide mas informaciones <strong class="text"> aquí </strong> </div></a>
       <h3>Libertad de modificación sin costos adicionales</h3>
       <p>Una de las principales preocupaciones de los restauradores es la flexibilidad en modificar el menú. Con nuestro servicio, ofrecemos la total libertad de actualizar y modificar tu menú digital cuando quieras, sin costos adicionales. Esta funcionalidad te permite mantener tu menú siempre actualizado, reflejando las variaciones estacionales, las nuevas creaciones culinarias y las promociones especiales sin tener que incurrir en gastos adicionales.</p>
 
@@ -103,6 +103,7 @@ export const articlesEs = [
         </ul>
       </section>
        <img class="img " src=${settings.marketingChef.src} alt="marketing digital"/>
+       <a href='https://ilcodicedelgusto.com/'><div class="call-to-action">Pide mas informaciones sobre nuestros servicios <strong class="text"> aquí </strong> </div></a>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>¿Por qué es importante la presencia online del restaurante?</h2>
         <p>Una fuerte presencia online es esencial para el éxito de cualquier restaurante moderno. Aquí algunos motivos:</p>
@@ -484,6 +485,7 @@ export const articlesEs = [
       <h3>Menú Creativo y Variado</h3>
       <p>Ofrecer un menú variado y creativo puede distinguir a una pizzería de la competencia. Introduciendo nuevas pizzas de temporada o ingredientes inusuales, se puede mantener el interés de los clientes y atraer a nuevos aficionados.</p>
   </section>
+   <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Pide más informaciones <strong class="text"> Aquí </strong> </div></a>
 
   <section id="conclusion" class="margin-top-bottom-4">
       <h2>Conclusión</h2>
@@ -566,6 +568,7 @@ export const articlesEs = [
       </section>
           </div>
           </section>
+           <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Pide mas informaciones <strong class="text"> aquí </strong> </div></a>
          <section id="contenido-calidad" class="margin-top-bottom-4">
           <h2>Creación de Contenido de Calidad</h2>
           <h3>Blog para restaurantes</h3>

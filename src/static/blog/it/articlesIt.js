@@ -50,7 +50,7 @@ export const articlesIt = [
     <div>
       <h2>Il nostro servizio di creazione di QR code</h2>
       <p>Offriamo un servizio di creazione di menu digitale con QR code per soli 20€. Questo servizio aggiuntivo è progettato per essere accessibile e conveniente, consentendo a tutti i ristoratori di adottare questa tecnologia innovativa senza un investimento significativo. Il nostro team si occupa della generazione del codice QR e della configurazione del menu digitale, garantendo una transizione fluida e senza problemi.</p>
-       <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Richiedi informazioni sul nostro servizio cliccando <strong class="text"> qui </strong> </div></a>
+       <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Richiedi informazioni sul nostro servizio cliccando <strong class="text"> qui </strong> </div></a>
       <h3>Libertà di modifica senza costi aggiuntivi</h3>
       <p>Una delle principali preoccupazioni dei ristoratori è la flessibilità nel modificare il menu. Con il nostro servizio, offriamo la totale libertà di aggiornare e modificare il tuo menu digitale quando vuoi, senza costi aggiuntivi. Questa funzionalità ti permette di mantenere il tuo menu sempre aggiornato, riflettendo le variazioni stagionali, le nuove creazioni culinarie e le promozioni speciali senza dover sostenere ulteriori spese.</p>
 
@@ -103,6 +103,7 @@ export const articlesIt = [
         </ul>
       </section>
        <img class="img " src=${settings.marketingChef.src} alt="marketing digitale"/>
+        <a href='https://ilcodicedelgusto.com/'><div class="call-to-action">Richiedi informazioni su tutti i  nostri servizi cliccando <strong class="text"> qui </strong> </div></a>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>Perché è importante la presenza online del ristorante</h2>
         <p>Una forte presenza online è essenziale per il successo di qualsiasi ristorante moderno. Ecco alcuni motivi:</p>
@@ -486,6 +487,8 @@ export const articlesIt = [
         <p>Offrire un menu variegato e creativo può distinguere una pizzeria dalla concorrenza. Introducendo nuove pizze stagionali o ingredienti insoliti, si può mantenere l'interesse dei clienti e attrarre nuovi appassionati.</p>
     </section>
 
+    <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Richiedi maggiori informazioni <strong class="text"> qui </strong> </div></a>
+
     <section id="conclusione" class="margin-top-bottom-4">
         <h2>Conclusione</h2>
         <p>L'aumento della clientela di un ristorante richiede una combinazione di strategie di fidelizzazione, marketing efficace e gestione della reputazione online. Offrendo un'esperienza eccezionale e promuovendo attivamente il ristorante, è possibile creare una base di clienti fedeli e soddisfatti.</p>
@@ -567,7 +570,7 @@ export const articlesIt = [
       </section>
       </div>
       </section>
-      
+       <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Richiedi informazioni sul nostro servizio cliccando <strong class="text"> qui </strong> </div></a>
       <section id="contenuti-qualita" class="margin-top-bottom-4">
           <h2>Creazione di Contenuti di Qualità</h2>
           <h3>Blog per ristoranti</h3>

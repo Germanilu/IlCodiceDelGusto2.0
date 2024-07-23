@@ -51,7 +51,7 @@ export const articlesEn = [
     <div>
       <h2>Our QR code creation service</h2>
       <p>We offer a digital menu creation service with a QR code for just €20. This additional service is designed to be accessible and convenient, allowing all restaurateurs to adopt this innovative technology without significant investment. Our team handles QR code generation and digital menu setup, ensuring a smooth and hassle-free transition.</p>
-      <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Request more information <strong class="text"> here </strong> </div></a>
+      <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Request more information <strong class="text"> here </strong> </div></a>
       <h3>Freedom to modify without additional costs</h3>
       <p>One of the main concerns of restaurateurs is flexibility in modifying the menu. With our service, we offer the total freedom to update and modify your digital menu whenever you want, without additional costs. This feature allows you to keep your menu always up-to-date, reflecting seasonal variations, new culinary creations, and special promotions without incurring additional expenses.</p>
 
@@ -103,6 +103,7 @@ export const articlesEn = [
         </ul>
       </section>
        <img class="img " src=${settings.marketingChef.src} alt="digital marketing"/>
+        <a href='https://ilcodicedelgusto.com/'><div class="call-to-action">Request more information about our services <strong class="text"> here </strong> </div></a>
       <section id="presenza-online" class="margin-top-bottom-4">
         <h2>Why is the restaurant's online presence important?</h2>
         <p>A strong online presence is essential for the success of any modern restaurant. Here are some reasons:</p>
@@ -484,6 +485,7 @@ export const articlesEn = [
     <h3>Creative and Varied Menu</h3>
     <p>Offering a varied and creative menu can set a pizzeria apart from the competition. Introducing new seasonal pizzas or unusual ingredients can keep customers interested and attract new enthusiasts.</p>
 </section>
+   <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Request more information <strong class="text"> here </strong> </div></a>
 
 <section id="conclusion" class="margin-top-bottom-4">
     <h2>Conclusion</h2>
@@ -566,7 +568,7 @@ export const articlesEn = [
       </section>
           </div>
           </section>
-      
+      <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Request more information <strong class="text"> here </strong> </div></a>
       <section id="quality-content" class="margin-top-bottom-4">
           <h2>Creating Quality Content</h2>
           <h3>Restaurant Blog</h3>
