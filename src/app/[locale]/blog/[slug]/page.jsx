@@ -6,6 +6,7 @@ import { articlesEn } from '@/static/blog/en/articlesEn';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
 import  Button from '@/app/[locale]/components/button';
 import { unstable_setRequestLocale } from 'next-intl/server';
+import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
 
 
@@ -120,6 +121,7 @@ const BlogPost = ({ params }) => {
         <Button href='/blog' text='back'/>
         <Button href={articleHref} text='next'/>
       </div>
+      <ScrollToTop />
     </div>
   );
 };

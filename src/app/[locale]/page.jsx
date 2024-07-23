@@ -39,7 +39,6 @@ export default function Home() {
         <span className="text">{t('contact')}</span>
         <Contact/>
       </div>
-      
       <ScrollToTop />
     </div>
   )
