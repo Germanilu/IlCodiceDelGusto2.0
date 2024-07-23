@@ -50,7 +50,7 @@ export const articlesIt = [
     <div>
       <h2>Il nostro servizio di creazione di QR code</h2>
       <p>Offriamo un servizio di creazione di menu digitale con QR code per soli 20€. Questo servizio aggiuntivo è progettato per essere accessibile e conveniente, consentendo a tutti i ristoratori di adottare questa tecnologia innovativa senza un investimento significativo. Il nostro team si occupa della generazione del codice QR e della configurazione del menu digitale, garantendo una transizione fluida e senza problemi.</p>
-
+       <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Richiedi informazioni sul nostro servizio cliccando <strong class="text"> qui </strong> </div></a>
       <h3>Libertà di modifica senza costi aggiuntivi</h3>
       <p>Una delle principali preoccupazioni dei ristoratori è la flessibilità nel modificare il menu. Con il nostro servizio, offriamo la totale libertà di aggiornare e modificare il tuo menu digitale quando vuoi, senza costi aggiuntivi. Questa funzionalità ti permette di mantenere il tuo menu sempre aggiornato, riflettendo le variazioni stagionali, le nuove creazioni culinarie e le promozioni speciali senza dover sostenere ulteriori spese.</p>
 
@@ -58,6 +58,7 @@ export const articlesIt = [
       <p>L'implementazione di un menu digitale è semplice e veloce. Forniamo tutto il necessario per iniziare, inclusi i codici QR stampabili che possono essere posizionati sui tavoli, sul bancone o all'ingresso del ristorante. Il nostro team ti guiderà attraverso ogni passaggio, assicurando che tu e il tuo staff siate completamente preparati per utilizzare e gestire il nuovo sistema di menu.</p>
     </div>
   </section>
+
   <footer id="conclusions"  class="margin-top-bottom-4">
     <h2>Conclusioni</h2>
     <p>Adottare un menu digitale con codice QR nel tuo ristorante non è solo un passo verso l'innovazione, ma una scelta strategica che migliora l'efficienza operativa, l'esperienza del cliente e la sostenibilità ambientale. Offri ai tuoi clienti un'esperienza moderna e interattiva, rendendo il tuo ristorante più attraente e competitivo nel mercato odierno. Con il nostro servizio di creazione di QR code a soli 20€ e la possibilità di modificare il menu senza costi aggiuntivi, la transizione verso un menu digitale non è mai stata così facile e conveniente.</p>

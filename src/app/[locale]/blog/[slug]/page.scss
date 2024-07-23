@@ -29,6 +29,13 @@ p{
 		display: flex;
 		justify-content: space-between;
 	}
+	.call-to-action{
+		text-decoration: underline;
+		margin-bottom: 2rem;
+		.text{
+			text-transform: uppercase;
+		}
+	}
 }
 
 @media (max-width:744px){

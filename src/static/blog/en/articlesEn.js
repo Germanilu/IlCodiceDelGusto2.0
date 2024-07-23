@@ -51,7 +51,7 @@ export const articlesEn = [
     <div>
       <h2>Our QR code creation service</h2>
       <p>We offer a digital menu creation service with a QR code for just €20. This additional service is designed to be accessible and convenient, allowing all restaurateurs to adopt this innovative technology without significant investment. Our team handles QR code generation and digital menu setup, ensuring a smooth and hassle-free transition.</p>
-
+      <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Request more information <strong class="text"> here </strong> </div></a>
       <h3>Freedom to modify without additional costs</h3>
       <p>One of the main concerns of restaurateurs is flexibility in modifying the menu. With our service, we offer the total freedom to update and modify your digital menu whenever you want, without additional costs. This feature allows you to keep your menu always up-to-date, reflecting seasonal variations, new culinary creations, and special promotions without incurring additional expenses.</p>
 

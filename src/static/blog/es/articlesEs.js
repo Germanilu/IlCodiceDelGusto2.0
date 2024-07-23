@@ -51,7 +51,7 @@ export const articlesEs = [
     <div>
       <h2>Nuestro servicio de creación de códigos QR</h2>
       <p>Ofrecemos un servicio de creación de menú digital con código QR por solo 20€. Este servicio adicional está diseñado para ser accesible y conveniente, permitiendo a todos los restauradores adoptar esta tecnología innovadora sin una inversión significativa. Nuestro equipo se encarga de la generación del código QR y de la configuración del menú digital, garantizando una transición fluida y sin problemas.</p>
-
+      <a href='https://ilcodicedelgusto.com/es/contact-us'><div class="call-to-action">Pide mas informaciones <strong class="text"> aquí </strong> </div></a>
       <h3>Libertad de modificación sin costos adicionales</h3>
       <p>Una de las principales preocupaciones de los restauradores es la flexibilidad en modificar el menú. Con nuestro servicio, ofrecemos la total libertad de actualizar y modificar tu menú digital cuando quieras, sin costos adicionales. Esta funcionalidad te permite mantener tu menú siempre actualizado, reflejando las variaciones estacionales, las nuevas creaciones culinarias y las promociones especiales sin tener que incurrir en gastos adicionales.</p>
 
