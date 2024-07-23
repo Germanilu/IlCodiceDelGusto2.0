@@ -51,7 +51,7 @@ export default function Footer() {
       </div>
         <div className="policies">
           <li className="list-item">
-            <Link className="item" href="/blog">{t1('cookie-policy')}</Link>
+            <Link className="item" href="/cookie-policy">{t1('cookie-policy')}</Link>
           </li>
           <li className="list-item">
             <Link className="item" href="/privacy-policy">{t1('privacy-policy')}</Link>
