@@ -54,7 +54,7 @@ export default function Footer() {
             <Link className="item" href="/blog">{t1('cookie-policy')}</Link>
           </li>
           <li className="list-item">
-            <Link className="item" href="/blog">{t1('privacy-policy')}</Link>
+            <Link className="item" href="/privacy-policy">{t1('privacy-policy')}</Link>
           </li>
         </div>
       <span className='reserved'><strong>© 2024.</strong> Il Codice del Gusto. <strong>{t1('rights')}</strong></span>
