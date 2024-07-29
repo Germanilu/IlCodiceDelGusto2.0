@@ -4,8 +4,18 @@
     position: fixed;
     bottom: 1.5rem;
     right: 1.5rem;
-    border: 1px solid $black ;
+    border-radius: 50%;
+    background-color: $old_lace;
     width: max-content;
     padding: 1rem;
     cursor: pointer;
+    .icon{
+        fill: black;
+    }
+    &:hover{
+        background-color: #737373;
+        .icon{
+            fill: $old_lace;
+        }
+    }
 }

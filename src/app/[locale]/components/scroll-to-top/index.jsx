@@ -1,6 +1,6 @@
 'use client'
 
-import { FaArrowUp }            from "react-icons/fa";
+import { PiArrowLineUpBold } from "react-icons/pi";
 import { useEffect, useState }  from "react";
 
 import './index.scss';
@@ -31,7 +31,7 @@ export default function ScrollToTop() {
     <>
       {
         scrollToTopButton &&
-        <div onClick={scrollUp} className="scroll-to-top"><FaArrowUp /></div>
+        <div onClick={scrollUp} className="scroll-to-top"><PiArrowLineUpBold className="icon" size={30}/></div>
       }
     </>
   )
