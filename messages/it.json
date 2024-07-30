@@ -100,7 +100,8 @@
     "Button":{
         "back":"Indietro",
         "next":"Prossimo articolo",
-        "contact-us": "Contatto"
+        "contact-us": "Contatto",
+        "start-new-project":" Iniziamo un nuovo Progetto"
       },
     "Footer": {
         "title": "Piè di pagina",

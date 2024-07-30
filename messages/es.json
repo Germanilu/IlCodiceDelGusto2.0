@@ -100,7 +100,8 @@
   "Button":{
     "back":"Atrás",
     "next":"Siguiente Artículo",
-    "contact-us": "Contacto"
+    "contact-us": "Contacto",
+    "start-new-project": "Empecemos un nuevo proyecto"
   },
   "Footer":{
     "title": "Footer",

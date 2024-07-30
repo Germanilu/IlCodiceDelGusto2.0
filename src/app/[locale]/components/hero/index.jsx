@@ -13,7 +13,7 @@ const Hero = () => {
         <span className="website-name">{t('website-name')}</span>
       </div>
       <div className="hero-call-to-action">
-        <Button text={'contact-us'} href={'#contact'}/>
+        <Button text={'start-new-project'} href={'#contact'}/>
       </div>
     </div>
   );

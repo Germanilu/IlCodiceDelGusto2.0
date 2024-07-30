@@ -100,7 +100,8 @@
     "Button":{
       "back":"Back",
       "next":"Next Article",
-      "contact-us": "Contact"
+      "contact-us": "Contact",
+      "start-new-project": "Let's start a new project"
     },
     "Footer":{
       "title": "Footer",
