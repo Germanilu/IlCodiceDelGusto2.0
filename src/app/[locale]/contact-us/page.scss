@@ -106,16 +106,89 @@
 @media (max-width:744px){
     .contact-us-design{
         flex-direction: column;
-        .container-image{
+        margin-top: 8rem;
+        align-items: flex-start;
+        height: 100%;
+        .title{
+          position: static;
+          margin: 2rem 0rem;
+          width: 100%;
+          text-align: center;
+        }
+        .mobile-container-image{
+          order: 2;
+          display: flex;
+          flex-direction: column-reverse;
+          width: 100%;
+          .container-image{
+            height: 700px;
             margin-left: -32px;
+            align-items: flex-start;
+            border-radius: 0% 200px 0% 0%;
+            width: 110%;
+          }
+          .contact-container{
+            position: static;
+            width: 60%;
+          }
+        }
+        .container-text{
+          width: 70%;
+          margin-bottom: 2rem;
+          .services-data{
+            display: none;
+          }
         }
     }
   }
   @media (max-width:390px){
     .contact-us-design{
+      .title{
+        font-weight: 800;
+        font-size: 24px;
+      }
+      .mobile-container-image{
         .container-image{
-            margin-left: -16px;
+          width: 115%;
+          height: 500px;
         }
+        .contact-container{
+          width: 60%;
+          margin: 0 auto;
+          margin-bottom: 2rem;
+          .contact-form{
+            .form{
+              .form-label{
+                .input{
+                  width: 190px;
+                  font-size: 14px;
+                }
+              }
+            }
+          }
+        }
+      }
+      .container-text{
+        width: 100%;
+        margin-bottom: 0rem;
+        .profile-data{
+          width: 100%;
+          .name{
+            font-size: 52px;
+            font-weight: 700;
+          }
+          .profession{
+            font-size: 24px;
+            font-weight: 800;
+            width: 80%;
+          }
+          .desc{
+            width: 80%;
+            font-size: 16px;
+            font-weight: 300;
+          }
+        }
+      }
     }
   }
   

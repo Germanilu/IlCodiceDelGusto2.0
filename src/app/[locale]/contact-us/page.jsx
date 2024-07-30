@@ -1,29 +1,46 @@
+'use client'
 import { useTranslations }  from "next-intl";
-import './page.scss'
+import { useSelector }      from 'react-redux';
 import ContactForm from "../components/contact/form";
+import './page.scss'
 
 
-export const metadata = {
-  title: "IlCodiceDelGusto.com",
-  description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
-  keywords: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web",
-}
+// export const metadata = {
+//   title: "IlCodiceDelGusto.com",
+//   description: "Ti aiutiamo a creare il miglior sito web per il tuo ristorante ",
+//   keywords: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web",
+// }
 
 export default function ContactUs(){
   const t = useTranslations("Contact-us");
+  const isMobile = useSelector(state => state.responsive.isMobile);
+
   return (
     <div className="contact-us-design">
       <h1 className="title">{t('title')}</h1>
-      <div className="container-image">
-        <div className="contact-container">
-          <ContactForm/>
+      {
+        isMobile ? 
+        <div className="mobile-container-image">
+          <div className="container-image"></div>
+          <div className="contact-container">
+              <ContactForm/>
+          </div>
         </div>
-      </div>
+
+        :
+
+        <div className="container-image">
+          <div className="contact-container">
+            <ContactForm/>
+          </div>
+        </div>
+
+      }
       <div className="container-text">
         <div className="profile-data">
           <h2 className="name">{t('name')}</h2>
           <h3 className="profession">{t('profession')}</h3>
-          <span className="desc">{t('desc')}</span>
+          <p className="desc">{t('desc')}</p>
         </div>
         <div className="services-data">
           <h3>{t('h1')}</h3>
@@ -35,7 +52,6 @@ export default function ContactUs(){
           <h3>{t('h4')}</h3>
           <p>{t('p4')}</p>
         </div>
-        
       </div>
     </div>
   ) 
