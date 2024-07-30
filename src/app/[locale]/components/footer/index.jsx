@@ -18,8 +18,8 @@ export default function Footer() {
     <div className="footer-container">
       <div className="footer-design">
         <div className="logo">
-          <Image src={icon} />
-          <span className='website-name'>il codice del gusto</span>
+          <Image className='img' src={icon} />
+          <span className='website-name'>il Codice del Gusto</span>
         </div>
         <div className="menu">
           <li className="list-item">
@@ -40,7 +40,7 @@ export default function Footer() {
         </div>
         <div className="info">
           <div className="text">info@ilcodicedelgusto.com</div>
-          <div className="text">Via Chiaravagna 33, GE, Italia</div>
+          <div className="text street">Via Chiaravagna 33, GE, Italia</div>
           <div className="text">+39 333 333 333</div>
           <div className="text">P.Iva 1234566789</div>
         </div>
