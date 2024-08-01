@@ -26,7 +26,8 @@
     "testimonial": "Sobre nosotros",
     "blog": "Blog",
     "services":"Servicios",
-    "back":"Atrás"
+    "back":"Atrás",
+    "contact-us": "Contacto"
   },
   "Services": {
     "title1": "Desarrollo Web",

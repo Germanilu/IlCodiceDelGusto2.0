@@ -26,7 +26,8 @@
       "testimonial": "About us",
       "blog": "Blog",
       "services":"Services",
-      "back":"Back"
+      "back":"Back",
+      "contact-us": "Contact"
     },
     "Services": {
       "title1": "Web Development",
