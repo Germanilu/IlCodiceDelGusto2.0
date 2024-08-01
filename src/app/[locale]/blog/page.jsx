@@ -18,14 +18,12 @@ const Blog = ({params}) => {
 
 
   useEffect(() => {
-    // Add the class to the body element
     document.body.classList.add('blog-page');
 
-    // Cleanup function to remove the class when the component unmounts
     return () => {
       document.body.classList.remove('blog-page');
     };
-  }, []); // D
+  }, []);
 
   let articles;
   switch (params.locale) {
