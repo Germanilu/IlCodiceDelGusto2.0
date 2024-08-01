@@ -4,6 +4,7 @@ export const articlesIt = [
   { 
     id: 1,
     slug:"menu-digitale",
+    img: settings.qrCode.src,
     metaDescription:"Menù digitale, che cos'è e perchè va utilizzato",
     metaKeywords:"menu digitale, menù digitale, menu digitale ristorante, menu digitale gratis, menu con qr code, menu digitale qr code, menu digitale qr code gratis, menu digitale gratuito, qr code menu ristorante gratis, menudigitale, qrcode menu ristorante, qr code menu ristorante gratis",
     title: "Menu Digitale per Ristoranti: L'Innovazione che Migliora l'Esperienza dei Clienti",
@@ -68,6 +69,7 @@ export const articlesIt = [
   {  
     id: 2,
     slug:"marketing-nella-ristorazione",
+    img: settings.marketingChef.src,
     metaDescription: "Marketing nella Ristorazione",
     metaKeywords: "marketing per ristoranti, marketing ristorazione, marketing ristoranti, marketing e ristorazione, ristorazione marketing, consulenza seo per ristoranti, web marketing per attività locali, strategie marketing ristorazione",
     title: "Il Marketing nella Ristorazione: Strategie e Consigli per il Successo del Tuo Ristorante",
@@ -161,6 +163,7 @@ export const articlesIt = [
    { 
     id: 3,
     slug:"net-promoter-score",
+    img: settings.netPromoterScore.src,
     metaDescription:"Scopri come il Net Promoter Score (NPS) rivoluziona la soddisfazione dei clienti nel settore della ristorazione. Scopri i vantaggi, le strategie di implementazione e i modi per migliorare il tuo NPS.",
     metaKeywords:"net promoter score,",
     title: "La Guida Definitiva al Net Promoter Score nel Settore della Ristorazione",
@@ -284,6 +287,7 @@ export const articlesIt = [
   { 
     id: 4,
     slug:"fidelizzazione-clienti-ristorazione",
+    img: settings.customerLoyalty.src,
     metaDescription:"Scopri strategie efficaci per la fidelizzazione dei clienti nella ristorazione. Impara come attrarre e mantenere clienti nel tuo ristorante con metodi provati e consigli pratici",
     metaKeywords:"fidelizzazione clienti, ristorazione, attrarre clienti, mantenere clienti, programma di fidelizzazione, strategia ristorazione, coinvolgimento clienti, promozioni ristorazione",
     title: "Scopri come migliorare la Fidelizzazione dei Clienti nella Ristorazione: 10 Metodi Provati per Attrarre e Mantenere Clienti",
@@ -401,6 +405,7 @@ export const articlesIt = [
 
     id: 5,
     slug: "aumentare-clientela-ristorante",
+    img: settings.fullLocal.src,
     metaDescription: "Scopri come aumentare la clientela del tuo ristorante con strategie efficaci di fidelizzazione clienti e gestione della reputazione online.",
     metaKeywords: "customer loyalty, fidelizzazione clienti, aumentare clienti ristorante, come aumentare i clienti di un ristorante, aumentare clienti pizzeria, come aumentare clienti ristorante, come aumentare la clientela di un ristorante, recensioni positive ristorante, reputazione online",
     title: "Come Aumentare la Clientela di un Ristorante: Strategie di Fidelizzazione e Reputazione Online",
@@ -513,6 +518,7 @@ export const articlesIt = [
   {
     id: 6,
     slug: "ottimizzazione-seo-ristoranti",
+    img: settings.oldTextKeyboard.src,
     metaDescription: "Scopri come migliorare la SEO del tuo sito web di ristorante. Strategie efficaci per l'ottimizzazione per i motori di ricerca, la velocità del sito e la visibilità online.",
     metaKeywords: "ottimizzazione seo, ottimizzazione sito web, seo sito, ottimizzazione per i motori di ricerca, ottimizzazione siti, ottimizzazione motore di ricerca, seo per siti web, ottimizzazione velocità sito web",
     title: "Guida Completa all'Ottimizzazione SEO per Siti Web di Ristoranti",
@@ -667,6 +673,7 @@ export const articlesIt = [
   {
     id: 7,
     slug: "biglietti-da-visita-virtuali",
+    img: settings.businessCard.src,
     metaDescription: "Scopri come i biglietti da visita virtuali gratuiti possono rivoluzionare la tua attività di ristorazione, migliorando la visibilità e la comunicazione con i clienti.",
     metaKeywords: "biglietti da visita virtuali,biglietto da visita virtuale gratis, biglietti da visita digitali, ristorazione, visibilità ristorante, comunicazione clienti, biglietti visita gratis, QR code ristorante, promozione ristorante",
     title: "Biglietti da Visita Virtuali Gratuiti per la Ristorazione",

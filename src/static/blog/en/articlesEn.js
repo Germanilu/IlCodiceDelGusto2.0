@@ -5,6 +5,7 @@ export const articlesEn = [
   { 
     id: 1,
     slug: "menu-digitale",
+    img: settings.qrCode.src,
     metaDescription: "Digital menu, what it is and why to use it",
     metaKeywords: "QR code menu, digital restaurant menu, digital menu",
     title: "Digital Menu for Restaurants: The Innovation that Improves Customer Experience",
@@ -68,6 +69,7 @@ export const articlesEn = [
   {  
     id: 2,
     slug: "marketing-nella-ristorazione",
+    img: settings.marketingChef.src,
     metaDescription: "Marketing in the Restaurant Industry",
     metaKeywords: "marketing, restaurant marketing, restaurant",
     title: "Marketing in the Restaurant Industry: Strategies and Tips for Your Restaurant's Success",
@@ -161,6 +163,7 @@ export const articlesEn = [
    { 
     id: 3,
     slug: "net-promoter-score",
+    img: settings.netPromoterScore.src,
     metaDescription: "Discover how the Net Promoter Score (NPS) revolutionizes customer satisfaction in the restaurant industry. Learn about the benefits, implementation strategies, and ways to improve your NPS.",
     metaKeywords: "net promoter score",
     title: "The Ultimate Guide to Net Promoter Score in the Restaurant Industry",
@@ -284,6 +287,7 @@ export const articlesEn = [
   { 
     id: 4,
     slug: "fidelizzazione-clienti-ristorazione",
+    img: settings.customerLoyalty.src,
     metaDescription: "Discover effective strategies for customer loyalty in the restaurant industry. Learn how to attract and retain customers in your restaurant with proven methods and practical tips.",
     metaKeywords: "customer loyalty, restaurant, attract customers, retain customers, loyalty program, restaurant strategy, customer engagement, restaurant promotions",
     title: "Learn How to Improve Customer Loyalty in Restaurants: 10 Proven Methods to Attract and Retain Customers",
@@ -400,6 +404,7 @@ export const articlesEn = [
 {
   id: 5,
   slug: "aumentare-clientela-ristorante",
+  img: settings.fullLocal.src,
   metaDescription: "Discover how to increase your restaurant's clientele with effective customer loyalty strategies and online reputation management.",
   metaKeywords: "customer loyalty, customer loyalty strategies, increase restaurant customers, how to increase restaurant customers, increase pizzeria customers, how to increase restaurant customers, how to increase restaurant clientele, positive restaurant reviews, online reputation",
   title: "How to Increase Restaurant Customers: Loyalty Strategies and Online Reputation",
@@ -511,6 +516,7 @@ export const articlesEn = [
 {
   id: 6,
   slug: "ottimizzazione-seo-ristoranti",
+  img: settings.oldTextKeyboard.src,
   metaDescription: "Discover how to improve your restaurant website's SEO. Effective strategies for search engine optimization, site speed, and online visibility.",
   metaKeywords: "SEO, restaurants, search engine optimization, online visibility, site speed, keywords, quality content",
   title: "Complete Guide to SEO Optimization for Restaurant Websites",
@@ -665,6 +671,7 @@ export const articlesEn = [
 {
   id: 7,
   slug: "biglietti-da-visita-virtuali",
+  img: settings.businessCard.src,
   metaDescription: "Discover how free virtual business cards can revolutionize your restaurant business by improving visibility and communication with customers.",
   metaKeywords: "virtual business cards, free virtual business card, digital business cards, restaurant, restaurant visibility, customer communication, free business cards, QR code restaurant, restaurant promotion",
   title: "Free Virtual Business Cards for Restaurants",

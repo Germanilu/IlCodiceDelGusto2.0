@@ -1,5 +1,34 @@
 @import "../../../utilities/variables.scss";
 
+.blog-page{
+  .navbar{
+    .navbar-container{
+      .navbar-list{
+        .list-item{
+          color: #0C0C0C;
+          .services{
+            .item{
+              color: #0C0C0C;
+            }
+            svg{
+              fill: #0C0C0C;
+            }
+          }
+        }
+        .language-switcher-design{
+          .current-language{
+            svg{
+              fill: #0C0C0C;
+            }
+          }
+        }
+      }
+    }
+    &.scrolled{
+      background-color: $old_lace;
+    }
+  }
+}
 .navbar{
   color: $old_lace;
   padding: 14px 32px;

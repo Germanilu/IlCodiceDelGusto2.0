@@ -5,6 +5,7 @@ export const articlesEs = [
   { 
     id: 1,
     slug: "menu-digitale",
+    img: settings.qrCode.src,
     metaDescription: "Menú digital, qué es y por qué utilizarlo",
     metaKeywords: "menú código QR, menú digital restaurante, menú digital",
     title: "Menú Digital para Restaurantes: La Innovación que Mejora la Experiencia de los Clientes",
@@ -68,6 +69,7 @@ export const articlesEs = [
   {  
     id: 2,
     slug: "marketing-nella-ristorazione",
+    img: settings.marketingChef.src,
     metaDescription: "Marketing en la Restauración",
     metaKeywords: "marketing, marketing restaurante, restaurante",
     title: "El Marketing en la Restauración: Estrategias y Consejos para el Éxito de Tu Restaurante",
@@ -161,6 +163,7 @@ export const articlesEs = [
    { 
     id: 3,
     slug: "net-promoter-score",
+    img: settings.netPromoterScore.src,
     metaDescription: "Descubre cómo el Net Promoter Score (NPS) revoluciona la satisfacción de los clientes en el sector de la restauración. Descubre los beneficios, las estrategias de implementación y las formas de mejorar tu NPS.",
     metaKeywords: "net promoter score",
     title: "La Guía Definitiva del Net Promoter Score en el Sector de la Restauración",
@@ -284,6 +287,7 @@ export const articlesEs = [
   { 
     id: 4,
     slug: "fidelizzazione-clienti-ristorazione",
+    img: settings.customerLoyalty.src,
     metaDescription: "Descubre estrategias efectivas para la fidelización de clientes en la restauración. Aprende cómo atraer y mantener clientes en tu restaurante con métodos probados y consejos prácticos.",
     metaKeywords: "fidelización de clientes, restauración, atraer clientes, mantener clientes, programa de fidelización, estrategia de restauración, compromiso del cliente, promociones de restauración",
     title: "Descubre cómo mejorar la Fidelización de Clientes en Restaurantes: 10 Métodos Probados para Atraer y Mantener Clientes",
@@ -400,6 +404,7 @@ export const articlesEs = [
 {
   id: 5,
   slug: "aumentare-clientela-ristorante",
+  img: settings.fullLocal.src,
   metaDescription: "Descubre cómo aumentar la clientela de tu restaurante con estrategias efectivas de fidelización de clientes y gestión de la reputación online.",
   metaKeywords: "lealtad del cliente, fidelización de clientes, aumentar clientes restaurante, cómo aumentar los clientes de un restaurante, aumentar clientes pizzería, cómo aumentar clientes restaurante, cómo aumentar la clientela de un restaurante, reseñas positivas restaurante, reputación online",
   title: "Cómo Aumentar la Clientela de un Restaurante: Estrategias de Fidelización y Reputación Online",
@@ -511,6 +516,7 @@ export const articlesEs = [
 {
   id: 6,
   slug: "ottimizzazione-seo-ristoranti",
+  img: settings.oldTextKeyboard.src,
   metaDescription: "Descubre cómo mejorar el SEO de tu sitio web de restaurante. Estrategias efectivas para la optimización para motores de búsqueda, la velocidad del sitio y la visibilidad en línea.",
   metaKeywords: "SEO, restaurantes, optimización para motores de búsqueda, visibilidad en línea, velocidad del sitio, palabras clave, contenidos de calidad",
   title: "Guía Completa de Optimización SEO para Sitios Web de Restaurantes",
@@ -665,6 +671,7 @@ export const articlesEs = [
 {
   id: 7,
   slug: "biglietti-da-visita-virtuali",
+  img: settings.businessCard.src,
   metaDescription: "Descubre cómo las tarjetas de visita virtuales gratuitas pueden revolucionar tu negocio de restauración, mejorando la visibilidad y la comunicación con los clientes.",
   metaKeywords: "tarjetas de visita virtuales,tarjeta de visita virtual gratis, tarjetas de visita digitales, restauración, visibilidad restaurante, comunicación clientes, tarjetas visita gratis, código QR restaurante, promoción restaurante",
   title: "Tarjetas de Visita Virtuales Gratuitas para la Restauración",
