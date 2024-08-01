@@ -129,7 +129,13 @@
           }
           .contact-container{
             position: static;
-            width: 60%;
+            width: 100%;
+            .contact-form{
+              padding-left: 0rem;
+              .form{
+                align-items: flex-start;
+              }
+            }
           }
         }
         .container-text{
@@ -158,6 +164,7 @@
           margin-bottom: 2rem;
           .contact-form{
             .form{
+              align-items: flex-end;
               .form-label{
                 .input{
                   width: 190px;
