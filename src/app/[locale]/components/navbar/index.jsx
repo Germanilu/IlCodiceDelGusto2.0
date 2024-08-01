@@ -166,12 +166,12 @@ const Navbar = () => {
                   <li className="list-item">
                     <Link className="item" href="/blog" onClick={closeMenu}>{t('blog')}</Link>
                   </li>
-                  <li className="list-item">
+                  {/* <li className="list-item">
                     <span className='item'>{t('services')}</span>
                     <IoMdArrowDropdown size={30} color='#FEFBF6' />
-                  </li>
-                  <li className="list-item">
-                    <Link className="item" href="/contact-us"  onClick={closeMenu}>{t('contact-us')}</Link>
+                  </li> */}
+                  <li className="list-item" onClick={closeMenu}>
+                    <Button text={'contact-us'} href={'/contact-us'}  />
                   </li>
                   <li className="list-item">
                     <LanguageSwitcher className="language-switcher" />
