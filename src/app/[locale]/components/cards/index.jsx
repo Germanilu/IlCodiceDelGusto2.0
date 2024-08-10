@@ -3,6 +3,7 @@
 import Card from './card';
 import cards from '@/static/cards';
 import { useSelector }      from 'react-redux';
+import {Tilt}                     from "react-tilt";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -31,12 +32,21 @@ const Cards = () => {
       }
       </Slider>
       :
-      <>
-      {
-        cards.map(card => (
-          <Card key={card.id} title={card.title} text={card.text} img={card.img} />
-        ))
-      }
+      
+     <>
+        {
+          cards.map(card => (
+              <Tilt
+                options={{
+                  max: 45,
+                  scale: 1,
+                  speed: 450,
+                }}
+              >
+                <Card key={card.id} title={card.title} text={card.text} img={card.img} />
+              </Tilt>
+          ))
+        }
       </>
       }
     </div>
