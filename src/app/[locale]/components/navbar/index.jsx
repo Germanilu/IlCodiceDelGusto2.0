@@ -31,6 +31,14 @@ const Navbar = () => {
     setOpenMenu(!openMenu)
   }
 
+  /**
+   * @method closeMenu
+   * Allows to close menu when clicked
+   */
+  const closeService = () => {
+    setOpenServices(!openServices)
+  }
+
 
   /**
    * @method renderService 
@@ -43,43 +51,43 @@ const Navbar = () => {
           <div className="list-container">
             <div className="title">{t1('title1')}</div>
             <li className='list-item'>
-              <span className='item'>{t1('service1')}</span>
+              <Link className='item' onClick={closeService}  href="/contact-us">{t1('service1')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service2')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service2')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service3')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service3')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service4')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service4')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service5')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service5')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service6')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service6')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service7')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service7')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service8')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service8')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service9')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service9')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service10')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service10')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service11')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service11')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service12')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service12')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service13')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service13')}</Link>
             </li>
           </div>
         </div>
@@ -87,22 +95,22 @@ const Navbar = () => {
           <div className="list-container">
             <div className="title">{t1('title2')}</div>
             <li className='list-item'>
-              <span className='item'>{t1('service14')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service14')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service15')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service15')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service16')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service16')}</Link>
             </li>
           </div>
           <div className="list-container">
             <div className="title">{t1('title3')}</div>
             <li className='list-item'>
-              <span className='item'>{t1('service17')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service17')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service18')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service18')}</Link>
             </li>
           </div>
         </div>
@@ -110,13 +118,13 @@ const Navbar = () => {
           <div className="list-container">
             <div className="title">{t1('title4')}</div>
             <li className='list-item'>
-              <span className='item'>{t1('service19')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service19')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service20')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service20')}</Link>
             </li>
             <li className='list-item'>
-              <span className='item'>{t1('service21')}</span>
+            <Link className='item' onClick={closeService}  href="/contact-us">{t1('service21')}</Link>
             </li>
           </div>
         </div>
