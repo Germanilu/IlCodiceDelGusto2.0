@@ -3,7 +3,7 @@
 import Card from './card';
 import cards from '@/static/cards';
 import { useSelector }      from 'react-redux';
-import {Tilt}                     from "react-tilt";
+import {Tilt}             from "react-tilt";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
