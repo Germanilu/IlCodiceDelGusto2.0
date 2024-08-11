@@ -37,6 +37,7 @@ const Cards = () => {
         {
           cards.map(card => (
               <Tilt
+              key={card.id}
                 options={{
                   max: 45,
                   scale: 1,
