@@ -2,6 +2,7 @@
 
 import Card from './card';
 import cards from '@/static/cards';
+import {motion} from "framer-motion"
 import { useSelector }      from 'react-redux';
 import {Tilt}             from "react-tilt";
 import Slider from "react-slick";
@@ -44,7 +45,18 @@ const Cards = () => {
                   speed: 450,
                 }}
               >
-                <Card key={card.id} title={card.title} text={card.text} img={card.img} />
+                <motion.div
+                 variants={{
+                  hidden:{opacity:0, y:75},
+                  visible:{opacity:1,y:0},
+                }}
+                transition={{delay:card.id * 0.5, duration:0.5}}
+                initial="hidden"
+                whileInView="visible"
+                viewport={{ once: true }}
+                >
+                  <Card key={card.id} title={card.title} text={card.text} img={card.img} />
+                </motion.div>
               </Tilt>
           ))
         }
