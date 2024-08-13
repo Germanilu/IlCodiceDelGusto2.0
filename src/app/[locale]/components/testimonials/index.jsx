@@ -1,4 +1,5 @@
 'use client'
+import {motion} from "framer-motion"
 import React, { useState }  from 'react';
 import { useTranslations } from "next-intl";
 import { GoDotFill }        from "react-icons/go";
@@ -33,9 +34,17 @@ const Testimonials = () => {
                 <div className='bubble2'></div>
               </div>
 
-              <div className={`figure ${selected.id == review.id ? "active" : ""}`}>
+              <motion.div className={`figure ${selected.id == review.id ? "active" : ""}`}
+               variants={{
+                hidden:{opacity:0, y:75},
+                visible:{opacity:1,y:0},
+              }}
+              transition={{delay: review.id * 0.2, duration:0.5}}
+              initial="hidden"
+              whileInView="visible"
+              viewport={{ once: true }}>
                 <img id={review.id} src={review.src} className={`img-fluid ${review.id == 2 ? "bigger":""} `} alt="" onClick={() => setSelected(review)}/>
-              </div>
+              </motion.div>
             </div>
             )
           })
