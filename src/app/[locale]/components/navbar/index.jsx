@@ -341,6 +341,15 @@ const Navbar = () => {
             <div className='menu-action' >
               {openMenu ? <RxCross2 className='burger-menu-icon' size={25} onClick={closeMenu} /> : <IoMenu className='burger-menu-icon' size={25} onClick={closeMenu} />}
               {openMenu &&
+              <motion.div
+              variants={{
+                hidden:{opacity:0, y:25},
+                visible:{opacity:1,y:0},
+              }}
+              transition={{delay: .1, duration:0.5}}
+              initial="hidden"
+              whileInView="visible"
+              >
                 <ul className='mobile-navbar-box'>
                   <li className="list-item">
                     <Link className="item" href="/#what-we-offer" onClick={closeMenu} >{t('what-we-offer')}</Link>
@@ -368,6 +377,7 @@ const Navbar = () => {
                     <LanguageSwitcher className="language-switcher" />
                   </li>
                 </ul>
+                </motion.div>
               }
             </div>
           </nav>
