@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react';
+import { animate,motion } from "framer-motion"
 import { useSelector } from 'react-redux';
 import { useTranslations } from "next-intl";
 import { Link } from '@/navigation';
@@ -21,7 +22,6 @@ const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const [openServices, setOpenServices] = useState(false);
   const isMobile = useSelector(state => state.responsive.isMobile);
-
 
   /**
    * @method closeMenu
@@ -49,83 +49,262 @@ const Navbar = () => {
       <div className={`${openServices ? "open" : ""} services-container`}>
         <div className="row">
           <div className="list-container">
-            <div className="title">{t1('title1')}</div>
-            <li className='list-item'>
+            <motion.div className="title"
+             variants={{
+              hidden:{opacity:0, x:25},
+              visible:{opacity:1,x:0},
+            }}
+            transition={{delay: 0.01, duration:0.5}}
+            initial="hidden"
+            whileInView="visible"
+            >{t1('title1')}</motion.div>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.05, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
               <Link className='item' onClick={closeService}  href="/contact-us">{t1('service1')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.1, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service2')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.15, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service3')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.2, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service4')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.25, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service5')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.3, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service6')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.35, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service7')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.4, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service8')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.45, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service9')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.5, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service10')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+             <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.55, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service11')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.6, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service12')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.65, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service13')}</Link>
-            </li>
+            </motion.li>
           </div>
         </div>
         <div className="row">
           <div className="list-container">
-            <div className="title">{t1('title2')}</div>
-            <li className='list-item'>
+            <motion.div className="title"
+            variants={{
+              hidden:{opacity:0, x:25},
+              visible:{opacity:1,x:0},
+            }}
+            transition={{delay: 0.68, duration:0.5}}
+            initial="hidden"
+            whileInView="visible"
+            >{t1('title2')}</motion.div>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.7, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service14')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.75, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service15')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.8, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service16')}</Link>
-            </li>
+            </motion.li>
           </div>
           <div className="list-container">
-            <div className="title">{t1('title3')}</div>
-            <li className='list-item'>
+          <motion.div className="title"
+            variants={{
+              hidden:{opacity:0, x:25},
+              visible:{opacity:1,x:0},
+            }}
+            transition={{delay: 0.84, duration:0.5}}
+            initial="hidden"
+            whileInView="visible"
+            >{t1('title3')}</motion.div>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.85, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service17')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.9, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service18')}</Link>
-            </li>
+            </motion.li>
           </div>
         </div>
         <div className="row">
           <div className="list-container">
-            <div className="title">{t1('title4')}</div>
-            <li className='list-item'>
+          <motion.div className="title"
+            variants={{
+              hidden:{opacity:0, x:25},
+              visible:{opacity:1,x:0},
+            }}
+            transition={{delay: 0.94, duration:0.5}}
+            initial="hidden"
+            whileInView="visible"
+            >{t1('title4')}</motion.div>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 0.95, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service19')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 1, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service20')}</Link>
-            </li>
-            <li className='list-item'>
+            </motion.li>
+            <motion.li className='list-item'
+            variants={{
+              hidden:{opacity:0, y:25},
+              visible:{opacity:1,y:0},
+            }}
+            transition={{delay: 1.05, duration:0.5}}
+            initial="hidden"
+            whileInView="visible">
             <Link className='item' onClick={closeService}  href="/contact-us">{t1('service21')}</Link>
-            </li>
+            </motion.li>
           </div>
         </div>
       </div>
@@ -133,6 +312,9 @@ const Navbar = () => {
   }
 
   useEffect(() => {
+    animate(".arrow", { rotate: openServices ? 180 : 0 }, { duration: 0.2 });
+
+
     const handleScroll = () => {
       if (window.scrollY > 900) {
         setScrolled(true);
@@ -145,7 +327,8 @@ const Navbar = () => {
     return () => {
       window.removeEventListener('scroll', handleScroll);
     };
-  }, []);
+
+  }, [openServices]);
 
   return (
     <>
@@ -210,12 +393,8 @@ const Navbar = () => {
                 <div className="list-item" >
                   <div className='services' onClick={() => setOpenServices(!openServices) }>
                     <span className='item' >{t('services')}</span>
-                    {
-                      openServices ?
-                      <IoMdArrowDropup  size={30} color='#FEFBF6'  />
-                      :
-                      <IoMdArrowDropdown size={30} color='#FEFBF6'  />
-                    }
+                    <IoMdArrowDropdown className='arrow'  size={30} color='#FEFBF6'  />
+
                   </div>
                   {renderService()}
                 </div>
