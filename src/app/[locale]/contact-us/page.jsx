@@ -1,4 +1,5 @@
 'use client'
+import {motion} from "framer-motion"
 import { useTranslations }  from "next-intl";
 import { useSelector }      from 'react-redux';
 import ContactForm from "../components/contact/form";
@@ -30,9 +31,18 @@ export default function ContactUs(){
         :
 
         <div className="container-image">
-          <div className="contact-container">
+          <motion.div className="contact-container"
+           variants={{
+            hidden:{opacity:0, y:100},
+            visible:{opacity:1,y:0},
+          }}
+          transition={{delay: 0.5, duration:0.5}}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          >
             <ContactForm/>
-          </div>
+          </motion.div>
         </div>
 
       }
