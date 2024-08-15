@@ -27,6 +27,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    .img{
+      width: 150px;
+      height: 150px;
+    }
     .website-name{
       width: 60%;
       text-align: center;

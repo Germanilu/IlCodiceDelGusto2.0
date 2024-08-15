@@ -9,7 +9,7 @@ import Image from 'next/image';
 import { IoMdArrowDropdown, IoMdArrowDropup  } from 'react-icons/io';
 import { IoMenu } from "react-icons/io5";
 import { RxCross2 } from "react-icons/rx";
-import icon from "../../../../static/media/svg/icon.svg";
+import icon from "../../../../static/media/logotext.png";
 import LanguageSwitcher from '../language-switcher';
 import Button from '../button';
 
@@ -316,7 +316,7 @@ const Navbar = () => {
 
 
     const handleScroll = () => {
-      if (window.scrollY > 900) {
+      if (window.scrollY > 500) {
         setScrolled(true);
       } else {
         setScrolled(false);

@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 import Image from 'next/image';
 import { FaLinkedin, FaInstagram } from "react-icons/fa";
 
-import icon from "../../../../static/media/svg/icon.svg";
+import icon from "../../../../static/media/logotext.png";
 
 
 import './index.scss';
@@ -19,7 +19,7 @@ export default function Footer() {
       <div className="footer-design">
         <div className="logo">
           <Image className='img' src={icon} />
-          <span className='website-name'>il Codice del Gusto</span>
+          {/* <span className='website-name'>il Codice del Gusto</span> */}
         </div>
         <div className="menu">
           <li className="list-item">

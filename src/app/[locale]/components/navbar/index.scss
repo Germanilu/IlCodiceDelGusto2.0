@@ -57,6 +57,10 @@
     justify-content: space-between;
     .logo{
       margin-right: 0%;
+      .icon{
+        height: 120px;
+        width: 120px;
+      }
     }
     .navbar-list{
       width: max-content;
@@ -124,7 +128,7 @@
 @media (max-width:744px){
   .navbar{
     padding: 1.5rem 2rem;
-    padding-top: 0rem;
+    padding-top: .5rem;
     border-bottom: none;
     display: flex;
     justify-content: space-between;
