@@ -366,14 +366,18 @@ const Navbar = () => {
                   <li className="list-item">
                     <Link className="item" href="/blog" onClick={closeMenu}>{t('blog')}</Link>
                   </li>
-                  {/* <li className="list-item">
-                    <span className='item'>{t('services')}</span>
-                    <IoMdArrowDropdown size={30} color='#FEFBF6' />
-                  </li> */}
                   <li className="list-item" onClick={closeMenu}>
                     <Button text={'contact-us'} href={'/contact-us'}  />
                   </li>
-                  <li className="list-item">
+                  <div className="list-item services" >
+                  <div className='services' onClick={() => setOpenServices(!openServices) }>
+                    <span className='item' >{t('services')}</span>
+                    <IoMdArrowDropdown className='arrow'  size={30} color='#FEFBF6'  />
+
+                  </div>
+                  {renderService()}
+                </div>
+                  <li className="list-item language">
                     <LanguageSwitcher className="language-switcher" />
                   </li>
                 </ul>

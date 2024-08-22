@@ -125,40 +125,41 @@
 }
 
 
-@media (max-width:744px){
-  .navbar{
+@media (max-width: 744px) {
+  .navbar {
     padding: 1.5rem 2rem;
     padding-top: .5rem;
     border-bottom: none;
     display: flex;
     justify-content: space-between;
-    &.open{
+    &.open {
       background-color: #0C0C0C;
       height: 100vh;
       display: block;
       padding-top: 2.5rem;
-      .item{
-        .logo{
+      overflow-y: auto;
+      .item {
+        .logo {
           display: none;
         }
       }
     }
-    .menu-action{
+    .menu-action {
       display: flex; 
       flex-direction: column;
       align-items: flex-end;
-      .burger-menu-icon{
+      .burger-menu-icon {
         margin-right: .5rem;
       }
-      .mobile-navbar-box{
+      .mobile-navbar-box {
         width: 100%;
         display: flex;
         flex-direction: row;
-        align-items: center;
+        align-items: baseline;
         justify-content: space-around;
         flex-wrap: wrap;
         margin-top: 1rem;
-        .list-item{
+        .list-item {
           width: 40%;
           display: flex;
           align-items: center;
@@ -166,12 +167,60 @@
           margin-top: 1rem;
           padding: .5rem 0rem;
           z-index: 100;
-          .item{
+          &.services {
+            width: 100%;
+            flex-direction: column;
+            margin-top: 0rem;
+            .services {
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+            .services-container {
+              width: 100%;
+              max-height: 50vh;
+              overflow-y: auto; 
+              display: none;
+              &.open {
+                display: block;
+              }
+              .row {
+                width: 100%;
+                .list-container {
+                  display: flex;
+                  flex-wrap: wrap;
+                  justify-content: space-around;
+                  align-items: center;
+                  .title {
+                    width: 100%;
+                    text-align: center;
+                    margin-top: 1rem;
+                    margin-bottom: 1rem;
+                    font-size: 16px;
+                  }
+                  .list-item {
+                    justify-content: left;
+                    margin-top: .1rem;
+                    padding: .1rem 0rem;
+                    &:last-child {
+                      width: 100%;
+                      justify-content: flex-start;
+                      margin-left: 1rem;
+                    }
+                    .item {
+                      font-size: 14px;
+                    }
+                  }
+                }
+              }
+            }
+          }
+          .item {
             border-bottom: 1px solid $black;
             font-size: 16px;
             font-weight: 500;
           }
-          .language-switcher-design{
+          .language-switcher-design {
             z-index: 100;
           }
         }
