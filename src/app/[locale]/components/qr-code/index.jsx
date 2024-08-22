@@ -3,7 +3,7 @@ import { useTranslations } from "next-intl";
 import { useSelector }      from 'react-redux';
 import {motion} from "framer-motion"
 import Image from 'next/image';
-import qrCode from '../../../../static/media/svg/qr-code.svg';
+import qrCode from '../../../../static/media/svg/qr.svg';
 import qrCodeMobile from '../../../../static/media/svg/qr-code-mobile.svg';
 import './index.scss';
 
@@ -32,7 +32,7 @@ const QrCode = () => {
         </motion.div>
         <motion.div className="text-container"
          variants={{
-          hidden:{opacity:0, x:25},
+          hidden:{opacity:0, y:25},
           visible:{opacity:1,y:0},
         }}
         transition={{delay: 0.7, duration:0.5}}
