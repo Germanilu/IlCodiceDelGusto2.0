@@ -4,7 +4,7 @@ import { useSelector }      from 'react-redux';
 import {motion} from "framer-motion"
 import Image from 'next/image';
 import qrCode from '../../../../static/media/svg/qr.svg';
-import qrCodeMobile from '../../../../static/media/svg/qr-code-mobile.svg';
+import qrCodeMobile from '../../../../static/media/svg/qr-white.svg';
 import './index.scss';
 
 const QrCode = () => {
