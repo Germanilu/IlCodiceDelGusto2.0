@@ -8,7 +8,7 @@ const Card = ({title,text,img}) => {
 return(
     <div className="card-design">
         <div className="background-overlay">
-            <Image className="img" src={img} alt={title} layout="fill" objectFit="cover" quality={100}  />
+            <Image className="img" src={img} alt={title} quality={100}  />
             <div className="gradient-overlay"></div>
         </div>
         <div className="text-container">
