@@ -4,6 +4,7 @@ const projects = [
     { id: 3, title: "Veggie Bites",className:"img-three", href:"https://veggiebites2-0-2vzc.vercel.app/" },
     { id: 4, title: "Sapore di Natura",className:"img-four", href:"https://steelblue-snail-361751.hostingersite.com/" },
     { id: 5, title: "Savana",className:"img-five", href:"https://plantilla-2-l4rj.vercel.app/" },
+    { id: 6, title: "The Lab",className:"img-six", href:"https://plantilla-3-tf79.vercel.app/" },
 ];
 
 export default projects
