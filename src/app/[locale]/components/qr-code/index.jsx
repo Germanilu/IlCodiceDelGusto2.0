@@ -3,8 +3,8 @@ import { useTranslations } from "next-intl";
 import { useSelector }      from 'react-redux';
 import {motion} from "framer-motion"
 import Image from 'next/image';
-import qrCode from '../../../../static/media/svg/qr.svg';
-import qrCodeMobile from '../../../../static/media/svg/qr-white.svg';
+import qrCode from '../../../../static/media/svg/qr1.png';
+import qrCodeMobile from '../../../../static/media/svg/qrMobile.svg';
 import './index.scss';
 
 const QrCode = () => {
