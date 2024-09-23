@@ -41,8 +41,8 @@ export default function Footer() {
         <div className="info">
           <div className="text">info@ilcodicedelgusto.com</div>
           <div className="text street">Via Chiaravagna 33, GE, Italia</div>
-          <div className="text">+39 333 333 333</div>
-          <div className="text">P.Iva 1234566789</div>
+          <div className="text">+39 0109844413</div>
+          <div className="text">P.Iva 07984320964</div>
         </div>
         <div className="socials">
             <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={30}/></Link></div>
