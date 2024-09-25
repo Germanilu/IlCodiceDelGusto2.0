@@ -9,7 +9,6 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    // border: 1px solid red;
     gap: 1rem;
     .icon-whatsapp{
         fill: #25d366;
@@ -19,10 +18,9 @@
     .whats-text{
         font-size: 22px;
         font-weight: 700;
-        color: #169746;
+        color: #fff;
         text-transform: uppercase;
         margin-right: 1rem;
         text-align: center;
-        
     }
 }
