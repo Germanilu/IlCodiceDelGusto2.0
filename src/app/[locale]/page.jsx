@@ -5,7 +5,6 @@ import Testimonials from './components/testimonials';
 import QrCode from './components/qr-code';
 import Carousel from './components/carousel';
 import Contact from './components/contact';
-import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
 import './page.scss';
 
 export const metadata = {
@@ -39,7 +38,6 @@ export default function Home() {
         <span className="text">{t('contact')}</span>
         <Contact/>
       </div>
-      <ScrollToTop />
     </div>
   )
 }

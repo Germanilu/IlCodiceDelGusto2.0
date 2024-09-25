@@ -6,6 +6,8 @@ import { Inter }                             from "next/font/google";
 import { useLocale }                         from "next-intl";
 import { notFound }                          from "next/navigation";
 import { Providers }                         from "../Redux/provider";
+import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
+import Whatsapp from "@/app/[locale]/components/whatsapp/index";
 import favicon from '../public/favicon.ico'
 import Script from 'next/script'
 import "./globals.scss";
@@ -37,6 +39,8 @@ export default function RootLayout({ children, params }) {
             <Script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ab72ddd7de4114db12264527/script.js"></Script>
             {/* <Script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="4b888c1a-2a74-4132-8f39-674f4881c80b" data-blockingmode="auto" type="text/javascript"></Script> */}
             <Navbar />
+            <ScrollToTop />
+            <Whatsapp />
             {children}
             <Footer />
           </Providers>

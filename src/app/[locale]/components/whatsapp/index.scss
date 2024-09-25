@@ -1,0 +1,28 @@
+
+.whatsapp{
+    position: fixed;
+    bottom: 4.5rem;
+    left: 1.5rem;
+    width: max-content;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    // border: 1px solid red;
+    gap: 1rem;
+    .icon-whatsapp{
+        fill: #25d366;
+        width: 45px;
+        height: 45px
+    }
+    .whats-text{
+        font-size: 22px;
+        font-weight: 700;
+        color: #169746;
+        text-transform: uppercase;
+        margin-right: 1rem;
+        text-align: center;
+        
+    }
+}

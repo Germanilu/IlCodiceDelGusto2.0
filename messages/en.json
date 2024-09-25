@@ -104,6 +104,9 @@
       "contact-us": "Contact",
       "start-new-project": "Let's start a new project"
     },
+    "Whatsapp":{
+      "text":"Contact us on Whatsapp"
+    },
     "Footer":{
       "title": "Footer",
       "privacy-policy":"Privacy Policy",
