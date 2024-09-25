@@ -1,5 +1,6 @@
 'use client'
 import React, { useState  } from "react";
+import {Link}               from '@/navigation';
 import { motion } from "framer-motion"
 import { useTranslations } from "next-intl";
 import { FaWhatsapp } from "react-icons/fa";
@@ -8,7 +9,8 @@ const Whatsapp = () => {
     const [isHover, setIsHover] = useState(true);
     const t = useTranslations("Whatsapp");
     return(
-        <div className="whatsapp"
+        <Link className="whatsapp"
+        href={"https://wa.me/390109844413"}
         onMouseEnter={() => setIsHover(true)}
         onMouseLeave={() => setIsHover(false)}
         >
@@ -28,7 +30,7 @@ const Whatsapp = () => {
                     </motion.p>
             }
 
-        </div>
+        </Link>
     )
 }
 
