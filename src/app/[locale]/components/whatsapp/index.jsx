@@ -6,11 +6,12 @@ import { useTranslations } from "next-intl";
 import { FaWhatsapp } from "react-icons/fa";
 import './index.scss';
 const Whatsapp = () => {
-    const [isHover, setIsHover] = useState(true);
+    const [isHover, setIsHover] = useState(false);
     const t = useTranslations("Whatsapp");
     return(
         <Link className="whatsapp"
         href={"https://wa.me/390109844413"}
+        rel="noopener noreferrer" target="_blank"
         onMouseEnter={() => setIsHover(true)}
         onMouseLeave={() => setIsHover(false)}
         >
@@ -24,7 +25,7 @@ const Whatsapp = () => {
                       }}
                       transition={{delay: 0.1, duration:0.5}}
                       initial="hidden"
-                      whileInView="visible"
+                      animate="visible"
                     >
                         {t('text')}
                     </motion.p>
