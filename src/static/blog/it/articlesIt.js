@@ -751,6 +751,72 @@ export const articlesIt = [
     <h2>Conclusione</h2>
     <p>L'adozione dei biglietti da visita virtuali gratis rappresenta un passo avanti significativo per qualsiasi attività di ristorazione che desideri restare al passo con i tempi. Non solo offrono un modo ecologico e moderno per condividere le informazioni del tuo ristorante, ma migliorano anche la comunicazione con i clienti e la tua presenza online. Sfrutta queste risorse digitali per dare un tocco innovativo alla tua attività e attrarre una clientela sempre più connessa e digitale.</p>
 </section>`
+  },
+  {
+  id: 8,
+  slug: "cena-gourmet-casa",
+  img: settings.gourmetDinner.src,
+  metaDescription: "Come preparare una cena gourmet a casa: idee, consigli e trucchi per creare un menù raffinato e deliziare i tuoi ospiti.",
+  metaKeywords: "cena gourmet, cena gourmet a casa, menù gourmet, cucina raffinata, cene eleganti, preparare cena gourmet, idee cena gourmet, cena gourmet ricette, cena gourmet ristorante, menù cena gourmet",
+  title: "Come Preparare una Cena Gourmet a Casa: Idee e Consigli per una Serata Indimenticabile",
+  shortDescription: "Scopri come organizzare una cena gourmet a casa, dalla scelta degli ingredienti agli abbinamenti perfetti, per stupire i tuoi ospiti con piatti raffinati.",
+  text: `<header>
+    <h1>Come Preparare una Cena Gourmet a Casa: Idee e Consigli per una Serata Indimenticabile</h1>
+  </header>
+  <nav class="margin-top-bottom-4">
+    <ul>
+      <li><a href="#cosa-significa-gourmet">Cosa significa cucina gourmet?</a></li>
+      <li><a href="#pianificazione-cena">Come pianificare una cena gourmet</a></li>
+      <li><a href="#ingredienti-di-qualità">Ingredienti di qualità per una cena gourmet</a></li>
+      <li><a href="#strumenti-necessari">Strumenti necessari per cucinare gourmet</a></li>
+      <li><a href="#menu-e-abbinamenti">Come creare il menù: portate e abbinamenti</a></li>
+      <li><a href="#organizzazione-tempo">Come organizzare il tempo in cucina</a></li>
+      <li><a href="#decorazione-tavola">Decorazione della tavola e atmosfera</a></li>
+      <li><a href="#conclusione">Conclusione</a></li>
+    </ul>
+  </nav>
+
+  <section id="cosa-significa-gourmet" class="margin-top-bottom-4">
+    <h2>Cosa significa cucina gourmet?</h2>
+    <p>La cucina gourmet si distingue per la sua attenzione alla qualità degli ingredienti, alle tecniche culinarie avanzate e alla presentazione estetica dei piatti. Un pasto gourmet è una vera e propria esperienza sensoriale, in cui ogni dettaglio conta. Preparare una cena gourmet a casa richiede un approccio creativo, dove l’arte culinaria si unisce alla ricerca dell’eccellenza.</p>
+  </section>
+
+  <img class="img" src=${settings.gourmetDinner.src} alt="cena gourmet casa"/>
+
+  <section id="pianificazione-cena" class="margin-top-bottom-4">
+    <h2>Come pianificare una cena gourmet</h2>
+    <p>La pianificazione è il primo passo fondamentale per una cena gourmet di successo. Stabilire un tema per la serata può aiutarti a scegliere le portate in modo coerente. Puoi basarti su una tradizione culinaria specifica, come la cucina italiana o francese, oppure optare per un filo conduttore stagionale, come l’autunno con il tartufo e la zucca.</p>
+  </section>
+
+  <section id="ingredienti-di-qualità" class="margin-top-bottom-4">
+    <h2>Ingredienti di qualità per una cena gourmet</h2>
+    <p>La qualità degli ingredienti è cruciale. Scegli prodotti freschi, di stagione e, se possibile, provenienti da produttori locali. Materie prime di eccellenza come formaggi artigianali, carne allevata responsabilmente e pesce fresco possono fare la differenza tra un buon piatto e uno straordinario. Recati nei mercati locali o cerca negozi gourmet specializzati per procurarti ingredienti autentici e di prima scelta.</p>
+  </section>
+
+  <section id="strumenti-necessari" class="margin-top-bottom-4">
+    <h2>Strumenti necessari per cucinare gourmet</h2>
+    <p>Per realizzare piatti gourmet non è necessario avere una cucina professionale, ma alcuni strumenti possono semplificare il lavoro e migliorare i risultati. Un set di coltelli di qualità, padelle antiaderenti e pentole in acciaio inox sono essenziali. Inoltre, attrezzi come la mandolina o il sifone per spume possono aiutarti a creare presentazioni spettacolari e sapori unici.</p>
+  </section>
+
+  <section id="menu-e-abbinamenti" class="margin-top-bottom-4">
+    <h2>Come creare il menù: portate e abbinamenti</h2>
+    <p>Un menù gourmet deve essere equilibrato e armonioso. Inizia con un antipasto leggero e sofisticato, come una tartare di tonno o un’insalata di gamberi. Per il piatto principale, opta per ricette ricercate come un filetto di manzo in crosta o un risotto al tartufo. Concludi con un dessert elegante, come una mousse al cioccolato fondente. Ricorda anche di selezionare vini di qualità che esaltino i sapori delle portate.</p>
+  </section>
+
+  <section id="organizzazione-tempo" class="margin-top-bottom-4">
+    <h2>Come organizzare il tempo in cucina</h2>
+    <p>La gestione del tempo è fondamentale per evitare stress durante la preparazione della cena. Puoi preparare alcune parti del menù in anticipo, come le salse o i dessert. Assicurati di avere una chiara tabella di marcia per cucinare e servire ogni portata, in modo che tutto sia pronto al momento giusto senza fretta.</p>
+  </section>
+
+  <section id="decorazione-tavola" class="margin-top-bottom-4">
+    <h2>Decorazione della tavola e atmosfera</h2>
+    <p>La cena gourmet non riguarda solo il cibo, ma anche l'atmosfera. La decorazione della tavola deve essere elegante ma non eccessiva. Utilizza tovaglie e stoviglie di qualità, aggiungi un centrotavola floreale e crea un'illuminazione calda con candele. La musica di sottofondo può contribuire a rendere l’ambiente ancora più accogliente e rilassante.</p>
+  </section>
+
+  <footer id="conclusione" class="margin-top-bottom-4">
+    <h2>Conclusione</h2>
+    <p>Preparare una cena gourmet a casa richiede attenzione e cura, ma con la giusta pianificazione e ingredienti di qualità, puoi offrire ai tuoi ospiti un'esperienza culinaria indimenticabile. Crea un menù sofisticato, scegli abbinamenti perfetti e cura ogni dettaglio, dall'impiattamento alla decorazione della tavola. Con un po' di pratica, potrai trasformare la tua cucina in un ristorante di alta classe.</p>
+  </footer>`
   }
 
   ];

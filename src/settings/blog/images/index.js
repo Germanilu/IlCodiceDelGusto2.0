@@ -9,6 +9,7 @@ import takeCommand from '../../../static/media/prendere-ordinazione.jpg';
 import seo from '../../../static/media/seo.jpg';
 import oldTextKeyboard from '../../../static/media/macchina-da-scrivere.jpg';
 import businessCard from '../../../static/media/biglietto-da-visita.jpg';
+import gourmetDinner from '../../../static/media/gourmet.jpg';
 
  const blogImages = {
     qrCode,
@@ -21,7 +22,8 @@ import businessCard from '../../../static/media/biglietto-da-visita.jpg';
     takeCommand,
     oldTextKeyboard,
     seo,
-    businessCard
+    businessCard,
+    gourmetDinner
 };
 
 export default blogImages;

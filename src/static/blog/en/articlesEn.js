@@ -749,6 +749,72 @@ export const articlesEn = [
   <h2>Conclusion</h2>
   <p>The adoption of free virtual business cards represents a significant step forward for any restaurant business that wants to stay up to date. They not only offer an ecological and modern way to share your restaurant's information but also improve communication with customers and your online presence. Take advantage of these digital resources to give your business an innovative touch and attract an increasingly connected and digital clientele.</p>
 </section>`
+},
+{
+  id: 8,
+  slug: "cena-gourmet-casa",
+  img: settings.gourmetDinner.src,
+  metaDescription: "How to prepare a gourmet dinner at home: ideas, tips, and tricks to create a refined menu and delight your guests.",
+  metaKeywords: "gourmet dinner, gourmet dinner at home, gourmet menu, refined cuisine, elegant dinners, preparing gourmet dinner, gourmet dinner ideas, gourmet dinner recipes, gourmet restaurant dinner, gourmet menu",
+  title: "How to Prepare a Gourmet Dinner at Home: Ideas and Tips for an Unforgettable Evening",
+  shortDescription: "Discover how to organize a gourmet dinner at home, from selecting ingredients to perfect pairings, to impress your guests with refined dishes.",
+  text: `<header>
+  <h1>How to Prepare a Gourmet Dinner at Home: Ideas and Tips for an Unforgettable Evening</h1>
+</header>
+<nav class="margin-top-bottom-4">
+  <ul>
+    <li><a href="#what-does-gourmet-mean">What does gourmet cuisine mean?</a></li>
+    <li><a href="#planning-gourmet-dinner">How to plan a gourmet dinner</a></li>
+    <li><a href="#quality-ingredients">Quality ingredients for a gourmet dinner</a></li>
+    <li><a href="#essential-tools">Essential tools for cooking gourmet</a></li>
+    <li><a href="#menu-and-pairings">How to create the menu: courses and pairings</a></li>
+    <li><a href="#time-management">How to organize time in the kitchen</a></li>
+    <li><a href="#table-decoration">Table decoration and atmosphere</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+
+<section id="what-does-gourmet-mean" class="margin-top-bottom-4">
+  <h2>What does gourmet cuisine mean?</h2>
+  <p>Gourmet cuisine stands out for its attention to the quality of ingredients, advanced cooking techniques, and the aesthetic presentation of dishes. A gourmet meal is a true sensory experience where every detail matters. Preparing a gourmet dinner at home requires a creative approach, where culinary art meets the pursuit of excellence.</p>
+</section>
+
+<img class="img" src=${settings.gourmetDinner.src} alt="gourmet dinner at home"/>
+
+<section id="planning-gourmet-dinner" class="margin-top-bottom-4">
+  <h2>How to plan a gourmet dinner</h2>
+  <p>Planning is the first essential step for a successful gourmet dinner. Establishing a theme for the evening can help you select courses in a cohesive way. You can be inspired by a specific culinary tradition, like Italian or French cuisine, or opt for a seasonal theme, such as autumn with truffles and pumpkin.</p>
+</section>
+
+<section id="quality-ingredients" class="margin-top-bottom-4">
+  <h2>Quality ingredients for a gourmet dinner</h2>
+  <p>The quality of ingredients is crucial. Choose fresh, seasonal products, and if possible, source them from local producers. Top-quality ingredients like artisanal cheeses, responsibly raised meat, and fresh seafood can make the difference between a good dish and an extraordinary one. Visit local markets or gourmet stores to find authentic and high-quality ingredients.</p>
+</section>
+
+<section id="essential-tools" class="margin-top-bottom-4">
+  <h2>Essential tools for cooking gourmet</h2>
+  <p>To create gourmet dishes, you don't need a professional kitchen, but certain tools can make the work easier and improve results. A quality knife set, non-stick pans, and stainless steel pots are essential. Additionally, tools like a mandoline or a siphon for foams can help you create spectacular presentations and unique flavors.</p>
+</section>
+
+<section id="menu-and-pairings" class="margin-top-bottom-4">
+  <h2>How to create the menu: courses and pairings</h2>
+  <p>A gourmet menu should be balanced and harmonious. Start with a light and sophisticated appetizer, such as tuna tartare or shrimp salad. For the main course, opt for refined recipes like a beef fillet en croûte or truffle risotto. Finish with an elegant dessert, such as a dark chocolate mousse. Also, remember to select quality wines that enhance the flavors of each course.</p>
+</section>
+
+<section id="time-management" class="margin-top-bottom-4">
+  <h2>How to organize time in the kitchen</h2>
+  <p>Time management is essential to avoid stress while preparing dinner. You can prepare certain parts of the menu in advance, such as sauces or desserts. Make sure to have a clear schedule for cooking and serving each course, so that everything is ready at the right time without rushing.</p>
+</section>
+
+<section id="table-decoration" class="margin-top-bottom-4">
+  <h2>Table decoration and atmosphere</h2>
+  <p>A gourmet dinner isn't just about the food; it's also about the atmosphere. The table decoration should be elegant but not excessive. Use quality tablecloths and dinnerware, add a floral centerpiece, and create warm lighting with candles. Background music can also help make the environment more welcoming and relaxing.</p>
+</section>
+
+<footer id="conclusion" class="margin-top-bottom-4">
+  <h2>Conclusion</h2>
+  <p>Preparing a gourmet dinner at home requires attention and care, but with proper planning and quality ingredients, you can offer your guests an unforgettable culinary experience. Create a sophisticated menu, choose perfect pairings, and pay attention to every detail, from plating to table decoration. With a little practice, you can transform your kitchen into a high-class restaurant.</p>
+</footer>`
 }
 
 ];
