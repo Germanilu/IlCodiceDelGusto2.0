@@ -6,7 +6,7 @@ export const articlesIt = [
     slug:"menu-digitale",
     img: settings.qrCode.src,
     metaDescription:"Menù digitale, che cos'è e perchè va utilizzato",
-    metaKeywords:"menu digitale, menù digitale, menu digitale ristorante, menu digitale gratis, menu con qr code, menu digitale qr code, menu digitale qr code gratis, menu digitale gratuito, qr code menu ristorante gratis, menudigitale, qrcode menu ristorante, qr code menu ristorante gratis",
+    metaKeywords:"menu ristorante,menu ristorante elegante, menu digitale, menù digitale, menu digitale ristorante, menu digitale gratis, menu con qr code, menu digitale qr code, menu digitale qr code gratis, menu digitale gratuito, qr code menu ristorante gratis, menudigitale, qrcode menu ristorante, qr code menu ristorante gratis",
     title: "Menu Digitale per Ristoranti: L'Innovazione che Migliora l'Esperienza dei Clienti",
     shortDescription: "Menù digitale, perchè utilizzarlo e quali benefici può apportare al proprio ristorante",
     text:` <header>
@@ -71,7 +71,7 @@ export const articlesIt = [
     slug:"marketing-nella-ristorazione",
     img: settings.marketingChef.src,
     metaDescription: "Marketing nella Ristorazione",
-    metaKeywords: "marketing per ristoranti, marketing ristorazione, marketing ristoranti, marketing e ristorazione, ristorazione marketing, consulenza seo per ristoranti, web marketing per attività locali, strategie marketing ristorazione",
+    metaKeywords: "marketing per ristoranti, sito web ristorante, marketing ristorazione, marketing ristoranti, marketing e ristorazione, ristorazione marketing, consulenza seo per ristoranti, web marketing per attività locali, strategie marketing ristorazione",
     title: "Il Marketing nella Ristorazione: Strategie e Consigli per il Successo del Tuo Ristorante",
     shortDescription: "Strategie e consigli per migliorare il marketing del tuo ristorante.",
     text: `
@@ -165,7 +165,7 @@ export const articlesIt = [
     slug:"net-promoter-score",
     img: settings.netPromoterScore.src,
     metaDescription:"Scopri come il Net Promoter Score (NPS) rivoluziona la soddisfazione dei clienti nel settore della ristorazione. Scopri i vantaggi, le strategie di implementazione e i modi per migliorare il tuo NPS.",
-    metaKeywords:"net promoter score,",
+    metaKeywords:"net promoter score",
     title: "La Guida Definitiva al Net Promoter Score nel Settore della Ristorazione",
     shortDescription: "Scopri come il Net Promoter Score (NPS) rivoluziona la soddisfazione dei clienti nel settore della ristorazione. Scopri i vantaggi, le strategie di implementazione e i modi per migliorare il tuo NPS.",
     text:`  <header>
