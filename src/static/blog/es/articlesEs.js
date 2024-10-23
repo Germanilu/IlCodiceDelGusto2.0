@@ -815,6 +815,133 @@ export const articlesEs = [
     <h2>Conclusión</h2>
     <p>Preparar una cena gourmet en casa requiere atención y cuidado, pero con una buena planificación y los ingredientes adecuados, puedes ofrecer una experiencia culinaria inolvidable. Elige maridajes perfectos y cuida cada detalle, desde la presentación hasta la decoración de la mesa.</p>
   </footer>`
+},
+{
+  "id": 9,
+  "slug": "porta-qr-code",
+  "img": settings.qrCodeTable.src,
+  "metaDescription": "Descubre la importancia del soporte para código QR en tu restaurante. Expositores elegantes y códigos QR en la mesa revolucionan la experiencia del menú digital, mejorando la eficiencia y el servicio.",
+  "metaKeywords": "soporte código QR, código QR mesa, expositor código QR, soporte código QR de mesa",
+  "title": "Expositores y Soportes para Código QR para Restaurantes: La Solución Ideal para un Menú Digital Innovador",
+  "shortDescription": "Descubre cómo organizar una cena gourmet en casa, desde la elección de ingredientes hasta las combinaciones perfectas, para sorprender a tus invitados con platos refinados.",
+  "text": `<header>
+      <h1>Expositores y Soportes para Código QR para Restaurantes</h1>
+    </header>
+    <nav class="margin-top-bottom-4">
+      <ul>
+        <li><a href="#introduzione">Introducción: La Revolución del Menú Digital en los Restaurantes</a></li>
+        <li><a href="#come-funziona">¿Qué es un Código QR y Cómo Funciona?</a></li>
+        <li><a href="#perche-adottarlo">¿Por Qué los Restaurantes Deben Adoptar un Menú Digital con Código QR?</a></li>
+        <li><a href="#espositori">El Rol de los Expositores y Soportes para Código QR en los Restaurantes</a></li>
+        <li><a href="#scegliere">Cómo Elegir el Mejor Soporte para Código QR para tu Local</a></li>
+        <li><a href="#organizzazione">Soporte para Código QR: Un Elemento Crucial para la Eficiencia del Servicio</a></li>
+        <li><a href="#integrazione">Cómo Integrar el Código QR en tu Estrategia de Marketing Digital</a></li>
+        <li><a href="#conclusione">Conclusión: Innovación y Profesionalidad para tu Restaurante</a></li>
+      </ul>
+    </nav>
+  
+    <section id="introduzione" class="margin-top-bottom-4">
+      <h3>Introducción: La Revolución del Menú Digital en los Restaurantes</h3>
+      <p>En los últimos años, los restaurantes han experimentado una transformación radical gracias a la adopción de tecnologías digitales. Una de las innovaciones más importantes es el menú digital con código QR. Esto permite a los clientes ver el menú en su smartphone, eliminando la necesidad de un menú físico en papel.</p>
+      <p>El <strong>código QR</strong> se ha convertido en una herramienta fundamental para mejorar la eficiencia y la seguridad, especialmente en un contexto post-pandemia. Sin embargo, para una buena integración en los restaurantes, se necesitan los instrumentos adecuados, como los soportes y expositores para código QR de mesa. En este artículo exploraremos la importancia de estos accesorios, sus tipos y los beneficios que aportan a los restaurantes.</p>
+    </section>
+  
+    <img class="img" src=${settings.qrCodeTable.src} alt="expositor código QR"/>
+  
+    <section id="come-funziona" class="margin-top-bottom-4">
+      <h2 class="margin-bottom-2">1. ¿Qué es un Código QR y Cómo Funciona?</h2>
+      <p>Un <strong>código QR</strong> (Quick Response code) es un código de barras bidimensional que puede ser escaneado utilizando la cámara de un smartphone. Una vez escaneado, el código redirige al usuario a una página web o una aplicación, como un menú digital.</p>
+      <p>Los <strong>códigos QR</strong> son muy fáciles de usar. Basta con enfocar el código y en pocos segundos, el cliente puede ver el menú del restaurante sin necesidad de tocar nada físico. Este sistema se ha vuelto popular por su rapidez, comodidad y la reducción del riesgo de contaminación en entornos como los restaurantes.</p>
+    </section>
+  
+    <section id="perche-adottarlo" class="margin-top-bottom-4">
+      <h2>2. ¿Por Qué los Restaurantes Deben Adoptar un Menú Digital con Código QR?</h2>
+      <p>Adoptar un <strong>menú digital</strong> mediante un código QR ofrece numerosos beneficios tanto para los restauradores como para los clientes. Veámoslos en detalle:</p>
+      <h3 class="margin-top-bottom-4">Ventajas para los Restauradores:</h3>
+      <p><strong>Ahorro en costos de impresión: </strong> Con un menú digital, ya no es necesario imprimir o actualizar los menús físicamente.</p>
+      <p><strong>Actualizaciones en tiempo real: </strong> Modificar precios, ingredientes o ofertas especiales se vuelve inmediato y sin costos adicionales.</p>
+      <p><strong>Sostenibilidad: </strong> Al reducir el uso de papel, los restaurantes se vuelven más ecológicos.</p>
+      <p><strong>Mejor gestión del servicio: </strong> Con menos interacciones físicas entre clientes y personal, el servicio se vuelve más rápido y seguro.</p>
+      
+      <h3 class="margin-top-bottom-4">Ventajas para los Clientes:</h3>
+      <p><strong>Mayor seguridad: </strong> Los menús digitales reducen el riesgo de contaminación cruzada.</p>
+      <p><strong>Facilidad de uso: </strong> Los clientes pueden acceder al menú directamente desde su smartphone.</p>
+      <p><strong>Experiencia interactiva: </strong> Algunos menús digitales también ofrecen opciones interactivas, como la posibilidad de filtrar los platos por alérgenos o preferencias dietéticas.</p>
+    </section>
+  
+    <section id="espositori" class="margin-top-bottom-4">
+      <h2 class="margin-bottom-2">3. El Rol de los Expositores y Soportes para Código QR en los Restaurantes</h2>
+      <p>Un expositor de código QR o un soporte de código QR de mesa son accesorios importantes. Ayudan a usar los códigos QR en los restaurantes de manera elegante y práctica.</p>
+      <h3>¿Por Qué Usar un Soporte para Código QR de Mesa?</h3>
+      <p>El uso de un soporte para código QR de mesa mejora la presentación del menú digital. Estos soportes ayudan a colocar el código QR en un lugar visible y de fácil acceso. Además, mejoran el aspecto del restaurante, manteniendo el ambiente ordenado y profesional.</p>
+      <h3 class="margin-top-2">Tipos de Expositores para Código QR en Restaurantes</h3>
+      <p class="margin-bottom-2">Existen diferentes tipos de expositores que pueden utilizarse en los restaurantes, cada uno con características únicas. A continuación, las principales:</p>
+        <p><strong>Expositores de Acrílico: </strong> Son de los más populares por su resistencia y simplicidad. Son transparentes, discretos y muy elegantes, adecuados para cualquier tipo de decoración.</p>
+        <p><strong>Expositores de Madera: </strong> Perfectos para restaurantes con un diseño rústico o tradicional. Estos soportes de código QR en madera pueden ser personalizados para adaptarse al estilo del local.</p>
+        <p><strong>Expositores de Metal: </strong> Más robustos y modernos, son perfectos para restaurantes con un diseño contemporáneo e industrial.</p>
+        <p><strong>Expositores Multifuncionales: </strong> Algunos modelos ofrecen funciones adicionales, como la posibilidad de incluir información sobre el restaurante, descuentos o promociones, o incluso soporte para el pago sin contacto.</p>
+    </section>
+  
+    <img class="img-reduce" src=${settings.qrCodeTableEspositor.src} alt="soporte código QR"/>
+  
+    <section id="scegliere" class="margin-top-bottom-4">
+      <h2>4. Cómo Elegir el Mejor Soporte para Código QR para tu Local</h2>
+      <p>Elegir el soporte <strong>QR code</strong> de mesa adecuado puede marcar una gran diferencia en la experiencia del cliente. Aquí algunos factores a considerar:</p>
+      <p><strong>Diseño: </strong> Asegúrate de que el diseño del expositor esté alineado con el estilo de tu restaurante. Un restaurante refinado podría preferir un expositor de acrílico minimalista, mientras que una trattoria podría optar por un modelo rústico de madera.</p>
+      <p><strong>Durabilidad: </strong> Si tu restaurante tiene mucha afluencia, opta por un expositor resistente, como los de metal o acrílico grueso.</p>
+      <p><strong>Visibilidad: </strong> El código QR debe ser bien visible y fácilmente escaneable desde cualquier ángulo de la mesa. Los expositores inclinados ofrecen mejor visibilidad que los planos.</p>
+      <p><strong>Personalización: </strong> Algunos fabricantes ofrecen expositores personalizados con el logo del restaurante o información adicional. Esto puede ayudar a reforzar la marca y dar un toque más profesional.</p>
+    </section>
+  
+    <section id="organizzazione" class="margin-top-bottom-4">
+      <h2>5. Soporte para Código QR: Un Elemento Crucial para la Eficiencia del Servicio</h2>
+      <p>El uso de un soporte para código QR mejora la organización del restaurante. En lugar de imprimir y distribuir menús físicos, puedes colocar un código QR en cada mesa, lo que permite a los clientes acceder al menú de inmediato. Esto ahorra tiempo y mejora la eficiencia, especialmente en restaurantes con alto volumen de clientes.</p>
+    </section>
+  
+    <section id="integrazione" class="margin-top-bottom-4">
+      <h2>6. Cómo Integrar el Código QR en tu Estrategia de Marketing Digital</h2>
+      <p>El código QR no solo es útil para los menús digitales, sino que también puede formar parte de una estrategia de marketing digital. Por ejemplo, puedes usar un código QR para redirigir a los clientes a tu página de reservas online, promociones exclusivas, programas de fidelización o incluso para dejar reseñas en línea.</p>
+      <p>Esta herramienta no solo mejora la experiencia del cliente, sino que también te permite recopilar información valiosa sobre las preferencias de tus clientes y su comportamiento.</p>
+    </section>
+  
+    <section id="conclusione" class="margin-top-bottom-4">
+      <h2>7. Conclusión: Innovación y Profesionalidad para tu Restaurante</h2>
+      <p>Los expositores y soportes para código QR de mesa son una solución eficaz y moderna para los restaurantes que desean mejorar la experiencia del cliente y optimizar su gestión. Contribuyen a crear un ambiente ordenado, seguro y eficiente, a la vez que integran el menú digital de manera elegante y funcional.</p>
+     <img class="img-reduce" src=${settings.qrCodeTableOutside.src} alt="qr code tavolo"/>
+      </section>
+      <section id="faq" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">FAQ: Preguntas Frecuentes</h2>
+  <div class="faq-item">
+    <h3>¿Qué es un soporte de menú digital de mesa?</h3>
+    <p>Un soporte de código QR es un objeto que muestra un código QR en cada mesa del restaurante. Esto facilita el acceso al menú digital.</p>
+  </div>
+  
+  <div class="faq-item">
+    <h3>¿Qué materiales se utilizan para los expositores de código QR?</h3>
+    <p>Los expositores pueden estar hechos de acrílico, madera, metal o materiales mixtos, según las necesidades estéticas y prácticas del restaurante.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>¿Es seguro usar menús digitales con código QR?</h3>
+    <p>Sí, los menús digitales son seguros, ya que reducen el contacto físico entre clientes y personal, mejorando la higiene.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>¿Puedo personalizar mi expositor?</h3>
+    <p>Numerosos proveedores ofrecen la opción de personalizar los expositores con el logo del local u otros detalles.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>¿Los códigos QR son difíciles de usar para los clientes?</h3>
+    <p>No, son extremadamente fáciles de usar: solo necesitas apuntar la cámara de tu smartphone al código para acceder directamente al menú.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>¿Cómo puedo utilizar el código QR para marketing?</h3>
+    <p>Puedes vincular el código QR a páginas de redes sociales, encuestas de retroalimentación o promociones exclusivas para los clientes que lo escaneen.</p>
+  </div>
+</section>
+    `
 }
 
 ];

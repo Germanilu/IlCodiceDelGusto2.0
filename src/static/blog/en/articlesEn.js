@@ -815,6 +815,145 @@ export const articlesEn = [
   <h2>Conclusion</h2>
   <p>Preparing a gourmet dinner at home requires attention and care, but with proper planning and quality ingredients, you can offer your guests an unforgettable culinary experience. Create a sophisticated menu, choose perfect pairings, and pay attention to every detail, from plating to table decoration. With a little practice, you can transform your kitchen into a high-class restaurant.</p>
 </footer>`
+},
+{
+  id: 9,
+  slug: "porta-qr-code",
+  img: settings.qrCodeTable.src,
+  metaDescription: "Discover the importance of the QR code holder for your restaurant. Elegant displays and table QR codes revolutionize the digital menu experience, enhancing efficiency and service.",
+  metaKeywords: "qr code holder, table qr code, qr code display, table qr code holder",
+  title: "Displays and QR Code Holders for Restaurants: The Ideal Solution for an Innovative Digital Menu",
+  shortDescription: "Learn how to organize a gourmet dinner at home, from selecting ingredients to perfect pairings, to impress your guests with refined dishes.",
+  text: `<header>
+    <h1>Displays and QR Code Holders for Restaurants</h1>
+  </header>
+  <nav class="margin-top-bottom-4">
+    <ul>
+      <li><a href="#introduction">Introduction: The Revolution of Digital Menus in Restaurants</a></li>
+      <li><a href="#how-it-works">What is a QR Code and How Does It Work?</a></li>
+      <li><a href="#why-adopt-it">Why Restaurants Should Adopt a Digital Menu with QR Code</a></li>
+      <li><a href="#displays"> The Role of Displays and QR Code Holders in Restaurants</a></li>
+      <li><a href="#choosing"> How to Choose the Best QR Code Holder for Your Venue</a></li>
+      <li><a href="#organization">QR Code Holder: A Crucial Element for Service Efficiency</a></li>
+      <li><a href="#integration">How to Integrate QR Code into Your Digital Marketing Strategy</a></li>
+      <li><a href="#conclusion">Conclusion: Innovation and Professionalism for Your Restaurant</a></li>
+    </ul>
+  </nav>
+
+  <section id="introduction" class="margin-top-bottom-4">
+    <h3>Introduction: The Revolution of Digital Menus in Restaurants</h3>
+    <p>In recent years, restaurants have undergone a radical transformation thanks to the adoption of digital technologies. One of the most important innovations is the digital menu with QR code. This allows customers to view the menu on their smartphones, eliminating the need for a traditional paper menu.</p>
+    <p>The <strong> QR code </strong> has become a fundamental tool for improving efficiency and safety, especially in a post-pandemic context. However, to integrate it effectively in restaurants, the right tools are needed. QR code holders and table QR code displays are useful. In this article, we will explore the importance of these accessories, their types, and the benefits for restaurants.</p>
+  </section>
+
+  <img class="img" src=${settings.qrCodeTable.src} alt="qr code display"/>
+
+  <section id="how-it-works" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">1. What is a QR Code and How Does It Work?</h2>
+    <p>A <strong> QR code </strong> (Quick Response code) is a two-dimensional barcode that can be scanned using a smartphone camera. Once scanned, the code redirects the user to a webpage or an app, such as a digital menu.</p>
+    <p><strong> QR codes </strong> are very easy to use. Just frame the code. In seconds, the customer can view the restaurant's menu without touching anything physical. This system has become popular for its speed, convenience, and the reduction of contamination risk in environments like restaurants.</p>
+  </section>
+
+  <section id="why-adopt-it" class="margin-top-bottom-4">
+    <h2>2. Why Restaurants Should Adopt a Digital Menu with QR Code</h2>
+    <p>The adoption of a <strong> digital menu </strong> via QR code offers numerous advantages for both restaurateurs and customers. Let’s look at them in detail:</p>
+    <h3 class="margin-top-bottom-4">Advantages for Restaurateurs:</h3>
+    <p><strong>Cost savings on printing: </strong> With a digital menu, there is no longer a need to print or physically update menus.</p>
+    <p><strong>Real-time updates: </strong> Changing prices, ingredients, or special offers becomes immediate and incurs no additional costs.</p>
+    <p><strong>Sustainability: </strong> By reducing paper use, restaurants become more eco-friendly.</p>
+    <p><strong>Better service management: </strong> With fewer physical interactions between customers and staff, service becomes faster and safer.</p>
+    
+    <h3 class="margin-top-bottom-4">Advantages for Customers:</h3>
+    <p><strong>Greater safety: </strong> Digital menus reduce the risk of cross-contamination.</p>
+    <p><strong>Ease of use: </strong> Customers can access the menu directly from their smartphone.</p>
+    <p><strong>Interactive experience: </strong> Some digital menus also offer interactive options, such as the ability to filter dishes by allergens or dietary preferences.</p>
+  </section>
+
+  <section id="displays" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">3. The Role of Displays and QR Code Holders in Restaurants</h2>
+    <p>A QR code display or a table QR code holder are important accessories. They help use QR codes in restaurants elegantly and practically.</p>
+    <h3>Why Use a Table QR Code Holder?</h3>
+    <p>The use of a table QR code holder enhances the presentation of the digital menu. These supports help position the QR code in a visible and easily accessible place. Additionally, they improve the restaurant's appearance, keeping the environment tidy and professional.</p>
+    <h3 class="margin-top-2">Types of QR Code Displays for Restaurants</h3>
+    <p class="margin-bottom-2">There are various types of displays that can be used in restaurants, each with unique characteristics. Here are the main ones:</p>
+    <p><strong>Acrylic Displays: </strong> These are among the most popular for their durability and simplicity. They are transparent, discreet, and very elegant, suitable for any type of decor. You can buy it at this <a href="https://www.amazon.it/HMF-Espositore-Acrilico-Verticale-Trasparente/dp/B07ZDHH5F3/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JKSAEMQQ7276&dib=eyJ2IjoiMSJ9.MnhP9eUwhVSImqP0e2s2lZeUhQbGJE52f_jHzU9YfHf5vCBHYpC34z2lopKaVUrwN-e1F0kibKv-SqURkoDUPFSnllakxopE2WVmrxRebHyooBPZpQlHPyZycZZQI1uzLYR8qZPvY8IGEEAboIh8ue4AkbmBejvpg2B0NU9-2eCddVUwnGJaU_XDaO4jfC9G7zO9gHj8TKAtgIs2fHCCdZW9rn9pZakkZVjvNyf_C5wWvOo410oCuIWTpKjKoVy7Vz6mOuVFxMKRmVy-mk6_1vxEQAnif72z5tH1FPDsg5o._JhRXOLF9Hx5sELzpbi6HSGkhySxujcxhGSIyqcB9KM&dib_tag=se&keywords=espositore%2Bacrilico%2Bqr%2Bcode&qid=1729671039&s=office&sprefix=espositore%2Bacrilico%2Bqr%2Bcod%2Coffice-products%2C78&sr=1-6&th=1"> <strong> Link </strong> </a></p>
+    <p><strong>Wooden Displays: </strong> Perfect for restaurants with a rustic or traditional design. These wooden QR code holders can be customized to match the venue's style. You can buy it at this <a href="https://www.amazon.it/Toyvian-Porta-Segnaposto-Portafoto-Supporto/dp/B07RBQV59W/ref=sr_1_14_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M53UWGU3LR67&dib=eyJ2IjoiMSJ9.A-EwtdK4EcOSNOFarZe91UxnHCryjb4sK-jH4JwdQwqbrnE5mBMoyBotmSWTtbcrBKp077S2TGsOBCM0C6ZrCpU8v7YVkkLHH4u_CufQlaM_5QC6MhkriqFYjNViVoHpQ80d1iB0ftZAFxq4eWaQUBVTlSKf2gtM_JO7aB1-Ma4OoDGK1wDqtOYCOZ8WHsWE_WQnuB3FT9TntNUsPZpYvVS9DBREnt7D6uYxLmtdg9iWxl9A7B41rxg_X3x1qSkTFfVv2h4gaKrLktz0uTrqGV8HbtKPFT_HXG-K1BNC88XcEQ5g_G9FfP8nE16Eq4Mgxd4_WbRQUgC0VryzuvAi6Au5C9hRNNxHAdGDCXpt0fg-QOPlBzGAXHRd8kpEuxWZYXrx2BNb3wDB55zrI2JeBRLVWqTId4PAc1S44jZ17Q6guEzGm38p09QbVujxF_jYvFz3E7a4n_aH1QlqZ0FX9HJCS1iHJt3eDoA1OkO5PKgW2kOayWWhSxkhytU3d-b7g&dib_tag=se&keywords=porta%2Bqr%2Bcode&qid=1729670639&s=office&sprefix=porta%2Bqr%2Bcode%2Coffice-products%2C66&sr=8-14-spons&sp_csd=d2lkZ2F0aWNsZSUyQyUyQyUyM2RtYg&sp_rid=GJPDNDH70F9B7GQ44SW1&sp_t=2021&th=1"> <strong> Link </strong> </a></p>
+    <p><strong>Metal Displays: </strong> These are very resistant and provide a modern and elegant look, ideal for contemporary restaurants. You can buy it at this <a href="https://www.amazon.it/Acrilico-Creazione-Fotoquadro-Supporto-Espositore/dp/B09SY7J8YY/ref=sr_1_7?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JKSAEMQQ7276&dib=eyJ2IjoiMSJ9.VkOWoxG8Lg90tqlI7ByW6n3tUkq06-aZ1V4E42hdH6s&dib_tag=se&keywords=espositore%2Bmetal%2Bqr%2Bcode&qid=1729670437&s=office&sprefix=espositore%2Bmetal%2Bqr%2Bcode%2Coffice-products%2C80&sr=8-7&th=1"> <strong> Link </strong> </a></p>
+    <h3 class="margin-top-2">How to Use Displays Effectively</h3>
+    <p>To ensure the QR codes are easy to scan, place the displays at eye level and in well-lit areas. Avoid placing them in positions that are hard to reach or obscured by other objects. Positioning them properly enhances the customer experience and facilitates their interaction with the menu.</p>
+    <img class="img-reduce" src=${settings.qrCodeTableEspositor.src} alt="porta qr code"/>
+    </section>
+
+  <section id="choosing" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">4. How to Choose the Best QR Code Holder for Your Venue</h2>
+    <p>Choosing the right QR code holder depends on several factors:</p>
+    <h3 class="margin-top-2">1. Style of Your Restaurant</h3>
+    <p>Consider the decor of your venue. Opt for a QR code holder that matches the overall aesthetic.</p>
+    <h3 class="margin-top-2">2. Size of the QR Code</h3>
+    <p>The holder should accommodate the QR code size, ensuring it is easy to scan without having to struggle.</p>
+    <h3 class="margin-top-2">3. Durability</h3>
+    <p>Choose materials that withstand frequent use, especially if your restaurant has a high turnover of customers.</p>
+    <h3 class="margin-top-2">4. Price</h3>
+    <p>Compare prices and choose a holder that fits your budget without compromising quality.</p>
+  </section>
+
+  <section id="organization" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">5. QR Code Holder: A Crucial Element for Service Efficiency</h2>
+    <p>Having a functional QR code holder means less time wasted searching for menus. This efficiency leads to a better experience for customers, allowing them to quickly access the information they need.</p>
+    <p>In addition, using displays helps staff to keep tables tidy and organized, promoting a more professional atmosphere. A well-organized environment positively impacts customer perception, making them more likely to return.</p>
+  </section>
+
+  <section id="integration" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">6. How to Integrate QR Code into Your Digital Marketing Strategy</h2>
+    <p>The QR code can also be integrated into your marketing strategy. Consider the following:</p>
+    <h3 class="margin-top-2">Social Media</h3>
+    <p>Include QR codes in social media posts to redirect customers to your digital menu or to special offers.</p>
+    <h3 class="margin-top-2">Print Materials</h3>
+    <p>Include QR codes on flyers, business cards, and other promotional materials.</p>
+    <h3 class="margin-top-2">Feedback Collection</h3>
+    <p>Use QR codes to facilitate feedback collection through online forms.</p>
+  </section>
+
+  <section id="conclusion" class="margin-top-bottom-4">
+    <h2>7. Conclusion: Innovation and Professionalism for Your Restaurant</h2>
+    <p>In conclusion, using displays and QR code holders represents a step toward innovation and professionalism for your restaurant. By adopting this technology, you not only improve efficiency and customer satisfaction but also position yourself as a forward-thinking establishment. Choosing the right accessories for your digital menu is essential for creating a positive experience that will encourage customers to return.</p>
+    <p>Embrace the digital revolution and ensure that your restaurant remains competitive in an ever-evolving market.</p>
+  </section>
+   <img class="img-reduce" src=${settings.qrCodeTableOutside.src} alt="qr code tavolo"/>
+
+   <section id="faq" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">FAQ: Frequently Asked Questions</h2>
+  <div class="faq-item">
+    <h3>What is a table digital menu holder?</h3>
+    <p>A QR code holder is an object that displays a QR code on each table in the restaurant. This makes it easier to access the digital menu.</p>
+  </div>
+  
+  <div class="faq-item">
+    <h3>What materials are used for QR code displays?</h3>
+    <p>The displays can be made of acrylic, wood, metal, or mixed materials, depending on the aesthetic and practical needs of the restaurant.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>Is it safe to use digital menus with QR codes?</h3>
+    <p>Yes, digital menus are safe, reducing physical contact between customers and staff, thereby improving hygiene.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>Can I customize my display?</h3>
+    <p>Many vendors offer the option to customize the displays with the restaurant's logo or other details.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>Are QR codes difficult for customers to use?</h3>
+    <p>No, they are extremely easy to use: simply point your smartphone camera at the code to access the menu directly.</p>
+  </div>
+
+  <div class="faq-item">
+    <h3>How can I use QR codes for marketing?</h3>
+    <p>You can link the QR code to social media pages, feedback surveys, or exclusive promotions for customers who scan it.</p>
+  </div>
+</section>
+  `
 }
 
 ];

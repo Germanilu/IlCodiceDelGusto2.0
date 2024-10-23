@@ -10,6 +10,9 @@ import seo from '../../../static/media/seo.jpg';
 import oldTextKeyboard from '../../../static/media/macchina-da-scrivere.jpg';
 import businessCard from '../../../static/media/biglietto-da-visita.jpg';
 import gourmetDinner from '../../../static/media/gourmet.jpg';
+import qrCodeTable from '../../../static/media/qr-code-table.jpg';
+import qrCodeTableOutside from '../../../static/media/qr-code-table-outside.jpg';
+import qrCodeTableEspositor from '../../../static/media/qr-code-espositore.jpg';
 
  const blogImages = {
     qrCode,
@@ -23,7 +26,10 @@ import gourmetDinner from '../../../static/media/gourmet.jpg';
     oldTextKeyboard,
     seo,
     businessCard,
-    gourmetDinner
+    gourmetDinner,
+    qrCodeTable,
+    qrCodeTableEspositor,
+    qrCodeTableOutside
 };
 
 export default blogImages;
