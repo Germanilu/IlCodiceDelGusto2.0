@@ -6,7 +6,7 @@ export const articlesIt = [
     slug:"menu-digitale",
     img: settings.qrCode.src,
     metaDescription:"Menù digitale, che cos'è e perchè va utilizzato",
-    metaKeywords:"menu ristorante,menu ristorante elegante, menu digitale, menù digitale, menu digitale ristorante, menu digitale gratis, menu con qr code, menu digitale qr code, menu digitale qr code gratis, menu digitale gratuito, qr code menu ristorante gratis, menudigitale, qrcode menu ristorante, qr code menu ristorante gratis",
+    metaKeywords:"applicazione menu, menù digitale, menu ristorante qr code, qr code ristorante, qr code menu, menù digitale qr code, menù qr code, qr menu, menu digitali, menu app, menu digitale ristoranti, menù digitale qr code gratis, qr code menu ristorante gratis, digital menu, app menu ristoranti, menu qrcode, creare menu con qr code, app per creare menu",
     title: "Menu Digitale per Ristoranti: L'Innovazione che Migliora l'Esperienza dei Clienti",
     shortDescription: "Menù digitale, perchè utilizzarlo e quali benefici può apportare al proprio ristorante",
     text:` <header>
@@ -23,26 +23,38 @@ export const articlesIt = [
     </nav>
   <section id="qr-menu" class="margin-top-bottom-4">
     <h2>Che cos'è un menu digitale con codice QR?</h2>
-    <p>Un menu digitale con codice QR è una versione elettronica del tradizionale menu cartaceo, accessibile tramite la scansione di un codice QR con uno smartphone o un tablet. Quando i clienti scansionano il codice QR, vengono reindirizzati a una pagina web che mostra il menu del ristorante in formato digitale. Questo menu può essere visualizzato e navigato facilmente, offrendo informazioni dettagliate su ogni piatto, inclusi ingredienti, prezzi e immagini. La tecnologia dei QR code rende l'accesso al menu rapido e senza contatto, migliorando la sicurezza e l'igiene all'interno del ristorante.</p>
-  </section>
-  <img class="img " src=${settings.qrCode.src} alt="menu digitale"/>
-  <section id="digital-menu-needs">
+    <p>Un menu digitale con codice QR è un menu elettronico. Può essere usato al posto del menu cartaceo. Si accede scansionando un codice QR con uno smartphone o un tablet. Quando i clienti scansionano il codice QR, vengono reindirizzati a una pagina web che mostra il menu del ristorante in formato digitale.</p>
+    <p>Questo menù digitale può essere visualizzato e navigato facilmente, offrendo informazioni dettagliate su ogni piatto, inclusi ingredienti, prezzi e immagini. La tecnologia dei qr code menu rende l'accesso al menu rapido e senza contatto, migliorando la sicurezza e l'igiene all'interno del ristorante.</p>
+    </section>
+    <img class="img " src=${settings.qrCode.src} alt="menu digitale"/>
+
+    <section id="digital-menu-needs" class="margin-top-bottom-4">
     <h2>Perché si ha bisogno di un menu digitale per il ristorante?</h2>
     <ul>
-      <li><strong>Igiene e sicurezza:</strong> In un'epoca in cui l'igiene è fondamentale, i menu digitali riducono il contatto fisico tra i clienti e il personale, minimizzando il rischio di diffusione di germi e virus. Questa soluzione non solo risponde alle esigenze sanitarie moderne, ma rassicura anche i clienti, che possono godere della loro esperienza culinaria con maggiore tranquillità.</li>
-      <li><strong>Aggiornamenti in tempo reale:</strong> Con un menu digitale, puoi aggiornare facilmente e rapidamente i tuoi piatti e prezzi senza dover ristampare i menu. Questo significa che puoi adattarti immediatamente alle disponibilità degli ingredienti e alle nuove proposte stagionali. Inoltre, le modifiche possono essere fatte in qualsiasi momento, garantendo che il menu sia sempre accurato e aggiornato.</li>
-      <li><strong>Esperienza cliente migliorata:</strong> Un menu digitale offre un'interfaccia intuitiva e interattiva. I clienti possono navigare facilmente tra le sezioni del menu, visualizzare immagini accattivanti dei piatti e leggere descrizioni dettagliate, migliorando così la loro esperienza complessiva. L'interattività del menu digitale può includere anche la possibilità di filtrare i piatti per categorie, ingredienti o preferenze dietetiche, rendendo più facile per i clienti trovare esattamente ciò che desiderano.</li>
-      <li><strong>Risparmio sui costi di stampa:</strong> L'adozione di un menu digitale elimina la necessità di stampare e ristampare menu fisici, portando a un significativo risparmio sui costi di stampa e una riduzione degli sprechi di carta. Questo non solo riduce le spese operative, ma contribuisce anche a una maggiore sostenibilità ambientale.</li>
-      <li><strong>Facilità di accesso multilingue:</strong> I menu digitali possono essere tradotti in più lingue, rendendo il tuo ristorante più accessibile ai turisti e ai clienti internazionali. Basta un click per cambiare lingua e visualizzare il menu nella lingua preferita, migliorando l'accessibilità e l'inclusività del tuo ristorante.</li>
+    <li><strong>Igiene e sicurezza:</strong>  In un periodo in cui l'igiene è molto importante, i menu digitali riducono il contatto tra clienti e personale. Questo aiuta a ridurre il rischio di diffusione di germi e virus. Questa soluzione non solo risponde alle esigenze sanitarie moderne, ma rassicura anche i clienti, che possono godere della loro esperienza culinaria con maggiore tranquillità.</li>
+    <li><strong>Aggiornamenti in tempo reale:</strong> Con un menu digitale, puoi aggiornare facilmente e rapidamente i tuoi piatti e prezzi senza dover ristampare i menu. Questo significa che puoi adattarti immediatamente alle disponibilità degli ingredienti e alle nuove proposte stagionali. Inoltre, le modifiche possono essere fatte in qualsiasi momento, garantendo che il menu sia sempre accurato e aggiornato.</li>
+    <li><strong>Esperienza cliente migliorata:</strong>Un digital menu offre un'interfaccia intuitiva e interattiva. I clienti possono navigare facilmente tra le sezioni del menu, visualizzare immagini accattivanti dei piatti e leggere descrizioni dettagliate, migliorando così la loro esperienza complessiva. Il menu digitale può essere interattivo. Può permettere ai clienti di filtrare i piatti per categorie, ingredienti o preferenze dietetiche. Questo rende più facile trovare ciò che desiderano.</li>
+    <li><strong>Risparmio sui costi di stampa:</strong> Usare un menu digitale elimina la necessità di stampare menu fisici. Questo porta a un grande risparmio sui costi di stampa e riduce gli sprechi di carta. Questo non solo riduce le spese operative, ma contribuisce anche a una maggiore sostenibilità ambientale.</li>
+    <li><strong>Facilità di accesso multilingue:</strong> I menu digitali possono essere tradotti in più lingue, rendendo il tuo ristorante più accessibile ai turisti e ai clienti internazionali. Basta un click per cambiare lingua e visualizzare il menu nella lingua preferita, migliorando l'accessibilità e l'inclusività del tuo ristorante.</li>
     </ul>
+    </section>
+    
+    <section id="additional-benefits" class="margin-top-bottom-4">
+    <h2>Come Creare un Menù Digitale per Ristoranti con QR Code: Soluzioni Pratiche e Moderne</h2>
+    <p>La digitalizzazione nel settore della ristorazione è diventata sempre più importante, e una delle innovazioni principali è la possibilità di utilizzare un menù QR code. Grazie a questo sistema, i clienti possono vedere il menù dal loro smartphone. Basta scansionare un codice QR sul tavolo o in altri posti del ristorante.</p>
+    <p>Per facilitare questo processo, ci sono diverse app per creare menù digitali, pensate appositamente per i ristoratori. Queste applicazioni permettono di creare un menù con QR code in pochi e semplici passaggi, senza la necessità di conoscenze tecniche avanzate. Dopo aver creato il menù, l’app genera un QR code. Questo codice può essere stampato e messo sui tavoli, all'ingresso o sul sito web del ristorante.</p>
+    <p>Le app per i menù dei ristoranti permettono di aggiornare i piatti, i prezzi e le descrizioni in tempo reale. Questo assicura una gestione flessibile e veloce. Questo aiuta a ridurre i costi di stampa dei menù fisici.</p>
+    <p>Inoltre, offre un'esperienza moderna e sicura per i clienti. I clienti possono vedere il menù senza toccare oggetti condivisi.
+In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione rende più facile e veloce l'esperienza del cliente. Inoltre, aiuta il ristorante a seguire le nuove tendenze digitali.</p>
+  
   </section>
 
   <section id="additional-benefits" class="margin-top-bottom-4">
     <h2>Vantaggi aggiuntivi dei menu digitali</h2>
      <ul>
-      <li><strong>Promozioni e offerte speciali:</strong> Puoi utilizzare il menu digitale per promuovere offerte speciali e sconti, attirando l'attenzione dei clienti su piatti particolari o eventi speciali. Le promozioni possono essere aggiornate facilmente, consentendoti di adattare le tue strategie di marketing in tempo reale.</li>
-      <li><strong>Analisi e feedback:</strong> Con i menu digitali, puoi raccogliere dati preziosi sui piatti più visualizzati e ordinati, permettendoti di analizzare le preferenze dei clienti e ottimizzare la tua offerta culinaria. Inoltre, puoi includere opzioni per lasciare feedback, aiutandoti a migliorare continuamente il servizio. Queste analisi ti permettono di prendere decisioni basate su dati concreti, migliorando l'efficacia delle tue operazioni.</li>
-      <li><strong>Accessibilità 24/7:</strong> I clienti possono consultare il tuo menu digitale in qualsiasi momento e ovunque si trovino, aumentando la loro familiarità con il tuo ristorante e incoraggiandoli a visitarti. Un menu digitale disponibile online può anche fungere da strumento di marketing, permettendo ai potenziali clienti di esplorare la tua offerta prima ancora di arrivare al ristorante.</li>
+      <li><strong>Promozioni e offerte speciali:</strong>  Puoi utilizzare il menu digitale per promuovere offerte speciali e sconti, attirando l'attenzione dei clienti su piatti particolari o eventi speciali. Le promozioni possono essere aggiornate facilmente, consentendoti di adattare le tue strategie di marketing in tempo reale.</li>
+      <li><strong>Analisi e feedback:</strong>  Con i menu digitali, puoi raccogliere dati sui piatti più visti e ordinati. Questo ti aiuta a capire le preferenze dei clienti e a migliorare la tua offerta culinaria. Inoltre, puoi includere opzioni per lasciare feedback, aiutandoti a migliorare continuamente il servizio. Queste analisi ti permettono di prendere decisioni basate su dati concreti, migliorando l'efficacia delle tue operazioni.</li>
+      <li><strong>Accessibilità 24/7:</strong>  I clienti possono vedere il tuo menu digitale in qualsiasi momento e ovunque. Questo aumenta la loro familiarità con il tuo ristorante e li incoraggia a visitarti. Un menu digitale online può essere un buon strumento di marketing. Permette ai clienti di vedere la tua offerta prima di arrivare al ristorante.</li>
     </ul>
   </section>
 
@@ -53,10 +65,11 @@ export const articlesIt = [
       <p>Offriamo un servizio di creazione di menu digitale con QR code per soli 20€. Questo servizio aggiuntivo è progettato per essere accessibile e conveniente, consentendo a tutti i ristoratori di adottare questa tecnologia innovativa senza un investimento significativo. Il nostro team si occupa della generazione del codice QR e della configurazione del menu digitale, garantendo una transizione fluida e senza problemi.</p>
        <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Richiedi informazioni sul nostro servizio cliccando <strong class="text"> qui </strong> </div></a>
       <h3>Libertà di modifica senza costi aggiuntivi</h3>
-      <p>Una delle principali preoccupazioni dei ristoratori è la flessibilità nel modificare il menu. Con il nostro servizio, offriamo la totale libertà di aggiornare e modificare il tuo menu digitale quando vuoi, senza costi aggiuntivi. Questa funzionalità ti permette di mantenere il tuo menu sempre aggiornato, riflettendo le variazioni stagionali, le nuove creazioni culinarie e le promozioni speciali senza dover sostenere ulteriori spese.</p>
+      <p>Una delle principali preoccupazioni dei ristoratori è la flessibilità nel modificare il menu. Con il nostro servizio, offriamo la totale libertà di aggiornare e modificare il tuo menu digitale quando vuoi, senza costi aggiuntivi.</p>
+      <p>Questa funzione ti aiuta a tenere il menu sempre aggiornato. Puoi mostrare le variazioni stagionali, le nuove ricette e le promozioni speciali. Non devi spendere soldi extra per farlo.</p>
 
-      <h3>Implementazione facile e rapida</h3>
-      <p>L'implementazione di un menu digitale è semplice e veloce. Forniamo tutto il necessario per iniziare, inclusi i codici QR stampabili che possono essere posizionati sui tavoli, sul bancone o all'ingresso del ristorante. Il nostro team ti guiderà attraverso ogni passaggio, assicurando che tu e il tuo staff siate completamente preparati per utilizzare e gestire il nuovo sistema di menu.</p>
+      <h3>Realizzazione semplice e veloce</h3>
+      <p>L'implementazione di un menu digitale è semplice e veloce. Forniamo tutto il necessario per iniziare, inclusi i codici QR stampabili che possono essere posizionati sui tavoli, sul bancone o all'ingresso del ristorante. Il nostro team ti guiderà in ogni passaggio. Assicureremo che tu e il tuo staff siate pronti a usare e gestire il nuovo sistema di menu.</p>
     </div>
   </section>
 
