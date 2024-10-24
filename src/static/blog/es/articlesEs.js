@@ -942,6 +942,7 @@ export const articlesEs = [
   </div>
 </section>
     `
-}
+},
+
 
 ];
