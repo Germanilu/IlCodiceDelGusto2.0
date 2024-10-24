@@ -943,6 +943,282 @@ export const articlesEs = [
 </section>
     `
 },
+{
+  id: 10,
+  slug: "arredamento-ristorante-moderno",
+  img: settings.modernDesignTable.src,
+  metaDescription: "Descubre cómo amueblar un restaurante de forma moderna y elegante: ideas para mesas, interiores acogedores y soluciones económicas para montar un local con estilo y funcionalidad.",
+  metaKeywords: "arredamento restaurante moderno, amueblar restaurantes, arredamento restaurante elegante, ideas mesas restaurante, interiores de restaurantes, ideas amueblar restaurante, ideas para amueblar sala restaurante, amueblar un restaurante con poco dinero, montar un restaurante, cómo amueblar un restaurante",
+  title: "Cómo Amueblar un Restaurante Moderno y Elegante: Ideas y Consejos para Mesas e Interiores",
+  shortDescription: "Descubre cómo amueblar un restaurante de forma moderna y elegante: ideas para mesas, interiores acogedores y soluciones económicas para montar un local con estilo.",
+  text: `<header>
+<h1 >Cómo Amueblar un Restaurante Moderno y Elegante</h1>
+</header>
+<nav class="margin-top-bottom-4">
+<ul>
+  <li><a href="#introduccion">Introducción</a></li>
+  <li><a href="#importancia">La importancia del mobiliario para un restaurante exitoso</a></li>
+  <li><a href="#como-hacerlo">Cómo amueblar un restaurante de forma moderna</a></li>
+  <li><a href="#elegante">Mobiliario de restaurante elegante: cómo crear un ambiente refinado</a></li>
+  <li><a href="#elegir">Amueblar un restaurante: la elección de las mesas</a></li>
+  <li><a href="#amueblar">Ideas para amueblar la sala de un restaurante</a></li>
+  <li><a href="#diseno-espacio">Interiores de restaurantes: diseñar el espacio para la acogida</a></li>
+  <li><a href="#poco-dinero">Amueblar un restaurante con poco dinero: consejos prácticos</a></li>
+  <li><a href="#elementos-clave">Cómo montar un restaurante: elementos clave</a></li>
+  <li><a href="#ejemplos">Ejemplos de mobiliario de restaurante Originales </a></li>
+  <li><a href="#faq">FAQ sobre el mobiliario de un restaurante</a></li>
+  <li><a href="#conclusion">Conclusión</a></li>
+</ul>
+</nav>
 
+<section id="introduccion" class="margin-top-bottom-4">
+<h2>1. Introducción</h2>
+<p>El mobiliario de un restaurante no es solo una cuestión de estética, sino que contribuye de manera significativa
+  a la experiencia global de los clientes. Un mobiliario de restaurante moderno o clásico bien diseñado crea
+  un ambiente que estimula el apetito, invita a relajarse y a disfrutar de la comida.</p>
+<p>Ya sea mobiliario moderno, elegante o económico, el diseño de interiores juega un papel crucial. En este artículo exploraremos cómo amueblar un restaurante con varios estilos, los tipos de mesas y asientos a considerar, y cómo crear un ambiente que atraiga clientes sin exceder el presupuesto.</p>
+</section>
+
+<img class="img" src=${settings.modernDesignTable.src} alt="mobiliario restaurante moderno" />
+
+<section id="importancia" class="margin-top-bottom-4">
+<h2 class="margin-bottom-2">2. La importancia del mobiliario para un restaurante exitoso</h2>
+<p>El mobiliario es la carta de presentación de tu restaurante: es lo que impacta a los clientes cuando
+  entran. La disposición de los muebles, la iluminación, los colores y los materiales crean un ambiente que contribuye
+  a la identidad del restaurante. Si el diseño es coherente con el concepto y la cocina, aumentarás las posibilidades de fidelizar a tus clientes.</p>
+<p>Un <strong>mobiliario de restaurante moderno</strong> puede generar un fuerte impacto visual y reflejar el estilo
+  innovador del local. Amueblar un restaurante requiere una visión clara y un proyecto que refleje el
+  mensaje que deseas transmitir a través de tu local.</p>
+</section>
+
+<section id="como-hacerlo" class="margin-top-bottom-4">
+<h2 class="margin-bottom-2">3. Cómo amueblar un restaurante de forma moderna</h2>
+<h4>Minimalismo y líneas limpias</h4>
+<p>
+  Una de las características distintivas del mobiliario de restaurante moderno es el minimalismo. Para un restaurante moderno, elige muebles con líneas limpias y simples, evitando decoraciones excesivas. Mesas, sillas y muebles deben ser funcionales y libres de elementos superfluos.
+</p>
+
+<h4>Uso de materiales naturales</h4>
+<p>
+  Los materiales naturales, como la madera clara, el metal y el vidrio, se utilizan mucho en el mobiliario de restaurante moderno. Crean un ambiente luminoso y aireado, perfecto para un local que desea transmitir frescura e innovación.
+</p>
+
+<h4>Iluminación moderna</h4>
+<p>
+  La iluminación es un elemento clave. En el diseño moderno, se utilizan lámparas minimalistas, tal vez con detalles en metal o vidrio transparente. Las luces LED, ajustables en intensidad, crean el ambiente adecuado según el momento del día, mejorando la estética del mobiliario de restaurante moderno.
+</p>
+</section>
+
+<section id="elegante" class="margin-top-bottom-4">
+<h2 class="margin-bottom-2">4. Mobiliario de restaurante elegante: cómo crear un ambiente refinado</h2>
+<h4>Elección de materiales de alta calidad</h4>
+<p>
+  Para un mobiliario elegante, la calidad de los materiales es fundamental. Mesas de madera maciza, sillas tapizadas en
+  cuero o telas de alta gama y detalles en mármol o metales brillantes (como el latón o el oro) otorgan un toque de lujo.
+</p>
+
+<h4>Detalles lujosos: desde las telas hasta las decoraciones</h4>
+<p>
+  Telas como terciopelo o seda, utilizadas para los asientos o las cortinas, crean un ambiente elegante y sofisticado. Incluso
+  los pequeños detalles, como candelabros o vajilla de diseño, añaden refinamiento al entorno.
+</p>
+
+<h4>La importancia de la coherencia estilística</h4>
+<p>
+  Para un ambiente elegante, es fundamental que todos los elementos del mobiliario sean coherentes. Cada detalle, desde las sillas hasta los platos, debe respetar el tema elegido, creando una armonía visual que transmita profesionalidad.
+</p>
+</section>
+
+<img class="img-reduce" src=${settings.forniture.src} alt="ideas mesas restaurante" />
+
+<section id="elegir" class="margin-top-bottom-4">
+<h2 class="margin-bottom-2">5. Amueblar un restaurante: la elección de las mesas</h2>
+<h4>Tipos de mesas para restaurantes modernos</h4>
+<p>
+  Las mesas para restaurantes modernos suelen estar hechas con materiales como madera clara, metal o vidrio. Las formas rectangulares o cuadradas son las más comunes, pero también las mesas redondas pueden crear un ambiente más íntimo y acogedor. Estas ideas de mesas para restaurante modernos se centran en la funcionalidad y la simplicidad, en línea con
+  el mobiliario de restaurante moderno.
+</p>
+
+<h4>Ideas para mesas elegantes</h4>
+<p>
+  Para un mobiliario elegante, las mesas pueden estar hechas de madera oscura o con detalles en mármol. Las mesas redondas son una opción clásica para restaurantes de lujo, ya que fomentan la conversación y añaden un toque de elegancia.
+</p>
+
+<h4>La disposición óptima de las mesas en la sala</h4>
+<p>
+  La disposición de las mesas debe permitir una buena circulación del personal y de los clientes. Es importante dejar suficiente espacio entre una mesa y otra para garantizar comodidad y privacidad a los clientes. Las ideas de mesas para restaurante deben equilibrar estética y funcionalidad.
+</p>
+</section>
+
+<section id="amueblar" class="margin-top-bottom-4">
+<h2 class="margin-bottom-2">6. Ideas para amueblar la sala de un restaurante</h2>
+<h4>Optimizar el espacio disponible</h4>
+<p>
+  Un mobiliario bien planificado aprovecha al máximo el espacio disponible. Mesas alineadas a lo largo de las paredes, estanterías suspendidas y asientos en bancos pueden ayudar a maximizar el espacio, sin renunciar a la estética.
+</p>
+
+<h4>Personalización de los interiores con cuadros y accesorios</h4>
+<p>
+  Cuadros, plantas, espejos y otros complementos de decoración personalizan la sala, dándole carácter y calidez. Elige accesorios que reflejen el estilo y el tema del restaurante, creando un ambiente único y acogedor. Entre las ideas para amueblar un restaurante, los accesorios juegan un papel fundamental para diferenciar el local.
+</p>
+</section>
+<section id="diseno-espacio" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">7. Interiores de restaurantes: diseñar el espacio para la acogida</h2>
+  <h4>Crear un ambiente funcional y acogedor</h4>
+  <p>
+    El diseño interior de un restaurante debe ser funcional y cómodo. Los interiores deben facilitar el flujo de trabajo
+    para el personal y garantizar una experiencia placentera para los clientes. Dividir el espacio estratégicamente entre
+    cocina, sala y recepción es esencial para un servicio eficiente.
+  </p>
+
+  <h4>Cómo integrar cocina y sala de manera armoniosa</h4>
+  <p>
+    Una cocina abierta puede ser un punto fuerte del restaurante. Sin embargo, es fundamental que la integración entre
+    cocina y sala sea armoniosa y que el diseño favorezca la comunicación entre los dos espacios, sin molestar a los
+    clientes.
+  </p>
+
+  <h4>El diseño de los baños: pequeños detalles que marcan la diferencia</h4>
+  <p>
+    No hay que descuidar el diseño de los baños. Un baño bien decorado, con espejos elegantes, grifería moderna y
+    materiales de calidad, contribuye a la imagen positiva del restaurante.
+  </p>
+  <a href='https://ilcodicedelgusto.com/contact-us'>
+    <div class="call-to-action">Si deseas, puedes solicitar la ayuda de nuestros expertos para mejorar la estrategia de
+      marketing de tu local, contacta con nosotros haciendo clic <strong class="text"> aquí </strong> </div>
+  </a>
+</section>
+
+<section id="poco-dinero" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">8. Amueblar un restaurante con poco dinero: consejos prácticos</h2>
+  <h4>Cómo ahorrar con muebles reciclados o de segunda mano</h4>
+  <p>
+    Si tienes un presupuesto limitado, puedes considerar la compra de muebles usados o reciclados. A menudo se pueden
+    encontrar piezas de alta calidad a precios ventajosos, especialmente en mercados de segunda mano o en plataformas en línea.
+  </p>
+
+  <h4>Ideas económicas para decoraciones y complementos de mobiliario</h4>
+  <p>
+    Decorar un restaurante no tiene que ser costoso. Puedes utilizar plantas, pósteres o fotografías para añadir personalidad
+    sin gastar mucho. También los objetos artesanales o hechos a mano pueden aportar un toque único a bajo costo.
+  </p>
+
+  <h4>Cómo aprovechar al máximo los espacios con un presupuesto reducido</h4>
+  <p>
+    Con un poco de creatividad, puedes optimizar los espacios y amueblar un restaurante con poco dinero. Por ejemplo, bancos
+    fijos a lo largo de las paredes, mesas simples pero bien distribuidas y una buena iluminación pueden marcar una gran
+    diferencia manteniendo los costos bajos.
+  </p>
+</section>
+
+<section id="elementos-clave" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">9. Cómo montar un restaurante: elementos clave</h2>
+  <h4>La importancia de la disposición de mesas y sillas</h4>
+  <p>
+    La disposición debe favorecer la practicidad. Las mesas y sillas deben estar organizadas de manera que faciliten el
+    tránsito y ofrezcan a los clientes un espacio cómodo para comer y socializar. Las ideas de disposición de mesas deben
+    prever configuraciones adaptables, especialmente en locales con espacios reducidos.
+  </p>
+
+  <h4>La organización del espacio de trabajo y el flujo de servicio</h4>
+  <p>
+    Una buena organización del espacio es crucial para el éxito del servicio. La disposición del mobiliario debe facilitar
+    el trabajo del personal y minimizar los tiempos de espera de los clientes.
+  </p>
+
+  <h4>La elección de colores para crear un ambiente acogedor</h4>
+  <p>
+    Elige colores que transmitan la atmósfera deseada. Tonos cálidos como el rojo o el naranja pueden estimular el apetito,
+    mientras que colores más fríos como el azul o el verde pueden crear un ambiente relajante.
+  </p>
+</section>
+
+<section id="ejemplos" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">10. Ejemplos de mobiliario Originales</h2>
+    <div class="img-text-left">
+     <h4>Moderno</h4>
+     <img class="img-small" src=${settings.ar8.src} alt="mobiliario restaurante moderno" />
+    </div>
+    <div class="img-text-right">
+     <h4>Clásico</h4>
+     <img class="img-small" src=${settings.ar7.src} alt="mobiliario restaurante clásico" />
+    </div>
+    <div class="img-text-left">
+     <h4>Fast Casual</h4>
+     <img class="img-small" src=${settings.ar6.src} alt="mobiliario restaurante casual" />
+    </div>
+    <div class="img-text-right">
+     <h4>Vintage</h4>
+     <img class="img-small" src=${settings.ar5.src} alt="mobiliario restaurante vintage" />
+    </div>
+    <div class="img-text-left">
+     <h4>Rústico</h4>
+     <img class="img-small" src=${settings.ar4.src} alt="mobiliario restaurante rústico" />
+    </div>
+    <div class="img-text-right">
+     <h4>Minimalista</h4>
+     <img class="img-small" src=${settings.ar3.src} alt="mobiliario restaurante minimalista" />
+    </div>
+    <div class="img-text-left">
+     <h4>Ecléctico</h4>
+     <img class="img-small" src=${settings.ar2.src} alt="mobiliario restaurante ecléctico" />
+    </div>
+    <div class="img-text-right">
+     <h4>Chic</h4>
+     <img class="img-small" src=${settings.ar1.src} alt="mobiliario restaurante chic" />
+    </div>
+</section>
+
+<footer class="margin-top-bottom-4">
+  <section id="faq" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">FAQ sobre el mobiliario de un restaurante</h2>
+    <div class="faq-item">
+      <h3>¿Cuál es el mejor estilo de mobiliario para un restaurante moderno?</h3>
+      <p> El minimalismo, con líneas limpias y materiales naturales, es el estilo ideal para el mobiliario de un restaurante
+        moderno.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>¿Qué materiales utilizar para un restaurante elegante?</h3>
+      <p> Para un ambiente elegante, elige materiales como madera maciza, cuero, mármol y metales brillantes.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>¿Cómo puedo amueblar un restaurante con un presupuesto limitado?</h3>
+      <p>Compra muebles de segunda mano, utiliza decoraciones simples y aprovecha materiales reciclados para ahorrar.
+      </p>
+    </div>
+
+    <div class="faq-item">
+      <h3>¿Cuáles son las mejores mesas para un restaurante elegante?</h3>
+      <p> Las mesas de madera oscura o mármol son perfectas para un restaurante elegante, preferiblemente con detalles
+        cuidados y un diseño refinado.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>¿Cómo se pueden amueblar los baños de un restaurante?</h3>
+      <p> Invierte en espejos elegantes, grifería moderna y muebles simples pero cuidados para crear un ambiente agradable
+        también en los baños.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>¿Cuán importante es la iluminación en el mobiliario de un restaurante?</h3>
+      <p> La iluminación es fundamental para crear la atmósfera adecuada, influenciando la experiencia del cliente y
+        realzando el entorno.</p>
+    </div>
+  </section>
+
+  <section id="conclusion" class="margin-top-bottom-4">
+    <h2>11. Conclusión</h2>
+    <p>
+      Amueblar un restaurante requiere una combinación de estética, funcionalidad y estrategia. Elegir el estilo correcto,
+      ya sea moderno o elegante, y cuidar los detalles como la disposición de las mesas y la iluminación, puede marcar la
+      diferencia en el éxito del local. Incluso con un presupuesto limitado, es posible amueblar un restaurante con estilo,
+      utilizando soluciones creativas e inteligentes.
+    </p>
+  </section>
+</footer>
+`
+}
 
 ];
