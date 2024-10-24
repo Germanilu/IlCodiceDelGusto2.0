@@ -823,7 +823,7 @@ export const articlesEn = [
   metaDescription: "Discover the importance of the QR code holder for your restaurant. Elegant displays and table QR codes revolutionize the digital menu experience, enhancing efficiency and service.",
   metaKeywords: "qr code holder, table qr code, qr code display, table qr code holder",
   title: "Displays and QR Code Holders for Restaurants: The Ideal Solution for an Innovative Digital Menu",
-  shortDescription: "Learn how to organize a gourmet dinner at home, from selecting ingredients to perfect pairings, to impress your guests with refined dishes.",
+  shortDescription: "Discover the importance of the QR code holder for your restaurant. Elegant displays and table QR codes revolutionize the digital menu experience.",
   text: `<header>
     <h1>Displays and QR Code Holders for Restaurants</h1>
   </header>

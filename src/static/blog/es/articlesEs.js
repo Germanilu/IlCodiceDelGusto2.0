@@ -823,7 +823,7 @@ export const articlesEs = [
   "metaDescription": "Descubre la importancia del soporte para código QR en tu restaurante. Expositores elegantes y códigos QR en la mesa revolucionan la experiencia del menú digital, mejorando la eficiencia y el servicio.",
   "metaKeywords": "soporte código QR, código QR mesa, expositor código QR, soporte código QR de mesa",
   "title": "Expositores y Soportes para Código QR para Restaurantes: La Solución Ideal para un Menú Digital Innovador",
-  "shortDescription": "Descubre cómo organizar una cena gourmet en casa, desde la elección de ingredientes hasta las combinaciones perfectas, para sorprender a tus invitados con platos refinados.",
+  "shortDescription": "Descubre la importancia del soporte para código QR en tu restaurante. Expositores elegantes y códigos QR en la mesa revolucionan la experiencia del menú digital.",
   "text": `<header>
       <h1>Expositores y Soportes para Código QR para Restaurantes</h1>
     </header>
