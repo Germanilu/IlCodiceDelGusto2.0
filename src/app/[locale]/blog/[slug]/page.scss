@@ -29,11 +29,28 @@ p {
     width: 50%;
     height: 50%;
   }
+  .img-small{
+    width: 50%;
+    height: 50%;
+  }
 
   .img-left {
     display: flex;
     align-items: flex-start;
     justify-content: center;
+    gap: 4rem;
+  }
+  .img-text-right{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 4rem;
+  }
+  .img-text-left{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: left;
     gap: 4rem;
   }
 

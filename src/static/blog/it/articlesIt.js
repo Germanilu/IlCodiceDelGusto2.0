@@ -975,143 +975,313 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
   {
     id: 10,
     slug: "arredamento-ristorante-moderno",
-    img: settings.qrCodeTable.src,
+    img: settings.modernDesignTable.src,
     metaDescription: "Scopri come arredare un ristorante in modo moderno ed elegante: idee per tavoli, interni accoglienti e soluzioni economiche per allestire un locale con stile e funzionalità.",
     metaKeywords: "arredamento ristorante moderno, arredare ristoranti, arredamento ristorante elegante, idee tavoli ristorante, interni di ristoranti, idee arredamento ristorante, idee per arredare sala ristorante, arredare un ristorante con pochi soldi, allestire un ristorante, come arredare un ristorante",
     title: "Come Arredare un Ristorante Moderno ed Elegante: Idee e Consigli per Tavoli e Interni",
     shortDescription: "Scopri come arredare un ristorante in modo moderno ed elegante: idee per tavoli, interni accoglienti e soluzioni economiche per allestire un locale con stile.",
     text: `<header>
-      <h1>Espositori e Porta QR Code per Ristoranti</h1>
-    </header>
-    <nav class="margin-top-bottom-4">
-      <ul>
-        <li><a href="#introduzione">Introduzione: La Rivoluzione del Menù Digitale nei Ristoranti</a></li>
-        <li><a href="#come-funziona">Cos'è un QR Code e Come Funziona?</a></li>
-        <li><a href="#perche-adottarlo">Perché i Ristoranti Devono Adottare un Menù Digitale con QR Code</a></li>
-        <li><a href="#espositori"> Il Ruolo degli Espositori e Porta QR Code nei Ristoranti</a></li>
-        <li><a href="#scegliere"> Come Scegliere il Miglior Porta QR Code per il Tuo Locale</a></li>
-        <li><a href="#organizzazione">Porta QR Code: Un Elemento Cruciale per l'Efficienza del Servizio</a></li>
-        <li><a href="#integrazione">Come Integrare il QR Code nella Tua Strategia di Marketing Digitale</a></li>
-        <li><a href="#conclusione">Conclusione: Innovazione e Professionalità per il Tuo Ristorante</a></li>
-      </ul>
-    </nav>
-  
-    <section id="introduzione" class="margin-top-bottom-4">
-      <h3>Introduzione: La Rivoluzione del Menù Digitale nei Ristoranti</h3>
-      <p>Negli ultimi anni, i ristoranti hanno subito una trasformazione radicale grazie all'adozione delle tecnologie digitali. Una delle innovazioni più importanti è il menù digitale con QR code. Questo permette ai clienti di vedere il menù sullo smartphone. Così si elimina la necessità di un menù cartaceo tradizionale.</p>
-      <p>Il <strong> QR code </strong> è diventato uno strumento fondamentale per migliorare l’efficienza e la sicurezza, specialmente in un contesto post-pandemia. Tuttavia, per una buona integrazione nei ristoranti, servono gli strumenti giusti. Sono utili i porta QR code e gli espositori QR code da tavolo. In questo articolo esploreremo l'importanza di questi accessori, le loro tipologie e i benefici per i ristoranti.</p>
-    </section>
-  
-    <img class="img" src=${settings.qrCodeTable.src} alt="espositore qr code"/>
-  
-    <section id="come-funziona" class="margin-top-bottom-4">
-      <h2 class="margin-bottom-2">1. Cos'è un QR Code e Come Funziona?</h2>
-      <p>Un <strong> QR code </strong> (Quick Response code) è un codice a barre bidimensionale che può essere scansionato utilizzando la fotocamera di uno smartphone. Una volta scansionato, il codice reindirizza l'utente a una pagina web o una app, come un menù digitale.</p>
-      <p>I <strong> QR code </strong> sono molto facili da usare. Basta inquadrare il codice. In pochi secondi, il cliente può vedere il menù del ristorante. Non deve toccare nulla di fisico. Questo sistema è diventato popolare per la sua velocità, comodità e per la riduzione del rischio di contaminazione in ambienti come i ristoranti.</p>
-    </section>
-  
-    <section id="perche-adottarlo" class="margin-top-bottom-4">
-      <h2>2. Perché i Ristoranti Devono Adottare un Menù Digitale con QR Code</h2>
-      <p>L'adozione del <strong> menù digitale </strong> tramite QR code offre numerosi vantaggi sia per i ristoratori che per i clienti. Vediamoli nel dettaglio:</p>
-      <h3 class="margin-top-bottom-4">Vantaggi per i Ristoratori:</h3>
-      <p><strong>Risparmio sui costi di stampa: </strong> Con un menù digitale, non è più necessario stampare o aggiornare fisicamente i menù.</p>
-      <p><strong>Aggiornamenti in tempo reale: </strong> Modificare prezzi, ingredienti o offerte speciali diventa immediato e senza costi aggiuntivi.</p>
-      <p><strong>Sostenibilità: </strong>  Riducendo l'uso di carta, i ristoranti diventano più eco-friendly.</p>
-      <p><strong>Miglior gestione del servizio: </strong> Con meno interazioni fisiche tra clienti e personale, il servizio diventa più rapido e sicuro.</p>
-      
-      <h3 class="margin-top-bottom-4">Vantaggi per i Clienti:</h3>
-      <p><strong>Maggiore sicurezza: </strong> I menù digitali riducono il rischio di contaminazione incrociata.</p>
-      <p><strong>Facilità d'uso: </strong>  I clienti possono accedere al menù direttamente dal proprio smartphone.</p>
-      <p><strong>Esperienza interattiva: </strong>Alcuni menù digitali offrono anche opzioni interattive, come la possibilità di filtrare i piatti per allergeni o preferenze dietetiche.</p>
-      </section>
-  
-    <section id="espositori" class="margin-top-bottom-4">
-      <h2 class="margin-bottom-2">3. Il Ruolo degli Espositori e Porta QR Code nei Ristoranti</h2>
-      <p>Un espositore QR code o un porta QR code da tavolo sono accessori importanti. Aiutano a usare i codici QR nei ristoranti in modo elegante e pratico.</p>
-      <h3>Perché Usare un Porta QR Code da Tavolo?</h3>
-      <p>L’utilizzo di un porta QR code da tavolo migliora la presentazione del menù digitale. Questi supporti aiutano a mettere il QR code in un posto visibile e facile da raggiungere. Inoltre, migliorano l'aspetto del ristorante, mantenendo l'ambiente ordinato e professionale.</p>
-      <h3 class="margin-top-2">Tipologie di Espositori QR Code per Ristoranti</h3>
-      <p class="margin-bottom-2">Esistono diverse tipologie di espositori che possono essere utilizzati nei ristoranti, ciascuno con caratteristiche uniche. Ecco le principali:</p>
-        <p><strong>Espositori in Acrilico: </strong> Sono tra i più popolari per la loro resistenza e semplicità. Sono trasparenti, discreti e molto eleganti, adatti a qualsiasi tipo di arredamento. Puoi Acquistarlo a questo <a href="https://www.amazon.it/HMF-Espositore-Acrilico-Verticale-Trasparente/dp/B07ZDHH5F3/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JKSAEMQQ7276&dib=eyJ2IjoiMSJ9.MnhP9eUwhVSImqP0e2s2lZeUhQbGJE52f_jHzU9YfHf5vCBHYpC34z2lopKaVUrwN-e1F0kibKv-SqURkoDUPFSnllakxopE2WVmrxRebHyooBPZpQlHPyZycZZQI1uzLYR8qZPvY8IGEEAboIh8ue4AkbmBejvpg2B0NU9-2eCddVUwnGJaU_XDaO4jfC9G7zO9gHj8TKAtgIs2fHCCdZW9rn9pZakkZVjvNyf_C5wWvOo410oCuIWTpKjKoVy7Vz6mOuVFxMKRmVy-mk6_1vxEQAnif72z5tH1FPDsg5o._JhRXOLF9Hx5sELzpbi6HSGkhySxujcxhGSIyqcB9KM&dib_tag=se&keywords=espositore%2Bacrilico%2Bqr%2Bcode&qid=1729671039&s=office&sprefix=espositore%2Bacrilico%2Bqr%2Bcod%2Coffice-products%2C78&sr=1-6&th=1"> <strong> Link </strong> </a></p>
-        <p><strong>Espositori in legno: </strong> Perfetti per ristoranti con un design rustico o tradizionale. Questi porta QR code in legno possono essere su misura per adattarsi allo stile del locale. Puoi Acquistarlo a questo <a href="https://www.amazon.it/Toyvian-Porta-Segnaposto-Portafoto-Supporto/dp/B07RBQV59W/ref=sr_1_14_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1M53UWGU3LR67&dib=eyJ2IjoiMSJ9.A-EwtdK4EcOSNOFarZe91UxnHCryjb4sK-jH4JwdQwqbrnE5mBMoyBotmSWTtbcrBKp077S2TGsOBCM0C6ZrCpU8v7YVkkLHH4u_CufQlaM_5QC6MhkriqFYjNViVoHpQ80d1iB0ftZAFxq4eWaQUBVTlSKf2gtM_JO7aB1-Ma4OoDGK1wDqtOYCOZ8WHsWE_WQnuBv0mZcgi3PO1G7fjFeCVip_iSHeQOJAIVd-c97SaLhXaMMkscBzdn6YyYfKILYVBqyQ_8yHWj4gWp3YGUGah8W1u4K-zVr-zbP5yV0.vPCK9Sdp0lgKBouvrCLqrqIVRa92TAfUF4o_wHAC6BU&dib_tag=se&keywords=Espositori+in+legno+qr+code&qid=1729671475&s=office&sprefix=espositori+in+legno+qr+cod%2Coffice-products%2C88&sr=1-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1"> <strong> Link </strong> </a></p>
-        <p><strong>Espositori in Metallo: </strong> Più robusti e moderni, sono perfetti per ristoranti dal design contemporaneo e industriale. Puoi Acquistarlo a questo <a href="https://www.amazon.it/Supporto-Cavalletto-Espositore-Porta-Piatti/dp/B0BNKY3JR3/ref=sr_1_5?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=APCS1ZAE6AGO&dib=eyJ2IjoiMSJ9.wR6z3l-zQ7uO9KyG7rJQcKFDWfv95fdPJg8w64bAmSzz779FaCkr3GcZ3i0gBHGdiOgvrcvqlY2O8XNCNsedVZt5NP0r0XdDxBrU_639LurTWA5Kgcy5WzUqNZ1niiHhaENrPzZw9qUY5P6BfhrYWDJsWWTfRnavoQs_wZiNEn_nIw54WzxXLKoYTtmZJBlLqOzF65hKTtma1EQeBO_X2Jl1nGcm797GpjbtFQ98Lbt6TZK8RPiQLtxxgfcZTBYbzMeXKIj3-Tw_oJOD_Nl2TIm87f8oxLo4RX-73urekLI.kprZQa_p9MbADkI6xBP38zkymYHwDuvsSviPzTxZAqQ&dib_tag=se&keywords=espositore+metallo+tavolo&qid=1729671585&sprefix=espositore+metallo+tavol%2Caps%2C81&sr=8-5"> <strong> Link </strong> </a></p>
-        <p><strong>Espositori Multifunzionali: </strong> Alcuni modelli offrono funzioni aggiuntive, come la possibilità di includere informazioni sul ristorante, sconti o promozioni, o persino un supporto per il pagamento contactless.</p>
-        </section>
-        
-         <img class="img-reduce" src=${settings.qrCodeTableEspositor.src} alt="porta qr code"/>
+  <h1 >Come Arredare un Ristorante Moderno ed Elegante</h1>
+</header>
+<nav class="margin-top-bottom-4">
+  <ul>
+    <li><a href="#introduzione">Introduzione</a></li>
+    <li><a href="#importanza">L'importanza dell'arredamento per un ristorante di successo</a></li>
+    <li><a href="#come-farlo">Come arredare un ristorante in modo moderno</a></li>
+    <li><a href="#elegante"> Arredamento ristorante elegante: come creare un'atmosfera raffinata</a></li>
+    <li><a href="#scegliere">Arredare un ristorante: le scelte dei tavoli</a></li>
+    <li><a href="#arredare">Idee per arredare la sala di un ristorante</a></li>
+    <li><a href="#progettare-spazio">Interni di ristoranti: progettare lo spazio per l'accoglienza</a></li>
+    <li><a href="#pochi-soldi">Arredare un ristorante con pochi soldi: consigli pratici</a></li>
+    <li><a href="#elemnti-chiave">Come allestire un ristorante: elementi chiave</a></li>
+    <li><a href="#esempi">Esempi di arredamento ristorante Originali </a></li>
+    <li><a href="#faq">FAQ sull'arredamento di un ristorante</a></li>
+    <li><a href="#conclusione">Conclusione</a></li>
+  </ul>
+</nav>
 
-        <section id="scegliere" class="margin-top-bottom-4">
-        <h2>4. Come Scegliere il Miglior Porta QR Code per il Tuo Locale</h2>
-        <p>Scegliere il giusto porta <strong> QR code </strong> da tavolo può fare una grande differenza nell’esperienza del cliente. Ecco alcuni fattori da considerare:</p>
-        <p><strong>Design: </strong> Assicurati che il design dell’espositore sia in linea con lo stile del tuo ristorante. Un ristorante raffinato potrebbe preferire un espositore in acrilico minimalista, mentre una trattoria potrebbe optare per un modello in legno rustico.</p>
-        <p><strong>Durata: </strong> Se il tuo ristorante ha un’alta affluenza, opta per un espositore resistente, come quelli in metallo o acrilico spesso.</p>
-        <p><strong>Visibilità: </strong>  Il QR code deve essere ben visibile e facilmente scansionabile da ogni angolo del tavolo. Gli espositori inclinati offrono una migliore visibilità rispetto a quelli piatti.</p>
-        <p><strong>Personalizzazione: </strong>  Alcuni produttori offrono espositori personalizzati con il logo del ristorante o informazioni aggiuntive. Questo può aiutare a rafforzare il brand e a dare un tocco professionale in più.</p>
-    </section>
-  
-    <section id="organizzazione" class="margin-top-bottom-4">
-      <h2>5. Porta QR Code: Un Elemento Cruciale per l'Efficienza del Servizio</h2>
-      <p>L'introduzione di un porta QR code su ogni tavolo del ristorante non solo migliora l'estetica del locale, ma incrementa l’efficienza del servizio. Grazie a questi espositori, i clienti possono ordinare rapidamente dal loro smartphone, riducendo i tempi di attesa e facilitando il lavoro dei camerieri.</p>
-      <h3> Un Servizio Più Rapido e Senza Errori</h3>
-      <p>Con l'adozione del <strong> QR code tavolo </strong>, i clienti possono inviare le loro ordinazioni direttamente in cucina, riducendo il rischio di errori nella trascrizione degli ordini. Inoltre, questo sistema permette ai ristoranti di ottimizzare i tempi, soprattutto durante i momenti di maggior affluenza.</p>
-      <h3> Riduzione del Contatto Fisico</h3>
-      <p>In un periodo in cui la sicurezza e l'igiene sono molto importanti, il <strong> porta QR code </strong> da tavolo aiuta a ridurre il contatto fisico. Questo strumento permette al personale e ai clienti di interagire senza avvicinarsi troppo. I menù di carta vengono passati di mano in mano e possono portare germi. I menù digitali con QR code eliminano questo rischio.</p>
-    
-      </section>
-  
-    <section id="integrazione" class="margin-top-bottom-4">
-      <h2>6. Come Integrare il QR Code nella Tua Strategia di Marketing Digitale</h2>
-      <p>Il QR code tavolo non è solo un accessorio per il menù digitale, ma può essere anche uno strumento di marketing potente. Puoi usare il QR code per raccogliere recensioni sui piatti. Invita i clienti a seguire le tue pagine social. Puoi anche chiedere loro di iscriversi alla newsletter per ricevere offerte esclusive.</p>
-      <h3>Strategie di Marketing con QR Code</h3>
-      <p><strong>Raccolta di Feedback: </strong>  Integra nel tuo QR code un link per raccogliere opinioni o suggerimenti dai clienti. </p>
-      <p><strong>Promozioni e Sconti: </strong>  Offri sconti speciali a chi scansiona il QR code, incentivando così il suo utilizzo. </p>
-      <p><strong>Social Media Engagement: </strong>  Collega il QR code ai tuoi canali social, invitando i clienti a seguirti o a condividere la loro esperienza.</p>
-     <a href='https://ilcodicedelgusto.com/contact-us'><div class="call-to-action">Se vuoi puoi richiedere un'aiuto ai nostri esperti per migliorare le strategia di marketing del tuo locale, contattaci cliccando <strong class="text"> qui </strong> </div></a>
-      <p></p>
-    
-      </section>
-  
-    <footer id="conclusione" class="margin-top-bottom-4">
-      <h2>Conclusione: Innovazione e Professionalità per il Tuo Ristorante</h2>
-      <p>Investire in <strong> espositori menu digitale </strong> o <strong> porta menu digitale </strong> da tavolo è una scelta intelligente per ogni ristorante. Questo aiuta a offrire un servizio moderno, efficiente e sicuro. Non solo migliorano l’esperienza dei clienti, ma ottimizzano anche le operazioni interne, riducendo i tempi di attesa e il rischio di errori.</p>
-      <p>Se sei un ristoratore e vuoi distinguerti dalla concorrenza, non esitare a integrare un menù digitale con QR code nel tuo locale. Scegli il porta QR code da tavolo giusto.</p>
-      <p>Questo migliorerà l'aspetto del tuo ristorante. Offrirai ai clienti una soluzione tecnologica. Così, la loro esperienza sarà migliore.</p>
+<section id="introduzione" class="margin-top-bottom-4">
+  <h2>1. Introduzione</h2>
+  <p>L'arredamento di un ristorante non è solo una questione di estetica, ma contribuisce in maniera significativa
+    all'esperienza complessiva dei clienti. Un arredamento ristorante moderno o classico ben progettato crea
+    un'atmosfera che stimola l'appetito, invita a rilassarsi e a godersi il pasto.</p>
+  <p>Che si tratti di un arredamento moderno, elegante o economico, la progettazione degli interni gioca un ruolo
+    cruciale. In questo articolo esploreremo come arredare un ristorante con vari stili, i tipi di tavoli e sedute da
+    considerare, e come creare un ambiente che attiri clienti senza superare il budget.</p>
+</section>
+
+<img class="img" src=${settings.modernDesignTable.src} alt="arredamento ristorante moderno" />
+
+<section id="importanza" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">2. L'importanza dell'arredamento per un ristorante di successo</h2>
+  <p>L'arredamento è il biglietto da visita del tuo ristorante: è ciò che colpisce immediatamente i clienti quando
+    entrano. La disposizione dei mobili, l'illuminazione, i colori e i materiali creano un'atmosfera che contribuisce
+    all'identità del ristorante. Se il design è coerente con il concept e la cucina, aumenterai le probabilità di
+    fidelizzare i tuoi clienti.</p>
+  <p>Un <strong> arredamento ristorante moderno </strong> può dare un forte impatto visivo e riflettere lo stile
+    innovativo del locale. Arredare un ristorante richiede dunque una visione chiara e un progetto che rifletta il
+    messaggio che vuoi trasmettere attraverso il tuo locale.</p>
+</section>
+
+<section id="come-farlo" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">3. Come arredare un ristorante in modo moderno</h2>
+  <h4>Minimalismo e pulizia delle linee</h4>
+  <p>
+    Uno dei tratti distintivi dell'arredamento ristorante moderno è il minimalismo. Per un ristorante moderno, scegli
+    mobili dalle linee pulite e semplici, evitando decorazioni eccessive. Tavoli, sedie e arredi devono essere
+    funzionali e privi di elementi superflui.
+  </p>
+
+  <h4>Utilizzo di materiali naturali</h4>
+  <p>
+    I materiali naturali, come il legno chiaro, il metallo e il vetro, sono molto utilizzati nell'arredamento ristorante
+    moderno. Creano un ambiente luminoso e arioso, perfetto per un locale che vuole trasmettere freschezza e
+    innovazione.
+  </p>
+
+  <h4>Illuminazione moderna</h4>
+  <p>
+    L'illuminazione è un elemento chiave. Nel design moderno, si utilizzano lampade minimaliste, magari con dettagli in
+    metallo o vetro trasparente. Le luci a LED, regolabili in intensità, creano l’atmosfera giusta a seconda del momento
+    della giornata, migliorando l'estetica dell'arredamento ristorante moderno.
+  </p>
+</section>
+
+<section id="elegante" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">4. Arredamento ristorante elegante: come creare un'atmosfera raffinata</h2>
+  <h4>Scelta dei materiali di alta qualità</h4>
+  <p>
+    Per un arredamento elegante, la qualità dei materiali è fondamentale. Tavoli in legno massello, sedie rivestite in
+    pelle o tessuti pregiati e dettagli in marmo o metalli lucidi (come l’ottone o l’oro) conferiscono un tocco di
+    lusso.
+  </p>
+
+  <h4>Dettagli di lusso: dai tessuti alle decorazioni</h4>
+  <p>
+    Tessuti come velluto o seta, utilizzati per le sedute o le tende, creano un'atmosfera elegante e sofisticata. Anche
+    i piccoli dettagli, come candelabri o stoviglie di design, aggiungono raffinatezza all'ambiente.
+  </p>
+
+  <h4>L'importanza della coerenza stilistica</h4>
+  <p>
+    Per un ambiente elegante, è fondamentale che tutti gli elementi d’arredo siano coerenti. Ogni dettaglio, dalle sedie
+    ai piatti, deve rispettare il tema scelto, creando un’armonia visiva che trasmette professionalità.
+  </p>
+</section>
+
+<img class="img-reduce" src=${settings.forniture.src} alt="idee tavoli ristorante" />
+
+<section id="scegliere" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">5. Arredare un ristorante: le scelte dei tavoli</h2>
+  <h4>Tipologie di tavoli per ristoranti moderni</h4>
+  <p>
+    I tavoli per ristoranti moderni sono spesso realizzati con materiali come legno chiaro, metallo o vetro. Le forme
+    rettangolari o quadrate sono le più comuni, ma anche i tavoli rotondi possono creare un’atmosfera più intima e
+    raccolta. Queste idee tavoli ristorante moderni puntano sulla funzionalità e sulla semplicità, in linea con
+    l'arredamento ristorante moderno.
+  </p>
+
+  <h4>Idee per tavoli eleganti</h4>
+  <p>
+    Per un arredamento elegante, i tavoli possono essere realizzati in legno scuro o con dettagli in marmo. I tavoli
+    rotondi sono una scelta classica per ristoranti di lusso, poiché favoriscono la conversazione e aggiungono un tocco
+    di eleganza.
+  </p>
+
+  <h4>La disposizione ottimale dei tavoli nella sala</h4>
+  <p>
+    La disposizione dei tavoli deve permettere una buona circolazione del personale e dei clienti. È importante lasciare
+    abbastanza spazio tra un tavolo e l'altro per garantire comfort e privacy ai clienti. Le idee tavoli ristorante
+    devono quindi bilanciare estetica e funzionalità.
+  </p>
+</section>
+
+<section id="arredare" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">6. Idee per arredare la sala di un ristorante</h2>
+  <h4>Ottimizzare lo spazio disponibile</h4>
+  <p>
+    Un arredamento ben pianificato sfrutta al meglio lo spazio disponibile. Tavoli allineati lungo le pareti, scaffali
+    sospesi e sedute su panchine possono aiutare a massimizzare lo spazio, senza rinunciare all'estetica.
+  </p>
+
+  <h4>Personalizzazione degli interni con quadri e accessori</h4>
+  <p>
+    Quadri, piante, specchi e altri complementi d’arredo personalizzano la sala, donandole carattere e calore. Scegli
+    accessori che riflettano lo stile e il tema del ristorante, creando un ambiente unico e accogliente. Tra le idee
+    arredamento ristorante, gli accessori giocano un ruolo fondamentale per differenziare il locale.
+  </p>
+
+  <h4>Colori e tessuti per una sala accogliente</h4>
+  <p>
+    I colori giocano un ruolo fondamentale nel creare l’atmosfera giusta. Tinte neutre come il beige o il grigio sono
+    ideali per uno stile elegante, mentre colori più vivaci possono essere utilizzati per dare energia e personalità
+    all’ambiente.
+  </p>
+</section>
+
+<section id="progettare-spazio" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">7. Interni di ristoranti: progettare lo spazio per l'accoglienza</h2>
+  <h4>Creare un ambiente funzionale e accogliente</h4>
+  <p>
+    L’interior design di un ristorante deve essere funzionale e confortevole. Gli interni devono facilitare il flusso di
+    lavoro per il personale e garantire un’esperienza piacevole per i clienti. Dividere lo spazio in modo strategico tra
+    cucina, sala e reception è essenziale per un servizio efficiente.
+  </p>
+
+  <h4>Come integrare cucina e sala in modo armonioso</h4>
+  <p>
+    Una cucina a vista può diventare un punto di forza del ristorante. Tuttavia, è fondamentale che l’integrazione tra
+    cucina e sala sia armoniosa e che il design favorisca la comunicazione tra i due ambienti, senza disturbare i
+    clienti.
+  </p>
+
+  <h4>Il design dei bagni: piccoli dettagli che fanno la differenza</h4>
+  <p>
+    Non bisogna trascurare il design dei bagni. Un bagno ben arredato, con specchi eleganti, rubinetteria moderna e
+    materiali di qualità, contribuisce all’immagine positiva del ristorante.
+  </p>
+  <a href='https://ilcodicedelgusto.com/contact-us'>
+    <div class="call-to-action">Se vuoi puoi richiedere un'aiuto ai nostri esperti per migliorare le strategia di
+      marketing del tuo locale, contattaci cliccando <strong class="text"> qui </strong> </div>
+  </a>
 
 
-      <img class="img-reduce" src=${settings.qrCodeTableOutside.src} alt="qr code tavolo"/>
-     <section id="faq" class="margin-top-bottom-4">
-  <h2 class="margin-bottom-2">FAQ: Domande Frequenti</h2>
-  <div class="faq-item">
-    <h3>Cos'è un porta menu digitale da tavolo?</h3>
-    <p>Un porta QR code è un oggetto che mostra un codice QR su ogni tavolo del ristorante. Questo rende più facile accedere al menù digitale.</p>
-  </div>
-  
-  <div class="faq-item">
-    <h3>Quali materiali sono utilizzati per gli espositori QR code?</h3>
-    <p>Gli espositori possono essere realizzati in acrilico, legno, metallo o materiali misti, a seconda delle esigenze estetiche e pratiche del ristorante.</p>
-  </div>
+</section>
 
-  <div class="faq-item">
-    <h3>È sicuro usare menù digitali con codice QR?</h3>
-    <p>Sì, i menù digitali sono sicuri, riducendo il contatto fisico tra clienti e personale, migliorando l'igiene.</p>
-  </div>
+<section id="pochi-soldi" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">8. Arredare un ristorante con pochi soldi: consigli pratici</h2>
+  <h4>Come risparmiare con mobili riciclati o di seconda mano</h4>
+  <p>
+    Se hai un budget limitato, puoi considerare l’acquisto di mobili usati o riciclati. Spesso è possibile trovare pezzi
+    di alta qualità a prezzi vantaggiosi, soprattutto nei mercati di seconda mano o su piattaforme online.
+  </p>
 
-  <div class="faq-item">
-    <h3>Posso personalizzare il mio espositore?</h3>
-    <p>Numerosi venditori propongono l'opzione di personalizzare i display con il logo del locale o altri dettagli.</p>
-  </div>
+  <h4>Idee economiche per decorazioni e complementi d’arredo</h4>
+  <p>
+    Decorare un ristorante non deve essere costoso. Puoi usare piante, poster o fotografie per aggiungere personalità
+    senza spendere molto. Anche oggetti artigianali o fatti a mano possono dare un tocco unico a basso costo.
+  </p>
 
-  <div class="faq-item">
-    <h3>I QR code sono difficili da usare per i clienti?</h3>
-    <p>No, sono estremamente facili da usare: è sufficiente puntare la fotocamera del tuo smartphone sul codice per accedere direttamente al menù.</p>
-  </div>
+  <h4>Come sfruttare al meglio gli spazi con un budget ridotto</h4>
+  <p>
+    Con un po' di creatività, puoi ottimizzare gli spazi e arredare un ristorante con pochi soldi. Ad esempio, panchine
+    fisse lungo i muri, tavoli semplici ma ben disposti e una buona illuminazione possono fare una grande differenza,
+    mantenendo i costi contenuti.
+  </p>
+</section>
 
-  <div class="faq-item">
-    <h3>Come posso utilizzare il QR code per il marketing?</h3>
-    <p>Puoi collegare il QR code a pagine social, sondaggi di feedback, o promozioni esclusive per i clienti che lo scansionano.</p>
-  </div>
+<section id="elementi-chiave" class="margin-top-bottom-4">
+  <h2 class="margin-bottom-2">9. Come allestire un ristorante: elementi chiave</h2>
+  <h4>L'importanza della disposizione dei tavoli e delle sedie</h4>
+  <p>
+    L'allestimento deve favorire la praticità. Tavoli e sedie devono essere disposti in modo da facilitare il passaggio
+    e offrire ai clienti uno spazio confortevole per mangiare e socializzare. Le idee tavoli ristorante dovrebbero
+    prevedere configurazioni adattabili, soprattutto nei locali con spazi ridotti.
+  </p>
+
+  <h4>L’organizzazione dello spazio di lavoro e del flusso del servizio</h4>
+  <p>
+    Una buona organizzazione dello spazio è cruciale per il successo del servizio. La disposizione dei mobili deve
+    facilitare il lavoro del personale e ridurre al minimo i tempi di attesa dei clienti.
+  </p>
+
+  <h4>La scelta dei colori per allestire un ambiente accogliente</h4>
+  <p>
+    Scegli colori che trasmettano l'atmosfera desiderata. Toni caldi come il rosso o l'arancione possono stimolare
+    l'appetito, mentre colori più freddi come il blu o il verde possono creare un ambiente rilassante.
+  </p>
+</section>
+
+
+<section id="esempi" class="margin-top-bottom-4">
+    <h2 class="margin-bottom-2">10. Esempi di arredamento Originali</h2>
+    <div class="img-text-left">
+     <h4>Moderno</h4>
+     <img class="img-small" src=${settings.ar8.src} alt="arredamento ristorante moderno" />
+    </div>
+    <div class="img-text-right">
+     <h4>Classico</h4>
+     <img class="img-small" src=${settings.ar7.src} alt="arredamento ristorante classico" />
+    </div>
+    <div class="img-text-left">
+     <h4>Fast Casual</h4>
+     <img class="img-small" src=${settings.ar6.src} alt="arredamento ristorante casual" />
+    </div>
+    <div class="img-text-right">
+     <h4>Vintage</h4>
+     <img class="img-small" src=${settings.ar5.src} alt="arredamento ristorante vintage" />
+    </div>
+    <div class="img-text-left">
+     <h4>Rustico</h4>
+     <img class="img-small" src=${settings.ar4.src} alt="arredamento ristorante rustico" />
+    </div>
+    <div class="img-text-right">
+     <h4>Minimalista</h4>
+     <img class="img-small" src=${settings.ar3.src} alt="arredamento ristorante minimalista" />
+    </div>
+    <div class="img-text-left">
+     <h4>Eclettico</h4>
+     <img class="img-small" src=${settings.ar2.src} alt="arredamento ristorante eclettico" />
+    </div>
+    <div class="img-text-right">
+     <h4>Chic</h4>
+     <img class="img-small" src=${settings.ar1.src} alt="arredamento ristorante chic" />
+    </div>
   </section>
-    </footer>`
+
+
+<footerclass="margin-top-bottom-4">
+
+  <section id="faq" class="margin-top-bottom-4">
+
+
+    <h2 class="margin-bottom-2">FAQ sull'arredamento di un ristorante</h2>
+    <div class="faq-item">
+      <h3>Qual è lo stile di arredamento migliore per un ristorante moderno?</h3>
+      <p> Il minimalismo, con linee pulite e materiali naturali, è lo stile ideale per un arredamento ristorante
+        moderno.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Quali materiali utilizzare per un ristorante elegante?</h3>
+      <p> Per un ambiente elegante, prediligi materiali come legno massello, pelle, marmo e metalli lucidi.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Come posso arredare un ristorante con un budget limitato?</h3>
+      <p>Acquista mobili di seconda mano, utilizza decorazioni semplici e sfrutta materiali riciclati per risparmiare.
+      </p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Quali sono i tavoli migliori per un ristorante elegante?</h3>
+      <p> I tavoli in legno scuro o marmo sono perfetti per un ristorante elegante, preferibilmente con dettagli curati
+        e un design raffinato.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Come si possono arredare i bagni di un ristorante?</h3>
+      <p> Investi in specchi eleganti, rubinetteria moderna e arredi semplici ma curati per creare un ambiente piacevole
+        anche nei bagni.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3>Quanto è importante l'illuminazione nell'arredamento di un ristorante?</h3>
+      <p> L'illuminazione è fondamentale per creare l’atmosfera giusta, influenzando l'esperienza del cliente e
+        valorizzando l'ambiente.</p>
+    </div>
+  </section>
+
+  <section id="conclusione" class="margin-top-bottom-4">
+    <h2>11. Conclusione</h2>
+    <p>
+      Arredare un ristorante richiede una combinazione di estetica, funzionalità e strategia. Scegliere lo stile giusto,
+      che sia moderno o elegante, e curare i dettagli come la disposizione dei tavoli e l’illuminazione, possono fare la
+      differenza nel successo del locale. Anche con un budget ridotto, è possibile arredare un ristorante con stile,
+      utilizzando soluzioni creative e intelligenti.
+    </p>
+  </section>
+  </footer>`
   }
 
 ];

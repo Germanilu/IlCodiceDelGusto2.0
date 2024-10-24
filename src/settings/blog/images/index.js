@@ -13,6 +13,16 @@ import gourmetDinner from '../../../static/media/gourmet.jpg';
 import qrCodeTable from '../../../static/media/qr-code-table.jpg';
 import qrCodeTableOutside from '../../../static/media/qr-code-table-outside.jpg';
 import qrCodeTableEspositor from '../../../static/media/qr-code-espositore.jpg';
+import modernDesignTable from '../../../static/media/modern-design-table.jpg';
+import ar1 from '../../../static/media/ar1.jpg';
+import ar2 from '../../../static/media/ar2.jpg';
+import ar3 from '../../../static/media/ar3.jpg';
+import ar4 from '../../../static/media/ar4.jpg';
+import ar5 from '../../../static/media/ar5.jpg';
+import ar6 from '../../../static/media/ar6.jpg';
+import ar7 from '../../../static/media/ar7.jpg';
+import ar8 from '../../../static/media/ar8.jpg';
+import forniture from '../../../static/media/forniture.jpg';
 
  const blogImages = {
     qrCode,
@@ -29,7 +39,17 @@ import qrCodeTableEspositor from '../../../static/media/qr-code-espositore.jpg';
     gourmetDinner,
     qrCodeTable,
     qrCodeTableEspositor,
-    qrCodeTableOutside
+    qrCodeTableOutside,
+    modernDesignTable,
+    ar1,
+    ar2,
+    ar3,
+    ar4,
+    ar5,
+    ar6,
+    ar7,
+    ar8,
+    forniture
 };
 
 export default blogImages;
