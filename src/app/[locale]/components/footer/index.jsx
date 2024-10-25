@@ -3,6 +3,7 @@ import { Link } from '@/navigation';
 import { useTranslations } from "next-intl";
 import Image from 'next/image';
 import { FaLinkedin, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
 
 import icon from "../../../../static/media/logotext.png";
 
@@ -48,6 +49,7 @@ export default function Footer() {
             <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={30}/></Link></div>
             <div className="social"><Link target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <FaInstagram size={30}/></Link></div>
             <div className="social"><Link target="_blank" href='https://www.facebook.com/profile.php?id=61567616643088'> <FaFacebook size={30}/></Link></div>
+            <div className="social"><Link target="_blank" href='https://x.com/CodiceDelGusto'> <FaSquareXTwitter size={30}/></Link></div>
           </div>
       </div>
         <div className="policies">

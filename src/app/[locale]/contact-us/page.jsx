@@ -4,6 +4,7 @@ import { useTranslations }  from "next-intl";
 import { Link } from '@/navigation';
 import { useSelector }      from 'react-redux';
 import { FaLinkedin, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
 import ContactForm from "../components/contact/form";
 import './page.scss'
 
@@ -68,6 +69,7 @@ export default function ContactUs(){
             <div className="social"><Link target="_blank" href='https://www.linkedin.com/in/luciano-germani/'> <FaLinkedin size={25}/></Link></div>
             <div className="social"><Link target="_blank" href='https://www.instagram.com/ilcodicedelgusto/'> <FaInstagram size={25}/></Link></div>
             <div className="social"><Link target="_blank" href='https://www.facebook.com/profile.php?id=61567616643088'> <FaFacebook size={25}/></Link></div>
+            <div className="social"><Link target="_blank" href='https://x.com/CodiceDelGusto'> <FaSquareXTwitter size={25}/></Link></div>
           </div>
       </div>
     </div>
