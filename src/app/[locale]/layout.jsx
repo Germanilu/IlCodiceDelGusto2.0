@@ -37,6 +37,16 @@ export default function RootLayout({ children, params }) {
           <Providers>
             <ResponsiveLayout />
             <Script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/ab72ddd7de4114db12264527/script.js"></Script>
+            {/* google analytcs */}
+            <Script async src="https://www.googletagmanager.com/gtag/js?id=G-9RX88331DS"></Script>
+            <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9RX88331DS');
+        `}
+      </Script>
             {/* <Script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="4b888c1a-2a74-4132-8f39-674f4881c80b" data-blockingmode="auto" type="text/javascript"></Script> */}
             <Navbar />
             <ScrollToTop />
