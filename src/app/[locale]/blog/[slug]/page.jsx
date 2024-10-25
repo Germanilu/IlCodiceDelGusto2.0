@@ -4,6 +4,7 @@ import { articlesIt } from '@/static/blog/it/articlesIt';
 import { articlesEs } from '@/static/blog/es/articlesEs';
 import { articlesEn } from '@/static/blog/en/articlesEn';
 import  ProgressBar from '@/app/[locale]/components/progress-bar';
+import  ShareButtons from '@/app/[locale]/components/share-buttons';
 import  Button from '@/app/[locale]/components/button';
 import { unstable_setRequestLocale } from 'next-intl/server';
 import ScrollToTop from "@/app/[locale]/components/scroll-to-top/index";
@@ -105,10 +106,9 @@ const generateRandomArticle = (params) => {
 }
 
 const BlogPost = ({ params }) => {
-
-
+  
   unstable_setRequestLocale(params.locale);
-
+  
   const article = getArticle(params)
   const articleHref = generateRandomArticle(params)
 
@@ -120,6 +120,7 @@ const BlogPost = ({ params }) => {
         <Button href='/blog' text='back'/>
         <Button href={articleHref} text='next'/>
       </div>
+        <ShareButtons url={`https://ilcodicedelgusto.com/blog/${article.slug}`} title={article.title}/>
       <ScrollToTop />
     </div>
   );
