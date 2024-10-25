@@ -4,7 +4,7 @@ import './index.scss';
 import { FacebookShareButton, TwitterShareButton, WhatsappShareButton, LinkedinShareButton } from 'react-share';
 import { FacebookIcon, TwitterIcon, WhatsappIcon, LinkedinIcon } from 'react-share';
 
-const ShareButtons = ({ url, title }) => {
+const ShareButtons = ({ url, title, imageUrl  }) => {
     return (
         <div className="share-buttons">
             <FacebookShareButton url={url} quote={title}>

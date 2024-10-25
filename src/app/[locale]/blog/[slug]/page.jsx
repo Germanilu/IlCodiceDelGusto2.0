@@ -1,4 +1,4 @@
-
+import Head from 'next/head';
 import { notFound } from 'next/navigation';
 import { articlesIt } from '@/static/blog/it/articlesIt';
 import { articlesEs } from '@/static/blog/es/articlesEs';
@@ -65,6 +65,9 @@ export async function generateMetadata({ params }) {
     title: article.title,
     description: article.metaDescription,
     keywords: article.metaKeywords,
+    openGraph: {
+      images: article.img,
+    },
   };
 }
 
@@ -111,6 +114,7 @@ const BlogPost = ({ params }) => {
   
   const article = getArticle(params)
   const articleHref = generateRandomArticle(params)
+  const imageUrl = article.img
 
   return (
     <div className="post-container">
@@ -120,7 +124,7 @@ const BlogPost = ({ params }) => {
         <Button href='/blog' text='back'/>
         <Button href={articleHref} text='next'/>
       </div>
-        <ShareButtons url={`https://ilcodicedelgusto.com/blog/${article.slug}`} title={article.title}/>
+        <ShareButtons url={`https://ilcodicedelgusto.com/blog/${article.slug}`} title={article.title}  imageUrl={imageUrl} />
       <ScrollToTop />
     </div>
   );
