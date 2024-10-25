@@ -13,7 +13,7 @@ import gourmetDinner from '../../../static/media/gourmet.jpg';
 import qrCodeTable from '../../../static/media/qr-code-table.jpg';
 import qrCodeTableOutside from '../../../static/media/qr-code-table-outside.jpg';
 import qrCodeTableEspositor from '../../../static/media/qr-code-espositore.jpg';
-import modernDesignTable from '../../../static/media/modern-design-table.jpg';
+import modernDesignTable from '../../../static/media/12.jpg';
 import ar1 from '../../../static/media/ar1.jpg';
 import ar2 from '../../../static/media/ar2.jpg';
 import ar3 from '../../../static/media/ar3.jpg';

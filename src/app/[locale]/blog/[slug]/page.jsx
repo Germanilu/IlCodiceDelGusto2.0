@@ -115,7 +115,7 @@ const BlogPost = ({ params }) => {
   const article = getArticle(params)
   const articleHref = generateRandomArticle(params)
   const imageUrl = article.img
-
+  console.log(imageUrl)
   return (
     <div className="post-container">
       <ProgressBar/>
