@@ -23,6 +23,8 @@ import ar6 from '../../../static/media/ar6.jpg';
 import ar7 from '../../../static/media/ar7.jpg';
 import ar8 from '../../../static/media/ar8.jpg';
 import forniture from '../../../static/media/forniture.jpg';
+import ateco from '../../../static/media/codice-ateco-guida.jpg';
+import codiceAteco from '../../../static/media/ateco.jpg';
 
  const blogImages = {
     qrCode,
@@ -49,7 +51,9 @@ import forniture from '../../../static/media/forniture.jpg';
     ar6,
     ar7,
     ar8,
-    forniture
+    forniture,
+    ateco,
+    codiceAteco
 };
 
 export default blogImages;

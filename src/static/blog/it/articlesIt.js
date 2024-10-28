@@ -1282,6 +1282,112 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
     </p>
   </section>
   </footer>`
+  },
+  {
+    id: 11,
+    slug: "codice-ateco-ristorazione",
+    img: settings.ateco.src,
+    metaDescription: "Scopri tutto sui codici ATECO per la ristorazione. Guida pratica per scegliere il codice giusto per bar, ristoranti e pizzerie, con somministrazione o asporto. Evita errori fiscali e normative.",
+    metaKeywords: "codice ateco ristorazione, codice ateco ristorazione con somministrazione, ateco ristorazione con somministrazione, codice ateco 561011, codice ateco pizzeria, codice ateco pizzeria da asporto, ateco ristoranti, ristorazione con somministrazione, codice ateco 561020, codice ateco 56, codice ateco ristorazione senza somministrazione, ristorazione senza somministrazione, codice ateco bar ristorante, codice ateco ristorante pizzeria, codice ateco bar, codice ateco bar con cucina",
+    title: "Codice ATECO Ristorazione: Guida Completa per Bar, Ristoranti e Pizzerie",
+    shortDescription: "I codici ATECO per la ristorazione sono essenziali per chi gestisce un'attività nel settore della ristorazione in Italia.",
+    text: `  <header>
+        <h1>Codice ATECO Ristorazione: Guida Completa per Bar, Ristoranti e Pizzerie</h1>
+        <p>Scopri tutto sui codici ATECO per la ristorazione. Guida pratica per scegliere il codice giusto per bar, ristoranti e pizzerie, con somministrazione o asporto. Evita errori fiscali e normative.</p>
+    </header>
+
+    <nav class="margin-top-bottom-2">
+        <h2 class="margin-bottom-1">Indice</h2>
+        <ul>
+            <li><a href="#guida-codici">Guida ai Codici ATECO per la Ristorazione</a></li>
+            <li><a href="#cosa-sono">Cosa Sono i Codici ATECO e Perché Sono Importanti?</a></li>
+            <li><a href="#principali-codici">Principali Codici ATECO per la Ristorazione</a></li>
+            <li><a href="#scegliere-codice">Come Scegliere il Codice ATECO Giusto per la Tua Attività</a></li>
+            <li><a href="#aggiungere-codice">Istruzioni per Aggiungere Codice ATECO alla Partita IVA</a></li>
+            <li><a href="#codice-bar">Codice ATECO per Bar</a></li>
+            <li><a href="#verifica-codice">Verifica Il tuo codice ATECO</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#conclusione">Conclusione</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="guida-codici" class="margin-top-bottom-2">
+            <img class="img-reduce " src=${settings.codiceAteco.src} alt="codice ateco ilcodicedelgusto"/>
+            <h2>Guida ai Codici ATECO per la Ristorazione</h2>
+            <p>I codici ATECO per la ristorazione sono essenziali per chi gestisce un'attività nel settore della ristorazione in Italia. <br> Questo codice identifica il tipo di attività svolta e determina le regolamentazioni e le tasse a cui l'azienda è soggetta. Di seguito, forniamo una panoramica chiara e semplice dei principali codici ATECO, ideali per ristoranti, pizzerie, bar e altre attività legate alla ristorazione.</p>
+        </section>
+
+        <section id="cosa-sono" class="margin-top-bottom-2">
+            <h2>Cosa Sono i Codici ATECO e Perché Sono Importanti?</h2>
+            <p>Il codice ATECO è una combinazione di numeri che identifica un'attività economica specifica. Ogni settore ha i propri codici, e quelli per la ristorazione servono a classificare il tipo di servizio fornito, ad esempio, ristorazione con o senza somministrazione. Conoscere il codice giusto facilita l'apertura di una nuova attività e aiuta a essere in regola con la normativa fiscale.</p>
+        </section>
+
+        <section id="principali-codici" class="margin-top-bottom-2">
+            <h2>Principali Codici ATECO per la Ristorazione</h2>
+            <ul class="margin-top-2">
+                <li><strong>Codice ATECO 561011</strong> - Ristorazione con somministrazione<br>Questo codice è destinato ai ristoranti tradizionali che offrono servizio ai tavoli. È adatto per attività che prevedono la somministrazione diretta di cibi e bevande ai clienti.</li>
+                <li class="margin-top-1"><strong>Codice ATECO 561020</strong> - Ristorazione senza somministrazione<br>Utilizzato per attività che offrono cibo da asporto o consegne a domicilio, senza il servizio ai tavoli. È frequente nei locali che forniscono solo la preparazione di alimenti.</li>
+                <li class="margin-top-1"><strong>Codice ATECO 561011</strong> - Pizzeria con somministrazione<br>Specifico per le pizzerie che servono i clienti al tavolo. Questo codice è simile a quello della ristorazione generale con somministrazione, ma dedicato alle pizzerie.</li>
+                <li class="margin-top-1"><strong>Codice ATECO 561012</strong> - Pizzeria da asporto<br>Utilizzato per pizzerie che si concentrano esclusivamente sul servizio da asporto. Non prevede il servizio al tavolo, quindi è adatto per attività che operano con consegne a domicilio o take-away.</li>
+                <li class="margin-top-1"><strong>Codice ATECO 56</strong> - Ristorazione<br>Questo è il codice generale che racchiude le diverse sottocategorie della ristorazione, dall'attività con somministrazione a quella senza, come bar, trattorie e chioschi. Si suddivide in ulteriori codici per rispondere alle specifiche esigenze di ogni attività.</li>
+                <li class="margin-top-1"><strong>Codice ATECO Bar e Ristoranti</strong><br>Il codice ATECO per i bar e ristoranti dipende dal tipo di servizio fornito. Ad esempio, se il bar offre servizio di somministrazione, potrebbe utilizzare un codice simile a quello dei ristoranti con somministrazione, adattato alle bevande.</li>
+            </ul>
+        </section>
+
+        <section id="scegliere-codice">
+            <h2>Come Scegliere il Codice ATECO Giusto per la Tua Attività</h2>
+            <p>Per scegliere il codice corretto, è importante valutare l’attività principale che si intende svolgere. Ad esempio, se hai un ristorante pizzeria che offre anche servizio d’asporto, puoi combinare i codici per pizzeria e ristorante. Consulta un commercialista o un esperto per scegliere il codice che meglio rappresenta l'attività ed evita così errori fiscali.</p>
+        </section>
+
+        <section id="aggiungere-codice" class="margin-top-bottom-2">
+            <img class="img-reduce " src=${settings.ateco.src} alt="codice ATECO"/>
+            <h2>Istruzioni per Aggiungere Codice ATECO alla Partita IVA</h2>
+            <p>Se hai bisogno di capire come aggiungere un codice ATECO quando stai per aprire la tua partita IVA o in un secondo momento se l’hai già aperta basterà compilare il modello AA9/12 e inviarlo online tramite il sito dell’Agenzia delle Entrate<br> <br>Per poter scaricare il modello AA9/12 e le istruzioni per la compilazione ti invito a visitare il sito dell’Agenzia delle entrate a questo <a href="https://www.agenziaentrate.gov.it/portale/web/guest/schede/istanze/aa9_11-apertura-variazione-chiusura-pf/modello-e-istr-pi-pf" target="_blank" class="link"><strong>LINK</strong></a> troverai sia il Link per scaricare il Modello AA9/12 in pdf che le istruzioni per la compilazione<br>Se invece vuoi affidarti ad un’esperto, puoi affidarti al tuo commercialista o ad una delle svariate piattaforme online che offrono gestioni commerciali per ristoranti/bar e altre attività</p>
+        </section>
+
+        <section id="codice-bar">
+            <h2>Codice ATECO per Bar</h2>
+            <p>Il codice ATECO per i bar identifica l'attività di somministrazione di bevande e, a seconda dei servizi offerti, può variare. Come riportiamo più sopra nella lista dei Principali Codice ATECO per la ristorazione, al punto numero 12 viene spiegato che se si vogliono somministrare bevande è necessario ottenere il codice ATECO per l'attività dei servizi di alloggio e di ristorazione.<br>Se il tuo Bar non ha la cucina, allora farà sicuramente parte del gruppo: Bar e altri esercizi simili senza cucina</p>
+        </section>
+
+        <section id="verifica-codice" class="margin-top-bottom-2">
+            <h2>Verifica Il tuo codice ATECO</h2>
+            <p>Se vuoi semplicemente verificare il Codice ATECO puoi farlo comodamente sul sito web ateco.infocamere.it, inserendo il tuo codice anche senza punti potrai verificare se ci sono cambi nel tuo codice o se l’iscrizione è stata effettuata correttamente a questo <a href="https://ateco.infocamere.it/ateq20/#!/ricercaAggiornamento" target="_blank" class="link"><strong>LINK</strong></a></p>
+        </section>
+
+        <section id="faq">
+            <h2 class="margin-top-bottom-2">FAQ</h2>
+            <dl>
+                <dt class="bold">Che cos’è il codice ATECO per la ristorazione?</dt>
+                <dd class="margin-bottom-1">Il codice ATECO per la ristorazione è un identificativo numerico che classifica l’attività come ristorazione, con o senza somministrazione.</dd>
+
+                <dt class="bold">Qual è il codice ATECO per la pizzeria da asporto?</dt>
+                <dd class="margin-bottom-1">Il codice è 561012, che si riferisce specificamente alle pizzerie che offrono esclusivamente servizi da asporto.</dd>
+
+                <dt class="bold">Come posso sapere quale codice ATECO utilizzare per il mio ristorante?</dt>
+                <dd class="margin-bottom-1">La scelta dipende dal tipo di servizio: se offri somministrazione, scegli un codice che lo indichi; se è un’attività di solo asporto, usa un codice per la ristorazione senza somministrazione.</dd>
+
+                <dt class="bold">È possibile avere più di un codice ATECO?</dt>
+                <dd class="margin-bottom-1">Sì, molte attività combinano codici, ad esempio una ristorante pizzeria può registrarsi sia con il codice di ristorante con somministrazione che con quello di pizzeria.</dd>
+
+                <dt class="bold">A cosa serve il codice ATECO 561020?</dt>
+                <dd class="margin-bottom-1">Questo codice identifica le attività di ristorazione che non prevedono somministrazione diretta al cliente, come servizi di cibo da asporto.</dd>
+
+                <dt class="bold">È obbligatorio avere un codice ATECO per avviare un'attività di ristorazione?</dt>
+                <dd class="margin-bottom-1">Sì, il codice ATECO è obbligatorio per essere in regola con le normative fiscali e autorizzative per il settore della ristorazione.</dd>
+            </dl>
+        </section>
+
+        <section id="conclusione" class="margin-top-bottom-2">
+            <h2>Conclusione</h2>
+            <p>Scegliere il codice ATECO giusto per la tua attività è un passaggio fondamentale per operare in regola nel settore della ristorazione. Con questa guida, speriamo di averti fornito tutte le informazioni necessarie per scegliere il codice più adatto alle tue esigenze. Ricorda che, in caso di dubbi, è sempre utile consultare un esperto o un commercialista.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p class="center-text">&copy; 2024 - Guida Codici ATECO per Ristorazione. Tutti i diritti riservati.</p>
+    </footer>`
   }
 
 ];
