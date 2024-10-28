@@ -1219,6 +1219,94 @@ export const articlesEs = [
   </section>
 </footer>
 `
+},
+{
+  id: 11,
+  slug: "codice-ateco-ristorazione",
+  img: settings.ateco.src,
+  metaDescription: "Descubre todo sobre los códigos ATECO para la restauración. Guía práctica para elegir el código adecuado para bares, restaurantes y pizzerías, con servicio o para llevar. Evita errores fiscales y normativos.",
+  metaKeywords: "código ateco restauración, código ateco restauración con servicio, ateco restauración con servicio, código ateco 561011, código ateco pizzería, código ateco pizzería para llevar, ateco restaurantes, restauración con servicio, código ateco 561020, código ateco 56, código ateco restauración sin servicio, restauración sin servicio, código ateco bar restaurante, código ateco restaurante pizzería, código ateco bar, código ateco bar con cocina",
+  title: "Código ATECO Restauración: Guía Completa para Bares, Restaurantes y Pizzerías",
+  shortDescription: "Los códigos ATECO para la restauración son esenciales para quienes gestionan un negocio en el sector de la restauración en Italia.",
+  text: `  <header>
+      <h1>Código ATECO Restauración: Guía Completa para Bares, Restaurantes y Pizzerías</h1>
+      <p>Descubre todo sobre los códigos ATECO para la restauración. Guía práctica para elegir el código adecuado para bares, restaurantes y pizzerías, con servicio o para llevar. Evita errores fiscales y normativos.</p>
+  </header>
+
+  <nav class="margin-top-bottom-2">
+      <h2 class="margin-bottom-1">Índice</h2>
+      <ul>
+          <li><a href="#guia-codigos">Guía de Códigos ATECO para la Restauración</a></li>
+          <li><a href="#que-son">¿Qué Son los Códigos ATECO y Por Qué Son Importantes?</a></li>
+          <li><a href="#principales-codigos">Principales Códigos ATECO para la Restauración</a></li>
+          <li><a href="#elegir-codigo">Cómo Elegir el Código ATECO Adecuado para tu Actividad</a></li>
+          <li><a href="#anadir-codigo">Instrucciones para Agregar Código ATECO a la Partida IVA</a></li>
+          <li><a href="#codigo-bar">Código ATECO para Bar</a></li>
+          <li><a href="#verificar-codigo">Verificar tu Código ATECO</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#conclusion">Conclusión</a></li>
+      </ul>
+  </nav>
+
+  <main>
+      <section id="guia-codigos" class="margin-top-bottom-2">
+          <img class="img-reduce " src=${settings.codiceAteco.src} alt="codigo ateco ilcodicedelgusto"/>
+          <h2>Guía de Códigos ATECO para la Restauración</h2>
+          <p>Los códigos ATECO para la restauración son esenciales para quienes gestionan un negocio en el sector de la restauración en Italia. <br> Este código identifica el tipo de actividad realizada y determina las normativas y los impuestos a los que está sujeta la empresa. A continuación, proporcionamos una visión clara y sencilla de los principales códigos ATECO, ideales para restaurantes, pizzerías, bares y otras actividades relacionadas con la restauración.</p>
+      </section>
+
+      <section id="que-son" class="margin-top-bottom-2">
+          <h2>¿Qué Son los Códigos ATECO y Por Qué Son Importantes?</h2>
+          <p>El código ATECO es una combinación de números que identifica una actividad económica específica. Cada sector tiene sus propios códigos, y los de restauración sirven para clasificar el tipo de servicio proporcionado, por ejemplo, restauración con o sin servicio. Conocer el código adecuado facilita la apertura de un nuevo negocio y ayuda a cumplir con la normativa fiscal.</p>
+      </section>
+
+      <section id="principales-codigos" class="margin-top-bottom-2">
+          <h2>Principales Códigos ATECO para la Restauración</h2>
+          <ul class="margin-top-2">
+              <li><strong>Código ATECO 561011</strong> - Restauración con servicio<br>Este código está destinado a los restaurantes tradicionales que ofrecen servicio de mesa. Es adecuado para actividades que prevén el servicio directo de alimentos y bebidas a los clientes.</li>
+              <li class="margin-top-1"><strong>Código ATECO 561020</strong> - Restauración sin servicio<br>Utilizado para actividades que ofrecen comida para llevar o entregas a domicilio, sin servicio de mesa. Es común en locales que solo preparan alimentos.</li>
+              <li class="margin-top-1"><strong>Código ATECO 561011</strong> - Pizzería con servicio<br>Específico para las pizzerías que sirven a los clientes en mesa. Este código es similar al de restauración general con servicio, pero dedicado a las pizzerías.</li>
+              <li class="margin-top-1"><strong>Código ATECO 561012</strong> - Pizzería para llevar<br>Utilizado para pizzerías que se enfocan exclusivamente en el servicio para llevar. No incluye servicio de mesa, por lo que es adecuado para actividades que operan con entregas a domicilio o para llevar.</li>
+              <li class="margin-top-1"><strong>Código ATECO 56</strong> - Restauración<br>Este es el código general que incluye las diferentes subcategorías de restauración, desde actividades con servicio hasta sin él, como bares, trattorías y quioscos. Se divide en otros códigos para satisfacer las necesidades específicas de cada actividad.</li>
+              <li class="margin-top-1"><strong>Código ATECO Bares y Restaurantes</strong><br>El código ATECO para bares y restaurantes depende del tipo de servicio proporcionado. Por ejemplo, si el bar ofrece servicio, podría usar un código similar al de los restaurantes con servicio, adaptado a las bebidas.</li>
+          </ul>
+      </section>
+
+      <section id="elegir-codigo">
+          <h2>Cómo Elegir el Código ATECO Adecuado para tu Actividad</h2>
+          <p>Para elegir el código correcto, es importante evaluar la actividad principal que se pretende realizar. Por ejemplo, si tienes un restaurante pizzería que también ofrece servicio para llevar, puedes combinar los códigos para pizzería y restaurante. Consulta a un contador o experto para elegir el código que mejor represente la actividad y así evitar errores fiscales.</p>
+      </section>
+
+      <section id="anadir-codigo" class="margin-top-bottom-2">
+          <img class="img-reduce " src=${settings.ateco.src} alt="codigo ATECO"/>
+          <h2>Instrucciones para Agregar Código ATECO a la Partida IVA</h2>
+          <p>Si necesitas saber cómo agregar un código ATECO cuando vas a abrir tu partida IVA o en un segundo momento si ya la has abierto, solo tendrás que completar el modelo AA9/12 y enviarlo en línea a través del sitio de la Agencia Tributaria.<br> <br>Para descargar el modelo AA9/12 y las instrucciones para completarlo te invito a visitar el sitio de la Agencia Tributaria en este <a href="https://www.agenziaentrate.gov.it/portale/web/guest/schede/istanze/aa9_11-apertura-variazione-chiusura-pf/modello-e-istr-pi-pf" target="_blank" class="link"><strong>ENLACE</strong></a> donde encontrarás tanto el enlace para descargar el modelo AA9/12 en pdf como las instrucciones para completarlo.<br>Si prefieres contar con ayuda de un experto, puedes confiar en tu contador o en alguna de las diversas plataformas en línea que ofrecen gestión contable para restaurantes, bares y otras actividades.</p>
+      </section>
+
+      <section id="codigo-bar">
+          <h2>Código ATECO para Bar</h2>
+          <p>El código ATECO para bares identifica la actividad de servicio de bebidas y, dependiendo de los servicios proporcionados, puede variar. Como mencionamos arriba en la lista de los Principales Códigos ATECO para la restauración, en el punto número 12 se explica que si se desean ofrecer bebidas es necesario obtener el código ATECO para la actividad de servicios de alojamiento y restauración.<br>Si tu bar no tiene cocina, entonces seguramente formará parte del grupo: Bares y otros establecimientos similares sin cocina.</p>
+      </section>
+
+      <section id="verificar-codigo" class="margin-top-bottom-2">
+          <h2>Verificar tu Código ATECO</h2>
+          <p>Si solo quieres verificar el Código ATECO, puedes hacerlo cómodamente en el sitio web ateco.infocamere.it, introduciendo tu código incluso sin puntos podrás verificar si hay cambios en tu código o si el registro se ha realizado correctamente en este <a href="https://ateco.infocamere.it/ateq20/#!/ricercaAggiornamento" target="_blank" class="link"><strong>enlace.</strong></a></p>
+      </section>
+
+      <section id="faq">
+          <h2>FAQ</h2>
+          <p><strong>¿Qué diferencia hay entre el código ATECO para un bar y para un restaurante?</strong><br>El código ATECO para un bar se centra en el servicio de bebidas, mientras que el de un restaurante incluye la provisión de alimentos y servicio de mesa.</p>
+          <p><strong>¿Puedo tener múltiples códigos ATECO?</strong><br>Sí, es posible tener varios códigos ATECO en una partida IVA, por ejemplo, si tienes un restaurante que también ofrece servicios de catering.</p>
+          <p><strong>¿Qué sucede si elijo el código ATECO incorrecto?</strong><br>Elegir el código ATECO incorrecto puede tener consecuencias fiscales y regulatorias. Consulta a un experto si tienes dudas sobre el código adecuado.</p>
+      </section>
+
+      <section id="conclusion">
+          <h2>Conclusión</h2>
+          <p>Elegir el código ATECO correcto para tu actividad de restauración es esencial para cumplir con la normativa y gestionar adecuadamente los impuestos. Esperamos que esta guía te haya ayudado a entender las opciones disponibles y a tomar una decisión informada. Consulta siempre a un experto en caso de dudas para evitar problemas en el futuro.</p>
+      </section>
+  </main>
+  `
 }
+
 
 ];
