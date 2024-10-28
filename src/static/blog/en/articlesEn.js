@@ -1139,6 +1139,96 @@ export const articlesEn = [
   <p>Creating a well-decorated restaurant involves finding a balance between style, functionality, and budget. Whether aiming for modern simplicity, refined elegance, or a more budget-conscious approach, it’s important to ensure that all elements of the decor align with the restaurant’s concept. Investing in good design can significantly improve the customer experience, making your restaurant a memorable destination.</p>
 </section>
   `
-}
+},
+{
+  id: 11,
+  slug: "codice-ateco-ristorazione",
+  img: settings.ateco.src,
+  metaDescription: "Discover all about ATECO codes for catering businesses. Practical guide to choosing the right code for bars, restaurants, and pizzerias, whether dine-in or takeaway. Avoid fiscal and regulatory errors.",
+  metaKeywords: "ateco code catering, ateco code dine-in, ateco dine-in, ateco code 561011, ateco code pizzeria, ateco code takeaway pizzeria, ateco restaurants, dine-in catering, ateco code 561020, ateco code 56, ateco code no dine-in, catering without service, ateco code bar restaurant, ateco code restaurant pizzeria, ateco code bar, ateco code bar with kitchen",
+  title: "ATECO Code for Catering: Complete Guide for Bars, Restaurants, and Pizzerias",
+  shortDescription: "ATECO codes for catering are essential for those managing a business in Italy's catering sector.",
+  text: `  <header>
+      <h1>ATECO Code for Catering: Complete Guide for Bars, Restaurants, and Pizzerias</h1>
+      <p>Discover everything you need to know about ATECO codes for catering. A practical guide to choosing the right code for bars, restaurants, and pizzerias, whether for dine-in or takeaway. Avoid fiscal and regulatory errors.</p>
+  </header>
+
+  <nav class="margin-top-bottom-2">
+      <h2 class="margin-bottom-1">Index</h2>
+      <ul>
+          <li><a href="#code-guide">Guide to ATECO Codes for Catering</a></li>
+          <li><a href="#what-are">What Are ATECO Codes and Why Are They Important?</a></li>
+          <li><a href="#main-codes">Main ATECO Codes for Catering</a></li>
+          <li><a href="#choosing-code">How to Choose the Right ATECO Code for Your Business</a></li>
+          <li><a href="#add-code">Instructions to Add ATECO Code to Your VAT Number</a></li>
+          <li><a href="#bar-code">ATECO Code for Bar</a></li>
+          <li><a href="#verify-code">Verify Your ATECO Code</a></li>
+          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#conclusion">Conclusion</a></li>
+      </ul>
+  </nav>
+
+  <main>
+      <section id="code-guide" class="margin-top-bottom-2">
+          <img class="img-reduce " src=${settings.codiceAteco.src} alt="ateco code ilcodicedelgusto"/>
+          <h2>Guide to ATECO Codes for Catering</h2>
+          <p>ATECO codes for catering are essential for anyone managing a business in Italy's catering sector.<br> These codes identify the type of activity conducted and determine the regulations and taxes applicable to the company. Below, we provide a clear and simple overview of the main ATECO codes, ideal for restaurants, pizzerias, bars, and other catering-related activities.</p>
+      </section>
+
+      <section id="what-are" class="margin-top-bottom-2">
+          <h2>What Are ATECO Codes and Why Are They Important?</h2>
+          <p>The ATECO code is a combination of numbers that identifies a specific economic activity. Each sector has its own codes, and catering codes serve to classify the type of service provided, such as dine-in or takeaway. Knowing the correct code simplifies the process of opening a new business and helps ensure compliance with tax regulations.</p>
+      </section>
+
+      <section id="main-codes" class="margin-top-bottom-2">
+          <h2>Main ATECO Codes for Catering</h2>
+          <ul class="margin-top-2">
+              <li><strong>ATECO Code 561011</strong> - Dine-in Catering<br>This code is intended for traditional restaurants offering table service. It suits activities that provide direct food and beverage service to customers.</li>
+              <li class="margin-top-1"><strong>ATECO Code 561020</strong> - Catering without service<br>Used for activities offering takeaway or home delivery, without table service. It is common in establishments that only prepare food.</li>
+              <li class="margin-top-1"><strong>ATECO Code 561011</strong> - Dine-in Pizzeria<br>Specific for pizzerias serving customers at tables. This code is similar to general dine-in catering but dedicated to pizzerias.</li>
+              <li class="margin-top-1"><strong>ATECO Code 561012</strong> - Takeaway Pizzeria<br>Used for pizzerias focusing exclusively on takeaway. It does not include table service, making it suitable for businesses operating with home delivery or takeaway.</li>
+              <li class="margin-top-1"><strong>ATECO Code 56</strong> - Catering<br>This is the general code encompassing different catering subcategories, from activities with service to those without, such as bars, trattorias, and kiosks. It breaks down into other codes to suit the specific needs of each business.</li>
+              <li class="margin-top-1"><strong>ATECO Code Bars and Restaurants</strong><br>The ATECO code for bars and restaurants depends on the type of service provided. For instance, if the bar offers service, it could use a code similar to that for dine-in restaurants, adjusted for beverages.</li>
+          </ul>
+      </section>
+
+      <section id="choosing-code">
+          <h2>How to Choose the Right ATECO Code for Your Business</h2>
+          <p>To choose the correct code, it is important to assess the primary activity you intend to conduct. For example, if you have a restaurant pizzeria that also offers takeaway, you can combine codes for pizzeria and restaurant. Consult an accountant or expert to select the code that best represents the activity and thus avoid tax errors.</p>
+      </section>
+
+      <section id="add-code" class="margin-top-bottom-2">
+          <img class="img-reduce " src=${settings.ateco.src} alt="ATECO code"/>
+          <h2>Instructions to Add ATECO Code to Your VAT Number</h2>
+          <p>If you need to know how to add an ATECO code when you open your VAT number or later if you have already opened it, you will just need to complete the AA9/12 form and submit it online through the Revenue Agency's website.<br> <br>To download the AA9/12 form and instructions for filling it out, please visit the Revenue Agency website at this <a href="https://www.agenziaentrate.gov.it/portale/web/guest/schede/istanze/aa9_11-apertura-variazione-chiusura-pf/modello-e-istr-pi-pf" target="_blank" class="link"><strong>LINK</strong></a>, where you will find both the link to download the AA9/12 form in PDF and instructions for completing it.<br>If you prefer assistance from an expert, you can rely on your accountant or one of the various online platforms offering accounting management for restaurants, bars, and other businesses.</p>
+      </section>
+
+      <section id="bar-code">
+          <h2>ATECO Code for Bar</h2>
+          <p>The ATECO code for bars identifies beverage service activities, and it may vary depending on the services provided. As mentioned in the list of Main ATECO Codes for Catering above, in point twelve, it is explained that if you wish to offer beverages, you must obtain the ATECO code for lodging and catering services.<br>If your bar has no kitchen, then it will likely fall under the group: Bars and similar establishments without a kitchen.</p>
+      </section>
+
+      <section id="verify-code" class="margin-top-bottom-2">
+          <h2>Verify Your ATECO Code</h2>
+          <p>If you only want to verify the ATECO code, you can easily do so on the ateco.infocamere.it website by entering your code, even without periods. You can check for any changes to your code or if the registration has been completed correctly at this <a href="https://ateco.infocamere.it/ateq20/#!/ricercaAggiornamento" target="_blank" class="link"><strong>link.</strong></a></p>
+      </section>
+
+      <section id="faq">
+          <h2>FAQ</h2>
+          <p><strong>What is the difference between the ATECO code for a bar and for a restaurant?</strong><br>The ATECO code for a bar focuses on beverage service, while the restaurant code includes the provision of food and table service.</p>
+          <p><strong>Can I have multiple ATECO codes?</strong><br>Yes, it is possible to have multiple ATECO codes under a VAT number, for example, if you have a restaurant that also offers catering services.</p>
+          <p><strong>What happens if I choose the wrong ATECO code?</strong><br>Choosing the wrong ATECO code can have fiscal and regulatory consequences. Consult an expert if you are unsure about the correct code.</p>
+      </section>
+
+      <section id="conclusion">
+          <h2>Conclusion</h2>
+          <p>Choosing the correct ATECO code for your catering business is essential for regulatory compliance and tax management. We hope this guide has helped you understand the available options and make an informed decision. Always consult an expert if you have doubts to avoid future issues.</p>
+      </section>
+  </main>
+  `
+},
+
+
+
 
 ];
