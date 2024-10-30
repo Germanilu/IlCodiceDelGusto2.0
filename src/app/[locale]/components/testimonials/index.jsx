@@ -43,7 +43,7 @@ const Testimonials = () => {
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true }}>
-                <img id={review.id} src={review.src} className={`img-fluid ${review.id == 2 ? "bigger":""} `} alt="" onClick={() => setSelected(review)}/>
+                <img id={review.id} src={review.src} className={`img-fluid ${review.id == 2 ? "bigger":""} `} alt={review.alt} onClick={() => setSelected(review)}/>
               </motion.div>
             </div>
             )
