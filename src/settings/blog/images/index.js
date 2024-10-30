@@ -25,6 +25,9 @@ import ar8 from '../../../static/media/ar8.jpg';
 import forniture from '../../../static/media/forniture.jpg';
 import ateco from '../../../static/media/codice-ateco-guida.jpg';
 import codiceAteco from '../../../static/media/ateco.jpg';
+import aprireRistorante from '../../../static/media/aprire-rist.jpg';
+import costoRistorante from '../../../static/media/restaurant-cost.jpg';
+import ristoranteInterno from '../../../static/media/ristorante-interno.jpg';
 
  const blogImages = {
     qrCode,
@@ -53,7 +56,10 @@ import codiceAteco from '../../../static/media/ateco.jpg';
     ar8,
     forniture,
     ateco,
-    codiceAteco
+    codiceAteco,
+    aprireRistorante,
+    costoRistorante,
+    ristoranteInterno
 };
 
 export default blogImages;
