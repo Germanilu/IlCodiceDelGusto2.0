@@ -28,6 +28,9 @@ import codiceAteco from '../../../static/media/ateco.jpg';
 import aprireRistorante from '../../../static/media/aprire-rist.jpg';
 import costoRistorante from '../../../static/media/restaurant-cost.jpg';
 import ristoranteInterno from '../../../static/media/ristorante-interno.jpg';
+import cucinaProfessionale from '../../../static/media/cucina-professionale.jpg';
+import cucinaProf from '../../../static/media/cucina-prof.jpg';
+import cucina from '../../../static/media/cucina.jpg';
 
  const blogImages = {
     qrCode,
@@ -59,7 +62,10 @@ import ristoranteInterno from '../../../static/media/ristorante-interno.jpg';
     codiceAteco,
     aprireRistorante,
     costoRistorante,
-    ristoranteInterno
+    ristoranteInterno,
+    cucinaProfessionale,
+    cucinaProf,
+    cucina
 };
 
 export default blogImages;
