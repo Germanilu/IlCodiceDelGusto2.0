@@ -2,6 +2,7 @@ p {
   margin: .5rem 0rem;
 }
 
+
 .post-container {
   width: 85%;
   margin: 2rem auto;
@@ -35,9 +36,16 @@ p {
   }
   .bold{
     font-weight: bold;
+    &:hover{
+      color:#BB4C34;
+    }
   }
   .link{
     background-color:#BB4C34;
+    & strong:hover{
+      color:#BB4C34;
+      background-color: #0C0C0C;
+    }
   }
   .center-text{
     text-align: center;
