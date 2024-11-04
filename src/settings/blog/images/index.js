@@ -31,6 +31,13 @@ import ristoranteInterno from '../../../static/media/ristorante-interno.jpg';
 import cucinaProfessionale from '../../../static/media/cucina-professionale.jpg';
 import cucinaProf from '../../../static/media/cucina-prof.jpg';
 import cucina from '../../../static/media/cucina.jpg';
+import milanoSachi from '../../../static/media/milanosachi.jpg';
+import lubar from '../../../static/media/lubar.jpg';
+import risoelatte from '../../../static/media/risoelatte.jpg';
+import torre from '../../../static/media/torre.jpg';
+import atmosfera from '../../../static/media/ATMosfera.jpg';
+import lasagnafactory from '../../../static/media/lasagnafactory.jpg';
+import figlideifiori from '../../../static/media/figlideifiori.jpg';
 
  const blogImages = {
     qrCode,
@@ -65,7 +72,14 @@ import cucina from '../../../static/media/cucina.jpg';
     ristoranteInterno,
     cucinaProfessionale,
     cucinaProf,
-    cucina
+    cucina,
+    milanoSachi,
+    lubar,
+    risoelatte,
+    torre,
+    atmosfera,
+    lasagnafactory,
+    figlideifiori
 };
 
 export default blogImages;
