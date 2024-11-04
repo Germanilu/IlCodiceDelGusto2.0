@@ -1810,33 +1810,26 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
     </section>
 
   <section id="faq" class="margin-top-bottom-4">
-    <h2>Domande Frequenti</h2>
-    <ul>
-        <li>
-            <h3>Cos'è un ristorante a tema?</h3>
-            <p>Un ristorante a tema offre un'atmosfera unica ispirata a un argomento specifico, come un'epoca storica, un film o una cultura particolare. A Milano, ad esempio, puoi trovare locali che raccontano una storia e offrono esperienze che vanno oltre il semplice pasto.</p>
-        </li>
-        <li>
-            <h3>Cosa si intende per "ristoranti strani"?</h3>
-            <p>I ristoranti strani sono locali che offrono esperienze fuori dall'ordinario, sia per l'atmosfera che per il menu. Perfetti per chi desidera vivere una cena diversa dal solito, possono includere decorazioni eccentriche o piatti inusuali.</p>
-        </li>
-        <li>
-            <h3>Dove posso trovare un ristorante per una cena particolare a Milano?</h3>
-            <p>Milano offre una vasta scelta di ristoranti ideali per cene speciali, come tram-ristoranti o locali con giardini interni. Questi ambienti sono ideali per festeggiare eventi importanti e rendere la serata indimenticabile.</p>
-        </li>
-        <li>
-            <h3>Cosa caratterizza un ristorante "caratteristico" a Milano?</h3>
-            <p>Un ristorante caratteristico a Milano si distingue per l'attenzione alle tradizioni locali, con dettagli che richiamano la cultura e la storia della città. Questi luoghi offrono un'esperienza autentica sia per i turisti che per i milanesi.</p>
-        </li>
-        <li>
-            <h3>È possibile trovare ristoranti particolari fuori dal centro di Milano?</h3>
-            <p>Sì, anche nei dintorni di Milano e nella provincia ci sono ristoranti particolari. Perfetti per una gita fuori porta, offrono un'atmosfera diversa e piatti tipici, spesso in contesti naturali o storici.</p>
-        </li>
-        <li>
-            <h3>Come posso trovare un ristorante particolare vicino a me?</h3>
-            <p>Utilizzando servizi di geolocalizzazione online, è possibile individuare facilmente ristoranti particolari vicino a te, dai locali rustici a quelli più sofisticati, in ogni quartiere di Milano.</p>
-        </li>
-    </ul>
+    <h2 class="margin-top-bottom-2">Domande Frequenti</h2>
+    <dl>
+        <dt class="bold">Cos'è un ristorante a tema?</dt>
+        <dd class="margin-bottom-1">Un ristorante a tema offre un'atmosfera unica ispirata a un argomento specifico, come un'epoca storica, un film o una cultura particolare. A Milano, ad esempio, puoi trovare locali che raccontano una storia e offrono esperienze che vanno oltre il semplice pasto.</dd>
+        
+        <dt class="bold">Cosa si intende per "ristoranti strani"?</dt>
+        <dd class="margin-bottom-1">I ristoranti strani sono locali che offrono esperienze fuori dall'ordinario, sia per l'atmosfera che per il menu. Perfetti per chi desidera vivere una cena diversa dal solito, possono includere decorazioni eccentriche o piatti inusuali.</dd>
+        
+        <dt class="bold">Dove posso trovare un ristorante per una cena particolare a Milano?</dt>
+        <dd class="margin-bottom-1">Milano offre una vasta scelta di ristoranti ideali per cene speciali, come tram-ristoranti o locali con giardini interni. Questi ambienti sono ideali per festeggiare eventi importanti e rendere la serata indimenticabile.</dd>
+        
+        <dt class="bold">Cosa caratterizza un ristorante "caratteristico" a Milano?</dt>
+        <dd class="margin-bottom-1">Un ristorante caratteristico a Milano si distingue per l'attenzione alle tradizioni locali, con dettagli che richiamano la cultura e la storia della città. Questi luoghi offrono un'esperienza autentica sia per i turisti che per i milanesi.</dd>
+        
+        <dt class="bold">È possibile trovare ristoranti particolari fuori dal centro di Milano?</dt>
+        <dd class="margin-bottom-1">Sì, anche nei dintorni di Milano e nella provincia ci sono ristoranti particolari. Perfetti per una gita fuori porta, offrono un'atmosfera diversa e piatti tipici, spesso in contesti naturali o storici.</dd>
+        
+        <dt class="bold">Come posso trovare un ristorante particolare vicino a me?</dt>
+        <dd class="margin-bottom-1">Utilizzando servizi di geolocalizzazione online, è possibile individuare facilmente ristoranti particolari vicino a te, dai locali rustici a quelli più sofisticati, in ogni quartiere di Milano.</dd>
+    </dl>
 </section>
 
 </main>`

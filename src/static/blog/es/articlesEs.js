@@ -1552,6 +1552,127 @@ export const articlesEs = [
   <p>La elección de una cocina profesional es un aspecto fundamental en la creación de un restaurante o bar exitoso. Una cocina bien equipada no solo mejora la eficiencia y la calidad del servicio, sino que también contribuye a la satisfacción del cliente y a la rentabilidad del negocio. No dudes en invertir en una cocina de calidad y en adaptar cada elemento a las necesidades específicas de tu local.</p>
 </footer>
   `
+},
+{
+  id: 14,
+  slug: "ristoranti-particolari-milano",
+  img: settings.milanoSachi.src,
+  metaDescription: "Descubre los restaurantes más particulares en Milán y provincia. ¡Ideas originales para cenas únicas en locales característicos, con atmósferas y menús sorprendentes!",
+  metaKeywords: "lugares especiales para comer, restaurantes particulares Milán, restaurantes únicos, dónde comer en Milán lugares especiales, restaurantes particulares cerca de mí, cena especial en Milán, cenas únicas en Milán, restaurantes extraños Milán, restaurantes temáticos, restaurantes extraños cerca de mí, restaurantes extraños, restaurantes temáticos Milán, locales especiales cerca de mí, restaurantes originales Milán, restaurantes característicos, restaurante particular cerca de mí, restaurantes característicos Milán, ideas de restaurantes únicos, ideas para restaurantes especiales, restaurantes particulares Milán y provincia",
+  title: "Los Mejores Restaurantes Particulares en Milán y Alrededores: Experiencias Únicas e Inolvidables",
+  shortDescription: "Descubre los restaurantes más particulares en Milán y provincia. ¡Ideas originales para cenas únicas en locales característicos, con atmósferas y menús sorprendentes!",
+  text: `
+ <header>
+    <h1>Explora los Restaurantes y Locales Más Peculiares en Milán y Alrededores</h1>
+    <p>Milán es una ciudad conocida por su mezcla de modernidad y tradición, con una oferta culinaria que refleja su vivacidad y creatividad. Si estás buscando restaurantes peculiares donde vivir experiencias únicas, o quieres saber dónde encontrar lugares especiales para una cena diferente, estás en el lugar correcto. En esta guía, descubrirás algunos de los restaurantes más extraños y temáticos de Milán y su provincia, ideales para quienes quieren convertir cada salida en una verdadera experiencia.</p>
+</header>
+
+<img class="img-reduce margin-top-2" src=${settings.milanoSachi.src} alt="cocina de restaurante"/>    
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Índice</h2>
+    <ul>
+        <li><a href="#ristoranti-a-tema">Restaurantes Temáticos en Milán</a></li>
+        <li><a href="#ristoranti-strani">Restaurantes Extraños en Milán</a></li>
+        <li><a href="#cena-particolare">Cena Especial en Milán</a></li>
+        <li><a href="#ristoranti-caratteristici">Restaurantes Característicos en Milán</a></li>
+        <li><a href="#locali-particolari-vicino">Locales Peculiares Cerca de Mí</a></li>
+        <li><a href="#idee-ristoranti">Ideas para Restaurantes Especiales</a></li>
+        <li><a href="#ristoranti-provincia">Restaurantes Peculiares en Milán y Provincia</a></li>
+        <li><a href="#ristorante-vicino">Restaurante Peculiar Cerca de Mí</a></li>
+        <li><a href="#faq">Preguntas Frecuentes sobre Restaurantes Peculiares en Milán</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+        <h2>Restaurantes Temáticos en Milán</h2>
+        <img class="img-reduce margin-top-2" src=${settings.risoelatte.src} alt="risoelatte"/>    
+        <p>Si te gustan los lugares que cuentan una historia, un restaurante temático es la elección correcta. En Milán encontrarás locales inspirados en películas, épocas históricas y culturas lejanas. Estos restaurantes están diseñados para ofrecerte una aventura que va más allá de la comida, transformando la cena en un viaje experiencial.</p>
+        <ul>
+            <li class="margin-bottom-1"> <a href="https://www.lubar.it/" target="_blank" class="link"><strong>LùBar</strong></a> un lugar encantado que parece salido de un cuento de hadas, un bistrot muy simpático que combina la comida siciliana, el jazz y el arte. Un lugar único donde disfrutar platos especiales con un buen fondo de jazz. </li>
+            <li><a href="https://risoelatte.com/" target="_blank" class="link"><strong>RisoeLatte</strong></a> Una típica trattoria milanesa de los años 60. RisoeLatte se encuentra en la calle Camperio, ofrece una cocina generosa en porciones y rica en sabores tradicionales.</li>
+        </ul>
+    </section>
+
+    <section id="ristoranti-strani" class="margin-top-bottom-4">
+        <h2>Restaurantes Extraños en Milán</h2>
+        <img class="img-reduce margin-top-2" src=${settings.torre.src} alt="torre"/>    
+        <p>En Milán, los restaurantes extraños ofrecen platos y ambientes que no encuentras en ningún otro lugar. Estos locales apuestan por decoraciones fuera de lo común y menús inusuales, ideales para quienes quieren experimentar algo nuevo.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://dininginthedarkexperience.com/milano/" target="_blank" class="link"><strong>Dining in the Dark | Milán</strong></a> una experiencia en total oscuridad para centrarse solo en los sabores, ideal para quienes quieren descubrir la comida desde una perspectiva diferente.</li>
+            <li><a href="https://torreristorante.com/" target="_blank" class="link"><strong>Torre Ristorante</strong></a> Un restaurante en Milán con vistas impresionantes de toda la ciudad y una cocina extraordinaria. Recomiendo reservar la experiencia Chef's Table al nivel de una estrella Michelin con el chef Lorenzo Lunghi y definitivamente debes visitar el bar donde se exhiben dos obras de arte muy especiales de los años 50.</li>
+        </ul>
+    </section>
+
+    <section id="cena-particolare" class="margin-top-bottom-4">
+        <h2>Cena Especial en Milán</h2>
+        <img class="img-reduce margin-top-2" src=${settings.atmosfera.src} alt="ATMosfera"/> 
+        <p>Organizar una cena especial en Milán es una excelente idea para celebrar eventos importantes. Algunos locales ofrecen experiencias privadas, cenas a la luz de las velas o ambientes únicos que hacen memorable cualquier velada.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://atmosfera.atm.it/" target="_blank" class="link"><strong>ATMosfera</strong></a> un tranvía-restaurante que ofrece una cena romántica mientras recorre la ciudad. Una experiencia ÚNICA.</li>
+            <li><a href="https://www.instagram.com/a____svn" target="_blank" class="link"><strong>Asociación de Embutidos y Vinos Naturales</strong></a> La enoteca por excelencia en corso Garibaldi 41, con un hermoso jardín entre muros antiguos donde podrás probar vinos muy particulares acompañados de tablas de quesos y embutidos.</li>
+        </ul>
+    </section>
+
+    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+        <h2>Restaurantes Característicos en Milán</h2>
+        <img class="img-reduce margin-top-2" src=${settings.lubar.src} alt="lubar"/> 
+        <p>Los restaurantes característicos de Milán se distinguen por los detalles que evocan la cultura y tradiciones locales. Perfectos para los turistas y para los milaneses que quieren redescubrir sus raíces a través de los sabores.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://www.uovodiseppiamilano.it/" target="_blank" class="link"><strong>UovodiSeppiaMilano</strong></a> Déjate llevar por los sabores del chef Pino Cuttaia. Uovodiseppia, un local que te permite saborear las tradiciones locales de la "Milán bien".</li>
+            <li><a href="https://www.fourghetti.com/home-page/" target="_blank" class="link"><strong>Fourghetti</strong></a> Giuseppe Gasperoni, chef con estrella, ofrece una propuesta gastronómica peculiar: tres menús degustación de cinco platos en un ambiente íntimo y acogedor con el típico "mood" milanés en los Navigli.</li>
+        </ul>
+    </section>
+
+    <section id="locali-particolari-vicino" class="margin-top-bottom-4">
+        <h2>Locales Peculiares Cerca de Mí</h2>
+        <img class="img-reduce margin-top-2" src=${settings.atmosfera.src} alt="lasagnaFactory"/> 
+        <p>Aparte del centro, también los alrededores de Milán albergan locales peculiares y restaurantes característicos donde se puede disfrutar de un ambiente diferente. Perfectos para una escapada o para descubrir nuevos rincones de la ciudad.</p>
+        <ul>           
+            <li class="margin-bottom-1"><a href="https://www.instagram.com/il_pescetto/?next=%2Flajedet%2F&hl=es" target="_blank" class="link"><strong>Pescetto</strong></a> ¿Peculiar? Sí, este local ofrece la posibilidad de elegir directamente del mostrador el pescado que deseas comer, que será preparado al momento. ¡Una experiencia fresca!</li>
+            <li><a href="https://lasagnafactory.it/" target="_blank" class="link"><strong>LasagnaFactory</strong></a> en via Pavia 6/2, restaurante y delivery que propone lasañas para todos los gustos. Un lugar cerca de los Navigli que debes probar.</li>
+        </ul>
+    </section>
+
+    <section id="idee-ristoranti" class="margin-top-bottom-4">
+        <h2>Ideas para una Velada en el Restaurante</h2>
+        <p>Si deseas hacer especial una noche o celebrar una ocasión importante, aquí tienes algunos consejos para elegir el restaurante perfecto:</p>
+        <ul>
+            <li><strong>Elige un ambiente único:</strong> Busca restaurantes con ambientes peculiares, como jardines interiores, vistas panorámicas o iluminación sugerente para añadir un toque mágico a la velada.</li>
+            <li><strong>Opta por menús degustación:</strong> Algunos restaurantes ofrecen menús especiales que permiten explorar una variedad de sabores y platos, perfectos para ocasiones especiales.</li>
+            <li><strong>Considera la música y el entretenimiento:</strong> Algunos locales ofrecen música en vivo, espectáculos o temas especiales que pueden complementar la experiencia culinaria.</li>
+        </ul>
+    </section>
+
+    <section id="ristoranti-provincia" class="margin-top-bottom-4">
+        <h2>Restaurantes Peculiares en Milán y Provincia</h2>
+        <p>Si estás dispuesto a explorar más allá del centro de Milán, encontrarás una variedad de restaurantes peculiares que merecen la pena visitar. Desde casas de campo renovadas hasta locales temáticos, cada rincón ofrece una experiencia única.</p>
+        <ul>
+            <li><a href="https://ristorante-villa-crespi.business.site/" target="_blank" class="link"><strong>Villa Crespi</strong></a> Un hotel-restaurante en Orta San Giulio con una estrella Michelin y una atmósfera que te transportará a otro tiempo y lugar.</li>
+            <li><a href="https://www.trattoriailmulino.com/" target="_blank" class="link"><strong>Trattoria Il Mulino</strong></a> en Monza, con una historia que se remonta a 500 años y una cocina tradicional que satisface a los amantes de la buena comida.</li>
+        </ul>
+    </section>
+
+    <section id="ristorante-vicino" class="margin-top-bottom-4">
+        <h2>Restaurante Peculiar Cerca de Mí</h2>
+        <p>Encontrar un restaurante peculiar cerca de ti es más fácil de lo que crees. Gracias a las tecnologías modernas, puedes usar aplicaciones de geolocalización para descubrir lugares interesantes a pocos pasos de tu ubicación. Simplemente busca en Google o en aplicaciones de recomendaciones gastronómicas para descubrir nuevos locales y leer opiniones de otros clientes.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2>Preguntas Frecuentes sobre Restaurantes Peculiares en Milán</h2>
+        <dl class="margin-top-1">
+            <dt class="bold">¿Cuál es el restaurante más peculiar de Milán?</dt>
+            <dd class="margin-bottom-1">Es difícil elegir uno solo, ya que Milán cuenta con varios restaurantes peculiares, como ATMosfera o Dining in the Dark, cada uno con su encanto único.</dd>
+
+            <dt class="bold">¿Dónde puedo encontrar restaurantes temáticos en Milán?</dt>
+            <dd class="margin-bottom-1">En el centro de la ciudad y en los barrios más modernos como Navigli o Brera, es común encontrar restaurantes temáticos. Consulta las secciones específicas de esta guía para más detalles.</dd>
+
+            <dt class="bold">¿Los restaurantes peculiares son más caros?</dt>
+            <dd class="margin-bottom-1">No necesariamente. Hay opciones para todos los presupuestos, desde experiencias de lujo hasta locales más accesibles que ofrecen experiencias únicas.</dd>
+        </dl>
+    </section>
+</main>
+`
 }
 
 

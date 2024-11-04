@@ -1487,6 +1487,126 @@ export const articlesEn = [
     <p>Choosing the right professional kitchen is essential for the success of a business in the restaurant sector. Whether you run a bar, a restaurant, or want to bring chef-quality cooking to your home, a professional kitchen represents an investment that elevates the quality and efficiency of the work.</p>
 </section>
   `
+},
+{
+  id: 14,
+  slug: "ristoranti-particolari-milano",
+  img: settings.milanoSachi.src,
+  metaDescription: "Discover the most unique restaurants in Milan and its province! Original ideas for unique dinners in characteristic venues, with surprising atmospheres and menus.",
+  metaKeywords: "unique places to eat, unique restaurants Milan, particular restaurants, where to eat in Milan unique places, unique restaurants near me, special dinner in Milan, unique dinners in Milan, strange restaurants Milan, themed restaurants, strange restaurants near me, strange restaurants, themed restaurants Milan, unique venues near me, original restaurants Milan, characteristic restaurants, unique restaurant near me, characteristic restaurants Milan, unique restaurant ideas, special restaurant ideas, unique restaurants Milan and province",
+  title: "The Best Unique Restaurants in Milan and Surroundings: Unforgettable Experiences",
+  shortDescription: "Discover the most unique restaurants in Milan and its province! Original ideas for unique dinners in characteristic venues, with surprising atmospheres and menus.",  
+  text: `
+ <header>
+    <h1>Discover the Most Unique and Quirky Restaurants in Milan and Surroundings</h1>
+    <p>Milan is a city renowned for its blend of modernity and tradition, with a culinary scene that reflects its vibrancy and creativity. If you are looking for quirky restaurants where you can have unique experiences, or want to know where to find special spots for an extraordinary dinner, you are in the right place. In this guide, you will discover some of the strangest and most themed restaurants in Milan and its province, perfect for those who want to turn every outing into a true adventure.</p>
+</header>
+
+<img class="img-reduce margin-top-2" src=${settings.milanoSachi.src} alt="restaurant kitchen"/>    
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Table of Contents</h2>
+    <ul>
+        <li><a href="#themed-restaurants">Themed Restaurants in Milan</a></li>
+        <li><a href="#quirky-restaurants">Quirky Restaurants in Milan</a></li>
+        <li><a href="#special-dinner">Special Dinner in Milan</a></li>
+        <li><a href="#characteristic-restaurants">Characteristic Restaurants in Milan</a></li>
+        <li><a href="#quirky-places-nearby">Quirky Places Near Me</a></li>
+        <li><a href="#restaurant-ideas">Ideas for Special Restaurants</a></li>
+        <li><a href="#restaurants-province">Quirky Restaurants in Milan and Province</a></li>
+        <li><a href="#quirky-restaurant-nearby">Quirky Restaurant Near Me</a></li>
+        <li><a href="#faq">FAQs about Quirky Restaurants in Milan</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="themed-restaurants" class="margin-top-bottom-4">
+        <h2>Themed Restaurants in Milan</h2>
+        <img class="img-reduce margin-top-2" src=${settings.risoelatte.src} alt="risoelatte"/>    
+        <p>If you enjoy places that tell a story, a themed restaurant is the right choice. In Milan, you will find venues inspired by movies, historical eras, and distant cultures. These restaurants are designed to offer you an adventure that goes beyond food, turning dinner into an experiential journey.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://www.lubar.it/" target="_blank" class="link"><strong>LùBar</strong></a>, an enchanted place that feels like a fairy tale, a charming bistro combining Sicilian cuisine, jazz, and art. A unique spot to enjoy special dishes with a good jazz background.</li>
+            <li><a href="https://risoelatte.com/" target="_blank" class="link"><strong>RisoeLatte</strong></a>, a typical Milanese trattoria from the 1960s. Located on Camperio street, RisoeLatte offers generous portions of traditional flavors.</li>
+        </ul>
+    </section>
+
+    <section id="quirky-restaurants" class="margin-top-bottom-4">
+        <h2>Quirky Restaurants in Milan</h2>
+        <img class="img-reduce margin-top-2" src=${settings.torre.src} alt="torre"/>    
+        <p>In Milan, quirky restaurants offer dishes and atmospheres you won't find anywhere else. These places feature out-of-the-ordinary decorations and unusual menus, ideal for those wanting to experience something new.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://dininginthedarkexperience.com/milano/" target="_blank" class="link"><strong>Dining in the Dark | Milan</strong></a>, an experience in total darkness focusing solely on the flavors, perfect for discovering food from a different perspective.</li>
+            <li><a href="https://torreristorante.com/" target="_blank" class="link"><strong>Torre Ristorante</strong></a>, a restaurant in Milan with stunning city views and extraordinary cuisine. I recommend booking the Chef's Table experience at Michelin-star level with Chef Lorenzo Lunghi, and don’t miss the bar exhibiting two special 1950s artworks.</li>
+        </ul>
+    </section>
+
+    <section id="special-dinner" class="margin-top-bottom-4">
+        <h2>Special Dinner in Milan</h2>
+        <img class="img-reduce margin-top-2" src=${settings.atmosfera.src} alt="ATMosfera"/> 
+        <p>Organizing a special dinner in Milan is a great idea for celebrating important events. Some places offer private experiences, candlelit dinners, or unique environments that make any evening memorable.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://atmosfera.atm.it/" target="_blank" class="link"><strong>ATMosfera</strong></a>, a tram-restaurant offering a romantic dinner while touring the city. A UNIQUE experience.</li>
+            <li><a href="https://www.instagram.com/a____svn" target="_blank" class="link"><strong>Association of Cold Cuts and Natural Wines</strong></a>, the go-to wine bar in Corso Garibaldi 41, featuring a beautiful garden among ancient walls where you can sample unique wines paired with cheese and cold cut boards.</li>
+        </ul>
+    </section>
+
+    <section id="characteristic-restaurants" class="margin-top-bottom-4">
+        <h2>Characteristic Restaurants in Milan</h2>
+        <img class="img-reduce margin-top-2" src=${settings.lubar.src} alt="lubar"/> 
+        <p>Characteristic restaurants in Milan stand out for details that evoke local culture and traditions. They are perfect for tourists and Milanese alike wanting to rediscover their roots through flavors.</p>
+        <ul>
+            <li class="margin-bottom-1"><a href="https://www.uovodiseppiamilano.it/" target="_blank" class="link"><strong>UovodiSeppiaMilano</strong></a>, indulge in the flavors of Chef Pino Cuttaia. Uovodiseppia offers a chance to savor local traditions in Milan’s upscale ambiance.</li>
+            <li><a href="https://www.fourghetti.com/home-page/" target="_blank" class="link"><strong>Fourghetti</strong></a>, Michelin-starred Chef Giuseppe Gasperoni presents a unique gastronomic proposal: three five-course tasting menus in an intimate and cozy setting with the typical Milanese "mood" in Navigli.</li>
+        </ul>
+    </section>
+
+    <section id="quirky-places-nearby" class="margin-top-bottom-4">
+        <h2>Quirky Places Near Me</h2>
+        <img class="img-reduce margin-top-2" src=${settings.atmosfera.src} alt="lasagnaFactory"/> 
+        <p>Beyond the city center, Milan’s surroundings also host quirky spots and characteristic restaurants where you can enjoy a different atmosphere. Perfect for a getaway or to discover new corners of the city.</p>
+        <ul>           
+            <li class="margin-bottom-1"><a href="https://www.instagram.com/il_pescetto/?next=%2Flajedet%2F&hl=en" target="_blank" class="link"><strong>Pescetto</strong></a>, quirky indeed! This place allows you to choose your fish directly from the counter, which will be prepared on the spot. A fresh experience!</li>
+            <li><a href="https://lasagnafactory.it/" target="_blank" class="link"><strong>LasagnaFactory</strong></a>, located on Via Pavia 6/2, a restaurant and delivery service offering lasagnas for every taste. A must-try near the Navigli.</li>
+        </ul>
+    </section>
+
+    <section id="restaurant-ideas" class="margin-top-bottom-4">
+        <h2>Ideas for a Night Out at the Restaurant</h2>
+        <p>If you want to make a night special or celebrate an important occasion, here are some tips for choosing the perfect restaurant:</p>
+        <ul>
+            <li><strong>Choose a unique setting:</strong> Look for restaurants with unique settings like indoor gardens, panoramic views, or suggestive lighting to add a magical touch to the evening.</li>
+            <li><strong>Opt for tasting menus:</strong> Some restaurants offer special tasting menus that let you explore a variety of flavors and dishes, perfect for special occasions.</li>
+            <li><strong>Consider music and entertainment:</strong> Some venues feature live music, shows, or special themes that can complement the dining experience.</li>
+        </ul>
+    </section>
+
+    <section id="restaurants-province" class="margin-top-bottom-4">
+        <h2>Quirky Restaurants in Milan and Province</h2>
+        <p>If you're willing to explore beyond Milan’s center, you'll find a variety of quirky restaurants worth visiting. From renovated country houses to themed venues, each spot offers a unique experience.</p>
+        <ul>
+            <li><a href="https://ristorante-villa-crespi.business.site/" target="_blank" class="link"><strong>Villa Crespi</strong></a>, a Michelin-starred hotel-restaurant in Orta San Giulio with an atmosphere that transports you to another time and place.</li>
+            <li><a href="https://www.trattoriailmulino.com/" target="_blank" class="link"><strong>Trattoria Il Mulino</strong></a> in Monza, with a history dating back 500 years and traditional cuisine that satisfies gourmet lovers.</li>
+        </ul>
+    </section>
+
+    <section id="quirky-restaurant-nearby" class="margin-top-bottom-4">
+        <h2>Quirky Restaurant Near Me</h2>
+        <p>Finding a quirky restaurant near you is easier than you think. Thanks to modern technology, you can use geolocation apps to discover interesting places just a few steps away. Simply search on Google or dining recommendation apps to uncover new venues and read other customers' reviews.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-top-bottom-2">FAQs about Quirky Restaurants in Milan</h2>
+        <dl>
+            <dt  class="bold">What is the quirkiest restaurant in Milan?</dt>
+            <dd class="margin-bottom-1">It’s hard to choose just one as Milan hosts several quirky restaurants like ATMosfera or Dining in the Dark, each with its unique charm.</dd>
+
+            <dt  class="bold">Where can I find themed restaurants in Milan?</dt>
+            <dd class="margin-bottom-1">In the city center and modern neighborhoods like Navigli or Brera, it’s common to find themed restaurants. Check out the specific sections of this guide for more details.</dd>
+
+            <dt  class="bold">Are quirky restaurants more expensive?</dt>
+            <dd class="margin-bottom-1">Not necessarily. There are options for all budgets, from luxury experiences to more affordable venues offering unique experiences.</dd>
+        </dl>
+    </section>
+</main>`
 }
 
 
