@@ -1607,6 +1607,127 @@ export const articlesEn = [
         </dl>
     </section>
 </main>`
+},
+{
+  id: 15,
+  slug: "tavoli-sedie-per-il-tuo-ristorante",
+  img: settings.tavoliTerrazza.src,
+  metaDescription: "Discover how to choose the best chairs and tables for restaurants and bars. A practical guide on materials, design, dimensions, and tips for economical purchases from stock or liquidation sales to furnish your space functionally and warmly.",
+  metaKeywords: "wooden restaurant tables, restaurant tables, tables for taverns, restaurant table dimensions, restaurant table design, outdoor tables and chairs for bars, outdoor tables and chairs for restaurants, liquidation restaurant tables and chairs, stock tables and chairs for bars, chairs and tables, chairs and tables for sale, chairs for bars, indoor bar chairs, pub chairs, restaurant chairs on sale, chairs for catering, luxury restaurant chairs, chairs for pizzerias, restaurant armchairs, chairs for venues, restaurant chairs stock, bar furniture chairs and tables, chairs and tables for restaurants, low-price bar tables and chairs",
+  title: "How to Choose Chairs and Tables for Bars and Restaurants: A Complete Guide to Professional Furnishing | ilcodicedelgusto.com",
+  shortDescription: "Learn how to choose the best chairs and tables for restaurants and bars. A practical guide on materials, design, and dimensions.",  
+  text: `
+ <header>
+    <h1>How to Choose Tables and Chairs for Your Restaurant: A Complete Guide to Perfect Furnishing</h1>
+    <p>Choosing tables and chairs for restaurants correctly is essential to creating a welcoming atmosphere in your establishment. Tables and chairs are not only practical elements but also contribute to the overall design of the restaurant and influence the customer experience. <br><br> In this guide, we’ll explore how to select tables and chairs for restaurants, bars, pizzerias, and similar venues, considering factors such as design, materials, practicality, and sustainable choices from an economic perspective, advising you on how to purchase with an eye on both design and budget.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Navigation</h2>
+    <ul>
+        <li><a href="#ristoranti-a-tema">Why Is the Choice of Chairs and Tables Important?</a></li>
+        <li><a href="#ristoranti-strani">Wooden Restaurant Tables: Quality and Aesthetics</a></li>
+        <li><a href="#dimensioni">Restaurant Table Dimensions</a></li>
+        <li><a href="#cena-particolare">Outdoor Tables and Chairs for Bars and Restaurants</a></li>
+        <li><a href="#ristoranti-caratteristici">Chairs for Bars and Restaurants: Comfort and Design</a></li>
+        <li><a href="#tavoli-ristorante">Restaurant Chairs and Tables: Materials and Style</a></li>
+        <li><a href="#idee-ristoranti">Chairs for Bars: Functional and Stylish Choices</a></li>
+        <li><a href="#ristoranti-provincia">Restaurant Chairs and Tables from Liquidations: Savings Opportunities</a></li>
+        <li><a href="#ristorante-vicino">Conclusion</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<main>
+<img class="img margin-top-2" src=${settings.tavoliTerrazza.src} alt="chairs and tables terrace"/>    
+    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+        <h2>Why Is the Choice of Chairs and Tables Important?</h2>
+        <p>Investing in quality chairs and tables for bars or restaurants is a strategic decision that directly impacts the customer experience. <br><br> When a place is thoughtfully furnished with comfortable spaces, customers feel at ease and are encouraged to stay longer, increasing the likelihood of ordering more. Additionally, restaurant tables and chairs that reflect the style and concept of the establishment can become a true calling card, enhancing the image of the restaurant or bar and strengthening the brand.</p>
+    </section>
+
+    <section id="ristoranti-strani" class="margin-top-bottom-4">
+        <h2>Wooden Restaurant Tables: Quality and Aesthetics</h2>
+        <p>Wooden restaurant tables are a classic choice, valued for their natural aesthetic and durability. Wood easily adapts to different styles, from rustic to modern, making it versatile for any type of restaurant, tavern, or inn, whether in a mountain lodge or a beach “Chiringuito.”</p>
+        <p>The main features of wooden tables are as follows:</p>
+        <ul>
+            <li><strong>Natural aesthetic</strong></li>
+            <li><strong>Durability and versatility</strong></li>
+            <li><strong>Suitable for different styles</strong></li>
+            <li><strong>Ideal for rustic and informal environments</strong></li>
+        </ul>
+        <p>If you want to give a rustic touch to your establishment, wood will help create a warm, welcoming atmosphere, allowing your customers to have a more immersive and sensory experience.</p>
+    </section>
+
+       <section id="dimensioni" class="margin-top-bottom-4 img-left">
+       <div class="container-img">
+       <img class="img" src=${settings.dimensioniTavolo.src} alt="table dimensions"/>
+       </div>
+       <div>
+        <h2>Restaurant Table Dimensions</h2>
+        <p>Choosing the right table dimensions is essential for optimizing space. Tables of different sizes allow you to accommodate groups of various sizes, enhancing the venue's flexibility.</p>
+        <p>Consider also single-page restaurant tables, ideal for smaller spaces or fast-service areas like kiosks. If you want to know the correct dimensions for restaurant tables, check out a DesignItaly article that explains in detail the requirements sought by the Michelin guide <a class="link" href="https://designitaly.com/it/pages/come-calcolare-le-misure-del-tavolo">Link</a></p>
+</div>
+    </section>
+
+    <section id="cena-particolare" class="margin-top-bottom-4">
+        <h2>Outdoor Tables and Chairs for Bars and Restaurants</h2>
+        <p>For establishments offering outdoor seating, it is essential to choose weather-resistant tables and chairs for restaurants. Materials like aluminum, rattan, or treated plastic are ideal for outdoor use and require minimal maintenance.</p>
+        <img class="img-reduce margin-top-2" src=${settings.tavoliEsterno.src} alt="outdoor tables and chairs"/>
+    </section>
+    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+        <h2>Chairs for Bars and Restaurants: Comfort and Design</h2>
+        <p>Luxury restaurant chairs or bar chairs must combine aesthetics and comfort. Upholstered chairs, armchairs, and ergonomic models are excellent for upscale restaurants, while for indoor bars, a simple yet elegant design, such as pub or pizzeria chairs, is often preferred.</p>
+    </section>
+
+    <section id="tavoli-ristorante" class="margin-top-bottom-4 img-left">
+    <div class="container-img">
+    <img class="img" src=${settings.sediaColori.src} alt="restaurant tables"/>
+    </div>
+     <div>
+        <h2>Restaurant Chairs and Tables: Materials and Style</h2>
+        <p>When choosing restaurant chairs and tables, it’s essential to consider materials, style, and durability. Quality materials, such as solid wood, steel, or the latest plastic materials, are crucial to ensure durability and practicality.</p>
+        <p>For example, solid wood restaurant tables are a popular choice for their classic, inviting look, perfect for rustic and informal settings. On the other hand, steel or glass tables are better suited to modern or minimalist restaurants, where cleanliness and shine stand out.</p>
+     </div>
+        </section>
+
+
+    <section id="idee-ristoranti" class="margin-top-bottom-4">
+    <h2>Chairs for Bars: Functional and Stylish Choices</h2>
+    <p>In bars, chairs are essential for ensuring comfort and functionality. Bar chairs must be practical and durable to withstand daily use and meet the needs of a dynamic clientele.</p>
+    <p>High stools are typical for bar counters, while armchairs are better suited for low tables or lounge areas. For outdoor areas, stackable weather-resistant chairs are perfect for maximizing space and managing seating arrangements.</p>
+    <img class="img" src=${settings.internoSgabelli.src} alt="chairs for bars"/>
+
+    </section>
+
+    <section id="ristoranti-provincia" class="margin-top-bottom-4">
+        <h2>Restaurant Chairs and Tables from Liquidations: Savings Opportunities</h2>
+        <p>Purchasing restaurant chairs and tables from liquidations can be a valuable solution for venues that want to furnish without exceeding their budget.</p>
+        <p>Suppliers who sell furniture from closed or renovated restaurants often offer quality furniture at reduced prices.</p>
+        <p>Even if these items are second-hand, they may be in excellent condition and provide a professional look for the venue. This type of purchase is ideal for those seeking a unique design without spending large amounts.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">FAQ</h2>
+        <dl>
+            <dt class="bold"><strong>What are the best materials for restaurant tables?</strong></dt>
+            <dd class="margin-bottom-1">The most common materials for restaurant tables include wood, steel, and plastic materials. Wood is elegant and versatile, while steel is durable and easy to clean. For outdoor environments, treated plastic and rattan are highly recommended.</dd>
+            <dt class="bold"><strong>How can I choose the right table dimensions for my restaurant?</strong></dt>
+            <dd class="margin-bottom-1">The ideal size depends on the available space and the type of clientele. Rectangular tables are suitable for groups, while square ones are more practical for couples or small groups.</dd>
+            <dt class="bold"><strong>Is it better to buy tables and chairs in stock or new?</strong></dt>
+            <dd class="margin-bottom-1">It depends on the budget and the needs of the venue. Stock items can be cost-effective, while new items offer more choice and customization.</dd>
+            <dt class="bold"><strong>What are the most suitable chairs for a bar?</strong></dt>
+            <dd class="margin-bottom-1">Indoor bar chairs should be comfortable and durable. For outdoor bars, chairs in weather-resistant materials like aluminum or rattan are recommended.</dd>
+            <dt class="bold"><strong>Where can I find second-hand tables and chairs for restaurants?</strong></dt>
+            <dd class="margin-bottom-1">Second-hand furniture can be found in online marketplaces, specialized stores, or at liquidation sales of closed establishments.</dd>
+        </dl>
+    </section>
+
+     <section id="ristorante-vicino" class="margin-top-bottom-4">
+        <h2>Conclusion</h2>
+        <p>Choosing the right furniture for a restaurant, bar, or trattoria is never easy. Carefully selecting chairs and tables for your establishment helps create a functional and aesthetically pleasing space that reflects the style of the restaurant and attracts customers. If you need help attracting more customers, don’t hesitate to contact us—we’ll help you improve your online presence! <br> Visit <a class="link" href="http://www.ilcodicedelgusto.com">www.ilcodicedelgusto.com</a></p>
+    <img class="img" src=${settings.tavoloBotteLegno.src} alt="Sedie e Tavoli"/>
+        </section>
+</main>`
 }
 
 
