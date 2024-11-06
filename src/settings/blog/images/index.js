@@ -38,6 +38,13 @@ import torre from '../../../static/media/torre.jpg';
 import atmosfera from '../../../static/media/ATMosfera.jpg';
 import lasagnafactory from '../../../static/media/lasagnafactory.jpg';
 import figlideifiori from '../../../static/media/figlideifiori.jpg';
+import tavoliTerrazza from '../../../static/media/tavoli-terrazza.jpg';
+import dimensioniTavolo from '../../../static/media/dimensioni-tavolo.jpg';
+import internoSgabelli from '../../../static/media/interno-sgabelli.jpg';
+import tavoliEsterno from '../../../static/media/tavoli-esterno.jpg';
+import sediaColori from '../../../static/media/sedia-colori.jpg';
+import tavoloBotteLegno from '../../../static/media/tavolo-botte-legno.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -79,7 +86,13 @@ import figlideifiori from '../../../static/media/figlideifiori.jpg';
     torre,
     atmosfera,
     lasagnafactory,
-    figlideifiori
+    figlideifiori,
+    tavoliTerrazza,
+    dimensioniTavolo,
+    internoSgabelli,
+    tavoliEsterno,
+    sediaColori,
+    tavoloBotteLegno
 };
 
 export default blogImages;

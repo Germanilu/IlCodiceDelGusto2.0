@@ -1833,6 +1833,129 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
 </section>
 
 </main>`
+},
+{
+  id: 15,
+  slug: "tavoli-sedie-per-il-tuo-ristorante",
+  img: settings.tavoliTerrazza.src,
+  metaDescription: "Scopri come scegliere i migliori sedie e tavoli per ristoranti e bar. Guida pratica su materiali, design, dimensioni e consigli per acquisti economici in stock o da fallimenti per arredare il tuo locale in modo funzionale e accogliente.",
+  metaKeywords: "tavoli da ristorante in legno, tavoli ristorante, tavoli per osteria, tavolo ristorante dimensioni, tavoli ristorante design, tavoli e sedie bar da esterno, tavoli e sedie da esterno per ristoranti, tavoli e sedie ristorante fallimenti, tavoli e sedie per bar in stock, sedie e tavoli, vendita sedie e tavoli, sedie per bar, sedie per bar interno, sedie per pub, sedie per ristoranti in offerta, sedie per ristorazione, sedie per ristoranti di lusso, sedie per pizzeria, poltroncine da ristorante, sedie per locali, sedie per ristoranti stock, arredamento bar sedie e tavoli, sedie e tavoli per ristorante, tavoli e sedie bar prezzi bassi",
+  title: "Come Scegliere Sedie e Tavoli per Bar e Ristoranti: Guida Completa all'Arredamento Professionale | ilcodicedelgusto.com",
+  shortDescription: "Scopri come scegliere i migliori sedie e tavoli per ristoranti e bar. Guida pratica su materiali, design e dimensioni.",
+  text: `
+ <header>
+    <h1>Come Scegliere Tavoli e Sedie per il Tuo Ristorante: Guida Completa per l'Arredamento Perfetto</h1>
+    <p>Scegliere correttamente tavoli e sedie per ristoranti è fondamentale per creare un’atmosfera accogliente nel proprio locale. Tavoli e sedie non sono solo elementi pratici, ma contribuiscono anche al design generale del ristorante e influenzano l'esperienza dei clienti. <br><br> In questa guida, esploreremo come selezionare tavoli e sedie per ristoranti, bar, pizzerie e locali simili, tenendo conto di fattori come design, materiali, praticità, e come fare scelte sostenibili anche dal punto di vista economico consigliandoti come acquistare con un occhio al design e uno al budget.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Navigazione</h2>
+    <ul>
+        <li><a href="#ristoranti-a-tema">Perché la Scelta delle Sedie e dei Tavoli è Importante?</a></li>
+        <li><a href="#ristoranti-strani">Tavoli per Ristoranti in Legno: Qualità e Estetica</a></li>
+        <li><a href="#dimensioni">Dimensioni dei Tavoli per Ristorante</a></li>
+        <li><a href="#cena-particolare">Tavoli e Sedie da Esterno per Bar e Ristoranti</a></li>
+        <li><a href="#ristoranti-caratteristici">Sedie per Bar e Ristoranti: Comfort e Design</a></li>
+        <li><a href="#tavoli-ristorante">Sedie e Tavoli per Ristoranti: Materiali e Stile</a></li>
+        <li><a href="#idee-ristoranti">Sedie per Bar: Scelte Funzionali e di Design</a></li>
+        <li><a href="#ristoranti-provincia">Sedie e Tavoli Ristorante Fallimenti: Opportunità di Risparmio</a></li>
+        <li><a href="#ristorante-vicino">Conclusione</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<main>
+<img class="img  margin-top-2" src=${settings.tavoliTerrazza.src} alt="sedie e tavoli terrazza"/>    
+    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+        <h2>Perché la Scelta delle Sedie e dei Tavoli è Importante?</h2>
+        <p>Investire in sedie e tavoli per bar o ristoranti di qualità è una decisione strategica che influisce direttamente sull’esperienza del cliente. <br><br> Quando un locale è arredato con cura e ha spazi confortevoli, i clienti si sentono a proprio agio e sono incentivati a trattenersi più a lungo, aumentando la possibilità di consumare di più. Inoltre, i tavoli e sedie per ristorazione che rispecchiano lo stile e il concept del locale possono diventare un vero e proprio biglietto da visita, migliorando l’immagine del ristorante o bar e rafforzando il brand.</p>
+    </section>
+
+    <section id="ristoranti-strani" class="margin-top-bottom-4">
+        <h2>Tavoli per Ristoranti in Legno: Qualità e Estetica</h2>
+        <p>I tavoli da ristorante in legno sono una scelta classica, apprezzata per la loro estetica naturale e la durabilità. Il legno si adatta facilmente a stili diversi, dal rustico al moderno, rendendolo versatile per qualsiasi tipo di ristorante, osteria o trattoria, baita in montagna o “Chiringuito” sulla spiaggia.</p>
+        <p>Le principali caratteristiche dei tavoli in legno sono le seguenti:</p>
+        <ul>
+            <li><strong>Estetica naturale</strong></li>
+            <li><strong>Durabilità e versatilità</strong></li>
+            <li><strong>Adatto a diversi stili</strong></li>
+            <li><strong>Ideale per ambienti rustici e informali</strong></li>
+        </ul>
+        <p>Sicuramente se vorrai dare un tocco rustico al tuo locale il legno saprà aiutarti a rendere l'atmosfera accogliente, caolorosa e aiuterà a far vivere un'esperienza molto più avvolgente e sensoriale ai tuoi clienti.</p>
+    </section>
+
+       <section id="dimensioni" class="margin-top-bottom-4  img-left">
+       <div class="container-img">
+       <img class="img" src=${settings.dimensioniTavolo.src} alt="dimensioni tavolo"/>
+       </div>
+       <div>
+        <h2>Dimensioni dei Tavoli per Ristorante</h2>
+        <p>La scelta delle dimensioni dei tavoli è fondamentale per ottimizzare lo spazio. Tavoli di dimensioni diverse permettono di servire gruppi di varie dimensioni, migliorando la flessibilità del locale.</p>
+        <p> Considera anche le dimensioni dei tavoli ristorante a pagina singola, ideali per spazi più piccoli o per aree di servizio rapide come i chioschi. Se vuoi sapere le corrette dimensioni per i tavoli da ristorante, ti invito a leggere un’articolo di DesignItaly, che spiega nel dettaglio i requisiti ricercati dalla guida Michelin <a class="link" href="https://designitaly.com/it/pages/come-calcolare-le-misure-del-tavolo">Link</a></p>
+</div>
+    </section>
+
+    <section id="cena-particolare" class="margin-top-bottom-4">
+        <h2>Tavoli e Sedie da Esterno per Bar e Ristoranti</h2>
+        <p>Per i locali che offrono posti a sedere all’aperto, è essenziale scegliere tavoli e sedie da esterno per ristoranti resistenti alle intemperie. I materiali come alluminio, rattan o plastica trattata sono ideali per l’outdoor e non richiedono manutenzione eccessiva.</p>
+        <img class="img-reduce margin-top-2" src=${settings.tavoliEsterno.src} alt="tavoli e sedie da esterno"/>
+    </section>
+    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+        <h2>Sedie per Bar e Ristoranti: Comfort e Design</h2>
+        <p>Le sedie per ristoranti di lusso o per bar devono combinare estetica e comfort. Sedie imbottite, poltroncine e modelli ergonomici sono ottimi per ristoranti raffinati, mentre per i bar interni è spesso preferibile un design semplice ma elegante, come le sedie per pub o per pizzeria.</p>
+    </section>
+
+    <section id="tavoli-ristorante" class="margin-top-bottom-4 img-left">
+    <div class="container-img">
+    <img class="img" src=${settings.sediaColori.src} alt="tavoli ristorante"/>
+    </div>
+     <div>
+        <h2>Sedie e Tavoli per Ristoranti: Materiali e Stile</h2>
+        <p>Quando si scelgono delle sedie e tavoli per ristorante, è importante considerare materiali, stile e resistenza. I materiali di qualità, come legno massello, acciaio o materiali plastici di ultima generazione, sono essenziali per garantire durabilità e praticità.</p>
+        <p>Ad esempio, i tavoli del ristorante in legno massiccio sono una scelta sempre popolare per il loro aspetto classico e accogliente, perfetti per ambienti rustici e informali. Al contrario, i tavoli in acciaio o vetro sono più adatti a ristoranti moderni o minimalisti, dove pulizia e lucentezza sono elementi di spicco.</p>
+     </div>
+        </section>
+
+
+    <section id="idee-ristoranti" class="margin-top-bottom-4">
+    <h2>Sedie per Bar: Scelte Funzionali e di Design</h2>
+    <p>Nel caso dei bar, le sedie sono un elemento essenziale per garantire comfort e funzionalità. Le sedie per bar devono essere pratiche e resistenti per far fronte all'uso quotidiano e alle esigenze di una clientela dinamica.</p>
+    <p>Le sedie alte sono tipiche per i banconi, mentre per tavoli bassi o aree lounge sono più indicate le poltroncine. Per gli ambienti esterni, le sedie impilabili in materiali resistenti alle intemperie sono la scelta perfetta per massimizzare lo spazio e facilitare la gestione dei posti a sedere.</p>
+    <img class="img" src=${settings.internoSgabelli.src} alt="sedie per bar"/>
+
+    </section>
+
+    <section id="ristoranti-provincia" class="margin-top-bottom-4">
+        <h2>Sedie e Tavoli Ristorante Fallimenti: Opportunità di Risparmio</h2>
+        <p>Acquistare sedie e tavoli ristorante da fallimenti può rappresentare una valida soluzione per i locali che desiderano arredare senza sforare il budget.</p>
+        <p>I fornitori che vendono mobili provenienti da ristoranti chiusi o rinnovati offrono spesso arredi di qualità a prezzi ridotti.</p>
+        <p>Anche se si tratta di articoli di seconda mano, possono essere in ottimo stato e fornire un aspetto professionale al locale. Questo tipo di acquisto è ideale per chi cerca un design particolare senza spendere cifre elevate.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">FAQ</h2>
+        <dl>
+            <dt class="bold"><strong>Quali sono i materiali migliori per i tavoli da ristorante?</strong></dt>
+            <dd class="margin-bottom-1">I materiali più comuni per i tavoli da ristorante includono legno, acciaio, e materiali plastici. Il legno è elegante e versatile, mentre l'acciaio è resistente e facile da pulire. Per ambienti esterni, plastica trattata e rattan sono altamente consigliati.</dd>
+            <dt class="bold"><strong>Come posso scegliere le dimensioni giuste per i tavoli del mio ristorante?</strong></dt>
+            <dd class="margin-bottom-1">La dimensione ideale dipende dallo spazio disponibile e dal tipo di clientela. Tavoli rettangolari sono adatti per gruppi, mentre quelli quadrati sono più pratici per coppie o piccoli gruppi.</dd>
+            <dt class="bold"><strong>È meglio acquistare tavoli e sedie in stock o nuovi?</strong></dt>
+            <dd class="margin-bottom-1">Dipende dal budget e dalle esigenze del locale. Gli articoli in stock possono essere convenienti, mentre quelli nuovi offrono maggiore scelta e personalizzazione.</dd>
+            <dt class="bold"><strong>Quali sono le sedie più adatte per un bar?</strong></dt>
+            <dd class="margin-bottom-1">Le sedie per bar interno devono essere comode e resistenti. Per i bar all'aperto, invece, consigliamo sedie in materiali resistenti alle intemperie come alluminio o rattan.</dd>
+            <dt class="bold"><strong>Dove posso trovare sedie e tavoli per ristoranti a prezzi bassi?</strong></dt>
+            <dd class="margin-bottom-1">Molti fornitori online offrono tavoli e sedie bar prezzi bassi durante saldi o svendite. Anche l’acquisto da stock di fallimenti come spiegato prima in questo articolo può essere una buona opzione.</dd>
+            <dt class="bold"><strong>Come posso mantenere l'arredamento del mio ristorante in buone condizioni?</strong></dt>
+            <dd class="margin-bottom-1">La manutenzione varia a seconda del materiale. Il legno richiede un trattamento periodico, mentre i materiali plastici e in acciaio possono essere facilmente puliti con detergenti non abrasivi.</dd>
+        </dl>
+    </section>
+
+    <section id="ristorante-vicino" class="margin-top-bottom-4">
+        <h2>Conclusione</h2>
+        <p>La scelta dell’arredamento giusto per un ristorante, un bar o una trattoria non è mai semplice. Valutare attentamente sedie e tavoli per il proprio locale permette di creare uno spazio funzionale ed esteticamente piacevole, che rispecchia lo stile del ristorante e attira clienti. Nel caso in cui tu abbia bisogno di un’aiuto nell’attirare clienti non dubitare e contattaci subito, ti aiuteremo a migliorare la tua presenza online! Visita <a class="link" href="http://www.ilcodicedelgusto.com">www.ilcodicedelgusto.com</a></p>
+    <img class="img" src=${settings.tavoloBotteLegno.src} alt="Sedie e Tavoli"/>
+        </section>
+</main>`
 }
 
 ];
