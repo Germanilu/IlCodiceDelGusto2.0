@@ -1673,6 +1673,142 @@ export const articlesEs = [
     </section>
 </main>
 `
+},
+{
+  id: 15,
+  slug: "tavoli-sedie-per-il-tuo-ristorante",
+  img: settings.tavoliTerrazza.src,
+  metaDescription: "Descubre cómo elegir las mejores sillas y mesas para restaurantes y bares. Guía práctica sobre materiales, diseño, dimensiones y consejos para compras económicas en stock o en liquidación para amueblar tu local de manera funcional y acogedora.",
+  metaKeywords: "mesas de restaurante de madera, mesas restaurante, mesas para ostería, mesa restaurante dimensiones, mesas restaurante diseño, mesas y sillas para bar de exterior, mesas y sillas de exterior para restaurantes, mesas y sillas de restaurante liquidaciones, mesas y sillas para bar en stock, sillas y mesas, venta de sillas y mesas, sillas para bar, sillas para bar interior, sillas para pub, sillas para restaurantes en oferta, sillas para restauración, sillas para restaurantes de lujo, sillas para pizzerías, sillones de restaurante, sillas para locales, sillas para restaurantes en stock, mobiliario bar sillas y mesas, sillas y mesas para restaurante, mesas y sillas bar precios bajos",
+  title: "Cómo Elegir Sillas y Mesas para Bar y Restaurantes: Guía Completa de Mobiliario Profesional | ilcodicedelgusto.com",
+  shortDescription: "Descubre cómo elegir las mejores sillas y mesas para restaurantes y bares. Guía práctica sobre materiales, diseño y dimensiones.",
+  text: `
+<header>
+    <h1>Cómo Elegir Mesas y Sillas para tu Restaurante: Guía Completa para el Mobiliario Perfecto</h1>
+    <p>Elegir correctamente mesas y sillas para restaurantes es fundamental para crear un ambiente acogedor en el local. Las mesas y sillas no son solo elementos prácticos, sino que también contribuyen al diseño general del restaurante e influyen en la experiencia de los clientes. <br><br> En esta guía, exploraremos cómo seleccionar mesas y sillas para restaurantes, bares, pizzerías y locales similares, teniendo en cuenta factores como diseño, materiales, practicidad, y cómo hacer elecciones sostenibles también desde el punto de vista económico, aconsejándote cómo comprar con un ojo en el diseño y otro en el presupuesto.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Navegación</h2>
+    <ul>
+        <li><a href="#ristoranti-a-tema">¿Por Qué es Importante la Elección de Sillas y Mesas?</a></li>
+        <li><a href="#ristoranti-strani">Mesas de Madera para Restaurantes: Calidad y Estética</a></li>
+        <li><a href="#dimensioni">Dimensiones de Mesas para Restaurante</a></li>
+        <li><a href="#cena-particolare">Mesas y Sillas para Exteriores de Bares y Restaurantes</a></li>
+        <li><a href="#ristoranti-caratteristici">Sillas para Bares y Restaurantes: Comodidad y Diseño</a></li>
+        <li><a href="#tavoli-ristorante">Sillas y Mesas para Restaurantes: Materiales y Estilo</a></li>
+        <li><a href="#idee-ristoranti">Sillas para Bares: Opciones Funcionales y de Diseño</a></li>
+        <li><a href="#ristoranti-provincia">Mesas y Sillas de Restaurante de Ocasión: Oportunidades de Ahorro</a></li>
+        <li><a href="#ristorante-vicino">Conclusión</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<main>
+<img class="img  margin-top-2" src=${settings.tavoliTerrazza.src} alt="sillas y mesas terraza"/>    
+    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+        <h2>¿Por Qué es Importante la Elección de Sillas y Mesas?</h2>
+        <p>Invertir en sillas y mesas de calidad para bares o restaurantes es una decisión estratégica que influye directamente en la experiencia del cliente. <br><br> Cuando un local está bien amueblado y cuenta con espacios cómodos, los clientes se sienten a gusto y se animan a quedarse más tiempo, aumentando la posibilidad de consumir más. Además, las mesas y sillas para restauración que reflejan el estilo y el concepto del local pueden convertirse en una verdadera carta de presentación, mejorando la imagen del restaurante o bar y reforzando la marca.</p>
+    </section>
+
+    <section id="ristoranti-strani" class="margin-top-bottom-4">
+        <h2>Mesas de Madera para Restaurantes: Calidad y Estética</h2>
+        <p>Las mesas de madera para restaurante son una elección clásica, apreciadas por su estética natural y durabilidad. La madera se adapta fácilmente a diferentes estilos, desde rústico hasta moderno, haciéndola versátil para cualquier tipo de restaurante, taberna o trattoria, cabaña en la montaña o “Chiringuito” en la playa.</p>
+        <p>Las principales características de las mesas de madera son las siguientes:</p>
+        <ul>
+            <li><strong>Estética natural</strong></li>
+            <li><strong>Durabilidad y versatilidad</strong></li>
+            <li><strong>Adecuado para diferentes estilos</strong></li>
+            <li><strong>Ideal para ambientes rústicos e informales</strong></li>
+        </ul>
+        <p>Si quieres darle un toque rústico a tu local, la madera ayudará a crear un ambiente acogedor, cálido y proporcionará a tus clientes una experiencia mucho más envolvente y sensorial.</p>
+    </section>
+
+    <section id="dimensioni" class="margin-top-bottom-4  img-left">
+       <div class="container-img">
+       <img class="img" src=${settings.dimensioniTavolo.src} alt="dimensiones mesa"/>
+       </div>
+       <div>
+        <h2>Dimensiones de Mesas para Restaurante</h2>
+        <p>La elección de las dimensiones de las mesas es fundamental para optimizar el espacio. Mesas de diferentes tamaños permiten atender a grupos de diversos tamaños, mejorando la flexibilidad del local.</p>
+        <p> Considera también las mesas de una sola página, ideales para espacios más pequeños o para áreas de servicio rápido como kioscos. Si deseas conocer las dimensiones correctas para las mesas de restaurante, te invito a leer un artículo de DesignItaly, que explica en detalle los requisitos exigidos por la guía Michelin <a class="link" href="https://designitaly.com/it/pages/come-calcolare-le-misure-del-tavolo">Link</a></p>
+       </div>
+    </section>
+
+    <section id="cena-particolare" class="margin-top-bottom-4">
+        <h2>Mesas y Sillas para Exteriores de Bares y Restaurantes</h2>
+        <p>Para los locales que ofrecen asientos al aire libre, es esencial elegir mesas y sillas para exteriores resistentes a las inclemencias del tiempo. Materiales como aluminio, ratán o plástico tratado son ideales para el exterior y no requieren demasiado mantenimiento.</p>
+        <img class="img-reduce margin-top-2" src=${settings.tavoliEsterno.src} alt="mesas y sillas para exteriores"/>
+    </section>
+    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+        <h2>Sillas para Bares y Restaurantes: Comodidad y Diseño</h2>
+        <p>Las sillas para restaurantes de lujo o bares deben combinar estética y comodidad. Sillas acolchadas, butacas y modelos ergonómicos son excelentes para restaurantes elegantes, mientras que para los bares interiores suele preferirse un diseño simple pero elegante, como las sillas para pub o pizzería.</p>
+    </section>
+
+    <section id="tavoli-ristorante" class="margin-top-bottom-4 img-left">
+    <div class="container-img">
+    <img class="img" src=${settings.sediaColori.src} alt="mesas restaurante"/>
+    </div>
+     <div>
+        <h2>Sillas y Mesas para Restaurantes: Materiales y Estilo</h2>
+        <p>Al elegir sillas y mesas para un restaurante, es importante considerar materiales, estilo y resistencia. Los materiales de calidad, como madera maciza, acero o materiales plásticos de última generación, son esenciales para garantizar durabilidad y practicidad.</p>
+        <p>Por ejemplo, las mesas de restaurante de madera maciza son una elección popular por su aspecto clásico y acogedor, perfectas para ambientes rústicos e informales. En cambio, las mesas de acero o vidrio son más adecuadas para restaurantes modernos o minimalistas, donde limpieza y brillo son elementos destacados.</p>
+     </div>
+    </section>
+
+    <section id="idee-ristoranti" class="margin-top-bottom-4">
+    <h2>Sillas para Bares: Opciones Funcionales y de Diseño</h2>
+    <p>En el caso de los bares, las sillas son un elemento esencial para garantizar comodidad y funcionalidad. Las sillas para bares deben ser prácticas y resistentes para soportar el uso diario y las necesidades de una clientela dinámica.</p>
+    <p>Las sillas altas son típicas para las barras, mientras que para mesas bajas o áreas lounge son más indicadas las butacas. Para ambientes exteriores, las sillas apilables en materiales resistentes a la intemperie son la elección perfecta para maximizar el espacio y facilitar la gestión de los asientos.</p>
+    <img class="img" src=${settings.internoSgabelli.src} alt="sillas para bar"/>
+
+    </section>
+
+    <section id="ristoranti-provincia" class="margin-top-bottom-4">
+        <h2>Mesas y Sillas de Restaurante de Ocasión: Oportunidades de Ahorro</h2>
+        <p>Comprar mesas y sillas de restaurante de ocasión puede representar una solución válida para los locales que desean amueblar sin superar el presupuesto.</p>
+        <p>Los proveedores que venden mobiliario procedente de restaurantes cerrados o renovados suelen ofrecer muebles de calidad a precios reducidos.</p>
+        <p>Aunque se trate de artículos de segunda mano, pueden estar en excelente estado y proporcionar un aspecto profesional al local. Este tipo de compra es ideal para quienes buscan un diseño particular sin gastar grandes sumas.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">FAQ</h2>
+        <dl >
+            <dt class="bold"><strong>¿Cuáles son los mejores materiales para las mesas de restaurante?</strong></dt>
+            <dd class="margin-bottom-1">Los materiales más comunes para las mesas de restaurante incluyen madera, acero y materiales plásticos. La madera es elegante y versátil, mientras que el acero es resistente y fácil de limpiar. Para exteriores, se recomiendan plásticos tratados y ratán.</dd>
+        </dl>
+        <dl>
+            <dt class="bold"><strong>¿Cómo puedo elegir las dimensiones adecuadas para las mesas de mi restaurante?</strong></dt>
+            <dd class="margin-bottom-1">El tamaño ideal depende del espacio disponible y del tipo de clientela. Las mesas rectangulares son adecuadas para grupos, mientras que las cuadradas son más prácticas para parejas o grupos pequeños.</dd>
+        </dl>
+
+        <dl>
+            <dt class="bold"><strong>¿Es mejor comprar mesas y sillas en stock o nuevas?</strong></dt>
+            <dd class="margin-bottom-1">Depende del presupuesto y las necesidades del local. Los artículos en stock pueden ser convenientes, mientras que los nuevos ofrecen más opciones y personalización.</dd>
+        </dl>
+        <dl>
+            <dt class="bold"><strong>¿Cuáles son las sillas más adecuadas para un bar?</strong></dt>
+            <dd class="margin-bottom-1">Las sillas para bares interiores deben ser cómodas y resistentes. Para bares exteriores, recomendamos sillas fabricadas con materiales resistentes a la intemperie, como aluminio o ratán.</dd>
+        </dl>
+        <dl>
+            <dt class="bold"><strong>¿Dónde puedo encontrar mesas y sillas para restaurantes a precios bajos?</strong></dt>
+            <dd class="margin-bottom-1">Muchos proveedores en línea ofrecen mesas y sillas para bares a precios bajos durante rebajas o liquidaciones. También la compra en stock de cierres de negocios, como se explicó anteriormente en este artículo, puede ser una buena opción.</dd>
+        </dl>
+        <dl>
+            <dt class="bold"><strong>¿Cómo puedo mantener el mobiliario de mi restaurante en buen estado?</strong></dt>
+            <dd class="margin-bottom-1">El mantenimiento varía según el material. La madera requiere un tratamiento periódico, mientras que los materiales plásticos y de acero se pueden limpiar fácilmente con detergentes no abrasivos.</dd>
+        </dl>
+    </section>
+
+</main>
+
+  <section id="ristorante-vicino" class="margin-top-bottom-4">
+        <h2>Conclusión</h2>
+        <p> La elección del mobiliario adecuado para un restaurante, un bar o una trattoria nunca es sencilla. Evaluar cuidadosamente las sillas y mesas para tu local permite crear un espacio funcional y estéticamente agradable, que refleje el estilo del restaurante y atraiga a los clientes. Si necesitas ayuda para atraer clientes, no dudes en contactarnos de inmediato. ¡Te ayudaremos a mejorar tu presencia en línea! Visita <a class="link" href="http://www.ilcodicedelgusto.com">www.ilcodicedelgusto.com</a></p>
+    <img class="img" src=${settings.tavoloBotteLegno.src} alt="Sedie e Tavoli"/>
+        </section>
+        
+        `
 }
 
 
