@@ -45,6 +45,12 @@ import tavoliEsterno from '../../../static/media/tavoli-esterno.jpg';
 import sediaColori from '../../../static/media/sedia-colori.jpg';
 import tavoloBotteLegno from '../../../static/media/tavolo-botte-legno.jpg';
 
+import fornelliDonna from '../../../static/media/fornelli-donna.jpg';
+import fornelliFuochi from '../../../static/media/fornelli-fuochi.jpg';
+import fornelliInduzione from '../../../static/media/fornelli-induzione.jpg';
+import fornelliPiastraFuoco from '../../../static/media/fornelli-piastra-fuoco.jpg';
+import fornelliPiastre from '../../../static/media/fornelli-piastre.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -92,7 +98,12 @@ import tavoloBotteLegno from '../../../static/media/tavolo-botte-legno.jpg';
     internoSgabelli,
     tavoliEsterno,
     sediaColori,
-    tavoloBotteLegno
+    tavoloBotteLegno,
+    fornelliDonna,
+    fornelliFuochi,
+    fornelliInduzione,
+    fornelliPiastraFuoco,
+    fornelliPiastre
 };
 
 export default blogImages;
