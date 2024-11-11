@@ -1809,6 +1809,119 @@ export const articlesEs = [
         </section>
         
         `
+},
+{
+  id: 16,
+  slug: "cucina-fornelli",
+  img: settings.fornelliPiastraFuoco.src,
+  metaDescription: "Descubre cómo elegir los mejores fogones profesionales para casa y restaurantes. Desde opciones a gas hasta placas de inducción, guía completa sobre el rendimiento, diseño y ventajas de los fogones de cocina profesionales",
+  metaKeywords: "cocina fogones, fogones de cocina, placas de cocina profesionales para casa, placa de cocina profesional, placa de cocina industrial, fogón profesional",
+  title: "Placas de Cocina Profesionales para Casa y Restaurantes: Guía para Elegir los Mejores Fogones | IlCodiceDelGusto.com",
+  shortDescription: "Descubre cómo elegir los mejores fogones profesionales para casa y restaurantes.",
+  text: `
+<header>
+    <h1>Cómo Elegir las Mejores Placas de Cocina Profesionales para Casa y Restaurantes</h1>
+    <p>En la cocina profesional, los fogones representan el corazón de cada preparación. Quienes gestionan un restaurante, una trattoria o incluso un bar saben bien cuán importante es confiar en <strong>placas de cocina profesionales</strong> para garantizar platos de calidad. Ya sea una estufa profesional para un entorno de trabajo o una placa de cocina profesional para el hogar, elegir el modelo correcto es fundamental para satisfacer las propias necesidades de cocina.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Índice del Artículo</h2>
+    <ul>
+        <li><a href="#por-que-elegir">¿Por Qué Elegir una Placa de Cocina Profesional?</a></li>
+        <li><a href="#tipos">Tipos de Placas de Cocina Profesionales</a></li>
+        <li><a href="#fogones-gas">Fogones a Gas</a></li>
+        <li><a href="#placas-induccion">Placas de Cocina de Inducción</a></li>
+        <li><a href="#placas-radiantes">Placas de Cocina Radiantes</a></li>
+        <li><a href="#ventajas-fogones">Ventajas de las Estufas Profesionales en Casa</a></li>
+        <li><a href="#como-elegir">Cómo Elegir la Placa de Cocina Perfecta para tu Negocio</a></li>
+        <li><a href="#placa-cocina-profesional">Una Placa de Cocina Profesional para Casa y Restaurante</a></li>
+        <li><a href="#faq">Preguntas Frecuentes (FAQ)</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="por-que-elegir" class="margin-top-bottom-4">
+        <img class="img margin-top-2" src=${settings.fornelliPiastraFuoco.src} alt="fogones-placa-fuego"/> 
+        <h2>¿Por Qué Elegir una Placa de Cocina Profesional?</h2>
+        <p>Una placa de cocina profesional ofrece numerosas ventajas en comparación con los modelos estándar:</p>
+        <ul>
+            <li><strong>Potencia y precisión:</strong> cocinar en fogones de tipo profesional permite un control perfecto de la temperatura.</li>
+            <li><strong>Materiales resistentes:</strong> las placas de cocina profesionales para el hogar y uso comercial están diseñadas para soportar un uso intenso, esencial en actividades de restauración.</li>
+            <li><strong>Diseño práctico:</strong> las rejillas robustas y los quemadores optimizados mejoran el acceso a las ollas y facilitan la preparación de los platos.</li>
+        </ul>
+    </section>
+
+    <section id="tipos" class="margin-top-bottom-4">
+        <h2>Tipos de Placas de Cocina Profesionales</h2>
+        <p>Existen diferentes modelos de <strong>placas de cocina profesionales.</strong> Aquí están las opciones principales.</p>
+        <ul>
+            <li><strong>Fogones a Gas:</strong> En una cocina, los fogones a gas son los preferidos por los profesionales porque permiten regular la llama de manera precisa. Son perfectos tanto para un uso intenso en restaurantes como para el hogar.</li>
+            <li><strong>Placas de Inducción:</strong> Las placas de inducción profesionales son seguras y optimizan la dispersión del calor. Son ideales para quienes desean una solución moderna y limpia, perfectas para cocinas domésticas de diseño contemporáneo.</li>
+            <li><strong>Placas Radiantes:</strong> Las placas radiantes ofrecen una excelente conducción del calor y un diseño minimalista. Pueden ser una opción versátil de placa profesional para bares o locales con espacios más reducidos.</li>
+        </ul>
+    </section>
+
+    <section id="fogones-gas" class="margin-top-bottom-4">
+        <h2>Fogones a Gas</h2>
+        <img class="img-reduce margin-top-2" src=${settings.fornelliFuochi.src} alt="fogones-gas"/> 
+        <p>En una <strong>cocina, los fogones</strong> a gas son los preferidos por los profesionales, porque permiten regular la llama de forma precisa. Son perfectos tanto para un uso intenso en restaurantes como para el hogar, permitiendo la posibilidad de flambear o reducir deliciosos platos.</p>
+    </section>
+
+    <section id="placas-induccion" class="margin-top-bottom-4">
+        <h2>Placas de Cocina de Inducción</h2>
+         <img class="img-reduce margin-top-2" src=${settings.fornelliInduzione.src} alt="placas-inducción"/> 
+        <p>Las placas de inducción profesionales son seguras y optimizan la dispersión del calor. Este tipo de placa es ideal para quienes desean una solución moderna y limpia, ideal también para cocinas domésticas de diseño contemporáneo.</p>
+    </section>
+
+    <section id="placas-radiantes" class="margin-top-bottom-4">
+        <h2>Placas de Cocina Radiantes</h2>
+         <img class="img-reduce margin-top-2" src=${settings.fornelliPiastre.src} alt="placas-radiantes"/> 
+        <p>Las placas radiantes son menos comunes, pero ofrecen excelente conducción de calor y un diseño minimalista. Pueden ser una opción versátil para bares o locales con espacios reducidos.</p>
+    </section>
+
+    <section id="ventajas-fogones" class="margin-top-bottom-4">
+        <h2>Ventajas de las Estufas Profesionales en Casa</h2>
+        <p>Cada vez más personas eligen instalar <strong>estufas profesionales</strong> o <strong>fogones de cocina</strong> de calidad, profesionales y seguros para su cocina en casa. Entre las principales ventajas:</p>
+        <ul>
+            <li><strong>Altas prestaciones:</strong>la potencia de las placas profesionales permite cocciones rápidas y uniformes.</li>
+            <li><strong>Estética de chef:</strong>aportan un aspecto profesional a la cocina, haciendo el ambiente más acogedor y funcional.</li>
+            <li><strong>Larga duración:</strong>las estufas profesionales están diseñadas para durar, gracias a materiales robustos que garantizan su resistencia.</li>
+        </ul>
+        <p>Como punto en contra, los fogones a gas son más difíciles de limpiar en comparación con una placa de inducción, aunque con un poco de esfuerzo vale la pena el resultado.</p>
+    </section>
+
+    <section id="como-elegir" class="margin-top-bottom-4">
+        <h2>Cómo Elegir la Placa de Cocina Perfecta para tu Negocio</h2>
+        <p>Si gestionas un negocio de restauración, evalúa el tamaño de la cocina, los volúmenes de trabajo y el tipo de platos que deseas preparar.</p>
+        <p>Una placa industrial a gas podría ser ideal para una cocina que requiere máxima versatilidad, mientras que una <strong>estufa profesional</strong> de inducción es más adecuada para una cocina moderna que necesita seguridad y reducción de calor ambiental.</p>
+        <img class="img margin-top-2" src=${settings.fornelliDonna.src} alt="cocina-estufas"/> 
+    </section>
+
+    <section id="placa-cocina-profesional" class="margin-top-bottom-4">
+        <h2>Una Placa de Cocina Profesional para Casa y Restaurante</h2>
+        <p>Una placa de cocina profesional es una elección ideal tanto para restaurantes como para el hogar, mejorando la calidad y el placer de la experiencia culinaria.</p>
+        <p>Recuerda que, además de la cocina, es importante tener en cuenta la estética del local y su diseño para atraer clientes. Nosotros en CodicedelGusto sabemos bien cómo decorar el local; lee este artículo sobre <a class="link" href="http://ilcodicedelgusto.com/blog/tavoli-sedie-per-il-tuo-ristorante">Cómo Elegir Mesas y Sillas para tu Restaurante</a>.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-top-bottom-2">Preguntas Frecuentes (FAQ)</h2>
+        <dl>
+            <dt><strong>¿Cuál es la diferencia entre una placa de cocina profesional y una estándar?</strong></dt>
+            <dd class="margin-bottom-1">Una <strong>placa de cocina profesional</strong> ofrece mayor potencia y resistencia, ya que está diseñada para el uso intensivo en cocinas de bares y restaurantes.</dd>
+            <dt><strong>¿Puedo instalar una placa de cocina profesional en casa?</strong></dt>
+            <dd class="margin-bottom-1">Absolutamente sí. Muchas personas eligen <strong>placas de cocina profesionales para casa</strong> para tener prestaciones de chef en casa, siempre que el sistema eléctrico o de gas sea adecuado.</dd>
+            <dt><strong>¿Cuáles son las ventajas de los fogones a gas frente a los de inducción?</strong></dt>
+            <dd class="margin-bottom-1">Los <strong>fogones de cocina</strong> a gas permiten un control inmediato de la llama, mientras que las placas de inducción son más seguras y reducen la dispersión de calor.</dd>
+            <dt><strong>¿Cuál es la mejor placa de cocina industrial para un restaurante?</strong></dt>
+            <dd class="margin-bottom-1">Depende del tipo de cocina. Una <strong>placa de cocina industrial a gas</strong> ofrece gran flexibilidad, pero para necesidades específicas una estufa de inducción garantiza seguridad y precisión.</dd>
+            <dt><strong>¿Las estufas profesionales son costosas?</strong></dt>
+            <dd class="margin-bottom-1">Una estufa profesional requiere una inversión mayor en comparación con los modelos domésticos, pero ofrece mejores prestaciones y durabilidad.</dd>
+            <dt><strong>¿Cómo puedo organizar mejor mi cocina con una placa de cocina profesional?</strong></dt>
+            <dd class="margin-bottom-1">Consultar a un experto en diseño de cocinas puede ayudarte a optimizar el espacio y elegir la <strong>placa de cocina profesional</strong> más adecuada a tus necesidades, mejorando la eficiencia y comodidad.</dd>
+        </dl>
+    </section>
+</main>
+  `
 }
 
 
