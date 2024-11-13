@@ -2069,6 +2069,101 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         </dl>
     </section>
 </main>`
+},
+{
+  id: 17,
+  slug: "modulo-per-scia",
+  img: settings.sciaMain.src,
+  metaDescription: "Scopri tutto sulla SCIA per somministrazione di alimenti e bevande: documenti necessari, durata, costi e modulo compilabile. Guida pratica per avviare la tua attività di ristorazione!",
+  metaKeywords: "documenti per la scia,modello per scia,modulo per scia,esempio scia compilata,quanto dura una scia,scia quanto costa,scia somministrazione alimenti e bevande",
+  title: "SCIA per Ristorazione: Documenti, Costi e Guida Completa 2024 | IlCodiceDelGusto.com",
+  shortDescription: "Scopri tutto sulla SCIA per somministrazione di alimenti e bevande: documenti necessari, durata, costi e modulo compilabile.",
+  text: `
+<header>
+    <h1>Come Preparare la SCIA per la Somministrazione di Alimenti e Bevande</h1>
+    <p>Per aprire un’attività di ristorazione o somministrazione di alimenti e bevande, è essenziale preparare e presentare la SCIA (Segnalazione Certificata di Inizio Attività). Questa procedura è obbligatoria per locali come bar, ristoranti, trattorie e altri esercizi simili. In questo articolo ti guideremo passo passo su come compilare e presentare la SCIA, quali documenti sono necessari, i costi e la durata di validità di questo procedimento.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Indice</h2>
+    <ul>
+        <li><a href="#cosa-e-la-scia">Cos'è la SCIA e a Cosa Serve?</a></li>
+        <li><a href="#documenti-scia">Documenti Necessari per la SCIA</a></li>
+        <li><a href="#modulo-scia">Modello e Modulo per la SCIA</a></li>
+        <li><a href="#scia-costo">SCIA quanto costa?</a></li>
+        <li><a href="#scia-durata">Quanto Dura una SCIA?</a></li>
+        <li><a href="#scia-alimenti">La SCIA per la Somministrazione di Alimenti e Bevande</a></li>
+        <li><a href="#faq">FAQ sulla SCIA per la Ristorazione</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="cosa-e-la-scia" class="margin-top-bottom-4">
+    <img class="img-reduce  margin-top-2" src=${settings.sciaMain.src} alt="modello-scia"/> 
+        <h2>Cos'è la SCIA e a Cosa Serve?</h2>
+        <p>La SCIA è una dichiarazione che permette di avviare immediatamente un'attività commerciale senza attendere autorizzazioni specifiche. È necessaria per chiunque voglia aprire un locale dove si somministrano alimenti e bevande, come bar, ristoranti e trattorie. La presentazione della SCIA consente agli enti locali di verificare la conformità alle normative vigenti in tema di sicurezza, igiene e sanità pubblica.</p>
+    </section>
+
+    <section id="documenti-scia" class="margin-top-bottom-4">
+        <h2>Documenti Necessari per la SCIA</h2>
+        <p>Per la corretta compilazione della SCIA è importante preparare una serie di documenti che attestino la conformità dell'attività alle normative. Di seguito trovi un elenco dei principali documenti richiesti:</p>
+        <ul>
+            <li><strong>Documento di identità del richiedente e codice fiscale.</strong></li>
+            <li><strong>Visura camerale dell’impresa, se già registrata.</strong></li>
+            <li><strong>Certificato di idoneità per locali destinati alla somministrazione di alimenti e bevande.</strong></li>
+            <li><strong>Planimetria del locale, completa di tutti i dettagli.</strong></li>
+            <li><strong>Attestato di idoneità sanitaria.</strong></li>
+        </ul>
+        <p>Preparare questi documenti in anticipo faciliterà la compilazione della SCIA e l'invio corretto della documentazione necessaria.</p>
+    </section>
+
+    <section id="modulo-scia" class="margin-top-bottom-4">
+        <h2>Modello e Modulo per la SCIA</h2>
+        <p>Per presentare la SCIA, è necessario compilare un modulo specifico, reperibile presso gli uffici comunali o sul sito web del Comune di riferimento. Il modello per la SCIA può variare a seconda della città o regione, ma in generale richiede informazioni sull’attività, sui proprietari e sul locale.</p>
+        <p>Esistono inoltre esempi di SCIA già compilata disponibili online, che possono aiutarti a comprendere meglio le informazioni da inserire. Un esempio SCIA compilata può facilitare il processo, soprattutto per chi è alle prime armi con queste pratiche amministrative.</p>
+        <p>Se vuoi scaricare il modello per scia puoi farlo a questo <a class="link" href="https://www.pa-online.it/GisMasterWebClienti/TD0000/GisMasterData/Web/SU/Doc/Modello_2032.pdf">LINK </a></p>
+    </section>
+
+    <section id="scia-costo" class="margin-top-bottom-4">
+        <h2>SCIA quanto costa?</h2>
+        <p>Uno degli aspetti più rilevanti per chi avvia un’attività è comprendere quanto costa la SCIA. Il costo varia in base alla città e alle specifiche esigenze dell'attività. Generalmente, il costo può comprendere:</p>
+        <ul>
+            <li><strong>Imposta di bollo (intorno ai 16 euro).</strong></li>
+            <li><strong>Diritti di segreteria comunale, che variano da comune a comune.</strong></li>
+        </ul>
+        <p>Alcuni comuni possono richiedere ulteriori pagamenti, quindi è consigliato verificare con l’amministrazione locale per avere una stima precisa dei costi, il tutto si aggirerà sui 50€ totali.</p>
+    </section>
+
+    <section id="scia-durata" class="margin-top-bottom-4">
+    <img class="img-reduce  margin-top-2" src=${settings.documentsScia.src} alt="documenti-per-la-scia"/> 
+        <h2>Quanto Dura una SCIA?</h2>
+        <p>La SCIA non ha una durata prestabilita. Una volta approvata, permette di proseguire l’attività a tempo indeterminato, purché siano rispettate tutte le normative di settore e siano effettuate eventuali comunicazioni di aggiornamento in caso di modifiche significative all'attività (come cambio di sede o di gestione). Se ci sono violazioni delle normative, le autorità possono intervenire, richiedendo una nuova SCIA o sospendendo l'attività.</p>
+    </section>
+
+    <section id="scia-alimenti" class="margin-top-bottom-4">
+        <h2>La SCIA per la Somministrazione di Alimenti e Bevande</h2>
+        <p>Quando si parla di SCIA, la somministrazione di alimenti e bevande è un tipo specifico di segnalazione destinata a chi gestisce locali che servono cibo e bevande. Essa è essenziale per garantire che l'attività rispetti le regole di sicurezza e igiene richieste nel settore alimentare.</p>
+        <p>Presentare correttamente la SCIA permette ai proprietari di locali di essere in regola sin dall'inizio e di poter operare senza ritardi o problemi legali.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2  class="margin-top-bottom-2">FAQ sulla SCIA per la Ristorazione</h2>
+        <dl>
+            <dt><strong>Quali documenti servono per presentare la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">È necessario avere un documento d’identità, codice fiscale, visura camerale, planimetria del locale e attestato sanitario.</dd>
+            <dt><strong>Dove posso trovare un modello per la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">Il modulo per la SCIA è disponibile presso il Comune o online sul sito del Comune di riferimento.</dd>
+            <dt><strong>Quanto costa la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">I costi possono variare, ma generalmente includono una tassa di bollo e diritti di segreteria. Il costo medio è di circa 30-50 euro.</dd>
+            <dt><strong>Quanto dura una SCIA?</strong></dt>
+            <dd class="margin-bottom-1">La SCIA non ha una scadenza, ma è valida fino a che non ci sono cambiamenti significativi nell’attività.</dd>
+            <dt><strong>Come compilare la SCIA per la somministrazione di alimenti e bevande?</strong></dt>
+            <dd class="margin-bottom-1">Compilare la SCIA richiede informazioni dettagliate sull’attività e sui responsabili. Un esempio di SCIA compilata può essere utile come guida.</dd>
+            <dt><strong>A cosa serve la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">La SCIA permette di avviare subito l’attività, consentendo al Comune di verificare la conformità dell’impresa alle normative di sicurezza e igiene.</dd>
+        </dl>
+    </section>
+</main>`
 }
 
 ];

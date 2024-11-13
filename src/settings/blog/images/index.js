@@ -50,6 +50,8 @@ import fornelliFuochi from '../../../static/media/fornelli-fuochi.jpg';
 import fornelliInduzione from '../../../static/media/fornelli-induzione.jpg';
 import fornelliPiastraFuoco from '../../../static/media/fornelli-piastra-fuoco.jpg';
 import fornelliPiastre from '../../../static/media/fornelli-piastre.jpg';
+import documentsScia from '../../../static/media/documents-scia.jpg';
+import sciaMain from '../../../static/media/scia-main-img.png';
 
 
  const blogImages = {
@@ -103,7 +105,9 @@ import fornelliPiastre from '../../../static/media/fornelli-piastre.jpg';
     fornelliFuochi,
     fornelliInduzione,
     fornelliPiastraFuoco,
-    fornelliPiastre
+    fornelliPiastre,
+    documentsScia,
+    sciaMain
 };
 
 export default blogImages;
