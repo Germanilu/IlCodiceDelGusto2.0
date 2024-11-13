@@ -1922,6 +1922,102 @@ export const articlesEs = [
     </section>
 </main>
   `
+},
+{
+  id: 17,
+  slug: "modulo-per-scia",
+  img: settings.sciaMain.src,
+  metaDescription: "Descubre todo sobre la SCIA para la administración de alimentos y bebidas: documentos necesarios, duración, costos y formulario para completar. Guía práctica para iniciar tu negocio de restauración.",
+  metaKeywords: "documentos para la scia, modelo para scia, formulario para scia, ejemplo de scia completada, cuánto dura una scia, cuánto cuesta una scia, scia administración de alimentos y bebidas",
+  title: "SCIA para Restauración: Documentos, Costos y Guía Completa 2024 | IlCodiceDelGusto.com",
+  shortDescription: "Descubre todo sobre la SCIA para administración de alimentos y bebidas: documentos necesarios, duración, costos y formulario para completar.",  
+  text: `
+<header>
+    <h1>Cómo Preparar la SCIA para la Distribución de Alimentos y Bebidas</h1>
+    <p>Para abrir una actividad de restauración o distribución de alimentos y bebidas, es esencial preparar y presentar la SCIA (Declaración Certificada de Inicio de Actividad). Este procedimiento es obligatorio para locales como bares, restaurantes, tascas y otros establecimientos similares. En este artículo te guiaremos paso a paso sobre cómo completar y presentar la SCIA, qué documentos son necesarios, los costos y la duración de validez de este procedimiento.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Índice</h2>
+    <ul>
+        <li><a href="#cosa-es-la-scia">¿Qué es la SCIA y para qué sirve?</a></li>
+        <li><a href="#documentos-scia">Documentos Necesarios para la SCIA</a></li>
+        <li><a href="#formulario-scia">Modelo y Formulario para la SCIA</a></li>
+        <li><a href="#scia-costo">¿Cuánto cuesta la SCIA?</a></li>
+        <li><a href="#scia-duracion">¿Cuál es la Duración de la SCIA?</a></li>
+        <li><a href="#scia-alimentos">La SCIA para la Distribución de Alimentos y Bebidas</a></li>
+        <li><a href="#faq">Preguntas Frecuentes sobre la SCIA para Restauración</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="cosa-es-la-scia" class="margin-top-bottom-4">
+    <img class="img-reduce margin-top-2" src=${settings.sciaMain.src} alt="modelo-scia"/>
+        <h2>¿Qué es la SCIA y para qué sirve?</h2>
+        <p>La SCIA es una declaración que permite iniciar inmediatamente una actividad comercial sin esperar autorizaciones específicas. Es necesaria para quienes deseen abrir un local donde se distribuyan alimentos y bebidas, como bares, restaurantes y tascas. La presentación de la SCIA permite a las autoridades locales verificar el cumplimiento de las normativas vigentes en cuanto a seguridad, higiene y salud pública.</p>
+    </section>
+
+    <section id="documentos-scia" class="margin-top-bottom-4">
+        <h2>Documentos Necesarios para la SCIA</h2>
+        <p>Para completar correctamente la SCIA, es importante preparar una serie de documentos que acrediten el cumplimiento de las normativas de la actividad. A continuación, se presenta una lista de los documentos principales requeridos:</p>
+        <ul>
+            <li><strong>Documento de identidad del solicitante y código fiscal.</strong></li>
+            <li><strong>Registro mercantil de la empresa, si ya está registrada.</strong></li>
+            <li><strong>Certificado de idoneidad para locales destinados a la distribución de alimentos y bebidas.</strong></li>
+            <li><strong>Plano del local, completo con todos los detalles.</strong></li>
+            <li><strong>Certificado de idoneidad sanitaria.</strong></li>
+        </ul>
+        <p>Preparar estos documentos con anticipación facilitará la cumplimentación de la SCIA y el envío correcto de la documentación necesaria.</p>
+    </section>
+
+    <section id="formulario-scia" class="margin-top-bottom-4">
+        <h2>Modelo y Formulario para la SCIA</h2>
+        <p>Para presentar la SCIA, es necesario completar un formulario específico, disponible en las oficinas municipales o en el sitio web del Ayuntamiento correspondiente. El modelo de la SCIA puede variar según la ciudad o región, pero generalmente requiere información sobre la actividad, los propietarios y el local.</p>
+        <p>Además, existen ejemplos de SCIA ya completados disponibles en línea, que pueden ayudarte a comprender mejor la información a incluir. Un ejemplo de SCIA completado puede facilitar el proceso, especialmente para quienes son nuevos en estos trámites administrativos.</p>
+        <p>Si deseas descargar el modelo de SCIA puedes hacerlo en este <a class="link" href="https://www.pa-online.it/GisMasterWebClienti/TD0000/GisMasterData/Web/SU/Doc/Modello_2032.pdf">ENLACE</a></p>
+    </section>
+
+    <section id="scia-costo" class="margin-top-bottom-4">
+        <h2>¿Cuánto cuesta la SCIA?</h2>
+        <p>Uno de los aspectos más importantes para quienes inician una actividad es comprender cuánto cuesta la SCIA. El costo varía según la ciudad y las necesidades específicas de la actividad. Generalmente, el costo puede incluir:</p>
+        <ul>
+            <li><strong>Impuesto de timbre (alrededor de 16 euros).</strong></li>
+            <li><strong>Derechos de secretaría municipal, que varían de un municipio a otro.</strong></li>
+        </ul>
+        <p>Algunos municipios pueden requerir pagos adicionales, por lo que se recomienda verificar con la administración local para obtener una estimación precisa de los costos, que suele rondar los 50 € en total.</p>
+    </section>
+
+    <section id="scia-duracion" class="margin-top-bottom-4">
+    <img class="img-reduce margin-top-2" src=${settings.documentsScia.src} alt="documentos-para-la-scia"/>
+        <h2>¿Cuál es la Duración de la SCIA?</h2>
+        <p>La SCIA no tiene una duración preestablecida. Una vez aprobada, permite continuar la actividad de manera indefinida, siempre que se cumplan todas las normativas del sector y se realicen las actualizaciones necesarias en caso de cambios significativos en la actividad (como un cambio de ubicación o de administración). Si se producen violaciones de las normativas, las autoridades pueden intervenir, exigiendo una nueva SCIA o suspendiendo la actividad.</p>
+    </section>
+
+    <section id="scia-alimentos" class="margin-top-bottom-4">
+        <h2>La SCIA para la Distribución de Alimentos y Bebidas</h2>
+        <p>Cuando se habla de SCIA, la distribución de alimentos y bebidas es un tipo específico de notificación destinada a quienes gestionan locales que sirven comida y bebidas. Es esencial para garantizar que la actividad cumpla con las normas de seguridad e higiene requeridas en el sector alimentario.</p>
+        <p>Presentar correctamente la SCIA permite a los propietarios de locales estar en regla desde el inicio y poder operar sin retrasos ni problemas legales.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-top-bottom-2">Preguntas Frecuentes sobre la SCIA para Restauración</h2>
+        <dl>
+            <dt><strong>¿Qué documentos se necesitan para presentar la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">Es necesario contar con un documento de identidad, código fiscal, registro mercantil, plano del local y certificado sanitario.</dd>
+            <dt><strong>¿Dónde puedo encontrar un modelo para la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">El formulario para la SCIA está disponible en el Ayuntamiento o en línea en el sitio del Ayuntamiento correspondiente.</dd>
+            <dt><strong>¿Cuánto cuesta la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">Los costos pueden variar, pero generalmente incluyen un impuesto de timbre y derechos de secretaría. El costo promedio es de aproximadamente 30-50 euros.</dd>
+            <dt><strong>¿Cuál es la duración de la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">La SCIA no tiene vencimiento, pero es válida hasta que no haya cambios significativos en la actividad.</dd>
+            <dt><strong>¿Cómo completar la SCIA para la distribución de alimentos y bebidas?</strong></dt>
+            <dd class="margin-bottom-1">Completar la SCIA requiere información detallada sobre la actividad y los responsables. Un ejemplo de SCIA completado puede ser útil como guía.</dd>
+            <dt><strong>¿Para qué sirve la SCIA?</strong></dt>
+            <dd class="margin-bottom-1">La SCIA permite iniciar la actividad de inmediato, permitiendo que el Ayuntamiento verifique el cumplimiento de las normativas de seguridad e higiene.</dd>
+        </dl>
+    </section>
+</main>
+  `
 }
 
 

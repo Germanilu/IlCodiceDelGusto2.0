@@ -1841,6 +1841,103 @@ export const articlesEn = [
     </section>
 </main>
   `
+},
+{
+  id: 17,
+  slug: "modulo-per-scia",
+  img: settings.sciaMain.src,
+  metaDescription: "Discover everything about the SCIA for food and beverage service: required documents, duration, costs, and fillable form. Practical guide to start your restaurant business!",
+  metaKeywords: "SCIA documents, SCIA form template, SCIA form, completed SCIA example, SCIA duration, SCIA cost, SCIA food and beverage service",
+  title: "SCIA for Restaurants: Documents, Costs, and Complete Guide 2024 | IlCodiceDelGusto.com",
+  shortDescription: "Discover everything about the SCIA for food and beverage service: required documents, duration, costs, and fillable form.",  
+  text: `
+<header>
+    <h1>How to Prepare the SCIA for Food and Beverage Service</h1>
+    <p>To open a food and beverage service or restaurant business, it is essential to prepare and submit the SCIA (Certified Declaration of Business Start). This procedure is mandatory for venues such as bars, restaurants, taverns, and similar establishments. In this article, we will guide you step by step on how to complete and submit the SCIA, the required documents, costs, and the validity duration of this process.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Table of Contents</h2>
+    <ul>
+        <li><a href="#what-is-scia">What is the SCIA and What is it For?</a></li>
+        <li><a href="#documents-scia">Documents Needed for the SCIA</a></li>
+        <li><a href="#scia-form">SCIA Form and Model</a></li>
+        <li><a href="#scia-cost">How Much Does the SCIA Cost?</a></li>
+        <li><a href="#scia-duration">How Long is a SCIA Valid?</a></li>
+        <li><a href="#scia-food">SCIA for Food and Beverage Service</a></li>
+        <li><a href="#faq">SCIA FAQs for Food Service</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="what-is-scia" class="margin-top-bottom-4">
+    <img class="img-reduce margin-top-2" src=${settings.sciaMain.src} alt="scia-form"/>
+        <h2>What is the SCIA and What is it For?</h2>
+        <p>The SCIA is a declaration that allows you to immediately start a business without waiting for specific authorizations. It is required for anyone who wants to open a venue that serves food and beverages, such as bars, restaurants, and taverns. The SCIA submission allows local authorities to verify compliance with current regulations regarding safety, hygiene, and public health.</p>
+    </section>
+
+    <section id="documents-scia" class="margin-top-bottom-4">
+        <h2>Documents Needed for the SCIA</h2>
+        <p>To correctly complete the SCIA, it is important to prepare a series of documents that confirm compliance with regulations. Below is a list of the main required documents:</p>
+        <ul>
+            <li><strong>Applicant's ID and tax code.</strong></li>
+            <li><strong>Business registration document, if already registered.</strong></li>
+            <li><strong>Certificate of suitability for venues serving food and beverages.</strong></li>
+            <li><strong>Layout plan of the venue, complete with all details.</strong></li>
+            <li><strong>Health suitability certificate.</strong></li>
+        </ul>
+        <p>Preparing these documents in advance will ease the SCIA completion and the correct submission of the required documentation.</p>
+    </section>
+
+    <section id="scia-form" class="margin-top-bottom-4">
+        <h2>SCIA Form and Model</h2>
+        <p>To submit the SCIA, you must complete a specific form, available at municipal offices or on the municipality's website. The SCIA model may vary depending on the city or region, but it generally requires information about the business, the owners, and the venue.</p>
+        <p>There are also examples of SCIA forms available online that can help you understand the required information. A sample SCIA form can make the process easier, especially for those new to these administrative procedures.</p>
+        <p>If you want to download the SCIA model, you can do so at this <a class="link" href="https://www.pa-online.it/GisMasterWebClienti/TD0000/GisMasterData/Web/SU/Doc/Modello_2032.pdf">LINK</a></p>
+    </section>
+
+    <section id="scia-cost" class="margin-top-bottom-4">
+        <h2>How Much Does the SCIA Cost?</h2>
+        <p>One of the most important aspects for those starting a business is understanding the cost of the SCIA. The cost varies depending on the city and the specific needs of the business. Generally, the cost may include:</p>
+        <ul>
+            <li><strong>Stamp duty (around 16 euros).</strong></li>
+            <li><strong>Municipal office fees, which vary by municipality.</strong></li>
+        </ul>
+        <p>Some municipalities may require additional payments, so it is recommended to check with the local administration for an accurate estimate of the costs, which usually amount to around 50 € in total.</p>
+    </section>
+
+    <section id="scia-duration" class="margin-top-bottom-4">
+    <img class="img-reduce margin-top-2" src=${settings.documentsScia.src} alt="documents-for-scia"/>
+        <h2>How Long is a SCIA Valid?</h2>
+        <p>The SCIA does not have a preset duration. Once approved, it allows the business to operate indefinitely, as long as all sector regulations are followed and any updates are submitted in the event of significant changes to the business (such as a change of location or management). If there are regulatory violations, authorities can intervene, requiring a new SCIA or suspending the business.</p>
+    </section>
+
+    <section id="scia-food" class="margin-top-bottom-4">
+        <h2>SCIA for Food and Beverage Service</h2>
+        <p>When talking about SCIA, food and beverage service is a specific type of declaration for those who manage venues that serve food and drinks. It is essential to ensure that the business meets the safety and hygiene standards required in the food industry.</p>
+        <p>Correctly submitting the SCIA allows venue owners to be compliant from the start and to operate without delays or legal issues.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-top-bottom-2">SCIA FAQs for Food Service</h2>
+        <dl>
+            <dt><strong>What documents are needed to submit the SCIA?</strong></dt>
+            <dd class="margin-bottom-1">You need an ID, tax code, business registration document, venue layout plan, and health certificate.</dd>
+            <dt><strong>Where can I find a SCIA model?</strong></dt>
+            <dd class="margin-bottom-1">The SCIA form is available at the municipality or online on the municipality's website.</dd>
+            <dt><strong>How much does the SCIA cost?</strong></dt>
+            <dd class="margin-bottom-1">Costs may vary but generally include a stamp duty and municipal office fees. The average cost is around 30-50 euros.</dd>
+            <dt><strong>How long is a SCIA valid?</strong></dt>
+            <dd class="margin-bottom-1">The SCIA does not expire and remains valid as long as there are no significant changes in the business.</dd>
+            <dt><strong>How do I complete the SCIA for food and beverage service?</strong></dt>
+            <dd class="margin-bottom-1">Completing the SCIA requires detailed information about the business and responsible parties. A sample completed SCIA can be helpful as a guide.</dd>
+            <dt><strong>What is the purpose of the SCIA?</strong></dt>
+            <dd class="margin-bottom-1">The SCIA allows the business to start immediately, enabling the municipality to verify the company's compliance with safety and hygiene regulations.</dd>
+        </dl>
+    </section>
+</main>
+
+  `
 }
 
 
