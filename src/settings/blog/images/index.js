@@ -53,6 +53,11 @@ import fornelliPiastre from '../../../static/media/fornelli-piastre.jpg';
 import documentsScia from '../../../static/media/documents-scia.jpg';
 import sciaMain from '../../../static/media/scia-main-img.png';
 
+import portatavolo1 from '../../../static/media/portatavolo1.jpg';
+import portatavolo2 from '../../../static/media/portatavolo2.jpg';
+import portatavolo3 from '../../../static/media/portatavolo3.jpg';
+import portatavolo4 from '../../../static/media/portatavolo4.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -107,7 +112,11 @@ import sciaMain from '../../../static/media/scia-main-img.png';
     fornelliPiastraFuoco,
     fornelliPiastre,
     documentsScia,
-    sciaMain
+    sciaMain,
+    portatavolo1,
+    portatavolo2,
+    portatavolo3,
+    portatavolo4
 };
 
 export default blogImages;
