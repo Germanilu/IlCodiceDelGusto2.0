@@ -2018,6 +2018,133 @@ export const articlesEs = [
     </section>
 </main>
   `
+},
+{
+  id: 18,
+  slug: "numeri-tavoli-ristorante",
+  img: settings.portatavolo1.src,
+  metaDescription: "Descubre cómo elegir y personalizar los números de mesa para restaurante y hacer única la experiencia de tus clientes. Soluciones elegantes y prácticas para restaurantes, bares y locales de todo tipo.",
+  metaKeywords: "números de mesa personalizados para restaurante, números de mesa para restaurante, marcadores de mesa para restaurante, marcadores de sitio, marcadores de sitio personalizados, marcadores de sitio para bodas",
+  title: "Números de Mesa Personalizados para Restaurante: Elegancia y Funcionalidad en Tu Local | IlCodiceDelGusto.com",
+  shortDescription: "Descubre cómo elegir y personalizar los números de mesa para restaurante y hacer única la experiencia de tus clientes.",
+  text: `
+<header>
+    <h1>Números de Mesa Personalizados para Restaurantes: Elegancia y Funcionalidad para tu Local</h1>
+    <p>En un restaurante o bar, los detalles marcan la diferencia. Uno de estos detalles, a menudo subestimado, está representado por los números de mesa personalizados para restaurantes.</p>
+    <p>Un buen identificador de mesa no solo facilita la organización del personal, sino que también crea un impacto positivo en la experiencia de los clientes. En este artículo exploraremos cómo los números de mesa pueden transformarse en un elemento distintivo, mejorando la eficiencia operativa y la estética del local.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Índice</h2>
+    <ul>
+        <li><a href="#perche">¿Por qué elegir números de mesa personalizados para restaurantes?</a></li>
+        <li><a href="#vantaggi">Ventajas de usar identificadores de mesa en un restaurante</a></li>
+        <li><a href="#numeri-tavoli">Tipos de números de mesa para restaurantes</a></li>
+        <li><a href="#personalizzare">Cómo personalizar los números de mesa</a></li>
+        <li><a href="#consigli-segnatavoli">Consejos para elegir identificadores de mesa para restaurantes</a></li>
+        <li><a href="#dove-acquistare">Dónde comprar números de mesa personalizados</a></li>
+        <li><a href="#faq">Preguntas frecuentes: Números de mesa personalizados para restaurantes</a></li>
+        <li><a href="#conclusione">Conclusión</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="perche" class="margin-top-bottom-4">
+    <img class="img-reduce  margin-top-2" src=${settings.portatavolo2.src} alt="numero-mesa"/> 
+        <h2>¿Por qué elegir números de mesa personalizados para restaurantes?</h2>
+        <p>Personalizar los números de mesa es una oportunidad para otorgar a tu restaurante un estilo único. Los números de mesa personalizados, hechos a medida en función de la decoración y el concepto del local, hacen que cada mesa sea reconocible y crean un ambiente más acogedor y coherente. Un diseño bien pensado puede convertirse en un elemento visual de gran impacto que resalte la identidad del local.</p>
+    </section>
+
+    <section id="vantaggi" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Ventajas de usar identificadores de mesa en un restaurante</h2>
+        <ul>
+            <li><strong>Facilidad de Gestión y Organización</strong></li>
+            <p>Un sistema numérico claro para las mesas simplifica el trabajo del personal de sala y cocina. Los números bien visibles permiten agilizar los pedidos y las entregas, haciendo el servicio más eficiente y puntual.</p>
+            <li><strong>Experiencia del Cliente</strong></li>
+            <p>Números de mesa bien diseñados ofrecen a los clientes una orientación clara y ordenada. Esto es especialmente importante en locales con muchas mesas, donde un identificador claro ayuda a evitar confusiones y garantiza una experiencia agradable.</p>
+            <li><strong>Estilo y Profesionalidad</strong></li>
+            <p>La elección de números de mesa personalizados demuestra atención a los detalles y refuerza la imagen profesional del restaurante. Los números pueden diseñarse para reflejar el diseño del menú, el mobiliario e incluso la señalización exterior.</p>
+        </ul>
+    </section>
+
+    <section id="numeri-tavoli" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Tipos de números de mesa para restaurantes</h2>
+        <ul>
+            <li><strong>Números de Mesa en Madera</strong></li>
+            <p>Ideales para locales rústicos o con decoración tradicional, los números en madera pueden grabarse o pintarse a mano para un toque auténtico.</p>
+            <li><strong>Números de Mesa en Metal</strong></li>
+            <p>Perfectos para un ambiente moderno, elegante o industrial. El metal, especialmente en variantes de acero inoxidable o latón, ofrece robustez y un aspecto refinado.</p>
+            <li><strong>Números de Mesa en Acrílico o Plástico</strong></li>
+            <p>Esta opción es más económica y versátil, ideal para quienes desean cambiar el estilo con frecuencia o para eventos temporales. Disponibles en varios colores, pueden personalizarse fácilmente.</p>
+            <li><strong>Números de Mesa Iluminados</strong></li>
+            <p>Una opción particular para un restaurante que quiera destacarse. Los números con iluminación LED ofrecen una atmósfera sofisticada y facilitan la identificación de la mesa incluso en ambientes con poca luz.</p>
+        </ul>
+    </section>
+
+    <section id="personalizzare" class="margin-top-bottom-4">
+     <img class="img-reduce  margin-top-2" src=${settings.portatavolo4.src} alt="marcador de sitio"/> 
+        <h2 class="margin-bottom-1">Cómo personalizar los números de mesa</h2>
+        <p>Personalizar los números de mesa significa adaptarlos al concepto del local. Algunas ideas para una personalización exitosa son:</p>
+        <ul>
+            <li><strong>Logo y Nombre del Restaurante</strong></li>
+            <p>Añadir el logo o el nombre del local en los identificadores de mesa para reforzar la identidad visual.</p>
+            <li><strong>Estilo Tipográfico Único</strong></li>
+            <p>Utilizar una tipografía que refleje el estilo del local.</p>
+            <li><strong>Colores Coordinados</strong></li>
+            <p>Si el restaurante tiene una paleta de colores específica, aplicarla también a los números de mesa.</p>
+            <li><strong>Formas Originales</strong></li>
+            <p>Los números pueden realizarse con formas particulares, como círculos o rombos, para añadir un toque de creatividad.</p>
+        </ul>
+    </section>
+
+        <section id="consigli-segnatavoli" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Consejos para elegir identificadores de mesa para restaurantes</h2>
+        <img class="img-reduce  margin-top-2" src=${settings.portatavolo3.src} alt="numero mesa personalizado"/> 
+        <ul>
+            <li><strong>Materiales Resistentes y Fáciles de Limpiar</strong></li>
+            <p>En los restaurantes, la durabilidad es esencial. Los materiales elegidos deben ser resistentes y fáciles de mantener, como metal, madera tratada o plástico de calidad.</p>
+            <li><strong>Visibilidad</strong></li>
+            <p>Los números deben ser bien visibles y legibles incluso a distancia, para que tanto el personal como los clientes puedan identificarlos sin dificultad.</p>
+            <li><strong>Sencillez y Elegancia</strong></li>
+            <p>Un diseño demasiado elaborado puede generar confusión. Optar por líneas simples y limpias garantiza una estética elegante y funcional.</p>
+            <li><strong>Integración con el Sistema de Pedidos</strong></li>
+            <p>Asegurarse de que los números de mesa sean fácilmente integrables con los sistemas digitales de pedidos, especialmente en restaurantes que usan dispositivos electrónicos para las órdenes.</p>
+        </ul>
+    </section>
+
+    <section id="dove-acquistare" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Dónde comprar números de mesa personalizados</h2>
+        <p>Hoy en día existen muchas opciones en línea para comprar números de mesa personalizados para restaurantes, desde artesanos locales hasta proveedores especializados en el sector de la restauración. Si deseas ver ejemplos, te recomendamos visitar este enlace para comprar <a class="link" href="https://www.targheinsegne.com/133-segnatavolo">Números de mesa personalizados para restaurantes y bares</a>.</p>
+        <p>Algunos servicios ofrecen la posibilidad de diseñar los números según las necesidades específicas del cliente, garantizando un producto único y hecho a medida. Si, por otro lado, buscas un identificador de mesa sencillo, puedes adquirirlo en Amazon en este <a class="link" href="https://www.amazon.it/s?k=numeri+tavoli+ristorante+personalizzati">enlace</a>.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Preguntas frecuentes: Números de mesa personalizados para restaurantes</h2>
+        <dl>
+            <dt><strong>¿Por qué personalizar los números de mesa en un restaurante?</strong></dt>
+            <dd class="margin-bottom-1">Personalizar los números de mesa agrega estilo y mejora la experiencia del cliente, además de ayudar a mantener la organización del local.</dd>
+            <dt><strong>¿Qué materiales son más adecuados para los números de mesa?</strong></dt>
+            <dd class="margin-bottom-1">Materiales como madera, metal y acrílico son ideales, ya que son resistentes, fáciles de limpiar y ofrecen diversas opciones estilísticas.</dd>
+            <dt><strong>¿Dónde puedo encontrar identificadores de mesa personalizados para mi local?</strong></dt>
+            <dd class="margin-bottom-1">Es posible comprar números de mesa personalizados en línea o a través de proveedores especializados que ofrecen productos a medida.</dd>
+            <dt><strong>¿Deben tener los números de mesa un estilo específico para ser efectivos?</strong></dt>
+            <dd class="margin-bottom-1">Se recomienda elegir un diseño que se integre con la estética del local.</dd>
+            <dt><strong>¿Los números de mesa realmente influyen en la eficiencia del personal?</strong></dt>
+            <dd class="margin-bottom-1">Sí, números claros y fácilmente identificables facilitan el trabajo del personal, mejorando el servicio y reduciendo el riesgo de errores en los pedidos.</dd>
+            <dt><strong>¿Cómo elijo el diseño adecuado para los números de mesa?</strong></dt>
+            <dd class="margin-bottom-1">Seleccionando materiales y diseños que se armonicen con la decoración del local y utilizando detalles que reflejen la identidad del restaurante, como logos y colores.</dd>
+        </dl>
+    </section>
+
+    <section id="conclusione" class="margin-top-bottom-4">
+        <img class="img-reduce  margin-top-2" src=${settings.portatavolo1.src} alt="numero mesa restaurante"/> 
+        <h2>Conclusión</h2>
+        <p>Espero que este artículo haya sido útil. Los identificadores de mesa son un elemento esencial tanto para la organización del local como para los clientes. Una excelente forma de presentar un número de mesa es agregar un código QR para que los clientes puedan ver el menú del local.</p>
+        <p>Te explicamos todo en este <a class="link" href="https://ilcodicedelgusto.com/blog/menu-digitale">artículo</a>.</p>
+    </section>
+</main>
+
+  `
 }
 
 
