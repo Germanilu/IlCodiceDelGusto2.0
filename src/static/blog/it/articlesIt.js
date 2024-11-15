@@ -2182,25 +2182,25 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
 <nav class="margin-top-bottom-2">
     <h2 class="margin-bottom-1">Indice</h2>
     <ul>
-        <li><a href="#ristoranti-a-tema">Perché Scegliere Numeri Tavoli Ristorante Personalizzati?</a></li>
-        <li><a href="#ristoranti-strani">I Vantaggi di Usare Segnatavoli in un Ristorante</a></li>
-        <li><a href="#cena-particolare">Tipologie di Numeri Tavoli per Ristoranti</a></li>
-        <li><a href="#ristoranti-caratteristici">Come Personalizzare i Numeri Tavoli Ristorante</a></li>
-        <li><a href="#locali-particolari-vicino">Consigli per la Scelta dei Segnatavoli per Ristoranti</a></li>
-        <li><a href="#idee-ristoranti">Dove Acquistare Numeri Tavoli Personalizzati</a></li>
-        <li><a href="#ristoranti-provincia">FAQ: Numeri Tavoli Ristorante Personalizzati</a></li>
-        <li><a href="#ristorante-vicino">Conclusione</a></li>
+        <li><a href="#perche">Perché Scegliere Numeri Tavoli Ristorante Personalizzati?</a></li>
+        <li><a href="#vantaggi">I Vantaggi di Usare Segnatavoli in un Ristorante</a></li>
+        <li><a href="#numeri-tavoli">Tipologie di Numeri Tavoli per Ristoranti</a></li>
+        <li><a href="#personalizzare">Come Personalizzare i Numeri Tavoli Ristorante</a></li>
+        <li><a href="#consigli-segnatavoli">Consigli per la Scelta dei Segnatavoli per Ristoranti</a></li>
+        <li><a href="#dove-acquistare">Dove Acquistare Numeri Tavoli Personalizzati</a></li>
+        <li><a href="#faq">FAQ: Numeri Tavoli Ristorante Personalizzati</a></li>
+        <li><a href="#conclusione">Conclusione</a></li>
     </ul>
 </nav>
 
 <main>
-    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+    <section id="perche" class="margin-top-bottom-4">
     <img class="img-reduce  margin-top-2" src=${settings.portatavolo2.src} alt="numero-tavolo"/> 
         <h2>Perché Scegliere Numeri Tavoli Ristorante Personalizzati?</h2>
         <p>Personalizzare i numeri dei tavoli è un'opportunità per conferire al tuo ristorante uno stile unico. I numeri tavoli personalizzati, realizzati su misura in base all’arredamento e al concept del locale, rendono ogni tavolo riconoscibile e creano un ambiente più accogliente e coerente. Un design ben pensato può infatti diventare un elemento visivo di grande impatto che sottolinea l'identità del locale.</p>
     </section>
 
-    <section id="ristoranti-strani" class="margin-top-bottom-4">
+    <section id="vantaggi" class="margin-top-bottom-4">
         <h2 class="margin-bottom-1">I Vantaggi di Usare Segnatavoli in un Ristorante</h2>
         <ul>
             <li><strong>Facilità di Gestione e Organizzazione</strong></li>
@@ -2212,7 +2212,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         </ul>
     </section>
 
-    <section id="cena-particolare" class="margin-top-bottom-4">
+    <section id="numeri-tavoli" class="margin-top-bottom-4">
         <h2 class="margin-bottom-1">Tipologie di Numeri Tavoli per Ristoranti</h2>
         <ul>
             <li><strong>Numeri Tavoli Ristorante in Legno</strong></li>
@@ -2226,7 +2226,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         </ul>
     </section>
 
-    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+    <section id="personalizzare" class="margin-top-bottom-4">
      <img class="img-reduce  margin-top-2" src=${settings.portatavolo4.src} alt="segnatavolo per ristorante"/> 
         <h2 class="margin-bottom-1">Come Personalizzare i Numeri Tavoli Ristorante</h2>
         <p>Personalizzare i numeri tavoli significa adattarli al concept del locale. Alcune idee per una personalizzazione di successo sono:</p>
@@ -2264,7 +2264,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         <p>Alcuni servizi offrono la possibilità di progettare il design dei numeri in base alle esigenze specifiche del cliente, garantendo un prodotto unico e su misura. Se invece vuoi dei un semplice segnatavolo per ristorante puoi acquistarlo su amazon a questo <a class="link" href="https://www.amazon.it/s?k=numeri+tavoli+ristorante+personalizzati">Link</a> </p>  
       </section>
 
-    <section id="ristoranti-provincia" class="margin-top-bottom-4">
+    <section id="faq" class="margin-top-bottom-4">
         <h2 class="margin-bottom-1">FAQ: Numeri Tavoli Ristorante Personalizzati</h2>
         <dl>
             <dt><strong>Perché personalizzare i numeri dei tavoli in un ristorante?</strong></dt>
@@ -2282,7 +2282,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         </dl>
     </section>
 
-    <section id="ristorante-vicino" class="margin-top-bottom-4">
+    <section id="conclusione" class="margin-top-bottom-4">
         <img class="img-reduce  margin-top-2" src=${settings.portatavolo1.src} alt="numeri-tavoli-ristorante"/> 
         <h2>Conclusione</h2>
         <p>Spero di esserti stato utile con questo articolo, il segnatavolo è un elemento essenziale sia per l’organizzazione del locale che per i clienti stessi. Un bel modo di presentare un numero per il tavolo è quello di aggiungere un codice QR per visualizzare il menù del locale.</p>
