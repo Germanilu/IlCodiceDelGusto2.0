@@ -2291,6 +2291,136 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
 </main>
 
   `
+},
+{
+  id: 19,
+  slug: "aprire-un-bar",
+  img: settings.bar1.src,
+  metaDescription: "Scopri come aprire un bar: dai costi ai documenti necessari, ai consigli su licenza e requisiti. Tutto ciò che serve per avviare un'attività vincente nel settore ristorazione.",
+  metaKeywords: "numeri tavoli ristorante personalizzati, numeri tavoli ristorante, segnatavolo per ristorante,segnaposto,segnaposto ristorante,segnaposto ristorante personalizzato,segnaposto matrimonio",
+  title: "Aprire un Bar: Costi, Requisiti e Consulenza per un'Attività di Successo | IlCodiceDelGusto.com",
+  shortDescription: "Scopri come aprire un bar: dai costi ai documenti necessari, ai consigli su licenza e requisiti.",
+  text: `
+<header>
+    <h1>Guida Completa: Come Aprire un Bar e Quanto Costa</h1>
+    <p>Aprire un bar è il sogno di molti, ma per realizzarlo servono una buona pianificazione e una chiara conoscenza dei requisiti. Chi desidera avviare un’attività nel settore della ristorazione o prendere in gestione un locale esistente deve conoscere i costi, le licenze e i documenti necessari.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Indice dell'articolo</h2>
+    <ul>
+        <li><a href="#aprire-un-bar">Quanto Costa Aprire un Bar?</a></li>
+        <li><a href="#licenza-bar">Licenza per Bar: Cos’è e Quanto Costa?</a></li>
+        <li><a href="#scia">SCIA Bar, tutto quello che devi sapere</a></li>
+        <li><a href="#ruolo">Il Ruolo della SCIA</a></li>
+        <li><a href="#permessi">Permessi e corsi aggiuntivi</a></li>
+        <li><a href="#bar">Per Aprire un Bar, Cosa Serve?</a></li>
+        <li><a href="#documenti">Documenti per Prendere in Gestione un Bar</a></li>
+        <li><a href="#corso">Corso per Aprire un Bar: Come Funziona?</a></li>
+        <li><a href="#consulenza">Consulenza e Servizi Web per il Successo del Tuo Locale</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#conclusione">Conclusione</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="aprire-un-bar" class="margin-top-bottom-4">
+     <img class="img  margin-top-2" src=${settings.bar1.src} alt="barman"/> 
+        <h2>Quanto Costa Aprire un Bar?</h2>
+        <p>Il costo per aprire un bar dipende da vari fattori come la posizione, le dimensioni e l’offerta del locale. In media, l’investimento iniziale per aprire un bar può variare da 20.000 a 100.000 euro. Questa somma include i costi di affitto, ristrutturazione, attrezzature, licenze, e l’acquisto delle materie prime iniziali. Un consiglio per risparmiare è valutare attentamente le attrezzature e gli arredi: a volte, optare per macchinari usati o arredamenti di seconda mano può rappresentare un’ottima strategia per contenere i costi.</p>
+    </section>
+
+    <section id="licenza-bar" class="margin-top-bottom-4">
+        <h2>Licenza per Bar: Cos’è e Quanto Costa?</h2>
+        <p>Per aprire un bar fino al 2006 era necessaria una licenza di somministrazione di alimenti e bevande. Questo permesso autorizzava a vendere e somministrare al pubblico prodotti come caffè, bevande alcoliche e piatti freddi o caldi e aveva un costo variabile a seconda del comune e delle normative locali, tra i 1500 e i 3000€.</p>
+        <p>Dal 2006 in poi dopo un’esteso processo di semplificazione delle normative, non serve più la licenza per bar, ma occorre solo presentare un’autocertificazione chiamata SCIA (segnalazione certificata di avvio attività).</p>
+    </section>
+
+    <section id="scia" class="margin-top-bottom-4">
+        <h2>SCIA Bar, tutto quello che devi sapere</h2>
+        <p>Dal 2006, la liberalizzazione e semplificazione normativa hanno eliminato la “licenza bar” tradizionale. Oggi, per aprire un bar, è sufficiente presentare la SCIA, ossia la Segnalazione Certificata di Inizio Attività, una dichiarazione di avvio dell'attività che richiede costi relativamente bassi ma comporta alcuni requisiti.</p>
+        <h3>Requisiti per la SCIA</h3>
+        <p>La SCIA richiede specifici requisiti, sia professionali che strutturali:</p>
+        <ul>
+            <li><strong>Requisiti professionali:</strong> Servono certificazioni come l’abilitazione per la somministrazione di cibi e bevande (HACCP o SAB), il corso antincendio e, per chi serve alcolici, la licenza specifica.</li>
+            <li><strong>Requisiti dei locali:</strong> Il bar deve rispettare normative urbanistiche, edilizie, igienico-sanitarie e ambientali. Spesso sono richiesti elaborati tecnici e planimetrie adeguate, la cui complessità può variare in base alla situazione.</li>
+        </ul>
+    </section>
+
+      <section id="ruolo" class="margin-top-bottom-4">
+        <img class="img-reduce  margin-top-2" src=${settings.documentsScia.src} alt="SCIA"/> 
+        <h2>Il Ruolo della SCIA</h2>
+        <p>L'accoglimento della SCIA da parte degli enti competenti rappresenta l’autorizzazione ufficiale per avviare e gestire un’attività di somministrazione di alimenti e bevande al pubblico.</p>
+        <p>Una volta approvata, potrai offrire colazioni, pranzi, aperitivi, cene e bevande in ambienti appositi.</p>
+    </section>
+
+      <section id="permessi" class="margin-top-bottom-4">
+        <h2>Permessi e corsi aggiuntivi</h2>
+        <p>Nonostante la SCIA, è necessario informarsi su ulteriori permessi o corsi, come:</p>
+        <p>La SCIA richiede specifici requisiti, sia professionali che strutturali:</p>
+        <ul>
+            <li><strong>Permessi per l’intrattenimento:</strong> Se desideri offrire musica dal vivo o altri tipi di spettacoli, potresti dover richiedere un’autorizzazione specifica.</li>
+            <li><strong>Permessi per le bevande alcoliche:</strong> In alcuni casi, servire bevande alcoliche potrebbe richiedere una licenza addizionale.</li>
+            <li><strong>Corsi di specializzazione:</strong> Per aumentare la tua professionalità, considera corsi aggiuntivi come mixology, flair o corsi avanzati per barman.</li>
+        </ul>
+        <p>In conclusione, ottenere la SCIA rappresenta un passaggio obbligato ma semplice per aprire un bar, consentendoti di avviare l'attività con la sicurezza di rispettare tutte le normative in vigore.</p>
+        <p>Puoi visionare tutti i dettagli della SCIA e scaricare il modulo per scia a questo link.</p>
+    </section>
+
+       <section id="bar" class="margin-top-bottom-4">
+        <h2>Per Aprire un Bar, Cosa Serve?</h2>
+        <p>Oltre alla licenza, per aprire un bar è indispensabile rispettare alcuni requisiti personali e tecnici. Chi intende avviare un’attività di somministrazione deve aver completato un corso di abilitazione alla somministrazione di alimenti e bevande, disponibile in numerosi enti formativi accreditati.</p>
+        <p>Inoltre, sarà necessario predisporre un piano HACCP (Analisi dei rischi e punti critici di controllo) per garantire il rispetto delle norme igienico-sanitarie. Dal punto di vista tecnico, ogni bar deve essere dotato di sistemi adeguati per la conservazione degli alimenti e per la sicurezza.</p>
+    </section>
+
+      <section id="documenti" class="margin-top-bottom-4">
+      <img class="img-reduce  margin-top-2" src=${settings.bar2.src} alt="bar"/> 
+        <h2>Documenti per Prendere in Gestione un Bar</h2>
+        <p>Chi sceglie di prendere in gestione un bar esistente deve prestare attenzione ai documenti. In questo caso, oltre alla licenza, è necessario stipulare un contratto di gestione con il proprietario dell’attività e aggiornare eventuali permessi di somministrazione.</p>
+        <p>Sarà inoltre necessario acquisire i certificati relativi alle condizioni sanitarie e alla sicurezza dei locali.</p>
+    </section>
+
+       <section id="corso" class="margin-top-bottom-4">
+        <h2>Corso per Aprire un Bar: Come Funziona?</h2>
+        <p>Il corso per aprire un bar è un passo fondamentale (ma non essenziale) per ottenere la licenza e gestire un’attività di somministrazione. Questi corsi coprono tematiche come l’igiene alimentare, la gestione aziendale e la sicurezza sul lavoro. La durata può variare da poche settimane a diversi mesi, e alla fine del corso si ottiene un certificato di abilitazione, richiesto dalla normativa.</p>
+        <p>Ci sono diversi professionisti che offrono dei corsi per aprire un bar, noi vi consigliamo i nostri amici di FBS.it potrai trovare la lista completa dei corsi a questo link</p>
+    </section>
+
+    <section id="consulenza" class="margin-top-bottom-4">
+    <img class="img-reduce  margin-top-2" src=${settings.bar3.src} alt="bar"/> 
+        <h2>Consulenza e Servizi Web per il Successo del Tuo Locale</h2>
+        <p>Per massimizzare il successo del proprio bar, è fondamentale anche una strategia di promozione online. Offriamo servizi come la creazione di una pagina web personalizzata, menù digitali, e consulenze di social media marketing</p>
+        <p>Questi strumenti permettono di migliorare la visibilità del locale, attrarre nuovi clienti e fidelizzare quelli già esistenti. Inoltre, i nostri servizi includono l’ottimizzazione SEO e l’email marketing, essenziali per far conoscere il proprio bar e aumentare le prenotazioni.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">FAQ</h2>
+        <dl>
+            <dt><strong>Quanto costa aprire un bar?</strong></dt>
+            <dd class="margin-bottom-1">Il costo varia in base a diversi fattori, come la posizione e le attrezzature, e si attesta generalmente tra i 20.000 e i 100.000 euro.</dd>
+            <dt><strong>Quali sono i requisiti per aprire un bar?</strong></dt>
+            <dd class="margin-bottom-1">Serve una licenza di somministrazione, un corso di abilitazione e un piano HACCP per la sicurezza alimentare.</dd>
+            <dt><strong>Cosa include la licenza per un bar?</strong></dt>
+            <dd class="margin-bottom-1">La licenza consente la vendita e somministrazione di alimenti e bevande, ed è obbligatoria per avviare un’attività nel settore ristorativo.</dd>
+            <dt><strong>Quanto costa la licenza per un bar?</strong></dt>
+            <dd class="margin-bottom-1">Il costo della licenza varia a seconda della città, ma in media si attesta tra i 1.500 e i 3.000 euro.</dd>
+            <dt><strong> È necessario un corso per aprire un bar?</strong></dt>
+            <dd class="margin-bottom-1">Sì, il corso è richiesto dalla legge per ottenere l’abilitazione alla somministrazione di alimenti e bevande.</dd>
+            <dt><strong>Quali servizi di consulenza possono aiutare a promuovere il mio bar?</strong></dt>
+            <dd class="margin-bottom-1">Offriamo servizi di sviluppo web, marketing online, creazione di menù digitali e consulenza sui social media per aiutare i proprietari di bar a promuovere il loro locale in modo efficace.</dd>
+        </dl>
+    </section>
+    <section id="conclusione" class="margin-top-bottom-4">
+        <h2>Conclusione</h2>
+        <p>Spero che dopo aver letto questo articolo abbia risolto tutti i tuoi dubbi, e risposto alla domanda “ma per aprire un bar cosa serve? “.</p>
+        <p>Ricorda che uno dei requisiti fondamentali per essere a norma è la licenza del bar, essere al corrente dei documenti per prendere in gestione un bar e aver chiaro i costi da affrontare quando si avvia un’attività.</p>
+        <p>Sono sicuro che questa guida per “aprire un bar da 0” sia stata utile, rimani aggiornato sul nostro blog, potrai leggere diversi articoli sul mondo della ristorazione. </p>
+        <p>Vuoi conoscere tutto il necessario per aprire un ristorante? Leggi il nostro articolo QUI.</p>
+         <img class="img  margin-top-2" src=${settings.bar4.src} alt="drinks"/> 
+    </section>
+</main>
+
+  `
 }
 
 ];

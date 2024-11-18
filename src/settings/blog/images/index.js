@@ -58,6 +58,11 @@ import portatavolo2 from '../../../static/media/portatavolo2.jpg';
 import portatavolo3 from '../../../static/media/portatavolo3.jpg';
 import portatavolo4 from '../../../static/media/portatavolo4.jpg';
 
+import bar1 from '../../../static/media/bar1.jpg';
+import bar2 from '../../../static/media/bar2.jpg';
+import bar3 from '../../../static/media/bar3.jpg';
+import bar4 from '../../../static/media/bar4.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -116,7 +121,11 @@ import portatavolo4 from '../../../static/media/portatavolo4.jpg';
     portatavolo1,
     portatavolo2,
     portatavolo3,
-    portatavolo4
+    portatavolo4,
+    bar1,
+    bar2,
+    bar3,
+    bar4,
 };
 
 export default blogImages;
