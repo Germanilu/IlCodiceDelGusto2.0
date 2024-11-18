@@ -2065,6 +2065,129 @@ export const articlesEn = [
 </main>
 
   `
+},
+{
+  id: 19,
+  slug: "aprire-un-bar",
+  img: settings.bar1.src,
+  metaDescription: "Find out how to open a bar: from costs to required documents, to advice on licenses and requirements. Everything you need to start a successful business in the food and beverage industry.",
+  metaKeywords: "bar license cost, license to open a bar cost, how much does it cost to open a bar, how to open a bar, what is needed to open a bar, bar license, bar requirements, documents for taking over a bar, course to open a bar, opening a venue, SCIA bar",
+  title: "Opening a Bar: Costs, Requirements, and Consulting for a Successful Business | IlCodiceDelGusto.com",
+  shortDescription: "Find out how to open a bar: from costs to required documents, to advice on licenses and requirements.",
+  text: `
+<header>
+    <h1>Complete Guide: How to Open a Bar and How Much It Costs</h1>
+    <p>Opening a bar is a dream for many, but it requires good planning and a clear understanding of the requirements. Anyone wishing to start a business in the food and beverage industry or take over an existing establishment must be aware of the costs, licenses, and necessary documents.</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Article Index</h2>
+    <ul>
+        <li><a href="#open-a-bar">How Much Does It Cost to Open a Bar?</a></li>
+        <li><a href="#bar-license">Bar License: What Is It and How Much Does It Cost?</a></li>
+        <li><a href="#scia">SCIA Bar: Everything You Need to Know</a></li>
+        <li><a href="#role">The Role of SCIA</a></li>
+        <li><a href="#permits">Permits and Additional Courses</a></li>
+        <li><a href="#requirements">What Do You Need to Open a Bar?</a></li>
+        <li><a href="#documents">Documents for Taking Over a Bar</a></li>
+        <li><a href="#course">Course for Opening a Bar: How Does It Work?</a></li>
+        <li><a href="#consulting">Consulting and Web Services for the Success of Your Bar</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="open-a-bar" class="margin-top-bottom-4">
+     <img class="img margin-top-2" src=${settings.bar1.src} alt="bartender"/> 
+        <h2>How Much Does It Cost to Open a Bar?</h2>
+        <p>The cost of opening a bar depends on factors such as location, size, and the type of services offered. On average, the initial investment can range from €20,000 to €100,000. This amount covers rent, renovations, equipment, licenses, and the purchase of initial supplies. To save costs, consider second-hand equipment and furniture, which can be a great strategy to reduce expenses.</p>
+    </section>
+
+    <section id="bar-license" class="margin-top-bottom-4">
+        <h2>Bar License: What Is It and How Much Does It Cost?</h2>
+        <p>Until 2006, opening a bar required a <strong>license for serving food and drinks</strong>. This permit allowed the sale and service of coffee, alcoholic beverages, and hot or cold meals to the public, with costs varying by city and local regulations, ranging from €1,500 to €3,000.</p>
+        <p>Since 2006, following regulatory simplifications, the bar license is no longer required. Instead, an official self-declaration known as SCIA (Certified Start of Activity Notification) is sufficient.</p>
+    </section>
+
+    <section id="scia" class="margin-top-bottom-4">
+        <h2>SCIA Bar: Everything You Need to Know</h2>
+        <p>Since 2006, regulatory liberalization eliminated the traditional “bar license.” Now, to open a bar, you only need to submit a SCIA, which is a Certified Notification of Business Start. This declaration involves relatively low costs but comes with certain requirements.</p>
+        <h3>SCIA Requirements</h3>
+        <p>The SCIA has specific professional and structural requirements:</p>
+        <ul>
+            <li><strong>Professional requirements:</strong> Certifications such as HACCP or SAB (food and beverage safety), fire prevention courses, and specific licenses for serving alcohol are needed.</li>
+            <li><strong>Premises requirements:</strong> The bar must comply with urban, building, sanitary, and environmental regulations. Often, technical documents and appropriate floor plans are required, whose complexity may vary depending on the situation.</li>
+        </ul>
+    </section>
+
+    <section id="role" class="margin-top-bottom-4">
+        <img class="img-reduce margin-top-2" src=${settings.documentsScia.src} alt="SCIA"/> 
+        <h2>The Role of SCIA</h2>
+        <p>The acceptance of SCIA by the relevant authorities serves as the official authorization to open and operate a food and beverage service business.</p>
+        <p>Once approved, you can serve breakfasts, lunches, aperitifs, dinners, and drinks in designated areas.</p>
+    </section>
+
+    <section id="permits" class="margin-top-bottom-4">
+        <h2>Permits and Additional Courses</h2>
+        <p>Even with SCIA, you must check additional permits or courses, such as:</p>
+        <ul>
+            <li><strong>Entertainment permits:</strong> For live music or other events, specific authorization may be required.</li>
+            <li><strong>Alcohol permits:</strong> Serving alcoholic beverages might need an additional license in certain cases.</li>
+            <li><strong>Specialized courses:</strong> Enhance your skills with courses in mixology, flair bartending, or advanced bar management.</li>
+        </ul>
+        <p>In conclusion, obtaining SCIA is a necessary but straightforward step for opening a bar, allowing you to start your business while complying with all applicable regulations.</p>
+        <p>You can review SCIA details and download the SCIA form at this <a class="link" href="https://ilcodicedelgusto.com/blog/modulo-per-scia">Link</a>.</p>
+    </section>
+
+    <section id="requirements" class="margin-top-bottom-4">
+        <h2>What Do You Need to Open a Bar?</h2>
+        <p>In addition to the license, opening a bar requires certain personal and technical qualifications. Prospective business owners must complete a training course for food and beverage management, available through accredited institutions.</p>
+        <p>Additionally, a <strong>HACCP plan</strong> (Hazard Analysis and Critical Control Points) is necessary to ensure compliance with sanitary regulations. Technically, every bar must have proper systems for food preservation and safety.</p>
+    </section>
+
+    <section id="documents" class="margin-top-bottom-4">
+        <img class="img-reduce margin-top-2" src=${settings.bar2.src} alt="bar"/> 
+        <h2>Documents for Taking Over a Bar</h2>
+        <p>Anyone taking over an existing bar must ensure proper documentation. This includes a management contract with the business owner and updating any permits for food and beverage service.</p>
+        <p>Certificates related to the sanitary and safety conditions of the premises are also necessary.</p>
+    </section>
+        <section id="course" class="margin-top-bottom-4">
+        <h2>Course for Opening a Bar: How Does It Work?</h2>
+        <p>A bar management course is an important (but not essential) step for obtaining a license and running a food and beverage business. These courses cover topics such as food hygiene, business management, and workplace safety. They typically last a few weeks to several months, and a certification is issued at the end, as required by law.</p>
+        <p>We recommend the courses provided by our friends at FBS.it. Check the full course list at this <a class="link" href="https://www.f-b-s.it/corsi/">Link</a>.</p>
+    </section>
+
+    <section id="consulting" class="margin-top-bottom-4">
+        <img class="img-reduce margin-top-2" src=${settings.bar3.src} alt="bar"/> 
+        <h2>Consulting and Web Services for the Success of Your Bar</h2>
+        <p>To maximize your bar’s success, online promotion strategies are essential. We offer services like creating a <strong>custom web page</strong>, digital menus, and <strong>social media marketing</strong> consulting.</p>
+        <p>These tools enhance your bar’s visibility, attract new customers, and retain existing ones. Our services also include SEO optimization and <strong>email marketing</strong>, crucial for boosting reservations and establishing a strong online presence.</p>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">FAQ</h2>
+        <dl>
+            <dt><strong>How much does it cost to open a bar?</strong></dt>
+            <dd class="margin-bottom-1">The cost varies depending on factors like location and equipment, generally ranging between €20,000 and €100,000.</dd>
+            <dt><strong>What are the requirements to open a bar?</strong></dt>
+            <dd class="margin-bottom-1">A food and beverage service license, training, and an HACCP plan are necessary.</dd>
+            <dt><strong>What does the bar license include?</strong></dt>
+            <dd class="margin-bottom-1">The license allows the sale and service of food and beverages, required to start a business in this industry.</dd>
+            <dt><strong>How much does a bar license cost?</strong></dt>
+            <dd class="margin-bottom-1">The cost varies by city but typically ranges from €1,500 to €3,000.</dd>
+            <dt><strong>What does SCIA mean?</strong></dt>
+            <dd>SCIA is a self-certification required to open a food and beverage business, replacing the traditional bar license.</dd>
+        </dl>
+    </section>
+    <section id="conclusion" class="margin-top-bottom-4">
+    <p>By now, you should have all the insights needed to successfully launch your bar. It’s crucial to stay informed about regulatory changes and take advantage of modern tools to stand out in a competitive market. Whether you're starting from scratch or taking over an existing bar, planning and dedication are key. Good luck in your new venture!</p>
+    <p>Do you want to know everything you need to open a restaurant? Read our article <a class="link" href="https://ilcodicedelgusto.com/blog/come-aprire-un-ristorante">HERE.</a></p>
+    <img class="img margin-top-2" src=${settings.bar4.src} alt="drinks"/>
+    </section>
+</main>
+
+  `
 }
 
 
