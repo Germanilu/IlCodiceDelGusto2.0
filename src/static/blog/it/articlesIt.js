@@ -2297,7 +2297,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
   slug: "aprire-un-bar",
   img: settings.bar1.src,
   metaDescription: "Scopri come aprire un bar: dai costi ai documenti necessari, ai consigli su licenza e requisiti. Tutto ciò che serve per avviare un'attività vincente nel settore ristorazione.",
-  metaKeywords: "numeri tavoli ristorante personalizzati, numeri tavoli ristorante, segnatavolo per ristorante,segnaposto,segnaposto ristorante,segnaposto ristorante personalizzato,segnaposto matrimonio",
+  metaKeywords: "licenza per bar quanto costa, licenza per aprire un bar quanto costa, quanto costa aprire un bar, bar come aprire, per aprire un bar cosa serve, licenza bar, aprire un bar requisiti, documenti per prendere in gestione un bar, corso per aprire bar, aprire un locale, scia bar",
   title: "Aprire un Bar: Costi, Requisiti e Consulenza per un'Attività di Successo | IlCodiceDelGusto.com",
   shortDescription: "Scopri come aprire un bar: dai costi ai documenti necessari, ai consigli su licenza e requisiti.",
   text: `
@@ -2332,7 +2332,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
 
     <section id="licenza-bar" class="margin-top-bottom-4">
         <h2>Licenza per Bar: Cos’è e Quanto Costa?</h2>
-        <p>Per aprire un bar fino al 2006 era necessaria una licenza di somministrazione di alimenti e bevande. Questo permesso autorizzava a vendere e somministrare al pubblico prodotti come caffè, bevande alcoliche e piatti freddi o caldi e aveva un costo variabile a seconda del comune e delle normative locali, tra i 1500 e i 3000€.</p>
+        <p>Per aprire un bar fino al 2006 era necessaria una <strong> licenza di somministrazione di alimenti e bevande. </strong> Questo permesso autorizzava a vendere e somministrare al pubblico prodotti come caffè, bevande alcoliche e piatti freddi o caldi e aveva un costo variabile a seconda del comune e delle normative locali, tra i 1500 e i 3000€.</p>
         <p>Dal 2006 in poi dopo un’esteso processo di semplificazione delle normative, non serve più la licenza per bar, ma occorre solo presentare un’autocertificazione chiamata SCIA (segnalazione certificata di avvio attività).</p>
     </section>
 
@@ -2364,13 +2364,13 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
             <li><strong>Corsi di specializzazione:</strong> Per aumentare la tua professionalità, considera corsi aggiuntivi come mixology, flair o corsi avanzati per barman.</li>
         </ul>
         <p>In conclusione, ottenere la SCIA rappresenta un passaggio obbligato ma semplice per aprire un bar, consentendoti di avviare l'attività con la sicurezza di rispettare tutte le normative in vigore.</p>
-        <p>Puoi visionare tutti i dettagli della SCIA e scaricare il modulo per scia a questo link.</p>
+        <p>Puoi visionare tutti i dettagli della SCIA e scaricare il modulo per scia a questo <a class="link" href="https://ilcodicedelgusto.com/blog/modulo-per-scia">Link</a>.</p>
     </section>
 
        <section id="bar" class="margin-top-bottom-4">
         <h2>Per Aprire un Bar, Cosa Serve?</h2>
         <p>Oltre alla licenza, per aprire un bar è indispensabile rispettare alcuni requisiti personali e tecnici. Chi intende avviare un’attività di somministrazione deve aver completato un corso di abilitazione alla somministrazione di alimenti e bevande, disponibile in numerosi enti formativi accreditati.</p>
-        <p>Inoltre, sarà necessario predisporre un piano HACCP (Analisi dei rischi e punti critici di controllo) per garantire il rispetto delle norme igienico-sanitarie. Dal punto di vista tecnico, ogni bar deve essere dotato di sistemi adeguati per la conservazione degli alimenti e per la sicurezza.</p>
+        <p>Inoltre, sarà necessario predisporre un <strong>piano HACCP</strong> (Analisi dei rischi e punti critici di controllo) per garantire il rispetto delle norme igienico-sanitarie. Dal punto di vista tecnico, ogni bar deve essere dotato di sistemi adeguati per la conservazione degli alimenti e per la sicurezza.</p>
     </section>
 
       <section id="documenti" class="margin-top-bottom-4">
@@ -2383,14 +2383,14 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
        <section id="corso" class="margin-top-bottom-4">
         <h2>Corso per Aprire un Bar: Come Funziona?</h2>
         <p>Il corso per aprire un bar è un passo fondamentale (ma non essenziale) per ottenere la licenza e gestire un’attività di somministrazione. Questi corsi coprono tematiche come l’igiene alimentare, la gestione aziendale e la sicurezza sul lavoro. La durata può variare da poche settimane a diversi mesi, e alla fine del corso si ottiene un certificato di abilitazione, richiesto dalla normativa.</p>
-        <p>Ci sono diversi professionisti che offrono dei corsi per aprire un bar, noi vi consigliamo i nostri amici di FBS.it potrai trovare la lista completa dei corsi a questo link</p>
+        <p>Ci sono diversi professionisti che offrono dei corsi per aprire un bar, noi vi consigliamo i nostri amici di FBS.it potrai trovare la lista completa dei corsi a questo <a class="link" href="https://www.f-b-s.it/corsi/">Link</a></p>
     </section>
 
     <section id="consulenza" class="margin-top-bottom-4">
     <img class="img-reduce  margin-top-2" src=${settings.bar3.src} alt="bar"/> 
         <h2>Consulenza e Servizi Web per il Successo del Tuo Locale</h2>
-        <p>Per massimizzare il successo del proprio bar, è fondamentale anche una strategia di promozione online. Offriamo servizi come la creazione di una pagina web personalizzata, menù digitali, e consulenze di social media marketing</p>
-        <p>Questi strumenti permettono di migliorare la visibilità del locale, attrarre nuovi clienti e fidelizzare quelli già esistenti. Inoltre, i nostri servizi includono l’ottimizzazione SEO e l’email marketing, essenziali per far conoscere il proprio bar e aumentare le prenotazioni.</p>
+        <p>Per massimizzare il successo del proprio bar, è fondamentale anche una strategia di promozione online. Offriamo servizi come la creazione di una <strong> pagina web personalizzata </strong>, menù digitali, e consulenze di <strong> social media marketing </strong></p>
+        <p>Questi strumenti permettono di migliorare la visibilità del locale, attrarre nuovi clienti e fidelizzare quelli già esistenti. Inoltre, i nostri servizi includono l’ottimizzazione SEO e <strong>l’email marketing</strong>, essenziali per far conoscere il proprio bar e aumentare le prenotazioni.</p>
     </section>
 
     <section id="faq" class="margin-top-bottom-4">
@@ -2415,7 +2415,7 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
         <p>Spero che dopo aver letto questo articolo abbia risolto tutti i tuoi dubbi, e risposto alla domanda “ma per aprire un bar cosa serve? “.</p>
         <p>Ricorda che uno dei requisiti fondamentali per essere a norma è la licenza del bar, essere al corrente dei documenti per prendere in gestione un bar e aver chiaro i costi da affrontare quando si avvia un’attività.</p>
         <p>Sono sicuro che questa guida per “aprire un bar da 0” sia stata utile, rimani aggiornato sul nostro blog, potrai leggere diversi articoli sul mondo della ristorazione. </p>
-        <p>Vuoi conoscere tutto il necessario per aprire un ristorante? Leggi il nostro articolo QUI.</p>
+        <p>Vuoi conoscere tutto il necessario per aprire un ristorante? Leggi il nostro articolo <a class="link" href="https://ilcodicedelgusto.com/blog/come-aprire-un-ristorante">QUI.</a></p>
          <img class="img  margin-top-2" src=${settings.bar4.src} alt="drinks"/> 
     </section>
 </main>
