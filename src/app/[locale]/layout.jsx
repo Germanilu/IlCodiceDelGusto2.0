@@ -19,6 +19,11 @@ export const metadata = {
   keyword: "realizzazione siti web,siti web per ristoranti, siti ristoranti, sito web per ristorante, ristorante sito web",
   icons: {
     icon: favicon.src, 
+  },
+  verification:{
+    other:{
+      "facebook-domain-verification":['eeawqabumjbh3crbmweagfmhe2py4s']
+    }
   }
 };
 
