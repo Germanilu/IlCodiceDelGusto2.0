@@ -63,6 +63,13 @@ import bar2 from '../../../static/media/bar2.jpg';
 import bar3 from '../../../static/media/bar3.jpg';
 import bar4 from '../../../static/media/bar4.jpg';
 
+import tipoRistorante1 from '../../../static/media/tipoRistorante1.jpg';
+import tipoRistorante2 from '../../../static/media/tipoRistorante2.jpg';
+import tipoRistorante3 from '../../../static/media/tipoRistorante3.jpg';
+import tipoRistorante4 from '../../../static/media/tipoRistorante4.jpg';
+import tipoRistorante5 from '../../../static/media/tipoRistorante5.jpg';
+import tipoRistorante6 from '../../../static/media/tipoRistorante6.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -126,6 +133,12 @@ import bar4 from '../../../static/media/bar4.jpg';
     bar2,
     bar3,
     bar4,
+    tipoRistorante1,
+    tipoRistorante2,
+    tipoRistorante3,
+    tipoRistorante4,
+    tipoRistorante5,
+    tipoRistorante6
 };
 
 export default blogImages;

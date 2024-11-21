@@ -2421,6 +2421,133 @@ In conclusione, un menù digitale con QR code è un'idea nuova. Questa soluzione
 </main>
 
   `
+},
+{
+  id: 20,
+  slug: "tipoligie-di-ristoranti",
+  img: settings.tipoRistorante3.src,
+  metaDescription: "Scopri le principali tipologie di ristoranti: tradizionali, gourmet, etnici, vegani e altro. Guida completa per scegliere il modello perfetto per il tuo locale o la tua prossima esperienza culinaria!",
+  metaKeywords: "tipo di ristorante, tipologie di ristoranti",
+  title: "Tipologie di Ristoranti: Quale Scegliere per il Tuo Locale? | IlCodiceDelGusto.com",
+  shortDescription: "Scopri le principali tipologie di ristoranti: tradizionali, gourmet, etnici, vegani e altro.",
+  text: `
+<header>
+    <h1>Le diverse tipologie di ristoranti: Una guida completa per scegliere quella giusta per il tuo locale</h1>
+    <p>Il mondo della ristorazione è incredibilmente variegato, e ogni tipo di ristorante ha caratteristiche uniche che lo distinguono. Se stai pensando di aprire un locale o di migliorare la tua attività esistente, conoscere le principali tipologie di ristoranti può aiutarti a capire quale modello si adatta meglio ai tuoi obiettivi, al tuo target di clienti e alla tua offerta gastronomica. Scopriamoli insieme!</p>
+</header>
+
+<nav class="margin-top-bottom-2">
+    <h2 class="margin-bottom-1">Indice</h2>
+    <ul>
+        <li><a href="#ristoranti-a-tema">Ristoranti Tradizionali</a></li>
+        <li><a href="#ristoranti-strani">Trattorie e osterie</a></li>
+        <li><a href="#cena-particolare">Ristoranti gourmet</a></li>
+        <li><a href="#ristoranti-caratteristici">Ristoranti etnici</a></li>
+        <li><a href="#locali-particolari-vicino">Ristoranti fast casual</a></li>
+        <li><a href="#idee-ristoranti">Pizzerie</a></li>
+        <li><a href="#ristoranti-provincia">Chioschi e food truck</a></li>
+        <li><a href="#ristorante-vicino">Ristoranti vegetariani e vegani</a></li>
+        <li><a href="#faq">FAQ</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="ristoranti-a-tema" class="margin-top-bottom-4">
+    <img class="img-reduce  margin-top-2" src=${settings.tipoRistorante4.src} alt="ristorante"/> 
+        <h2>Ristoranti tradizionali</h2>
+        <p>Questi locali rappresentano la quintessenza della cucina locale e regionale. Offrono piatti tipici preparati seguendo ricette tramandate da generazioni. La loro forza sta nell'atmosfera accogliente e autentica che richiama il calore di casa.</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Famiglie, turisti e amanti delle tradizioni.</li>
+            <li><strong>Caratteristiche principali:</strong> Menù spesso stagionali, grande attenzione alla qualità degli ingredienti, arredamenti rustici.</li>
+        </ul>
+    </section>
+
+    <section id="ristoranti-strani" class="margin-top-bottom-4">
+    <h2>Trattorie e osterie</h2>
+    <img class="img-reduce  margin-top-2" src=${settings.tipoRistorante5.src} alt="osteria"/> 
+        <p>Le trattorie e le osterie sono perfette per chi cerca un ambiente informale con piatti gustosi a prezzi contenuti. Questi locali puntano su porzioni abbondanti e un menù limitato ma ben curato.</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Residenti e lavoratori in pausa pranzo.</li>
+            <li><strong>Caratteristiche principali:</strong> Atmosfera familiare, servizio veloce e menù che varia spesso in base alla disponibilità degli ingredienti.</li>
+        </ul>
+    </section>
+
+    <section id="cena-particolare" class="margin-top-bottom-4">
+        <h2>Ristoranti gourmet</h2>
+        <p>Questi locali si rivolgono a una clientela più esigente, interessata a esperienze culinarie di alto livello. Chef rinomati e menù raffinati fanno del ristorante gourmet una scelta ideale per occasioni speciali.</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Coppie, eventi aziendali, appassionati di cucina d’autore.</li>
+            <li><strong>Caratteristiche principali:</strong> Piatti elaborati, design moderno, carta dei vini selezionata.</li>
+        </ul>
+    </section>
+
+    <section id="ristoranti-caratteristici" class="margin-top-bottom-4">
+        <h2>Ristoranti etnici</h2>
+        <img class="img-reduce  margin-top-2" src=${settings.tipoRistorante1.src} alt="ristorante etnico"/> 
+        <p>I ristoranti etnici permettono di viaggiare con il palato, offrendo sapori unici provenienti da tutto il mondo. Tra i più diffusi ci sono quelli di cucina cinese, giapponese, indiana, messicana e mediorientale.</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Giovani, curiosi di nuove culture culinarie e amanti dei piatti esotici.</li>
+            <li><strong>Caratteristiche principali:</strong> Decorazioni che richiamano il paese d’origine, menù tradotti in più lingue.</li>
+        </ul>
+    </section>
+
+    <section id="locali-particolari-vicino" class="margin-top-bottom-4">
+        <h2>Ristoranti fast casual</h2>
+        <p>Questa tipologia combina la rapidità del fast food con la qualità superiore dei ristoranti tradizionali. Perfetti per chi cerca un pasto veloce ma gustoso, sono molto apprezzati soprattutto nelle aree urbane.</p>
+        <img class="img-reduce  margin-top-2" src=${settings.tipoRistorante2.src} alt="mcdonald"/> 
+        <ul>
+        <li><strong>Clientela principale:</strong> Pendolari, studenti e lavoratori in pausa pranzo.</li>
+        <li><strong>Caratteristiche principali:</strong> Menù semplici, servizio rapido e prezzi competitivi.</li>
+        </ul>
+        </section>
+        
+        <section id="idee-ristoranti" class="margin-top-bottom-4">
+        <h2>Pizzerie</h2>
+        <p>La pizzeria è un classico intramontabile. Può essere un locale tradizionale, con tavoli per cenare in compagnia, oppure un punto vendita da asporto. La pizza napoletana e la pizza gourmet sono le varianti più richieste oggi.</p>
+        <ul>
+        <li><strong>Clientela principale:</strong> Famiglie, gruppi di amici e amanti della pizza.</li>
+        <li><strong>Caratteristiche principali:</strong> Menù che si concentra sulla varietà di pizze e, spesso, su antipasti semplici come bruschette e fritti.</li>
+        </ul>
+        </section>
+        
+        <section id="ristoranti-provincia" class="margin-top-bottom-4">
+        <h2>Chioschi e food truck</h2>
+        <img class="img-reduce  margin-top-2" src=${settings.tipoRistorante3.src} alt="food-truck"/> 
+        <p>Perfetti per eventi, feste e luoghi con grande affluenza di pubblico, i food truck e i chioschi offrono piatti semplici ma irresistibili, spesso specializzandosi in un’unica pietanza (hamburger, gelati, fritti).</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Giovani, famiglie e turisti.</li>
+            <li><strong>Caratteristiche principali:</strong> Grande flessibilità, prezzi accessibili e menù molto ridotti.</li>
+        </ul>
+    </section>
+
+    <section id="ristorante-vicino" class="margin-top-bottom-4">
+        <h2>Ristoranti vegetariani e vegani</h2>
+        <p>Questi ristoranti si sono ritagliati una fetta importante del mercato grazie all’aumento dell’attenzione verso la salute e la sostenibilità. Offrono menù basati su ingredienti di origine vegetale, spesso biologici e a km 0.</p>
+        <ul>
+            <li><strong>Clientela principale:</strong> Salutari, vegani e vegetariani.</li>
+            <li><strong>Caratteristiche principali:</strong> Proposte innovative, design minimalista e focus sull’etica ambientale.</li>
+        </ul>
+    </section>
+
+    <section id="faq" class="margin-top-bottom-4">
+        <h2 class="margin-bottom-1">Domande frequenti sulle tipologie di ristoranti</h2>
+        <dl>
+            <dt><strong>Qual è la differenza tra trattoria e ristorante tradizionale?</strong></dt>
+            <dd class="margin-bottom-1">La trattoria è più informale, offre prezzi contenuti e un menù limitato, mentre il ristorante tradizionale punta su un’esperienza più completa e sofisticata.</dd>
+            <dt><strong>Come scegliere il tipo di ristorante da aprire?</strong></dt>
+            <dd class="margin-bottom-1">Bisogna considerare il budget, il target di clienti, la posizione geografica e le proprie competenze culinarie.</dd>
+            <dt><strong>I ristoranti a tema sono redditizi?</strong></dt>
+            <dd class="margin-bottom-1">Se ben studiati e posizionati, possono attrarre una clientela specifica, offrendo un’esperienza unica.</dd>
+            <dt><strong>Perché i ristoranti gourmet sono così costosi?</strong></dt>
+            <dd class="margin-bottom-1">I costi derivano dalla qualità delle materie prime, dalle tecniche culinarie avanzate e dalla cura dei dettagli nel servizio.</dd>
+            <dt><strong>I food truck possono competere con i ristoranti tradizionali?</strong></dt>
+            <dd class="margin-bottom-1">Sì, grazie alla loro flessibilità e ai costi operativi più bassi. Sono particolarmente adatti per cibi da strada e mercati.</dd>
+            <dt><strong>I ristoranti vegani sono una moda o una tendenza stabile?</strong></dt>
+            <dd class="margin-bottom-1">Sono una tendenza stabile, in crescita grazie all’aumento di consapevolezza verso la salute e l’ambiente.</dd>
+        </dl>
+    </section>
+</main>
+  `
 }
 
 ];
