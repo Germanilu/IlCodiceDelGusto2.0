@@ -70,6 +70,8 @@ import tipoRistorante4 from '../../../static/media/tipoRistorante4.jpg';
 import tipoRistorante5 from '../../../static/media/tipoRistorante5.jpg';
 import tipoRistorante6 from '../../../static/media/tipoRistorante6.jpg';
 
+import frasiAccattivanti from '../../../static/media/frasi-accattivanti.jpg';
+
 
  const blogImages = {
     qrCode,
@@ -138,7 +140,8 @@ import tipoRistorante6 from '../../../static/media/tipoRistorante6.jpg';
     tipoRistorante3,
     tipoRistorante4,
     tipoRistorante5,
-    tipoRistorante6
+    tipoRistorante6,
+    frasiAccattivanti
 };
 
 export default blogImages;
